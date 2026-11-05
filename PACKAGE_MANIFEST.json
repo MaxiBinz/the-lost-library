@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-11-05T18:01:07.474097+00:00",
+  "created_at_utc": "2026-11-05T21:14:22.513442+00:00",
   "audience": "Research review snapshot; source rights are tracked per item",
   "files": [
     {
@@ -94,8 +94,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5563,
-      "sha256": "245a6be0669aac32caea3a929874e7319c3369070a0813606d76b33cf031cb73"
+      "bytes": 5218,
+      "sha256": "d26686ea442f97f1da9eeee7ccb4af83472b877776134b91d9c8c3603b11dbe7"
     },
     {
       "path": "RESEARCH_CONTINUATION_101.md",
