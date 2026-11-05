@@ -1,0 +1,141 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I77-8066-die",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8066",
+      "body": {
+        "type": "TextualBody",
+        "value": "Laudes rubric and Domum tuam; the visible text ends die at the edge of the writing.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=280,395,1055,290"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/full/max/0/default.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "image_dimensions": [
+        1709,
+        1138
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "lau/des. Domum tuam domine decet sanctitudo in longitudine die[-]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; reference-exposed reading, 2026-11-02; exact model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The continuation in capture 3 is inferred from complementary text, not a verified common physical seam."
+      ]
+    },
+    {
+      "id": "I77-8066-domus-hec",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8066",
+      "body": {
+        "type": "TextualBody",
+        "value": "The top text ends rum, followed by a Domus mea antiphon and Hec est domus; the relation to capture 2 is provisional.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=425,150,1035,460"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00003/full/max/0/default.jpg",
+      "sha256": "821743390426bf8f04773219f492268cf1cdf5cbbb96a0e66b3555ddcd42c07c",
+      "image_dimensions": [
+        1724,
+        1174
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "rum. Euouae. a. Domus mea domus orationis vocabitur. Euouae. a. Hec est domus [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; reference-exposed reading, 2026-11-02; exact model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Do not treat the inferred split as a physical seam or independently verified service identity."
+      ]
+    },
+    {
+      "id": "I77-10437-order",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10437",
+      "body": {
+        "type": "TextualBody",
+        "value": "The selected field appears to place Hec est domus after the Domum tuam antiphon and a short psalm cue; small text and rubrics overlap the reading area.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10437-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=250,385,1290,665"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010437_00001/full/max/0/default.jpg",
+      "sha256": "75d3c9b2ae0facd754504b1dec68ce8a33a64d3cdaa7a78140c9ab539942224a",
+      "image_dimensions": [
+        1890,
+        1126
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "Domum tuam [...] in longitudinem dierum. D[ominu]s reg[n...?] Euouae. a. Hec est domus [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; reference-exposed reading, 2026-11-02; exact model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Service rubric and exact reading order require independent checking; this cannot establish absence of Domus mea elsewhere."
+      ]
+    },
+    {
+      "id": "I77-10437-later-cue",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10437",
+      "body": {
+        "type": "TextualBody",
+        "value": "Another selected photograph contains a small Domus me... cue and a following abbreviated response.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10437-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=390,270,350,175"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010437_00002/full/max/0/default.jpg",
+      "sha256": "b7371ebe529d9feb2560c88c6b24937ab52e89f14db17e890a55aec30dbe1c78",
+      "image_dimensions": [
+        1880,
+        997
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "[V?] Domus me[...]. [marker?] Domus or[...].",
+      "normalized_candidate": null,
+      "observer": "Codex AI; reference-exposed reading, 2026-11-02; exact model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The cue is not transcribed as a complete antiphon; its function, relation to the other capture and medieval side remain unverified."
+      ]
+    }
+  ]
+}

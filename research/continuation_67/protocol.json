@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-02",
+  "question": "Can the 1855 printed Sziget reading be traced to a specific historic manuscript record suitable for later verification?",
+  "prior_exposure": "Both the matching 1399 dates and the Sziget provenance were observed before this protocol was written. This is exploratory source reconciliation, not a blinded or preregistered test.",
+  "evidence": "Toldy 1855 introduction IX and XIII; Gábriel 1942, Magyar Könyvszemle 66, approximately pp. 362–363, and his pagination caution near p. 347.",
+  "rule": "A shared date, genre and Sziget association suggest a candidate crosswalk, not a proven manuscript identity or current shelfmark. Require a modern institutional cross-reference or a direct comparison of distinctive colophon and text with a trustworthy earlier description.",
+  "alternatives": ["different manuscripts with the same date and locality", "an OCR, transcription, dating or catalogue error", "collection changes, an ambiguous historic number, or private foliation", "a mistaken interpretation of the earlier citation"],
+  "excluded_inferences": ["identity with Fr 8201", "direct textual descent", "medieval origin in Sziget", "present-day location", "independence of the historical reports", "novel scholarly discovery"],
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

@@ -1,0 +1,22 @@
+{
+  "date":"2026-11-02",
+  "question":"Do the retained Fr 8073 source views contain a text boundary that orders the photographs, and is the stanza order distinctive?",
+  "local_boundary":"The bottom text of capture 2 provisionally ends Ex hac car-; the top text of capture 3 begins nis planta surgit virgo sancta. The combined phrase fits the same stanza of Lucis huius festa. These are images attributed by the existing manifest to the same catalogue object.",
+  "interpretation":"The split word and surrounding text support the textual order capture 2 before capture 3, with immediate continuation conditional on the same occurrence and no missing material. The result is an intra-object text sequence, not a new cross-fragment join.",
+  "local_order":["Lucis huius festa","Mater matris Christi","Annam sic expresse","Ex hac carnis planta","Celo ... sublata","Trino laus et uni"],
+  "published_controls":"AH 52 no.101 and a Cantus indexed Zutphen 6 f.246r inventory list the same six stanza openings in this order; Kelemen's published Tolnai breviary transcription presents a different order. These do not establish book identity or independent confirmation of the Swedish reading.",
+  "variant":"Capture 3 provisionally reads Celo tam sublata mulier sancta ... soluat a reatu, while the AH 52 no.101 OCR base has Caelo iam sublata mulier beata ... purget a reatu. Earlier attestation, exact letters and distribution require further checking; no unique variant is asserted.",
+  "limits":"Text selection and reading were reference-exposed and unreviewed. The catalogue claims one leaf, but the actual original side or quire mapping, photographic folding and composite/duplicate possibilities have not been independently resolved. The 1909 edition supplies prior art; no source-exemplar image was inspected.",
+  "next_test":"Check the physical fold and document whether capture 2 and capture 3 are opposite original sides or other sections, compare the stanza and exact boundary against a corresponding passage on an existing Ant 49 candidate, and independently review the Latin reading.",
+  "source_regions":["I74-8073-end-car","I74-8073-start-nis"],
+  "capture_2_precedes_capture_3_textually":"suggested",
+  "recto_verso_verified":false,
+  "immediate_physical_adjacency_verified":false,
+  "external_source_image_inspected":false,
+  "unique_variant_verified":false,
+  "new_codex_relationship":false,
+  "new_discovery":false,
+  "independent_confirmation":false,
+  "new_source_images":0,
+  "new_download_bytes":0
+}

@@ -1,0 +1,295 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "memberships": [
+    {
+      "object_id": "fragmentarium-F-1b56",
+      "record_id": "fragmentarium-F-1b56",
+      "source_record": "https://fragmentarium.ms/overview/F-1b56",
+      "working_image": "data/images/fragmentarium-F-1b56.jpg",
+      "working_image_sha256": "9c0158852280e41fd41e6ac4e6df8fa6cf4ecb4535436f238300bef642fc35fb",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-1b56/Quaritch_1270_79r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-1b56/Quaritch_1270_79r.jpg.json",
+          "canvas_label": "Quaritch_1270_79r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-1b56/Quaritch_1270_79r.jpg",
+          "locator": "sequences/0/canvases/24/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-458m",
+      "record_id": "fragmentarium-F-458m",
+      "source_record": "https://fragmentarium.ms/overview/F-458m",
+      "working_image": "data/images/fragmentarium-F-458m.jpg",
+      "working_image_sha256": "31c05ab4d0d82434f4b23c6ba8ba16f94f8c7511035fe18019e579f2e364aa6d",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-458m/Case_r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-458m/Case_r.jpg.json",
+          "canvas_label": "Case_r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-458m/Case_r.jpg",
+          "locator": "sequences/0/canvases/4/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-5der",
+      "record_id": "fragmentarium-F-5der",
+      "source_record": "https://fragmentarium.ms/overview/F-5der",
+      "working_image": "data/images/fragmentarium-F-5der.jpg",
+      "working_image_sha256": "ea2f1cdf6c73235cbc65664f3d0b74c9c3a7b9de484cc67d4d21c7c92a98aec2",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-5der/BRBL_Box_67_Folder_6_r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-5der/BRBL_Box_67_Folder_6_r.jpg.json",
+          "canvas_label": "BRBL_Box_67_Folder_6_r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-5der/BRBL_Box_67_Folder_6_r.jpg",
+          "locator": "sequences/0/canvases/20/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-5uba",
+      "record_id": "fragmentarium-F-5uba",
+      "source_record": "https://fragmentarium.ms/overview/F-5uba",
+      "working_image": "data/images/fragmentarium-F-5uba.jpg",
+      "working_image_sha256": "e3b43d298d2add60fd22d9adc0a78f79e1902e0ba69af282ad6592df3745a95e",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-5uba/Chifley_005_cropped.jp2/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-5uba/Chifley_005_cropped.jp2.json",
+          "canvas_label": "Chifley_005_cropped",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-5uba/Chifley_005_cropped.jp2",
+          "locator": "sequences/0/canvases/12/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-6zvk",
+      "record_id": "fragmentarium-F-6zvk",
+      "source_record": "https://fragmentarium.ms/overview/F-6zvk",
+      "working_image": "data/images/fragmentarium-F-6zvk.jpg",
+      "working_image_sha256": "1b197bb574fab09b623c21ffb6e4ac51be69337f32685bcdc5d6f2a4537b8c71",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-6zvk/CMA_r.JPG/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-6zvk/CMA_r.JPG.json",
+          "canvas_label": "CMA_r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-6zvk/CMA_r.JPG",
+          "locator": "sequences/0/canvases/68/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-ag0v",
+      "record_id": "fragmentarium-F-ag0v",
+      "source_record": "https://fragmentarium.ms/overview/F-ag0v",
+      "working_image": "data/images/fragmentarium-F-ag0v.jpg",
+      "working_image_sha256": "5d37072827f92d508331f5f6f4a96a51e94e36bd5a2fd527cfac9de1839d18b5",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-ag0v/Houghton_Typ_956_1r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-ag0v/Houghton_Typ_956_1r.jpg.json",
+          "canvas_label": "Houghton_Typ_956_1r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-ag0v/Houghton_Typ_956_1r.jpg",
+          "locator": "sequences/0/canvases/2/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-d5zj",
+      "record_id": "fragmentarium-F-d5zj",
+      "source_record": "https://fragmentarium.ms/overview/F-d5zj",
+      "working_image": "data/images/fragmentarium-F-d5zj.jpg",
+      "working_image_sha256": "c13cb8fb5c6c13d217cc0061553c2cc0c9d0027778364d4b4b71cb3507bca71c",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-d5zj/Florida_2r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-d5zj/Florida_2r.jpg.json",
+          "canvas_label": "Florida_2r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-d5zj/Florida_2r.jpg",
+          "locator": "sequences/0/canvases/25/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-fa1y",
+      "record_id": "fragmentarium-F-fa1y",
+      "source_record": "https://fragmentarium.ms/overview/F-fa1y",
+      "working_image": "data/images/fragmentarium-F-fa1y.jpg",
+      "working_image_sha256": "f21ac8c0a9b348f8e757db6c83bd359d772218b248afd02db22089266a6da566",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-fa1y/Bethesda_hi_r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-fa1y/Bethesda_hi_r.jpg.json",
+          "canvas_label": "Bethesda_hi_r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-fa1y/Bethesda_hi_r.jpg",
+          "locator": "sequences/0/canvases/18/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-n4t6",
+      "record_id": "fragmentarium-F-n4t6",
+      "source_record": "https://fragmentarium.ms/overview/F-n4t6",
+      "working_image": "data/images/fragmentarium-F-n4t6.jpg",
+      "working_image_sha256": "4beb00728e31aff85caace44101ae2d0fa953d66f8e4595f4599680f748b4702",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-n4t6/Atchison_r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-n4t6/Atchison_r.jpg.json",
+          "canvas_label": "Atchison_r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-n4t6/Atchison_r.jpg",
+          "locator": "sequences/0/canvases/8/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-qbrf",
+      "record_id": "fragmentarium-F-qbrf",
+      "source_record": "https://fragmentarium.ms/overview/F-qbrf",
+      "working_image": "data/images/fragmentarium-F-qbrf.jpg",
+      "working_image_sha256": "f51f2cc658cfe23762cb66feb95bd274ac0d1cb458b5834708099fd137aae58e",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-qbrf/Lima_r.JPG/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-qbrf/Lima_r.JPG.json",
+          "canvas_label": "Lima_r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-qbrf/Lima_r.JPG",
+          "locator": "sequences/0/canvases/50/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-tqd2",
+      "record_id": "fragmentarium-F-tqd2",
+      "source_record": "https://fragmentarium.ms/overview/F-tqd2",
+      "working_image": "data/images/fragmentarium-F-tqd2.jpg",
+      "working_image_sha256": "5ea9db3592fe1edddd9f55e4ef580bf93c2f3256950541bd17c560df8f0b4656",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-tqd2/saskatchewan_r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-tqd2/saskatchewan_r.jpg.json",
+          "canvas_label": "saskatchewan_r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-tqd2/saskatchewan_r.jpg",
+          "locator": "sequences/0/canvases/16/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "fragmentarium-F-wmom",
+      "record_id": "fragmentarium-F-wmom",
+      "source_record": "https://fragmentarium.ms/overview/F-wmom",
+      "working_image": "data/images/fragmentarium-F-wmom.jpg",
+      "working_image_sha256": "460e0f443a6a49910737fbd219bda1c474108eaf9ae7090a9aecb19156befc1d",
+      "working_image_url": "https://fragmentarium.ms:443/loris/F-wmom/Notre_Dame_r.jpg/full/800,/0/default.jpg",
+      "manifest": "research/evidence/F-4ihz_manifest.json",
+      "manifest_sha256": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+      "reconstruction_url": "https://fragmentarium.ms/overview/F-4ihz",
+      "reconstruction_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "reconstruction_title": "Beauvais Missal",
+      "matches": [
+        {
+          "canvas_id": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/F-wmom/Notre_Dame_r.jpg.json",
+          "canvas_label": "Notre_Dame_r",
+          "resource_service": "https://fragmentarium.ms:443/loris/F-wmom/Notre_Dame_r.jpg",
+          "locator": "sequences/0/canvases/22/images/0/resource/service/@id"
+        }
+      ],
+      "basis": "source_assertion",
+      "scope": "Membership of the source-defined virtual reconstruction; not a new independent physical attribution.",
+      "independent_confirmation": false
+    }
+  ],
+  "unmatched": []
+}

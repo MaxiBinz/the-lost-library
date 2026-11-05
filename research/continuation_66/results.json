@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "source_regions": [
+    "I66-8201-nobilis"
+  ],
+  "reused_regions": [
+    "I65-8201-ending",
+    "I65-8201-next-chant"
+  ],
+  "local_reading": "On the retained Fr8201 native image, after the Specie ending and Traditur candidate, the next decorated opening is provisionally Nobilis et pulchra virgo katherina beata, with later spernit vaga gaudia mundi. The reading is unblinded and not independently verified.",
+  "museum_comparison": "Veselovská’s transcription of MUS I 12 lists the same three candidate chant IDs in order across f1r/1v, but reports prudens ... puella and vana in the third chant. The ellipses at the side change leave intervening text uncertain; no MUS I 12 manuscript image was inspected.",
+  "prior_art": "Toldy's 1855 edition reports the virgo ... beata and vaga wording in another breviary source, so that wording is not new. Indexed Karlsruhe Aug.LX reports virgo ... puella and vaga; its original was not inspected. Prior notice of this exact wording specifically in Fr8201 remains uncleared.",
+  "interpretation": "The same three chant identifiers can appear in the same order alongside a difference in responsory wording. This selected comparison does not identify a codex, hand, place of origin, direct copying, musical variant or distribution frequency.",
+  "boundary_limit": "MUS I 12's reported leaf-side change is after the whole Specie antiphon; the published Fr20106/8201 proposal instead splits that chant after sed fide. The comparison is not a counterexample matching that precise page boundary.",
+  "next_test": "Check the actual Fr 20106 opening and physical sides when an authoritative image is found; independently verify the Fr8201 reading and compare the complete responsory wording against source-identified witnesses before considering textual-lineage claims.",
+  "fr20106_image_inspected": false,
+  "museum_manuscript_image_inspected": false,
+  "hungarian_manuscript_inspected": false,
+  "musical_match_verified": false,
+  "historical_same_codex_proved": false,
+  "new_historical_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

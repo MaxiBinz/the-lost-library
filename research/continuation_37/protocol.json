@@ -1,0 +1,27 @@
+{
+  "version":"1.0.0",
+  "date":"2026-10-27",
+  "previous_goal_turn":"Progress: E35/E36 added actual fixed overlap results, seven source regions, two exact previously catalogued continuation controls, corrected capture selection and a verified review package.",
+  "question":"Does Fr 20274 preserve a diagnostic C23/C435 transmission feature beyond standard office text, and what primary images or prior scholarship can actually test this?",
+  "prior_exposure":"E20 already compared ten selected sites against actual C23 pages; C435 was represented only by the edition. E37 has re-read Hallqvist PDF15 and PDF52, including the statement that C435 was not digitized in 2020 and photographs were held by the author. No new C435 image has been inspected. This is exploratory, not blind.",
+  "hypotheses":[
+    "The fragment shares a diagnostic earlier C23 feature, independently visible in its retained text or melody.",
+    "It agrees only with widespread/corrected wording, which cannot establish a unique branch or codex.",
+    "The decisive features are outside the surviving/captured passage or require unavailable originals."
+  ],
+  "tests":[
+    "Use one ordinary institutional catalogue search for C435; record actual results without equating non-discovery with universal absence.",
+    "Read the relevant primary scholarly account identified by Hallqvist: Urberg 2016, especially printed pp.247–267 and surrounding explanation. Check whether it already discusses the fragment or diagnostic features.",
+    "Map each literature-defined diagnostic to the actually retained target coverage before proposing additional image/melody work. Missing passages are unknown, not exclusions.",
+    "If a diagnostic retained passage is identified, preserve source regions and a falsifiable comparison before inspecting new decisive source images."
+  ],
+  "access_and_resources":{
+    "current_working_source_files":177,
+    "image_limit":300,
+    "current_conservative_download_plan_bytes":1215649599,
+    "download_limit_bytes":3000000000,
+    "new_scholarship":"Open University of Chicago repository file, published size 425.2 MB and MD5 1f0193e4c997d3a94e060d804a38aeda; maximum transfer 500 MB keeps the conservative plan below 3 GB.",
+    "privacy_rights":"Private reading PDF and copyrighted page previews excluded from review/public package; cite and paraphrase only. No outreach, upload, payment, access-control bypass or new manuscript target."
+  },
+  "novelty_rule":"A text search not finding a shelfmark does not clear novelty. Catalogue/edition assertions, source-image readings and new interpretations stay distinct."
+}

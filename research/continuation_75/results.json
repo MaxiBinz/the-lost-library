@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-02",
+  "question": "Do folded Fr 8073 capture boundaries supply actual shared ink or interpretable text context?",
+  "local_boundary": "Capture 1 provisionally contains Funde vinum desolatis, the Liberalis liberali verse and an Ut de cue. Capture 2 appears to begin with Gloria patri and another Ut de cue before Lucis huius festa. Their arrangement is compatible with successive parts of a responsory, not proven photo overlap.",
+  "published_controls": "Cantus Index identifies Funde vinum 600932 and its Liberalis verse 600932a; a search-indexed Spis antiphonal inventory lists the responsory, verse and a Gloria verse in order. The inventory's special doxology is not attributed to Fr 8073. AH 5 no.34 also prints responsory and verse together.",
+  "limits": "Reference-exposed AI reading; capture 1 is an 800-pixel thumbnail and the folds hide text. Two Ut de cues occur in different visible contexts, so they cannot safely be treated as common ink. Repeated text, intervening material, side and fold alternatives are unresolved.",
+  "next_test": "Compare a securely corresponding Anne passage on an existing Ant 49 candidate and use other books containing the same responsory as controls, or identify unequivocal shared ink across a fold without retrying failed image requests.",
+  "source_regions": ["I75-8073-responsory", "I75-8073-doxology"],
+  "capture_1_precedes_capture_2_textually": "suggested",
+  "same_ink_verified": false,
+  "recto_verso_verified": false,
+  "immediate_physical_adjacency_verified": false,
+  "external_source_image_inspected": false,
+  "new_codex_relationship": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

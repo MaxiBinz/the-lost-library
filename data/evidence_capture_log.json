@@ -1,0 +1,537 @@
+[
+  {
+    "id": "mpo-10406",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-10406-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00002/full/1000,/0/default.jpg",
+      "sha256": "817ae2d3e4d65c91bae80c6d56ff009bd669252a039c63e7e9488afc9b3440eb",
+      "width": 1000,
+      "height": 630,
+      "bytes": 92160,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1010406_00002/canvas",
+      "physical_object_id": "mpo-10406",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-10406",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-10406-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00003/full/1000,/0/default.jpg",
+      "sha256": "ad15525ab9eaeb67b603ade9120886e2c5c8caecb5ebfbebef9bd478a09bfbb9",
+      "width": 1000,
+      "height": 659,
+      "bytes": 118608,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1010406_00003/canvas",
+      "physical_object_id": "mpo-10406",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-10406",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-10406-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00004/full/1000,/0/default.jpg",
+      "sha256": "eb77ec83d785842e929432be99d99b579fce102d062d0ecdebe280dbdf9f6677",
+      "width": 1000,
+      "height": 647,
+      "bytes": 102847,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1010406_00004/canvas",
+      "physical_object_id": "mpo-10406",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-1385",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-1385-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00002/full/1000,/0/default.jpg",
+      "sha256": "0a3f4c6bd4b94d8616b081feebbb8e41d2460b26d3a62ecedb76218912f35f1f",
+      "width": 1000,
+      "height": 676,
+      "bytes": 112749,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1001385_00002/canvas",
+      "physical_object_id": "mpo-1385",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-1385",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-1385-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00003/full/1000,/0/default.jpg",
+      "sha256": "0b3270a7e5722b81fbbeb503842255c835673b76bfa83986295b4d5bf34f227d",
+      "width": 1000,
+      "height": 688,
+      "bytes": 102630,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1001385_00003/canvas",
+      "physical_object_id": "mpo-1385",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-1385",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-1385-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00004/full/1000,/0/default.jpg",
+      "sha256": "b3091a8b6846d05e4e4606ff6fb71d809d8539f3681246d40247ec6914a89670",
+      "width": 1000,
+      "height": 673,
+      "bytes": 112983,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1001385_00004/canvas",
+      "physical_object_id": "mpo-1385",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-20274",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-20274-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00002/full/1000,/0/default.jpg",
+      "sha256": "3c34578256735768d0a0682b61758255397dc2073f226c9bc8ffd8048f62606d",
+      "width": 1000,
+      "height": 929,
+      "bytes": 140549,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1020274_00002/canvas",
+      "physical_object_id": "mpo-20274",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-20274",
+    "capture_index": 2,
+    "status": "failed; do not automatically retry",
+    "error": "Manifest capture index out of range"
+  },
+  {
+    "id": "mpo-20274",
+    "capture_index": 3,
+    "status": "failed; do not automatically retry",
+    "error": "Manifest capture index out of range"
+  },
+  {
+    "id": "mpo-25592",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-25592-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1025592_00002/full/1000,/0/default.jpg",
+      "sha256": "d28cab82bf5c8408fb28b1a7ef73926aec6bb5da0d79a73f750c3439788268f8",
+      "width": 1000,
+      "height": 667,
+      "bytes": 62164,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1025592_00002/canvas",
+      "physical_object_id": "mpo-25592",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-25592",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-25592-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1025592_00003/full/1000,/0/default.jpg",
+      "sha256": "3acb65a357ff95ad6a7a2e2ccb6b814e33b4fdd464e59374293f26432fc2a306",
+      "width": 1000,
+      "height": 667,
+      "bytes": 65036,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1025592_00003/canvas",
+      "physical_object_id": "mpo-25592",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-25592",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-25592-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1025592_00004/full/1000,/0/default.jpg",
+      "sha256": "7e6d3df3b781b36b58afc7857974b33df396b6c26b7039fe113fa3325335e31b",
+      "width": 1000,
+      "height": 667,
+      "bytes": 62137,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1025592_00004/canvas",
+      "physical_object_id": "mpo-25592",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-4223",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-4223-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1004223_00002/full/1000,/0/default.jpg",
+      "sha256": "c66210cc509bc5e2f95bcff2a6d0f077da0f0cf2a9b63240209839cfb5513f4e",
+      "width": 1000,
+      "height": 678,
+      "bytes": 78874,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1004223_00002/canvas",
+      "physical_object_id": "mpo-4223",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-4223",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-4223-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1004223_00003/full/1000,/0/default.jpg",
+      "sha256": "6a23f7f6a8b8a02bc935ae87d7b120be1ca4605a5bc07664ab2718af8ac8f942",
+      "width": 1000,
+      "height": 752,
+      "bytes": 87276,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1004223_00003/canvas",
+      "physical_object_id": "mpo-4223",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-4223",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-4223-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1004223_00004/full/1000,/0/default.jpg",
+      "sha256": "a51eeb981e46a72634e72d1cd758de4818ea7a1198177555172680da5cd55b28",
+      "width": 1000,
+      "height": 662,
+      "bytes": 78729,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1004223_00004/canvas",
+      "physical_object_id": "mpo-4223",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8201",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8201-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00002/full/1000,/0/default.jpg",
+      "sha256": "b598826b6164ae737a68aba17abcdc3a51573075955aa055f52fb30921196b1a",
+      "width": 1000,
+      "height": 680,
+      "bytes": 96641,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008201_00002/canvas",
+      "physical_object_id": "mpo-8201",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8201",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8201-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00003/full/1000,/0/default.jpg",
+      "sha256": "eb0562501eedbe869c4d62807f631590d9fd38bd9aa872cb3a3a4a432d41b7ae",
+      "width": 1000,
+      "height": 694,
+      "bytes": 105596,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008201_00003/canvas",
+      "physical_object_id": "mpo-8201",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8201",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8201-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00004/full/1000,/0/default.jpg",
+      "sha256": "0c895bd274403a196d0abbc8d233c3a554462adfa81000e9b7453187c1a5ae8f",
+      "width": 1000,
+      "height": 661,
+      "bytes": 91704,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008201_00004/canvas",
+      "physical_object_id": "mpo-8201",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8304",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8304-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00002/full/1000,/0/default.jpg",
+      "sha256": "89c3167cfb0bfd83043703d3dd9b6d9ec62c9cbeb4777d557cd9b37c7e17bdfb",
+      "width": 1000,
+      "height": 643,
+      "bytes": 91147,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008304_00002/canvas",
+      "physical_object_id": "mpo-8304",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8304",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8304-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00003/full/1000,/0/default.jpg",
+      "sha256": "8e09cb844765045a79e91d4f7cc1244745f3f2f437cd16353e2784b63e0d285f",
+      "width": 1000,
+      "height": 690,
+      "bytes": 123071,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008304_00003/canvas",
+      "physical_object_id": "mpo-8304",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8304",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8304-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00004/full/1000,/0/default.jpg",
+      "sha256": "819f3dd18443e352d4162249aae929ff4b34fcc6cc1913e79dff267d11550529",
+      "width": 1000,
+      "height": 697,
+      "bytes": 108936,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008304_00004/canvas",
+      "physical_object_id": "mpo-8304",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8311",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8311-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00002/full/1000,/0/default.jpg",
+      "sha256": "e3b1eba2064492294fa6f75ec6087bbacedd6a636572cf6cfe2ce43e561b46c5",
+      "width": 1000,
+      "height": 639,
+      "bytes": 88832,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008311_00002/canvas",
+      "physical_object_id": "mpo-8311",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8311",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8311-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00003/full/1000,/0/default.jpg",
+      "sha256": "e65493d56b027bfab469905a67eaffeaac32e9231b32f169c51c481e2ffea232",
+      "width": 1000,
+      "height": 663,
+      "bytes": 113969,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008311_00003/canvas",
+      "physical_object_id": "mpo-8311",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8311",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8311-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00004/full/1000,/0/default.jpg",
+      "sha256": "f95e8acdcd9e812103976bcb84020aca788388d92913c58cce2fa0aed684d818",
+      "width": 1000,
+      "height": 656,
+      "bytes": 98970,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008311_00004/canvas",
+      "physical_object_id": "mpo-8311",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8455",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8455-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008455_00002/full/1000,/0/default.jpg",
+      "sha256": "a27ebc5801e5da38ced969d8cdd66d0a3f04228cd06e5dc10630785a766c39ea",
+      "width": 1000,
+      "height": 681,
+      "bytes": 102259,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008455_00002/canvas",
+      "physical_object_id": "mpo-8455",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8455",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8455-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008455_00003/full/1000,/0/default.jpg",
+      "sha256": "d8b22f504fd2688d8b547fc01e7798d3d5294babf2b5c63c73f1afe6bcb1d4c3",
+      "width": 1000,
+      "height": 674,
+      "bytes": 108179,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008455_00003/canvas",
+      "physical_object_id": "mpo-8455",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8455",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8455-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008455_00004/full/1000,/0/default.jpg",
+      "sha256": "642a0f868217ab37c3113448c052665dbf92d4ddf2e68315b94440bfc3ea6fd4",
+      "width": 1000,
+      "height": 676,
+      "bytes": 104420,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008455_00004/canvas",
+      "physical_object_id": "mpo-8455",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8994",
+    "capture_index": 1,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8994-capture-2.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00002/full/1000,/0/default.jpg",
+      "sha256": "b7831545ef8753a7d996f6b21bd140b580b24a0e8e01121142550783850a1741",
+      "width": 1000,
+      "height": 643,
+      "bytes": 95893,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008994_00002/canvas",
+      "physical_object_id": "mpo-8994",
+      "capture_index": 1,
+      "label": "Manifest image2 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8994",
+    "capture_index": 2,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8994-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00003/full/1000,/0/default.jpg",
+      "sha256": "beefc7ef07ce92a2dc384e598f40eacf2647017ccdb33de359fa6fa6f86d499a",
+      "width": 1000,
+      "height": 690,
+      "bytes": 104617,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008994_00003/canvas",
+      "physical_object_id": "mpo-8994",
+      "capture_index": 2,
+      "label": "Manifest image3 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-8994",
+    "capture_index": 3,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-8994-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1000,/0/default.jpg",
+      "sha256": "86a6055893c71de3411c0e2406138fbddcadd60e9de6eed92df51cb61162e728",
+      "width": 1000,
+      "height": 634,
+      "bytes": 90428,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008994_00004/canvas",
+      "physical_object_id": "mpo-8994",
+      "capture_index": 3,
+      "label": "Manifest image4 (capture order; not an inferred medieval sequence)",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  {
+    "id": "mpo-7292",
+    "capture_index": 0,
+    "status": "ok",
+    "capture": {
+      "path": "data/images/mpo-7292-capture-1-1600px.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/1600,/0/default.jpg",
+      "sha256": "a864bec13a29a315a7df8e910b23118ef76fc631be8e10f97b60ec3b732285f2",
+      "width": 1600,
+      "height": 1026,
+      "bytes": 195053,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007292_00001/canvas",
+      "physical_object_id": "mpo-7292",
+      "capture_index": 0,
+      "resolution_variant": true,
+      "label": "MPO manifest image 1, 1600px derivative used for region coordinates; not a separate side",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  }
+]

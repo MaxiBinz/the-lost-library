@@ -1,0 +1,169 @@
+{
+  "created": "2025-10-09T09:44:27.922115+00:00",
+  "modified": "2025-10-22T12:16:26.566409+00:00",
+  "id": 17287665,
+  "conceptrecid": "17287664",
+  "doi": "10.5281/zenodo.17287665",
+  "conceptdoi": "10.5281/zenodo.17287664",
+  "doi_url": "https://doi.org/10.5281/zenodo.17287665",
+  "metadata": {
+    "title": "Medeltida pergamentomslag",
+    "doi": "10.5281/zenodo.17287665",
+    "publication_date": "2025-10-09",
+    "description": "<p>This dataset (Medeltida pergamentomslag, often shortened MPO) documents a collection of approximately 23,000 medieval manuscript fragments preserved at the National Archives of Sweden and in other institutions in northern Europe. The fragments, dating from the 11th to 16th centuries, were often repurposed as protective covers for Swedish administrative account books between the 1530s and circa 1630.</p>\n<p>Following the Swedish Reformation, books from medieval churches and monasteries became obsolete. Concurrently, the bailiffs of King Gustav Vasa and the kings that followed him required durable covers for tax records and account books, leading to the systematic reuse of parchment leaves from medieval manuscripts. Most fragments held at the National Archives of Sweden remain attached to their original 16th-century account books.</p>\n<p><strong>Cataloguing History</strong></p>\n<p>Cataloguing occurred in two phases:</p>\n<ul>\n<li>Pre-1995: Half of the fragments were documented in the card catalogue <em>Catalogus Codicum Mutilorum</em> (CCM)</li>\n<li>1995-2004: The <em>Medeltida PergamentOmslag</em> (MPO) project systematically catalogued the second half of the fragments and entered all descriptions to date in the database</li>\n</ul>\n<p>The MPO database is written in German and provided as is. Only the IIIF-manifests and links to the image viewer were added in 2025 in preparation for this publication. A dedicated <a href=\"https://sok.riksarkivet.se/en/mpo\" target=\"_blank\" rel=\"noopener\">search service for the MPO-database</a> is available online.&nbsp;</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "National Archives of Sweden",
+        "affiliation": null
+      },
+      {
+        "name": "Brunius, Jan",
+        "affiliation": null
+      }
+    ],
+    "contributors": [
+      {
+        "name": "David, Haskiya",
+        "affiliation": "National Archives of Sweden",
+        "type": "WorkPackageLeader"
+      },
+      {
+        "name": "Larsson, Albin",
+        "affiliation": "Swedish National Archives",
+        "type": "DataManager",
+        "orcid": "0000-0002-7149-5210"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "1402-4705",
+        "relation": "describes",
+        "resource_type": "publication-book",
+        "scheme": "issn"
+      }
+    ],
+    "dates": [
+      {
+        "type": "available"
+      },
+      {
+        "type": "created"
+      }
+    ],
+    "version": "1.0.0",
+    "language": "deu",
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-zero"
+    },
+    "grants": [
+      {
+        "code": "101166995",
+        "internal_id": "10.13039/501100000780::101166995",
+        "funder": {
+          "name": "European Commission",
+          "doi": "10.13039/501100000780",
+          "acronym": "EC"
+        },
+        "title": "The Medieval Book and Networks of Northern Europe c. 1000-1500: Texts, Crafts, Fragments",
+        "acronym": "CODICUM",
+        "program": "HORIZON.1.1",
+        "url": "https://cordis.europa.eu/projects/101166995",
+        "doi": "10.3030/101166995"
+      }
+    ],
+    "communities": [
+      {
+        "id": "eu"
+      },
+      {
+        "id": "codicum"
+      },
+      {
+        "id": "swna-riksarkivet"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "17287664"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Medeltida pergamentomslag",
+  "links": {
+    "self": "https://zenodo.org/api/records/17287665",
+    "self_html": "https://zenodo.org/records/17287665",
+    "preview_html": "https://zenodo.org/records/17287665?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.17287665",
+    "self_doi": "https://doi.org/10.5281/zenodo.17287665",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17287665",
+    "reserve_doi": "https://zenodo.org/api/records/17287665/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/17287664",
+    "parent_html": "https://zenodo.org/records/17287664",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17287664",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17287664",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17287665/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17287665/sequence/default",
+    "files": "https://zenodo.org/api/records/17287665/files",
+    "media_files": "https://zenodo.org/api/records/17287665/media-files",
+    "latest": "https://zenodo.org/api/records/17287665/versions/latest",
+    "latest_html": "https://zenodo.org/records/17287665/latest",
+    "versions": "https://zenodo.org/api/records/17287665/versions",
+    "draft": "https://zenodo.org/api/records/17287665/draft",
+    "access_links": "https://zenodo.org/api/records/17287665/access/links",
+    "access_grants": "https://zenodo.org/api/records/17287665/access/grants",
+    "access_users": "https://zenodo.org/api/records/17287665/access/users",
+    "access_request": "https://zenodo.org/api/records/17287665/access/request",
+    "access": "https://zenodo.org/api/records/17287665/access",
+    "communities": "https://zenodo.org/api/records/17287665/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17287665/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/17287665/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/17287665/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/17287665/quota-increase",
+    "requests": "https://zenodo.org/api/records/17287665/requests"
+  },
+  "updated": "2025-10-22T12:16:26.566409+00:00",
+  "recid": "17287665",
+  "revision": 6,
+  "files": [
+    {
+      "id": "355923ed-8e8a-471d-94a4-b6a34a7a239c",
+      "key": "mpo.csv",
+      "size": 9873242,
+      "checksum": "md5:bac851653aa9b0816208a13430154cfb",
+      "links": {
+        "self": "https://zenodo.org/api/records/17287665/files/mpo.csv/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "374813"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 597,
+    "unique_downloads": 495,
+    "views": 1478,
+    "unique_views": 1378,
+    "version_downloads": 597,
+    "version_unique_downloads": 495,
+    "version_unique_views": 1378,
+    "version_views": 1478
+  },
+  "state": "done",
+  "submitted": true
+}

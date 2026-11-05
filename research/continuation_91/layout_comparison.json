@@ -1,0 +1,41 @@
+{
+  "workbook_sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+  "units": "cm",
+  "rows": {
+    "Fr 10370": {
+      "Fr_reference": "Fr 10370",
+      "Database_or_institution": "KA",
+      "BOMPAC-reconstruction": "BOMPAC-5324",
+      "No_of_leaves": 1,
+      "Type_hierarchy_1": "Antiphonal",
+      "Written_area_height_1": 36,
+      "Written_area_width_1": 23,
+      "Columns": 1,
+      "Rows": "#11",
+      "Account year": 1610,
+      "format": "49.0 x 32.5",
+      "schriftraum1": "36.0 x 23.0",
+      "Row_exclusion": "Include row"
+    },
+    "F.m.II.64, fols. 6 & 7": {
+      "Fr_reference": "F.m.II.64, fols. 6 & 7",
+      "Database_or_institution": "FM",
+      "BOMPAC-reconstruction": "BOMPAC-11814",
+      "No_of_leaves": 2,
+      "Type_hierarchy_1": "Gradual",
+      "Written_area_height_1": 24.5,
+      "Written_area_width_1": 18.5,
+      "Columns": 1,
+      "Rows": 9,
+      "Account year": 1611,
+      "format": null,
+      "schriftraum1": null,
+      "Row_exclusion": "Include row"
+    }
+  },
+  "difference_fr_minus_fm_cm": {
+    "written_area_height": 11.5,
+    "written_area_width": 4.5
+  },
+  "interpretation": "Catalogue values only; leaf-specific coverage and measurement comparability unverified."
+}

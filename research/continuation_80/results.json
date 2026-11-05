@@ -1,0 +1,21 @@
+{
+  "date":"2026-11-02",
+  "question":"Do the next two visible syllables of the shared Hec est domus antiphon continue the apparent opening difference?",
+  "local_observation":"The candidate notes over do-mi of domini appear to move lower on both retained source images. Fr 8066 Hufnagel centres, syllable alignment and the following compound sign remain uncertain.",
+  "sensitivity":"For the 3-pixel centre tolerance with the stated local rule-slope assumptions, both two-note movements remain down in image coordinates. At 4 and 5 pixels the Fr 8066 direction includes zero. Ranges normalized by approximate staff spacings overlap; no exact equal interval is established.",
+  "published_controls":"Search-indexed Klosterneuburg CCl1012 f.77r and Paris Latin12044 f.209r transcriptions of antiphon 002998 also move down on do-mi of domini. Paris is an abbreviated Sext occurrence, not an identical full-service comparison. No comparator manuscript image was inspected.",
+  "interpretation":"A possible shared two-note contour follows E79's possible initial difference. Two common notes cannot establish shared full melody, book identity, shared source or originality.",
+  "limits":"Post-selection AI reading with previously exposed references; notehead centres, local red-rule slopes, staff spacing and tolerance values are illustrative assumptions. Fr 8066's following sign is not fully segmented. No absolute pitch, interval equivalence, authentic medieval sides or historical relationship is established.",
+  "next_test":"Obtain an independent source reading of these noteheads and the following sign, then compare the complete same-work melodies against established same-book and different-book controls, or resolve the source-side and fold map.",
+  "source_regions":["I80-10437-domini","I80-8066-domini"],
+  "full_melody_collated":false,
+  "equal_interval_proven":false,
+  "absolute_pitches_transcribed":false,
+  "compound_sign_adjudicated":false,
+  "comparator_manuscript_images_inspected":false,
+  "book_relationship_established":false,
+  "independent_confirmation":false,
+  "new_discovery":false,
+  "new_source_images":0,
+  "new_download_bytes":0
+}

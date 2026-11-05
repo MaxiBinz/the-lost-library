@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-03",
+  "status": "exploratory-index-comparison-not-a-new-codex-attribution",
+  "target": {
+    "identifier": "Riksarkivet Fr 8201",
+    "image": "research/continuation_65/images/Fr8201-capture-1-native.jpg",
+    "sha256": "6716356b5a3fc1776afc9d6ccd75fc9ba2bbecb6f541e6444b800c9335dc4ec2",
+    "observation_provenance": "research/continuation_65/observations.json; research/continuation_66/observations.json",
+    "ordered_chant_candidates": ["204720", "204938", "601492"],
+    "caveats": ["First chant begins before the visible region", "Reference-exposed AI reading, not independently checked", "Rubrics and short cues occur between chants"]
+  },
+  "comparator": {
+    "identifier": "Einsiedeln, Stiftsbibliothek, Codex 611(89)",
+    "folios": ["247v", "248r"],
+    "source_url": "https://cantusdatabase.org/chant/232925/",
+    "access": "Search-indexed text, not a direct manuscript image reading",
+    "ordered_chant_ids": ["204720", "204938", "201006", "203060", "200717", "601492"],
+    "text_variant": {"incipit": "virgo ... puella", "second_line": "vaga"},
+    "independence_caveat": "The database entry and its folio navigation are the same inventory, not independent witnesses."
+  },
+  "failed_routes_do_not_retry": [
+    "https://cantusdatabase.org/chant/232925/",
+    "https://www.e-codices.ch/metadata/iiif/sbe-0611/manifest.json",
+    "http://www.e-codices.unifr.ch/en/sbe/0611/247v/small",
+    "http://www.e-codices.unifr.ch/en/sbe/0611/248r/small"
+  ],
+  "conclusions": {"different_indexed_order": true, "same_codex_proved": false, "melody_compared": false, "scientific_discovery": false, "independent_expert_review": false}
+}

@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-02",
+  "sources": [
+    {"id":"fr8073-capture-1", "type":"retained low-resolution institutional image", "path":"data/images/mpo-8073.jpg", "url":"https://lbiiif.riksarkivet.se/v3/arkis!R1008073_00001/full/800,/0/default.jpg", "sha256":"c92298490c972561af51954fbabea1f78a860d15eda873570b62362ec7c3f1d2", "read_status":"image inspected; unreviewed provisional transcription"},
+    {"id":"fr8073-capture-2", "type":"retained institutional image", "path":"research/continuation_52/images/Fr8073-capture-2-native.jpg", "url":"https://lbiiif.riksarkivet.se/arkis!R1008073_00002/full/max/0/default.jpg", "sha256":"68b42751798348caccc0a8d3c2833504d9f2ccf40eb76068b9128b18695a284c", "read_status":"image inspected; unreviewed provisional transcription"},
+    {"id":"cantus-index-anna", "type":"chant catalogue", "url":"https://cantusindex.org/feast/14072610?page=3", "read_status":"search-indexed excerpt; direct web-reader open failed; identifies the responsory and its verse"},
+    {"id":"spis-inventory", "type":"chant inventory", "url":"https://cantus.sk/source/6777?antibot_key=&page=7&string=", "read_status":"search-indexed excerpt; direct web-reader open failed; lists an example of responsory, verse and doxology; manuscript image not inspected"},
+    {"id":"ah5-34", "type":"published edition", "url":"https://de.scribd.com/document/66836506/Dreves-Analecta-Hymnica-Medii-Aevi-1886-Volume-V", "read_status":"search-indexed excerpt of p.107; not an independent reading of the Swedish source"},
+    {"id":"piwonski-ah52-104", "type":"published comparative hymn transcription", "url":"https://bibliotekanauki.pl/articles/1044076.pdf#page=24", "read_status":"web reader text inspected; no corresponding capture 1 continuation established"}
+  ]
+}

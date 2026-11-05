@@ -1,0 +1,142 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-27",
+  "annotations": [
+    {
+      "id": "I37-20274-ending-1",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first visible text row has the differentiating phrase nobis vite spem porrexit, with cum provisionally read before surrexit. It does not read the older C23 tam prolixus / ille dulcis crucifixus ending.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-1-1831px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=230,425,1510,115"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "image_dimensions": [
+        1831,
+        1565
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "dolor cessit cum sur rexit nobis vite spem porre xit pre[...]",
+      "normalized_candidate": "Dolor cessit cum surrexit nobis vite spem porrexit pre[...]; word spacing normalized",
+      "observer": "Codex AI literature-assisted source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Exploratory, literature-assisted identification; no independent reader.",
+        "Selected surviving ending only; no full-office recension, date, geographical attribution, physical identity or melodic genealogy inferred."
+      ]
+    },
+    {
+      "id": "I37-20274-ending-2",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "This row continues the preceding pre- as sidens and reads the Fac nos Virgo petition. Together the contiguous rows identify the shorter O Maria stans sub cruce ending; its incipit is not visible.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-1-1831px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=235,630,1505,125"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "image_dimensions": [
+        1831,
+        1565
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "si dens in gloria fac nos virgo sue mortis et do loris tui",
+      "normalized_candidate": "[pre]sidens in gloria; Fac nos Virgo sue mortis et doloris tui",
+      "observer": "Codex AI literature-assisted source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Exploratory, literature-assisted identification; no independent reader.",
+        "Selected surviving ending only; no full-office recension, date, geographical attribution, physical identity or melodic genealogy inferred."
+      ]
+    },
+    {
+      "id": "I37-20274-ending-3",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The petition ends fortis feruere memoria, provisionally read directly from the ink. This word is reported for several witnesses in the edition, so it is not a unique lineage marker. Matins begins below.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-1-1831px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=230,840,1490,130"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "image_dimensions": [
+        1831,
+        1565
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "for tis ferue re me mor ia alle luya [...]",
+      "normalized_candidate": "fortis feruere memoria; Alleluia [...]",
+      "observer": "Codex AI literature-assisted source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Exploratory, literature-assisted identification; no independent reader.",
+        "Selected surviving ending only; no full-office recension, date, geographical attribution, physical identity or melodic genealogy inferred."
+      ]
+    },
+    {
+      "id": "I37-C23-older-ending",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Actual C23 71v preserves the different older O Maria dolorosa ending above its matins invitatory. This comparison page is not the added/replacement O Maria stans text on C23 69r; that page remains missing locally.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_20/c23/c23-attachment-0144-2200px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=600,450,1370,700"
+        }
+      },
+      "fragment_id": "uub-c23-0144",
+      "source_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0144.tiff",
+      "sha256": "0f83a3289e8ee7d0f9bcf05dbe3f89bc4acb5138024f8eb64a44970e59e44b53",
+      "image_dimensions": [
+        2200,
+        2983
+      ],
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] plaude pro data uicto ria dolor cessit tam / prolixus ille dulcis crucifixus surrexit in / glo ria [...]",
+      "normalized_candidate": "[...] pro data victoria; Dolor cessit tam prolixus, ille dulcis crucifixus, surrexit in gloria [...]",
+      "observer": "Codex AI literature-assisted source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Exploratory, literature-assisted identification; no independent reader.",
+        "Selected surviving ending only; no full-office recension, date, geographical attribution, physical identity or melodic genealogy inferred."
+      ]
+    }
+  ]
+}

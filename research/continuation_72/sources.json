@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "sources": [
+    {"id":"grajewski-2022", "path":"research/scholarship/grajewski2022.pdf", "url":"https://doi.org/10.25167/ls.4818", "locator":"printed p.293, PDF p.7", "access":"Existing PDF text extracted; published table also inspected in the web reader. Earlier E65 checked printed page visually.", "limit":"An attributed publication, not a new Fr 20106 image reading."},
+    {"id":"fr8201", "path":"research/continuation_65/observations.json", "locator":"I65-8201-ending and I65-8201-next-chant", "access":"Reinspected existing native source image; earlier reference-exposed annotations retained.", "limit":"Fr 20106 is unseen and selection was unblinded."},
+    {"id":"lmlo-ba49", "url":"https://hlub.dyndns.org/projekten/webplek/CANTUS/cgi-bin/LMLO/LMLO.cgi?X=BA49&raw_text=true", "locator":"BA49, translation of Barbara, AH 52 no.386, Matins MA3–MA4", "access":"Search-indexed database text only; direct open timed out and was not retried.", "limit":"The entry explicitly cites AH 52 and is not an independent manuscript witness. Its exact modern availability is unverified."},
+    {"id":"ah52-386", "url":"https://de.scribd.com/doc/66837361/Dreves-Analecta-Hymnica-Medii-Aevi-1886-Volume-LII", "locator":"Clemens Blume ed., Analecta Hymnica 52 (1909), no.386, printed pp.334, 337", "access":"Web-readable OCR extraction only, not printed page images; two-column mixing and OCR errors present. The host's generic 1886 title is not the date of volume 52.", "limit":"Edited text; the underlying 15th-century manuscript was not consulted; this is the edition cited by BA49."},
+    {"id":"ah-source-index", "url":"https://www.fondazionelevi.it/wp-content/uploads/2020/11/AH-source-index.pdf", "locator":"entry 2647, AH 52.386.334", "access":"Search-indexed extract", "limit":"Identifies the edition's historical private-collection description, not present custody; derived from the same published source."}
+  ],
+  "failed_routes": [
+    {"url":"https://sok.riksarkivet.se/bildvisning/R1020106", "outcome":"Speculative image-locator guess based only on the neighbouring Fr 20107 pattern; web reader inaccessible. No target identity, image or existence established. Do not retry."},
+    {"url":"http://digital.blb-karlsruhe.de/blbhs/content/pageview/1253631", "outcome":"The Cantus-linked image locator redirected to HTTPS and was inaccessible via web reader. No image inspected. Do not retry."},
+    {"url":"https://hlub.dyndns.org/projekten/webplek/CANTUS/cgi-bin/LMLO/LMLO.cgi?X=BA49&raw_text=true", "outcome":"Direct web-reader open timed out; indexed text only. Do not retry."},
+    {"url":"https://archive.org/stream/analectahymnicam5253drev", "outcome":"Web-reader open inaccessible; no image or text used from this route. Do not retry."}
+  ],
+  "network_accounting":"No source image or scholarly file saved. Web search and reader traffic were unmeasured within the existing conservative reserve. A temporary local crop was made from the existing Fr 8201 image solely for on-screen inspection."
+}

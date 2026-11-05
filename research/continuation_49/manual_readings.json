@@ -1,0 +1,152 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "observer": "Codex AI-assisted source recheck; reference exposed, no independent expert endorsement",
+  "coverage": [
+    {
+      "path": "data/images/mpo-8201.jpg",
+      "object_id": "mpo-8201",
+      "capture_index": 1,
+      "all_visible_pixels_inspected": true,
+      "display_orientation": "As retained, text upright",
+      "medieval_side": null,
+      "scope_note": "First surviving written section begins within the pulchrior... passage; no complete Catherine opening rubric is visible here.",
+      "independent_witness": false
+    },
+    {
+      "path": "data/images/mpo-8201-capture-2.jpg",
+      "object_id": "mpo-8201",
+      "capture_index": 2,
+      "all_visible_pixels_inspected": true,
+      "display_orientation": "As retained, text upright",
+      "medieval_side": null,
+      "scope_note": "Further notated text and large initials; no complete Catherine opening rubric is visible here.",
+      "independent_witness": false
+    },
+    {
+      "path": "data/images/mpo-8201-capture-3.jpg",
+      "object_id": "mpo-8201",
+      "capture_index": 3,
+      "all_visible_pixels_inspected": true,
+      "display_orientation": "As retained, text upright",
+      "medieval_side": null,
+      "scope_note": "Further notated text with a red nocturn heading at the right; the numeral is qualified in this reading, not restored from Table2.",
+      "independent_witness": false
+    },
+    {
+      "path": "data/images/mpo-8201-capture-4.jpg",
+      "object_id": "mpo-8201",
+      "capture_index": 4,
+      "all_visible_pixels_inspected": true,
+      "display_orientation": "As retained, text upright",
+      "medieval_side": null,
+      "scope_note": "Further notated text/responsory material and lower blank margin; no complete Catherine opening rubric is visible here.",
+      "independent_witness": false
+    },
+    {
+      "path": "data/images/mpo-8304.jpg",
+      "object_id": "mpo-8304",
+      "capture_index": 1,
+      "all_visible_pixels_inspected": true,
+      "display_orientation": "As retained, text upright",
+      "medieval_side": null,
+      "scope_note": "Earlier notated material preceding the capture with the Catherine heading; no full Catherine opening in this view.",
+      "independent_witness": false
+    },
+    {
+      "path": "data/images/mpo-8304-capture-2.jpg",
+      "object_id": "mpo-8304",
+      "capture_index": 2,
+      "all_visible_pixels_inspected": true,
+      "display_orientation": "As retained, text upright",
+      "medieval_side": null,
+      "scope_note": "Earlier section with a red laudes heading and notated text, preceding the later Catherine heading in the source-description context.",
+      "independent_witness": false
+    },
+    {
+      "path": "data/images/mpo-8304-capture-3.jpg",
+      "object_id": "mpo-8304",
+      "capture_index": 3,
+      "all_visible_pixels_inspected": true,
+      "display_orientation": "As retained, text upright",
+      "medieval_side": null,
+      "scope_note": "Further preceding notated material, with lower folded/cropped region; no complete Catherine opening rubric in this view.",
+      "independent_witness": false
+    },
+    {
+      "path": "data/images/mpo-8304-capture-4.jpg",
+      "object_id": "mpo-8304",
+      "capture_index": 4,
+      "all_visible_pixels_inspected": true,
+      "display_orientation": "As retained, text upright",
+      "medieval_side": null,
+      "scope_note": "Explicit Catherine/service rubric followed by large blue I and the Inclita sancte uirginis / katherine sollempnitas opening.",
+      "independent_witness": false
+    }
+  ],
+  "regions": [
+    {
+      "id": "I49-8304-rubric",
+      "path": "data/images/mpo-8304-capture-4.jpg",
+      "xywh": [
+        330,
+        270,
+        260,
+        125
+      ],
+      "literal": "De s[an]c[t]a kathe / rina sup[er] ps / feriales",
+      "normalized": "De sancta Katherina super psalmos feriales",
+      "status": "Reference-exposed reading; saint and feriales are visible; bracketed abbreviation expansions remain editorial.",
+      "body": "An actual Catherine/service heading precedes the opening chant. This supports the8304 side of the published office-opening premise; it supplies no second local opening on8201."
+    },
+    {
+      "id": "I49-8304-opening",
+      "path": "data/images/mpo-8304-capture-4.jpg",
+      "xywh": [
+        205,
+        310,
+        660,
+        155
+      ],
+      "literal": "Inclita sancte uirginis / katherine sollempnitas [...]",
+      "normalized": "Inclita sanctae virginis Katherinae solemnitas",
+      "status": "Reference-exposed candidate transcription; spelling normalization is editorial and no exact external chant ID is assigned.",
+      "body": "The large blue I starts the surviving Catherine opening text. The rubric and this incipit are one local context, not independent witnesses."
+    },
+    {
+      "id": "I49-8201-nocturn",
+      "path": "data/images/mpo-8201-capture-3.jpg",
+      "xywh": [
+        775,
+        310,
+        135,
+        105
+      ],
+      "literal": "In / [ii?] / noct[...]",
+      "normalized": null,
+      "status": "A nocturn heading is visible; numeral and abbreviation are qualified rather than supplied from the publication.",
+      "body": "This is a later local nocturn/service cue, not a complete Catherine office-opening rubric. It does not directly duplicate the8304 opening."
+    },
+    {
+      "id": "I49-8201-continuation",
+      "path": "data/images/mpo-8201.jpg",
+      "xywh": [
+        145,
+        145,
+        505,
+        65
+      ],
+      "literal": "pulchrior sponso sup[er]no placuit",
+      "normalized": "pulchrior sponso superno placuit",
+      "status": "Reference-exposed candidate reading of the surviving continuation; the Fr20106 half is not locally imaged.",
+      "body": "The visible8201 text supports the second half of the published20106/8201 phrase continuation. It neither supplies the20106 opening nor independently verifies physical adjacency."
+    }
+  ],
+  "direct_result": "Fr8304 visibly preserves the Catherine/service rubric and opening incipit. Fr8201 preserves later office material and the cited pulchrior... continuation, not a second complete office-opening rubric in these retained photos.",
+  "interpretation": "The planned two-local-opening comparison cannot be completed from8201/8304 alone. The published argument uses Fr20106 as well, so a full local replication requires that missing source and its correct catalogue/holding identification. The published rejection remains attributed and unchanged.",
+  "limits": [
+    "All eight retained photographs were inspected, but they are multiple views of two fragments, not eight leaves or independent witnesses.",
+    "No original-object review, complete diplomatic/chant transcription, full medieval-side map, repeated-office/composite adjudication, new exclusion or novelty clearance.",
+    "The local visibility limit is not a refutation of the published rejection or evidence that a second beginning does not exist on the missing20106 source."
+  ]
+}

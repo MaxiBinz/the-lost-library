@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A local research atlas of medieval music fragments, documented associations and the evidence that connects them.">
+  <meta name="color-scheme" content="light">
+  <title>THE LOST LIBRARY — Fragments & Evidence</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to manuscript research</a>
+  <aside class="sidebar" aria-label="Research navigation">
+    <a class="wordmark" href="#overview" aria-label="The Lost Library, overview"><span class="wordmark-symbol" aria-hidden="true">L<span>†</span>L</span><span>THE LOST<br>LIBRARY</span></a>
+    <div class="edition"><span class="small-rule"></span> A FRAGMENT ATLAS <span class="small-rule"></span></div>
+    <nav>
+      <a class="nav-link active" href="#overview"><span>01</span> The investigation</a>
+      <a class="nav-link" href="#reconstruction"><span>02</span> A book, in pieces</a>
+      <a class="nav-link" href="#fragments"><span>03</span> Explore fragments</a>
+      <a class="nav-link" href="#connections"><span>04</span> Follow the evidence</a>
+      <a class="nav-link" href="#validation"><span>05</span> Test the method</a>
+      <a class="nav-link" href="#sources"><span>06</span> Sources & limits</a>
+      <a class="nav-link" href="knowledge.html"><span>07</span> Claims & lead register</a>
+    </nav>
+    <div class="sidebar-bottom"><span class="live-dot" aria-hidden="true"></span> LOCAL RESEARCH EDITION<p>Surviving pages.<br>Visible uncertainty.</p><a href="../FINAL_REPORT.md" class="report-link">Read the research report <span aria-hidden="true">↗</span></a></div>
+  </aside>
+
+  <main id="main">
+    <div class="topbar"><span>MEDIEVAL MUSIC · NORDIC COLLECTIONS</span><span class="topbar-status" id="edition-status">SOURCE-LINKED RESEARCH</span></div>
+    <div class="load-status" id="load-status" role="status" aria-live="polite">Opening the research collection…</div>
+
+    <section class="hero section" id="overview" aria-labelledby="hero-title">
+      <div class="hero-copy"><p class="eyebrow"><span class="tiny-star" aria-hidden="true">✧</span> A BOOK CAN DISAPPEAR. ITS PAGES MAY REMAIN.</p><h1 id="hero-title">Listening for<br>a lost <em>library.</em></h1><p class="hero-intro">Medieval books were taken apart. Their parchment became the covers of account books. Centuries later, their surviving fragments offer a way back.</p><p class="hero-detail" id="project-description">Explore real manuscript images, follow documented connections, and inspect where machine-assisted comparison reaches its limits.</p><div class="hero-actions"><a class="button primary" href="#reconstruction">Open the reconstruction <span aria-hidden="true">↗</span></a><a class="text-button" href="#fragments">Browse the fragments <span aria-hidden="true">→</span></a></div><div class="hero-note"><span class="small-rule"></span><span>Evidence first. A retrieval score is not an attribution.</span></div></div>
+      <figure class="hero-manuscript" id="hero-manuscript"><div class="hero-placeholder"><span class="folio-mark">fol.</span><p>Real manuscript imagery will appear when the local research data loads.</p></div><figcaption id="hero-caption">THE SURVIVING RECORD</figcaption></figure>
+    </section>
+
+    <div class="stats-strip" aria-label="Collection statistics"><div><strong id="stat-records">—</strong><span>IMAGED FRAGMENTS</span></div><div><strong id="stat-images">—</strong><span>IMAGE CAPTURES</span></div><div><strong id="stat-matches">—</strong><span>RANKED CONNECTIONS</span></div><div><strong id="stat-components">—</strong><span>SEQUENCE COMPONENTS</span></div></div>
+
+    <section class="section reconstruction-section" id="reconstruction" aria-labelledby="reconstruction-title">
+      <div class="section-heading"><div><p class="eyebrow">02 / A BOOK, IN PIECES</p><h2 id="reconstruction-title">What the evidence<br>lets us put <em>together.</em></h2></div><div class="section-intro"><p id="reconstruction-description">A documented subset can be reconstructed without pretending the entire book has returned. Separate components retain their uncertain position within the lost volume.</p><span class="status-tag documented">Documented demonstration</span></div></div>
+      <div class="reconstruction-note" id="reconstruction-note"><span aria-hidden="true">↔</span><p>Sequence components are shown separately. Gaps and unknown positions are deliberate; they do not represent newly identified missing pages.</p></div>
+      <div id="sequence-components" class="sequence-components"><p class="empty-state">No reconstruction data has loaded yet.</p></div>
+      <div id="music-panel" class="music-panel"><div class="music-symbol" aria-hidden="true">𝄢</div><div><p class="eyebrow">THE MUSIC ON THE PAGE</p><h3>A score is also evidence.</h3><p>Some fragments preserve medieval musical notation. Without an independently checked transcription, a convincing performance would add certainty that the source does not provide.</p><span class="muted-label">No verified audio transcription supplied.</span></div></div>
+    </section>
+
+    <section class="section explorer-section" id="fragments" aria-labelledby="fragments-title">
+      <div class="section-heading"><div><p class="eyebrow">03 / THE SURVIVING PAGES</p><h2 id="fragments-title">Look <em>closer.</em></h2></div><p class="section-intro">Each image keeps its shelfmark, holding institution, source and rights statement. Select two records to compare the actual captures side by side.</p></div>
+      <form id="filters" class="filters" role="search"><label class="search-field"><span class="sr-only">Search fragments</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"></circle><path d="m15 15 5 5"></path></svg><input id="search" type="search" placeholder="Search a shelfmark, chant, place…" autocomplete="off"></label><label><span class="sr-only">Collection</span><select id="collection-filter"><option value="">All collections</option></select></label><label><span class="sr-only">Manuscript type</span><select id="type-filter"><option value="">All manuscript types</option></select></label><label><span class="sr-only">Research role</span><select id="role-filter"><option value="">All research roles</option></select></label><label class="image-filter"><input id="images-only" type="checkbox" checked> With images</label><button class="text-button reset-button" type="reset">Reset</button></form>
+      <div class="collection-meta"><p id="results-count" role="status" aria-live="polite">Waiting for the collection…</p><span>SELECT TWO TO COMPARE</span></div>
+      <div class="fragment-grid" id="fragment-grid"></div><div class="load-more-wrap"><button id="load-more" class="button secondary" type="button" hidden>Show more records <span aria-hidden="true">↓</span></button></div>
+    </section>
+
+    <section class="section connections-section" id="connections" aria-labelledby="connections-title">
+      <div class="section-heading"><div><p class="eyebrow">04 / FOLLOW THE EVIDENCE</p><h2 id="connections-title">Resemblance is<br>the <em>beginning.</em></h2></div><p class="section-intro">A similar hand can appear in different books. Read the supporting evidence, contradictions and alternative explanations before interpreting a connection.</p></div>
+      <div class="classification-key" aria-label="Evidence categories"><span><b>A</b> Strong evidence</span><span><b>B</b> Plausible</span><span><b>C</b> Ambiguous</span><span><b>D</b> Rejected</span><span><b>E</b> Documented</span></div>
+      <div id="evidence-review" class="evidence-review"></div>
+      <div class="connection-toolbar"><p>Evidence category and originality are assessed separately.</p><label><span class="sr-only">Filter evidence category</span><select id="evidence-filter"><option value="">All categories</option><option value="A">A · Strong evidence</option><option value="B">B · Plausible</option><option value="C">C · Ambiguous</option><option value="D">D · Rejected</option><option value="E">E · Previously documented</option></select></label></div>
+      <div id="connections-list" class="connections-list"><p class="empty-state">No ranked connections have loaded yet.</p></div><button id="more-connections" class="text-button" type="button" hidden>Show more connections <span aria-hidden="true">↓</span></button>
+    </section>
+
+    <section class="section validation-section" id="validation" aria-labelledby="validation-title"><div class="section-heading"><div><p class="eyebrow">05 / TEST THE METHOD</p><h2 id="validation-title">Could it recover<br>what we <em>already know?</em></h2></div><p class="section-intro">Known relationships and difficult negatives test the method before any new attribution is considered. Benchmark results describe the available reference labels, not certainty about unknown pairs.</p></div><div class="validation-summary" id="validation-summary"></div><div class="validation-table-wrap" id="validation-table-wrap"><p class="empty-state">No completed benchmark results have loaded yet.</p></div><div class="validation-notes" id="validation-notes"></div></section>
+
+    <section class="section sources-section" id="sources" aria-labelledby="sources-title"><div class="section-heading"><div><p class="eyebrow">06 / SOURCES & LIMITS</p><h2 id="sources-title">Every fragment<br>has a <em>provenance.</em></h2></div><p class="section-intro">This atlas connects local analysis to the institutions and scholarship that make it possible. It does not replace their catalogues or specialist scrutiny.</p></div><div class="sources-columns"><div><h3>The historical thread</h3><div id="story"><p>During the Reformation, medieval parchment books were dismantled and reused as durable wrappers for administrative accounts. Fragment collections preserve both medieval music and traces of this later use.</p><p>Modern holding locations and account-book provenance do not automatically identify where a medieval manuscript was made. A reconstruction must follow the evidence across those different histories.</p></div><div class="source-list" id="source-list"></div></div><div class="limits-panel"><p class="eyebrow">WHAT REMAINS UNCERTAIN</p><ul id="limitations-list"><li>Catalogue associations require critical review.</li><li>Image similarity alone does not establish one manuscript.</li><li>A partial sequence does not supply missing pages or musical notes.</li></ul><a class="text-button" href="../FINAL_REPORT.md">Read the full investigation <span aria-hidden="true">↗</span></a></div></div><div class="credits" id="credits">Images remain credited to their holding institutions. Individual source and rights links accompany each record.</div></section>
+    <footer><a class="footer-mark" href="#overview">THE LOST LIBRARY</a><span>A LOCAL RESEARCH EDITION · SOURCES PRESERVED · UNCERTAINTY VISIBLE</span><a href="#overview">Back to the beginning ↑</a></footer>
+  </main>
+
+  <div class="compare-tray" id="compare-tray" hidden aria-label="Selected comparison"><div id="compare-selection"></div><div><button class="text-button" id="clear-compare" type="button">Clear</button><button class="button primary" id="open-compare" type="button" disabled>Compare pages <span aria-hidden="true">↔</span></button></div></div>
+  <dialog id="image-dialog" class="image-dialog" aria-labelledby="dialog-title"><div class="dialog-header"><div><p class="eyebrow" id="dialog-eyebrow">MANUSCRIPT CAPTURE</p><h2 id="dialog-title">Inspect the source</h2></div><button class="icon-button dialog-close" type="button" aria-label="Close image viewer">×</button></div><div id="dialog-content"></div><p class="dialog-disclaimer">These are source captures. Zooming and rotation do not add detail, restore missing parchment, or establish manuscript identity.</p></dialog>
+  <noscript><p class="noscript">This local atlas needs JavaScript to load its research data. The source records and reports remain available in the project folder.</p></noscript>
+</body>
+</html>

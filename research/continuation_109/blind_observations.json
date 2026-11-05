@@ -1,0 +1,16 @@
+{
+  "observer": "Codex AI; same overall project reader, not independent expert",
+  "recorded_before_unmasking": true,
+  "visibility_limit": "One retained representative photograph per source; a page-side layout is not automatically the layout of the whole fragment.",
+  "readings": [
+    {"label":"A", "visible_columns":1, "confidence":"tentative", "note":"One broad notated text field in a rotated, damaged view; portions obscured."},
+    {"label":"B", "visible_columns":1, "confidence":"tentative", "note":"One broad notated field; outer right edge may be cropped."},
+    {"label":"C", "visible_columns":null, "confidence":"unassessable", "note":"A single visible notated field but the left edge is cropped; a missing second field cannot be excluded."},
+    {"label":"D", "visible_columns":1, "confidence":"provisional", "note":"One broad notated field extends across the visible leaf."},
+    {"label":"E", "visible_columns":null, "confidence":"unassessable", "note":"Heavy damage, show-through and obscured edge prevent a reliable complete layout count."},
+    {"label":"F", "visible_columns":1, "confidence":"tentative", "note":"One broad field appears across the split view, although the right edge is cropped."},
+    {"label":"G", "visible_columns":null, "confidence":"unassessable", "note":"Heavy damage and folds obscure the layout."},
+    {"label":"H", "visible_columns":1, "confidence":"tentative", "note":"One broad notated field, partly obscured by folds, darkening and later writing."},
+    {"label":"I", "visible_columns":1, "confidence":"provisional", "note":"One continuous broad notated field is visible."}
+  ]
+}

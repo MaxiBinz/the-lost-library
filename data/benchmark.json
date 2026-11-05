@@ -1,0 +1,302 @@
+{
+  "version": "1.0",
+  "source": "https://zenodo.org/records/17287665",
+  "groups": [
+    {
+      "id": "mpo-codex-285",
+      "split": "development",
+      "member_ids": [
+        "mpo-1114",
+        "mpo-1854",
+        "mpo-1862",
+        "mpo-1863",
+        "mpo-1864",
+        "mpo-1915"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 285",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-1114",
+        "mpo-1854",
+        "mpo-1862",
+        "mpo-1863",
+        "mpo-1864",
+        "mpo-1915"
+      ]
+    },
+    {
+      "id": "mpo-codex-270",
+      "split": "development",
+      "member_ids": [
+        "mpo-1664",
+        "mpo-1756",
+        "mpo-1761",
+        "mpo-1762",
+        "mpo-1763",
+        "mpo-1774"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 270",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-1664",
+        "mpo-1756",
+        "mpo-1761",
+        "mpo-1762",
+        "mpo-1763",
+        "mpo-1774"
+      ]
+    },
+    {
+      "id": "mpo-codex-875",
+      "split": "development",
+      "member_ids": [
+        "mpo-6359",
+        "mpo-6360",
+        "mpo-6362",
+        "mpo-6425",
+        "mpo-6426",
+        "mpo-6427"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 875",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-6359",
+        "mpo-6360",
+        "mpo-6362",
+        "mpo-6425",
+        "mpo-6426",
+        "mpo-6427"
+      ]
+    },
+    {
+      "id": "mpo-codex-1200",
+      "split": "calibration",
+      "member_ids": [
+        "mpo-365",
+        "mpo-4223",
+        "mpo-8311",
+        "mpo-8455",
+        "mpo-8466",
+        "mpo-8724"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 1200",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-365",
+        "mpo-4223",
+        "mpo-8311",
+        "mpo-8455",
+        "mpo-8466",
+        "mpo-8724"
+      ]
+    },
+    {
+      "id": "mpo-codex-609",
+      "split": "calibration",
+      "member_ids": [
+        "mpo-4471",
+        "mpo-4472",
+        "mpo-4473",
+        "mpo-4474",
+        "mpo-4476",
+        "mpo-4484"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 609",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-4471",
+        "mpo-4472",
+        "mpo-4473",
+        "mpo-4474",
+        "mpo-4476",
+        "mpo-4484"
+      ]
+    },
+    {
+      "id": "mpo-codex-276",
+      "split": "calibration",
+      "member_ids": [
+        "mpo-1770",
+        "mpo-1777",
+        "mpo-1801",
+        "mpo-1832",
+        "mpo-3759",
+        "mpo-6883"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 276",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-1770",
+        "mpo-1777",
+        "mpo-1801",
+        "mpo-1832",
+        "mpo-3759",
+        "mpo-6883"
+      ]
+    },
+    {
+      "id": "mpo-codex-1104",
+      "split": "test",
+      "member_ids": [
+        "mpo-7957",
+        "mpo-7960",
+        "mpo-7961",
+        "mpo-8343",
+        "mpo-8344",
+        "mpo-9242"
+      ],
+      "label_source": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1610?show=full",
+      "label_strength": "literature/catalogue-backed",
+      "source_label": "Codex 1104",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-7957",
+        "mpo-7960",
+        "mpo-7961",
+        "mpo-8343",
+        "mpo-8344",
+        "mpo-9242"
+      ]
+    },
+    {
+      "id": "mpo-codex-434",
+      "split": "test",
+      "member_ids": [
+        "mpo-2862",
+        "mpo-2863",
+        "mpo-2864",
+        "mpo-2871",
+        "mpo-2872",
+        "mpo-2873"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 434",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-2862",
+        "mpo-2863",
+        "mpo-2864",
+        "mpo-2871",
+        "mpo-2872",
+        "mpo-2873"
+      ]
+    },
+    {
+      "id": "mpo-codex-920",
+      "split": "test",
+      "member_ids": [
+        "mpo-4315",
+        "mpo-6588",
+        "mpo-6664",
+        "mpo-6690",
+        "mpo-6696",
+        "mpo-6712"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 920",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-4315",
+        "mpo-6588",
+        "mpo-6664",
+        "mpo-6690",
+        "mpo-6696",
+        "mpo-6712"
+      ]
+    },
+    {
+      "id": "mpo-codex-674",
+      "split": "test",
+      "member_ids": [
+        "mpo-4972",
+        "mpo-4973",
+        "mpo-4983",
+        "mpo-5029",
+        "mpo-5039",
+        "mpo-5070"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 674",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation.",
+      "planned_member_ids": [
+        "mpo-4972",
+        "mpo-4973",
+        "mpo-4983",
+        "mpo-5029",
+        "mpo-5039",
+        "mpo-5070"
+      ]
+    },
+    {
+      "id": "beauvais-missal",
+      "split": "control",
+      "member_ids": [
+        "fragmentarium-F-6zvk",
+        "fragmentarium-F-qbrf",
+        "fragmentarium-F-5uba",
+        "fragmentarium-F-ag0v",
+        "fragmentarium-F-458m",
+        "fragmentarium-F-n4t6",
+        "fragmentarium-F-tqd2",
+        "fragmentarium-F-fa1y",
+        "fragmentarium-F-5der",
+        "fragmentarium-F-wmom",
+        "fragmentarium-F-1b56",
+        "fragmentarium-F-d5zj"
+      ],
+      "label_source": "https://fragmentarium.ms/overview/F-4ihz",
+      "label_strength": "published reconstructed same-codex control",
+      "limitations": "Single French missal, domain shift; only child records explicitly describing one leaf and permitted rights were used."
+    }
+  ],
+  "hard_pairs": [
+    {
+      "left_id": "mpo-7960",
+      "right_id": "mpo-7961",
+      "label": "positive",
+      "source": "https://zenodo.org/records/17287665",
+      "subtype": "documented textual continuity"
+    },
+    {
+      "left_id": "mpo-8343",
+      "right_id": "mpo-8344",
+      "label": "positive",
+      "source": "https://zenodo.org/records/17287665",
+      "subtype": "documented textual continuity"
+    },
+    {
+      "left_id": "mpo-8201",
+      "right_id": "mpo-8304",
+      "label": "negative",
+      "source": "https://doi.org/10.25167/ls.4818",
+      "subtype": "published same-hand different-book"
+    },
+    {
+      "left_id": "mpo-8201",
+      "right_id": "mpo-20106",
+      "label": "positive",
+      "source": "https://doi.org/10.25167/ls.4818",
+      "subtype": "published compatible same-book; image missing"
+    }
+  ],
+  "limitations": [
+    "Different catalogue labels are a closed-world benchmark assumption, not independently proved negative book identities.",
+    "Catalogue-derived groups may contain errors; Ant49/Codex1146 is deliberately excluded from positive groups.",
+    "Discovery targets and unlabelled distractors are never treated as negative labels."
+  ]
+}

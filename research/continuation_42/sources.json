@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-28",
+  "manuscript_sources": "Four retained Riksarkivet PDM photographs; exact source URLs, canvas IDs, hashes and row locators are in row_coverage.json. No new manuscript or PDF was downloaded.",
+  "reading_sequence": "Full originals and raw boundary crops were inspected first. Astiterunt/verse identification was proposed before lookup; the indexed Vulgate wording assisted later abbreviation/phrase interpretation. The N[o?] prefix remains uncertain after lookup. This is neither blind nor independent confirmation.",
+  "references": [
+    {
+      "title": "La Trobe University Library, Medieval Music Database, Antiphon index",
+      "url": "https://www.lib.latrobe.edu.au/MMDB/Genre/Antiphon.htm",
+      "scope_read": "The returned university index and exact Novo rerum ordine rex entry; not the entire index or an underlying manuscript/edition.",
+      "use": "Confirms this is an existing indexed incipit. It does not resolve the unclear o or establish a rare variant, complete chant text or codex.",
+      "followed_link": "The visible index entry was selected with the web reader. Its link calls returned internal tool/server errors; no detailed record or full text was retrieved. These are tool failures, not a verified institutional HTTP500 or access restriction.",
+      "full_record_read": false
+    },
+    {
+      "title": "Biblia Sacra Vulgata, Acts4:26, as displayed by Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Actus+Apostolorum+4%3A26-28%2CActs+4%3A26-28&version=VULGATE%3BNIV",
+      "scope_read": "Complete indexed verse26 text and its Psalm2 cross-reference, returned by web search. Direct page open returned Cache miss; no page was visually inspected.",
+      "use": "Reference assistance for the common adversus Dominum / adversus Christum eius phrase. Modern Vulgate text is not an independently inspected medieval chant witness.",
+      "direct_page_read": false,
+      "normalized_short_phrase": "et adversus Christum eius"
+    },
+    {
+      "title": "Global Chant Database N text index",
+      "url": "https://globalchant.org/domains/globalchant.org/text-index.php?letter=N",
+      "scope_read": "Search-indexed Novo rerum ordine text only; direct open returned Cache miss. Not used as an independent manuscript source or to fill damaged source words.",
+      "direct_page_read": false
+    }
+  ],
+  "tool_limits": "Some multi-operation web-reader calls returned internal transport/server errors without source text. No institution challenge was interacted with; failed direct pages were not retried or reached with an alternate client. No PDF suggested by search was downloaded or claimed read.",
+  "novelty_cleared": false,
+  "independent_confirmation": false
+}

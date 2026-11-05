@@ -1,0 +1,1447 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "result": "All six retained Aboense controls have unique included rows explicitly assigned to BOMPAC-4795 with FM.II.44. The related raw data assigns them to C-1481. Credit13 previously metadata-only pair leads as already documented controls.",
+  "totals": {
+    "all_leads": 168,
+    "pair_leads": 117,
+    "retained_members_checked": 6,
+    "all_member_pairings": 15,
+    "source_credit_repairs": 13,
+    "baseline_metadata_only_pairs": 49,
+    "remaining_metadata_only_pairs": 36,
+    "combined_unit_rows": 31,
+    "raw_unit_rows": 7,
+    "combined_unit_institutions": {
+      "KA": 7,
+      "FM": 24
+    }
+  },
+  "repair_leads": [
+    "pair-f652d6434d04aca15e91",
+    "pair-7f135fc0216264e67394",
+    "pair-3d6bc9b31e88428a08a4",
+    "pair-146db6d39398de2b92af",
+    "pair-b7a6e55d53ee12472249",
+    "pair-27ae1026223463854aff",
+    "pair-f47d791e267241ef21a2",
+    "pair-8906ae88c5a88c0bf6ef",
+    "pair-374cd8eb5961c73820e4",
+    "pair-e1a07e7ab1e75f0dfe8c",
+    "pair-ba130b3a13121d7c3209",
+    "pair-5d81755c3d352f2a9bda",
+    "pair-d1082adc3980fb62e788"
+  ],
+  "already_reviewed_pair_leads": [
+    "pair-00a2bc1211763a926f46",
+    "pair-6392b3d5ccd2551daf9d"
+  ],
+  "remaining_metadata_only_leads": [
+    {
+      "lead_id": "pair-e7dd7d3bdc9a902f2a63",
+      "subjects": [
+        "object:fragmentarium-F-5der",
+        "object:mpo-25592"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-25592: recorded codex=None, CCM unit=Hy 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "fragmentarium-F-5der": [
+            "data/images/fragmentarium-F-5der.jpg"
+          ],
+          "mpo-25592": [
+            "data/images/mpo-25592.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-eafe5048aae6282c0cb8",
+      "subjects": [
+        "object:fragmentarium-F-5uba",
+        "object:mpo-25592"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-25592: recorded codex=None, CCM unit=Hy 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "fragmentarium-F-5uba": [
+            "data/images/fragmentarium-F-5uba.jpg"
+          ],
+          "mpo-25592": [
+            "data/images/mpo-25592.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-0e5884ee8e7775c2a4ef",
+      "subjects": [
+        "object:mpo-10349",
+        "object:mpo-25592"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10349: recorded codex=None, CCM unit=Ant 111?",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-25592: recorded codex=None, CCM unit=Hy 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10349": [
+            "data/images/mpo-10349.jpg"
+          ],
+          "mpo-25592": [
+            "data/images/mpo-25592.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-d3edceeb5829ddeac135",
+      "subjects": [
+        "object:mpo-10349",
+        "object:mpo-2862"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10349: recorded codex=None, CCM unit=Ant 111?",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-2862: recorded codex=Codex 434, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10349": [
+            "data/images/mpo-10349.jpg"
+          ],
+          "mpo-2862": [
+            "data/images/mpo-2862.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-968ff6460a409e3f7e76",
+      "subjects": [
+        "object:mpo-10349",
+        "object:mpo-2863"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10349: recorded codex=None, CCM unit=Ant 111?",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-2863: recorded codex=Codex 434, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10349": [
+            "data/images/mpo-10349.jpg"
+          ],
+          "mpo-2863": [
+            "data/images/mpo-2863.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-e86cd88728212e7aaf52",
+      "subjects": [
+        "object:mpo-10349",
+        "object:mpo-2864"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10349: recorded codex=None, CCM unit=Ant 111?",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-2864: recorded codex=Codex 434, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10349": [
+            "data/images/mpo-10349.jpg"
+          ],
+          "mpo-2864": [
+            "data/images/mpo-2864.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-6687f9e4a781c8262b00",
+      "subjects": [
+        "object:mpo-10349",
+        "object:mpo-2872"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10349: recorded codex=None, CCM unit=Ant 111?",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-2872: recorded codex=Codex 434, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10349": [
+            "data/images/mpo-10349.jpg"
+          ],
+          "mpo-2872": [
+            "data/images/mpo-2872.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-365f99cc96d5359228ae",
+      "subjects": [
+        "object:mpo-10349",
+        "object:mpo-2873"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10349: recorded codex=None, CCM unit=Ant 111?",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-2873: recorded codex=Codex 434, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10349": [
+            "data/images/mpo-10349.jpg"
+          ],
+          "mpo-2873": [
+            "data/images/mpo-2873.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-d964f842625525837cb2",
+      "subjects": [
+        "object:mpo-10370",
+        "object:mpo-20274"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10370: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-20274: recorded codex=None, CCM unit=Ant 99",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10370": [
+            "data/images/mpo-10370.jpg"
+          ],
+          "mpo-20274": [
+            "data/images/mpo-20274.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-09cc19512c9ba72d3890",
+      "subjects": [
+        "object:mpo-10406",
+        "object:mpo-10437"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10406: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-10437: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10406": [
+            "data/images/mpo-10406.jpg"
+          ],
+          "mpo-10437": [
+            "data/images/mpo-10437.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-12922d2331e23ae279c7",
+      "subjects": [
+        "object:mpo-10406",
+        "object:mpo-20274"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10406: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-20274: recorded codex=None, CCM unit=Ant 99",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10406": [
+            "data/images/mpo-10406.jpg"
+          ],
+          "mpo-20274": [
+            "data/images/mpo-20274.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-56874b459d36d113b063",
+      "subjects": [
+        "object:mpo-10406",
+        "object:mpo-8311"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10406: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8311: recorded codex=Codex 1200, CCM unit=Ant 39",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10406": [
+            "data/images/mpo-10406.jpg"
+          ],
+          "mpo-8311": [
+            "data/images/mpo-8311.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-101db9134a41cb468657",
+      "subjects": [
+        "object:mpo-10406",
+        "object:mpo-8994"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10406: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8994: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10406": [
+            "data/images/mpo-10406.jpg"
+          ],
+          "mpo-8994": [
+            "data/images/mpo-8994.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-b962aeb0080f381ef047",
+      "subjects": [
+        "object:mpo-10407",
+        "object:mpo-10437"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10407: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-10437: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10407": [
+            "data/images/mpo-10407.jpg"
+          ],
+          "mpo-10437": [
+            "data/images/mpo-10437.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-f283a0b0ac763b5bfb06",
+      "subjects": [
+        "object:mpo-10407",
+        "object:mpo-1385"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10407: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10407": [
+            "data/images/mpo-10407.jpg"
+          ],
+          "mpo-1385": [
+            "data/images/mpo-1385.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-6a754492c040fc412408",
+      "subjects": [
+        "object:mpo-10407",
+        "object:mpo-20274"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10407: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-20274: recorded codex=None, CCM unit=Ant 99",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10407": [
+            "data/images/mpo-10407.jpg"
+          ],
+          "mpo-20274": [
+            "data/images/mpo-20274.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-36e1e13fd0d21847cd97",
+      "subjects": [
+        "object:mpo-10407",
+        "object:mpo-8994"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10407: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8994: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10407": [
+            "data/images/mpo-10407.jpg"
+          ],
+          "mpo-8994": [
+            "data/images/mpo-8994.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-4773bf552c2b6e6a497c",
+      "subjects": [
+        "object:mpo-10437",
+        "object:mpo-1385"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10437: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10437": [
+            "data/images/mpo-10437.jpg"
+          ],
+          "mpo-1385": [
+            "data/images/mpo-1385.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-913f792004fbccb24bad",
+      "subjects": [
+        "object:mpo-10437",
+        "object:mpo-20274"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10437: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-20274: recorded codex=None, CCM unit=Ant 99",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10437": [
+            "data/images/mpo-10437.jpg"
+          ],
+          "mpo-20274": [
+            "data/images/mpo-20274.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-a1618c08d7e6c514e564",
+      "subjects": [
+        "object:mpo-10437",
+        "object:mpo-8994"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-10437: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8994: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-10437": [
+            "data/images/mpo-10437.jpg"
+          ],
+          "mpo-8994": [
+            "data/images/mpo-8994.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-43ea5533d834862d7057",
+      "subjects": [
+        "object:mpo-1385",
+        "object:mpo-365"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-365: recorded codex=Codex 1200, CCM unit=Ant 39",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-1385": [
+            "data/images/mpo-1385.jpg"
+          ],
+          "mpo-365": [
+            "data/images/mpo-365.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-1ed7d480c307658eaecd",
+      "subjects": [
+        "object:mpo-1385",
+        "object:mpo-8994"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8994: recorded codex=Codex 1505, CCM unit=None",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-1385": [
+            "data/images/mpo-1385.jpg"
+          ],
+          "mpo-8994": [
+            "data/images/mpo-8994.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-0809cb8978faf1329cbc",
+      "subjects": [
+        "object:mpo-25173",
+        "object:mpo-25592"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-25173: recorded codex=None, CCM unit=Gr 53",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-25592: recorded codex=None, CCM unit=Hy 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-25173": [
+            "data/images/mpo-25173.jpg"
+          ],
+          "mpo-25592": [
+            "data/images/mpo-25592.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-da6e424935de87380cab",
+      "subjects": [
+        "object:mpo-8066",
+        "object:mpo-8072"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8066: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8072: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8066": [
+            "data/images/mpo-8066.jpg"
+          ],
+          "mpo-8072": [
+            "data/images/mpo-8072.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-b9c7f92d84cc017ba48c",
+      "subjects": [
+        "object:mpo-8066",
+        "object:mpo-8073"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8066: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8073: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8066": [
+            "data/images/mpo-8066.jpg"
+          ],
+          "mpo-8073": [
+            "data/images/mpo-8073.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-41bdbdc443d5b9b42678",
+      "subjects": [
+        "object:mpo-8066",
+        "object:mpo-8201"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8066: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8201: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8066": [
+            "data/images/mpo-8066.jpg"
+          ],
+          "mpo-8201": [
+            "data/images/mpo-8201.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-8f3a072d37ac0a71a565",
+      "subjects": [
+        "object:mpo-8066",
+        "object:mpo-8304"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8066: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8304: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8066": [
+            "data/images/mpo-8066.jpg"
+          ],
+          "mpo-8304": [
+            "data/images/mpo-8304.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-00f7a4ed7b39e57ed29e",
+      "subjects": [
+        "object:mpo-8072",
+        "object:mpo-8073"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8072: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8073: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8072": [
+            "data/images/mpo-8072.jpg"
+          ],
+          "mpo-8073": [
+            "data/images/mpo-8073.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-89949f510ea367ba8a23",
+      "subjects": [
+        "object:mpo-8072",
+        "object:mpo-8201"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8072: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8201: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8072": [
+            "data/images/mpo-8072.jpg"
+          ],
+          "mpo-8201": [
+            "data/images/mpo-8201.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-40a423101854019bb578",
+      "subjects": [
+        "object:mpo-8072",
+        "object:mpo-8304"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8072: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8304: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8072": [
+            "data/images/mpo-8072.jpg"
+          ],
+          "mpo-8304": [
+            "data/images/mpo-8304.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-c92d0fefbd71465ce0fb",
+      "subjects": [
+        "object:mpo-8072",
+        "object:mpo-9620"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8072: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-9620: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8072": [
+            "data/images/mpo-8072.jpg"
+          ],
+          "mpo-9620": [
+            "data/images/mpo-9620.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-920b9d36ad1deef7511a",
+      "subjects": [
+        "object:mpo-8073",
+        "object:mpo-8201"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8073: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8201: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8073": [
+            "data/images/mpo-8073.jpg"
+          ],
+          "mpo-8201": [
+            "data/images/mpo-8201.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-7958393ae77f4c1164b7",
+      "subjects": [
+        "object:mpo-8073",
+        "object:mpo-8304"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8073: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-8304: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8073": [
+            "data/images/mpo-8073.jpg"
+          ],
+          "mpo-8304": [
+            "data/images/mpo-8304.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-f106d472d279f60545ae",
+      "subjects": [
+        "object:mpo-8073",
+        "object:mpo-9620"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8073: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-9620: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8073": [
+            "data/images/mpo-8073.jpg"
+          ],
+          "mpo-9620": [
+            "data/images/mpo-9620.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-dd801424ce2ad9ecda18",
+      "subjects": [
+        "object:mpo-8201",
+        "object:mpo-9620"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8201: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-9620: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8201": [
+            "data/images/mpo-8201.jpg"
+          ],
+          "mpo-9620": [
+            "data/images/mpo-9620.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    },
+    {
+      "lead_id": "pair-2bcf84be6d1c5ab3e8b1",
+      "subjects": [
+        "object:mpo-8304",
+        "object:mpo-9620"
+      ],
+      "relationship_type": "same_codex",
+      "prior": [
+        {
+          "statement": "mpo-8304: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        },
+        {
+          "statement": "mpo-9620: recorded codex=Codex 1146, CCM unit=Ant 49",
+          "sources": [
+            "data/fragments.json",
+            "https://zenodo.org/records/17287665"
+          ],
+          "kind": "catalogue assignment, not image proof"
+        }
+      ],
+      "required_inputs": {
+        "available_primary_images": {
+          "mpo-8304": [
+            "data/images/mpo-8304.jpg"
+          ],
+          "mpo-9620": [
+            "data/images/mpo-9620.jpg"
+          ]
+        },
+        "dependencies": [],
+        "local_tasks": [
+          "Direct transcription and book-discriminating comparison remain pending for metadata-only rows."
+        ]
+      }
+    }
+  ],
+  "limits": [
+    "Internal source-credit correction, not a correction to scholarship or a new discovery.",
+    "No new physical object, leaf, capture, source region or independently confirmed same-codex assertion.",
+    "Published reconstruction membership does not establish physical joins, adjacency, side mapping, date or completeness.",
+    "Fr28175 is a seventh source record, not a newly imaged core object. The24 Finnish paired-folio rows are not24 single leaves or verified available captures.",
+    "Taitto/Haapanen attribution history and E36 direct continuity observations remain credited separately. This workbook audit does not reread Taitto2002."
+  ],
+  "next_test": "Audit the remaining36 existing pair leads against already retained explicit source assignments; do not re-screen known controls as novel candidates. Then choose a discriminating primary-source test from the genuinely unresolved remainder. Keep scope/source dependencies explicit.",
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "goal_complete": false,
+  "global_blocker_established": false,
+  "acquired_bytes": 0,
+  "new_source_files": 0
+}

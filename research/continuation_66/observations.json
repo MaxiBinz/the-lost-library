@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I66-8201-nobilis",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8201",
+      "body": {
+        "type": "TextualBody",
+        "value": "Following Traditur, the large red N begins a candidate responsory reading Nobilis et pulchra virgo katherina beata. The next written line includes spernit vaga gaudia mundi. Reading and word separation are reference-exposed and provisional.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_65/images/Fr8201-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=295,645,1110,300"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/full/max/0/default.jpg",
+      "sha256": "6716356b5a3fc1776afc9d6ccd75fc9ba2bbecb6f541e6444b800c9335dc4ec2",
+      "image_dimensions": [
+        1718,
+        1156
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "Nobilis et pulchra virgo katherina beata [...] spernit vaga gaudia mundi",
+      "normalized_candidate": "Nobilis et pulchra virgo Katherina beata ... spernit vaga gaudia mundi",
+      "observer": "Codex AI, post-exposure image reading, 2026-11-02; exact model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No independent reader has checked the Latin or source extent.",
+        "The source-text resemblance with a published edition is not proof of physical manuscript identity, musical identity, ancestry or geographical origin."
+      ]
+    }
+  ]
+}

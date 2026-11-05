@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-03",
+  "source_regions": [
+    "I93-10407-secus",
+    "I93-10406-tail"
+  ],
+  "reused_regions": [
+    "I54-10407-irregabat",
+    "I60-10370-top",
+    "I60-10370-sequence"
+  ],
+  "target_readings": "Fr 10407 provisionally contains Secus pedes and Irrigabat; Fr 10370 preserves the Satagebat passage and the following Non est Martha / Et respondens candidates. Fr 10406 has a similar biblical passage that also occurs at the end of In diebus illis (003224); its opening is unseen.",
+  "reference": "https://cantusdatabase.org/chant/402231/",
+  "control": "Paris Latin 12044 indexes the same 10407/10370 chant types in this broad order, with several chants and responsories between Irrigabat and Satagebat. This is a different book and its index is not a reading of the Swedish leaves.",
+  "conclusion": "Shared standard liturgical sequence is compatible with, but neither unique evidence for, same book nor proof of immediate adjacency. The 10406 tail alone cannot securely identify the work or an edge-to-edge continuation.",
+  "same_book_newly_proved": false,
+  "adjacency_proved": false,
+  "novelty_proved": false,
+  "independent_review": false
+}

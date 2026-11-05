@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "published_argument": {
+    "url": "https://doi.org/10.25167/ls.4818",
+    "local_path": "research/scholarship/grajewski2022.pdf",
+    "sha256": "bce68afeaef0e1bd0c259009f003ee07c683cd6213f3a32cc4d785f9298d2798",
+    "read_scope": "Previously read complete printed p293/PDF7, Table2, adjacent paragraph and footnote11; the table places the opening on8304 and20106, with8201 later in the office. This correction of the local two-opening test scope does not refute the paper.",
+    "scope": "Published source attribution, not independently verified original20106 image."
+  },
+  "missing_positive_record": {
+    "source": "research/mpo.csv",
+    "sha256": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "csv_line": 11946,
+    "source_values": {
+      "signatur": "20106",
+      "institution": "KB",
+      "bestandsbezeichnung": "A 103",
+      "bestandssignatur": "k  95---Episcopus--",
+      "sachtitel": "Antiphonarium",
+      "datierung": "14. Jh.",
+      "inhalt": "Clementis; Katharinae; Barbarae; hy: Novo decurrens lumine lascivit sol in virgine---",
+      "bildbetrachter": "",
+      "iiif_manifest": ""
+    },
+    "limits": "MPO holding/reference fields do not alone establish identity with a modern library manuscript record."
+  },
+  "catalogue_search": {
+    "queries": [
+      "\"20106\" \"Ant 49\" manuscript",
+      "\"A 103\" site:manuscripta.se",
+      "\"20106\" \"Katharinae\" manuscript"
+    ],
+    "outcome": "Located the previously known paper and a catalogue record labelled A103. No exact Fr20106 image identified."
+  },
+  "candidate_catalogue_record": {
+    "discovery_url": "https://test.manuscripta.se/ms/101111",
+    "canonical_url": "https://www.manuscripta.se/ms/101111",
+    "canonical_route": "Followed actual A103 link243 from the legitimate main catalogue person page https://www.manuscripta.se/person/100380; no URL invented.",
+    "read_scope": "Complete canonical catalogue description, including contents, binding/endleaves, physical description, identifiers and rights.",
+    "summary": "The canonical A103 entry describes a36-leaf early psalter. It does not explicitly name Fr20106 or the Catherine opening. A reused binding/fragment, a historic shelfmark or a different namespace remains possible; the record is not accepted as the missing physical fragment.",
+    "metadata_rights": "CC BY4.0 as stated on record",
+    "image_rights": "Public Domain as stated on record, but no images acquired",
+    "physical_crosswalk_status": "unresolved; no object or codex merge",
+    "iiif_manifest_link_seen": "https://www.manuscripta.se/iiif/101111/manifest.json",
+    "manifest_requested": false,
+    "reason_no_acquisition": "The correct physical fragment and locus are not established. Do not substitute a shelfmark match for the missing20106 photograph."
+  },
+  "access_limits": "No earlier failed/challenged routes repeated; no unapproved outreach, upload, publication or external edits. No source-image acquisition; web-reader traffic unmeasured in the existing reserve."
+}

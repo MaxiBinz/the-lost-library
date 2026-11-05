@@ -1,0 +1,392 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-24",
+  "purpose": "Exploratory same-layout consistency check for the existing Codex 1505 Fr10370/Fr10406 association, with a whole-MPO metadata screen for how exclusive that layout description is.",
+  "dataset": {
+    "source": "https://zenodo.org/records/17287665",
+    "version": "1.0.0",
+    "path": "research/mpo.csv",
+    "md5": "bac851653aa9b0816208a13430154cfb",
+    "sha256": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "rows": 22909,
+    "independent_source_note": "This is the source catalogue that already supplies the Codex 1505 grouping; its metadata screen is not independent confirmation of that grouping."
+  },
+  "selection_protocol": {
+    "status": "post-inspection exploratory; not preregistered or blind",
+    "image_measure": "Mean vertical interval between manually selected centers of four visible red staff rules in two clear Fr10370 systems and three Fr10406 systems, scaled by the vertical metric ruler photographed in the same image.",
+    "catalogue_screen": "Exact case-insensitive Quadr prefix, notenlinien exactly '4', zeilenzahl1 exactly '#11'. Parse the first numeric written-area width x height from schriftraum1. Compare the full-record min-max dimensions across the five recorded Codex1505 items (and a ±1 cm sensitivity box). Exclude records labelled Codex1505 from comparison counts.",
+    "image_centers_and_ruler_endpoints": "Coordinates were selected after visual inspection. The script records all exact coordinates and source hashes; it reproduces arithmetic, not the human coordinate judgment."
+  },
+  "staff_pitch_measurements": [
+    {
+      "fragment_id": "mpo-10370",
+      "path": "data/images/mpo-10370-capture-3-1728px.jpg",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg",
+      "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+      "image_dimensions": [
+        1728,
+        1233
+      ],
+      "region_xywh": [
+        350,
+        400,
+        1155,
+        260
+      ],
+      "ruler_calibration": {
+        "axis": "vertical image axis; left-hand photographic ruler",
+        "label_span_cm": 20,
+        "endpoint_centers_px": [
+          86,
+          1077
+        ],
+        "label_order": [
+          0,
+          20
+        ],
+        "coordinate_origin": "top-left of source JPEG"
+      },
+      "ruler_px_per_cm": 49.55,
+      "staff_groups": [
+        {
+          "line_center_rows_px": [
+            407,
+            434,
+            462,
+            490
+          ],
+          "adjacent_intervals_px": [
+            27,
+            28,
+            28
+          ],
+          "mean_interval_px": 27.666666666666668,
+          "approx_pitch_mm": 5.584
+        },
+        {
+          "line_center_rows_px": [
+            566,
+            594,
+            622,
+            650
+          ],
+          "adjacent_intervals_px": [
+            28,
+            28,
+            28
+          ],
+          "mean_interval_px": 28,
+          "approx_pitch_mm": 5.651
+        }
+      ],
+      "aggregate_adjacent_interval_px": 27.833,
+      "aggregate_approx_pitch_mm": 5.617,
+      "measurement_uncertainty": "Approximate manual center selection (about ±1 px per line); ruler endpoints are manual readings from the numbered 20 cm marks (about ±2 px). Perspective, local parchment deformation, red-rule waviness and image capture geometry are not corrected."
+    },
+    {
+      "fragment_id": "mpo-10406",
+      "path": "data/images/mpo-10406-capture-4.jpg",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00004/full/1000,/0/default.jpg",
+      "sha256": "eb77ec83d785842e929432be99d99b579fce102d062d0ecdebe280dbdf9f6677",
+      "image_dimensions": [
+        1000,
+        647
+      ],
+      "region_xywh": [
+        225,
+        145,
+        650,
+        255
+      ],
+      "ruler_calibration": {
+        "axis": "vertical image axis; right-hand photographic ruler",
+        "label_span_cm": 20,
+        "endpoint_centers_px": [
+          51,
+          600
+        ],
+        "label_order": [
+          20,
+          0
+        ],
+        "coordinate_origin": "top-left of source JPEG"
+      },
+      "ruler_px_per_cm": 27.45,
+      "staff_groups": [
+        {
+          "line_center_rows_px": [
+            153,
+            168,
+            184,
+            199
+          ],
+          "adjacent_intervals_px": [
+            15,
+            16,
+            15
+          ],
+          "mean_interval_px": 15.333333333333334,
+          "approx_pitch_mm": 5.586
+        },
+        {
+          "line_center_rows_px": [
+            244,
+            258,
+            274,
+            290
+          ],
+          "adjacent_intervals_px": [
+            14,
+            16,
+            16
+          ],
+          "mean_interval_px": 15.333333333333334,
+          "approx_pitch_mm": 5.586
+        },
+        {
+          "line_center_rows_px": [
+            337,
+            353,
+            368,
+            383
+          ],
+          "adjacent_intervals_px": [
+            16,
+            15,
+            15
+          ],
+          "mean_interval_px": 15.333333333333334,
+          "approx_pitch_mm": 5.586
+        }
+      ],
+      "aggregate_adjacent_interval_px": 15.333,
+      "aggregate_approx_pitch_mm": 5.586,
+      "measurement_uncertainty": "Approximate manual center selection (about ±1 px per line); ruler endpoints are manual readings from the numbered 20 cm marks (about ±2 px). Perspective, local parchment deformation, red-rule waviness and image capture geometry are not corrected."
+    }
+  ],
+  "catalogue_layout_screen": {
+    "exact_rule": "notation starts with 'Quadr'; notenlinien='4'",
+    "quadrature_four_line_records": 9196,
+    "with_main_text_rows_11": 197,
+    "of_those_with_parseable_written_area": 149,
+    "codex1505_signatures": [
+      "10370",
+      "10406",
+      "10407",
+      "10437",
+      "8994"
+    ],
+    "codex1505_dimensions_cm": [
+      {
+        "signatur": "8994",
+        "written_area": [
+          35.5,
+          22.5
+        ],
+        "fragment_size": "49.0 x 34.5",
+        "text_rows": "#11",
+        "notation": "Quadr",
+        "staff_lines": "4"
+      },
+      {
+        "signatur": "10370",
+        "written_area": [
+          36.0,
+          23.0
+        ],
+        "fragment_size": "49.0 x 32.5",
+        "text_rows": "#11",
+        "notation": "Quadr",
+        "staff_lines": "4"
+      },
+      {
+        "signatur": "10406",
+        "written_area": [
+          35.5,
+          23.0
+        ],
+        "fragment_size": "43.0 x 34.0",
+        "text_rows": "#11",
+        "notation": "Quadr",
+        "staff_lines": "4"
+      },
+      {
+        "signatur": "10407",
+        "written_area": [
+          35.0,
+          23.0
+        ],
+        "fragment_size": "48.0 x 34.5",
+        "text_rows": "#11",
+        "notation": "Quadr",
+        "staff_lines": "4"
+      },
+      {
+        "signatur": "10437",
+        "written_area": [
+          34.0,
+          22.5
+        ],
+        "fragment_size": "48.0 x 34.0",
+        "text_rows": "#11",
+        "notation": "Quadr",
+        "staff_lines": "4"
+      }
+    ],
+    "exact_target_written_area_box_cm": [
+      34.0,
+      36.0,
+      22.5,
+      23.0
+    ],
+    "other_records_inside_exact_box": [
+      {
+        "signatur": "1385",
+        "codex": "",
+        "written_area_cm": [
+          34.0,
+          23.0
+        ],
+        "content_excerpt": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni."
+      },
+      {
+        "signatur": "7292",
+        "codex": "Codex 1306",
+        "written_area_cm": [
+          35.0,
+          22.5
+        ],
+        "content_excerpt": "1rv Proprium de tempore: Die VI p. nat. dni."
+      },
+      {
+        "signatur": "10096",
+        "codex": "",
+        "written_area_cm": [
+          34.0,
+          22.5
+        ],
+        "content_excerpt": "1rv Commune sanctorum: comm. unius mart."
+      }
+    ],
+    "exact_box_other_record_count": 3,
+    "relaxed_target_box_cm_plus_minus_1": [
+      33.0,
+      37.0,
+      21.5,
+      24.0
+    ],
+    "other_records_inside_relaxed_box": [
+      {
+        "signatur": "1385",
+        "codex": "",
+        "written_area_cm": [
+          34.0,
+          23.0
+        ],
+        "content_excerpt": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni."
+      },
+      {
+        "signatur": "7292",
+        "codex": "Codex 1306",
+        "written_area_cm": [
+          35.0,
+          22.5
+        ],
+        "content_excerpt": "1rv Proprium de tempore: Die VI p. nat. dni."
+      },
+      {
+        "signatur": "7538",
+        "codex": "Codex 1682",
+        "written_area_cm": [
+          37.0,
+          24.0
+        ],
+        "content_excerpt": "1rv Commune sanctorum; pro defunctis: comm. plur. mart.; missa pro defunctis."
+      },
+      {
+        "signatur": "7567",
+        "codex": "",
+        "written_area_cm": [
+          33.0,
+          22.5
+        ],
+        "content_excerpt": "1rv Henrici se AH 42, Nr. 238; Pauli conversio se AH 54, Nr. 87 (nur Incipit ohne Notation); Mariae purificatio se AH 54, Nr. 2 (nur Incipit ohne Notation); Pascha se AH 54, Nr. 7;"
+      },
+      {
+        "signatur": "8735",
+        "codex": "",
+        "written_area_cm": [
+          36.0,
+          22.0
+        ],
+        "content_excerpt": "1rv Proprium de sanctis: Georgii; Marci; Vitalis; Petri mart.; Philippi et Iacobi."
+      },
+      {
+        "signatur": "9165",
+        "codex": "Codex 1306",
+        "written_area_cm": [
+          35.5,
+          22.0
+        ],
+        "content_excerpt": "1r-2v Proprium de sanctis: 1rv Stephani; Stephani oct.; 2rv Innocentium martyrum; Thomae mart. ro AH 13, Nr. 92, an 3 abweichend: Sathane satellites."
+      },
+      {
+        "signatur": "9690",
+        "codex": "",
+        "written_area_cm": [
+          34.5,
+          22.0
+        ],
+        "content_excerpt": "1rv Proprium de sanctis: Caeciliae."
+      },
+      {
+        "signatur": "9946",
+        "codex": "Codex 1440",
+        "written_area_cm": [
+          33.5,
+          24.0
+        ],
+        "content_excerpt": "1rv Proprium de tempore: Fer.II in XL [2]  (Beginn in Fr 9950, 1v) - Fer.V in XL [2]."
+      },
+      {
+        "signatur": "9953",
+        "codex": "Codex 1440",
+        "written_area_cm": [
+          33.0,
+          24.0
+        ],
+        "content_excerpt": "1rv Proprium de tempore: Fer.V p. pascha (Beginn in Fr 9954, 1v) - Fer.VI p. pascha."
+      },
+      {
+        "signatur": "10096",
+        "codex": "",
+        "written_area_cm": [
+          34.0,
+          22.5
+        ],
+        "content_excerpt": "1rv Commune sanctorum: comm. unius mart."
+      }
+    ],
+    "relaxed_box_other_record_count": 10,
+    "published_different_book_control": {
+      "signatures": [
+        "8201",
+        "8304"
+      ],
+      "catalogue_fields": "Both are Codex1146, #12 main-text rows, written area 32.0 x 21.0 cm, notation 'Got', and uncertain four-line count; source notes describe three black and one red staff line.",
+      "role": "A published same-hand/different-book comparison from the existing ornament dossier; it is not a like-for-like Quadr / four-red-rule control and is not counted in the Quadr metadata screen."
+    }
+  },
+  "interpretation": {
+    "observed": "The measured Fr10370 and Fr10406 staff pitches are both approximately 5.6 mm in these selected systems, a strong descriptive consistency between two fragments already catalogued as Codex1505. The catalogue also gives them 11 main-text rows, four-line Quadr notation and very similar written-area dimensions.",
+    "counterevidence": "Four-line Quadr notation is widespread in the full MPO export. Among the 197 records with that notation and 11 main-text rows, 149 have a parseable written-area dimension; three other records fall inside the exact target group's dimensional bounding box, and ten fall inside a ±1 cm sensitivity box. Fr1385, already a documented comparator, is one exact-box match.",
+    "conclusion": "Consistent with the pre-existing Codex1505 association; not a new attribution, not proof of a shared codex, and not a unique layout fingerprint. A better-matched image control and broader measurement sampling would be needed to claim this signal discriminates books."
+  },
+  "limits": [
+    "The selected image systems were chosen after viewing the sources; no blind selection or measurement repeatability study was done.",
+    "The pixel-to-millimeter values are approximate and assume the photographic ruler and parchment share the local scale; perspective, waviness and parchment deformation are uncorrected.",
+    "The full MPO metadata is incomplete and its records are not a random sample. Dimensions are catalogue fields, not remeasured in this screen.",
+    "The written-area range was derived from the five already grouped Codex1505 records; this is a descriptive retrieval screen, not a preregistered rarity test.",
+    "No technical or catalogue result independently verifies the existing Codex1505 grouping."
+  ]
+}

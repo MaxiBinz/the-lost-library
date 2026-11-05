@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-01",
+  "question": "Do the four retained Fr 8311 photographs preserve overlapping written ink or other distinctive physical marks that map them to original surfaces, and what text continuities are directly visible?",
+  "exposure": "All four images were seen in E54 and E57 and again before this protocol; selected chant identities and capture ordering are known. This is an unblinded follow-up, not preregistration or independent reading.",
+  "fixed_comparisons": ["capture 1 bottom against capture 2 top", "capture 3 bottom against capture 4 top"],
+  "competing_explanations": ["successive parts of one original surface", "successive text in different original surfaces", "reuse folds or photographic framing cause misleading adjacency", "conventional shared words occur independently"],
+  "rules": ["Identical ink or damage must be visibly matched before asserting image overlap; textual succession alone is not physical overlap.", "A plausible sequential reading is not an exact side assignment or proof of a seam.", "Do not use filename order or the catalogue's one-leaf entry as independent physical confirmation.", "Where lack of image overlap prevents a decision, report it, and preserve alternatives."],
+  "source_paths": ["data/images/mpo-8311.jpg", "data/images/mpo-8311-capture-2.jpg", "data/images/mpo-8311-capture-3.jpg", "data/images/mpo-8311-capture-4.jpg"],
+  "new_downloads": 0,
+  "no_new_discovery_assumed": true
+}

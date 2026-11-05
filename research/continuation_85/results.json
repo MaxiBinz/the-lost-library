@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-02",
+  "question": "Does the Turku fragment itself support the catalogue transcription 'redisti' at the end of the Sicut mirra incipit?",
+  "classification": "B: plausible transcription correction, pending independent reading and first-notice audit",
+  "source": {
+    "record_url": "https://www.codicesfennici.fi/items/show/249",
+    "viewer_image_label": "TMMA.FragC_0002_v.jpg",
+    "viewer_location": "second image, left writing field, bottom notated line; catalogue calls this folio 1v",
+    "observed_viewer_fragment": "#?c=&m=&s=&cv=1&xywh=1630%2C3047%2C922%2C642",
+    "navigation_warning": "The viewer reset to the first image when a deep link was loaded in this session. If so, open the record, select the second image, use full screen and zoom on the bottom line of the left field.",
+    "photo_credit": "Mikko Kyynäräinen / Turun Museokeskus",
+    "image_licence": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "access": "Public viewer display; no photo file or derived image saved; tile transfer unmeasured."
+  },
+  "catalogue": {
+    "retained_tei": "research/continuation_56/TMMA_fragC.xml",
+    "tei_sha256": "5eb6f4be514296d034ae3342a56bf35c59c50af9833fb24614657e67fda50cdd",
+    "snapshot_scope_clarification_2026_11_04": "Retained TEI revisionDesc is status draft and records encoding added 2017-03-13; redisti is plain text in msContents, without a local uncertainty/correction element. No encodingDesc or editorialDecl occurs in this snapshot. This is not the catalogue's general editorial policy or proof of the current website state.",
+    "record_access_2026_11_04": "Exact https://www.codicesfennici.fi/items/show/249 open in the web reader returned Cache miss. Do not retry this route; this failure does not contradict earlier viewer access or prove global unavailability.",
+    "literal": "Sicut mirra electa odorem redisti",
+    "dependent_museum_copy": "https://museo.disec.fi/Yksa4/id/160988864803200/",
+    "dependence": "The museum explicitly credits and reproduces the Codices Fennici description; it is not a second independent reading."
+  },
+  "image_reading": {
+    "literal_candidate": "Sicut mirra electa odorem dedi[sti?]",
+    "decisive_difference": "The initial character after odorem appears to have the same tall, left-leaning ascender and bowl as the immediately preceding d in odorem and the third letter of the same word; that favors d over r. The word's final strokes are faded.",
+    "reading_method": "Post-exposure, reference-assisted AI reading; compared letterforms in the same visible line. No independent paleographer has checked it.",
+    "uncertainties": ["The end of the word is faded; do not infer every final character from the concordance.", "A script-specific d/r interpretation error is possible.", "The catalogue may have meant a normalized or otherwise qualified transcription; its edition policy has not been checked.", "No general conclusion about the scribe, physical join, or the IV.156/IV.157 shelfmark follows."]
+  },
+  "control": {
+    "id": "Cantus 004942",
+    "url": "https://cantusdatabase.org/chant/493230/",
+    "scope": "Search-indexed transcription of Utrecht Universiteitsbibliotheek Ms.406 f.55r records 'dedisti' in the same antiphon. It identifies a conventional wording, not a transcription of the Turku original or an independent visual reading.",
+    "first_notice": "Two exact-phrase web searches for the redisti form yielded no relevant exact result; indexing is incomplete and first notice of this correction remains unknown."
+  },
+  "result": "The manuscript's first letter is provisionally d, so 'dedisti' is a plausible correction of the catalogue's 'redisti'; the whole last word and actual editorial error remain to be independently checked. Common dedisti is not a new medieval variant.",
+  "independent_confirmation": false,
+  "new_medieval_codex_attribution": false,
+  "novelty_cleared": false,
+  "catalogue_correction_confirmed": false,
+  "external_correction_submitted": false,
+  "new_source_image_files_saved": 0,
+  "frozen_decisions_changed": false
+}

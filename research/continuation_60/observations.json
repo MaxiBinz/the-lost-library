@@ -1,0 +1,71 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I60-10370-top",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Uppermost preserved written line on the image bearing the II-like mark. Candidate continuation of Satagebat igitur, 004816; beginning is cut within a word and the reading was reference-assisted.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-1-1700px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=265,190,1180,200"
+        }
+      },
+      "fragment_id": "mpo-10370",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00001/full/1700,/0/default.jpg",
+      "sha256": "07efe2e1f8f87f31156630a7fe5340f78600c78ddc31d7fad930e5ae81f8a409",
+      "image_dimensions": [
+        1700,
+        1417
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "[...le]ne circa ministeria que sedens secus pedes domini audie[...]",
+      "observer": "Codex AI, unblinded and reference-assisted; 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No full diplomatic edition, Finnish image, unique addressing convention or medieval side mapping."
+      ]
+    },
+    {
+      "id": "I60-10370-sequence",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Same photograph shows an ending followed by two decorated chant openings, provisionally Non est Martha and Et respondens. This supports a Matins-context candidate, not a full edition or unique identity.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-1-1700px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=270,380,1170,750"
+        }
+      },
+      "fragment_id": "mpo-10370",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00001/full/1700,/0/default.jpg",
+      "sha256": "07efe2e1f8f87f31156630a7fe5340f78600c78ddc31d7fad930e5ae81f8a409",
+      "image_dimensions": [
+        1700,
+        1417
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "[...] verba oris eius / Non est Martha [...] / Et respondens [...]",
+      "observer": "Codex AI, unblinded and reference-assisted; 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No full diplomatic edition, Finnish image, unique addressing convention or medieval side mapping."
+      ]
+    }
+  ]
+}

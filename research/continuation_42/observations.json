@@ -1,0 +1,150 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-28",
+  "annotations": [
+    {
+      "id": "I42-8994-c1-last-two",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The last two visible text rows are retained with gaps rather than completed from a reference. The decorated terminal N and possible small o are the proposed split-word prefix; o remains uncertain.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-1-1802px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=295,990,1210,256"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/1802,/0/default.jpg",
+      "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+      "image_dimensions": [
+        1802,
+        1246
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] ad fi dem conuertere uigi[... ?] | [...] [Ps?] [...] [Gloria?] [a] N[o?]",
+      "normalized_candidate": "[...] ad fidem convertere [...] | [...] N[o?]",
+      "observer": "Codex AI exploratory, nonblind reading, 2026-10-28",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Gaps and uncertain abbreviations are retained; normalized text is not a diplomatic transcription.",
+        "Textual fit is separate from repeated photographed ink, immediate physical adjacency, complete surface and medieval side.",
+        "No new codex, unique witness variant or novelty clearance established."
+      ]
+    },
+    {
+      "id": "I42-8994-c2-second-row",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first full lower row begins bi, consistent with the preceding row ending uer-. This is a within-photo word-division control. The christogram expansion is provisional; it is not an independent witness.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-2-1835px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=230,215,1190,70"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00002/full/1835,/0/default.jpg",
+      "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+      "image_dimensions": [
+        1835,
+        1180
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "bi xpisti graciam pas sim omnibus pre di cabat",
+      "normalized_candidate": "bi Christi graciam passim omnibus predicabat",
+      "observer": "Codex AI exploratory, nonblind reading, 2026-10-28",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Gaps and uncertain abbreviations are retained; normalized text is not a diplomatic transcription.",
+        "Textual fit is separate from repeated photographed ink, immediate physical adjacency, complete surface and medieval side.",
+        "No new codex, unique witness variant or novelty clearance established."
+      ]
+    },
+    {
+      "id": "I42-8994-c3-last-two",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The terminal words et adversus are directly visible. The broader verse identification/abbreviation expansion is assisted by the indexed Vulgate text after initial inspection; unresolved middle text is not supplied from it.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-3-1793px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=410,990,1190,247"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00003/full/1793,/0/default.jpg",
+      "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+      "image_dimensions": [
+        1793,
+        1237
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] les. [V] Aſ ti te runt reges ter | re et princi[pes?] [...] aduerſus do[minum?] et aduerſus",
+      "normalized_candidate": "[...] Astiterunt reges terre et principes [...] adversus [Dominum?] et adversus",
+      "observer": "Codex AI exploratory, nonblind reading, 2026-10-28",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Gaps and uncertain abbreviations are retained; normalized text is not a diplomatic transcription.",
+        "Textual fit is separate from repeated photographed ink, immediate physical adjacency, complete surface and medieval side.",
+        "No new codex, unique witness variant or novelty clearance established."
+      ]
+    },
+    {
+      "id": "I42-8994-c4-first-row",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The upper row supplies Christum eius after capture3 ends adversus. A new responsory begins Egre- and continues gius in the next row, already retained as I40-8994-nocte. The first staff is partly outside the frame; the photographed text is present.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-4-1808px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=355,20,1185,110"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1808,/0/default.jpg",
+      "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+      "image_dimensions": [
+        1808,
+        1147
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "xpistum eius. Vere. [R] E gre",
+      "normalized_candidate": "Christum eius. Vere. [R] Egre-",
+      "observer": "Codex AI exploratory, nonblind reading, 2026-10-28",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Gaps and uncertain abbreviations are retained; normalized text is not a diplomatic transcription.",
+        "Textual fit is separate from repeated photographed ink, immediate physical adjacency, complete surface and medieval side.",
+        "No new codex, unique witness variant or novelty clearance established."
+      ]
+    }
+  ],
+  "reused_regions": [
+    "I34-8994-novo",
+    "I40-8994-nocte"
+  ]
+}

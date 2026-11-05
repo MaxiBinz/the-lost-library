@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-05",
+  "question": "Does a two-column passage versus a large notated field necessarily indicate different medieval manuscripts?",
+  "source": "https://www.ub.uni-heidelberg.de/digi-pdf-katalogisate/sammlung29/werk/pdf/salXI14.pdf",
+  "source_locator": "p. 1, Schriftraum and hands",
+  "access": "Web-reader extracted catalogue text; the page screenshot request returned Cache miss and was not retried. No manuscript image was inspected.",
+  "comparator": "Heidelberg, Universitätsbibliothek, Cod. Sal. XI,14",
+  "catalogue_assertions": {
+    "title": "Responsoriale et Antiphonarium de sanctis",
+    "main_book_date": "around 1200",
+    "notated_fields": "ff. 1r–132v and 135v–144r; 11–13 staves and text lines, four red lines",
+    "two_column_fields": "ff. 133r–135r, two columns of 47 lines; ff. 144v–146v, two columns of 32 lines",
+    "hand": "The catalogue describes ff. 1r–146va and the top of 146vb as early Gothic minuscule by one hand.",
+    "two_column_function": "ff. 133ra–135rb: Tonale, a treatise with musical examples, attributed in the catalogue to Bernard of Clairvaux.",
+    "notated_hymn_section": "ff. 135v–144r: Hymni in festis sanctorum; identified within the notated-field range."
+  },
+  "interpretation": "The catalogue describes a medieval manuscript containing a two-column Tonale and notated hymn sections within a span it attributes to one hand. Their different functions and the unverified column count of the notated hymns limit the comparison.",
+  "limitations": [
+    "The catalogue does not explicitly state the column count for each notated field; a single-column interpretation requires inspection of the original or a more precise description.",
+    "The two-column section is a Tonale with musical examples, not a hymn section. It does not supply an exact functional match for Fr 25592’s dense hymn layout.",
+    "The original pages, original copying sequence, dates and scribe attribution were not independently examined.",
+    "This separate Cistercian manuscript does not decide whether IV.173 and Fr 25592 belonged together and does not remove the reported chronological disagreement."
+  ],
+  "target_decision_changed": false,
+  "independent_expert_review_of_project": false,
+  "new_manuscript_attribution": false
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-02",
+  "question": "Does the Fr 8201 antiphon ending uniquely identify a Catherine office?",
+  "published_target": "Grajewski 2022 p.293 reports Fr 20106 Specie corporis decora nimis enituit sed fide and Fr 8201 pulchrior sponso superno placuit, in a Catherine office. The Fr 20106 source has not been inspected.",
+  "local_target": "The previously acquired Fr 8201 image provisionally shows pulchrior sponso superno placuit, then Traditur ergo; source reading was reference-exposed and is not independent confirmation.",
+  "comparison": "The indexed transcription of Analecta Hymnica 52 no.386, a Barbara translation office, has Specie corporis erat decora nimis sed fide pulchrior sponso superno placuit, followed by a Barbara version of Nobilis et pulchra as another antiphon.",
+  "interpretation": "The selected ending alone is not specific to Catherine. The full earlier wording and adjacent sequence differ between the cited Barbara office and the target as published/read, and must not be collapsed into an exact parallel or physical connection.",
+  "limits": "BA49 explicitly refers to AH 52 no.386; the database, OCR extraction and source index are not independent medieval witnesses. Original printed page image, the Barbara manuscript and Fr 20106 were not inspected. The catalogue's Barbara hymn does not establish the Barbara translation office in Fr 20106. This does not refute Grajewski's Catherine identification, association or exclusion.",
+  "next_test": "Inspect securely identified Fr 20106 source sides and rubrics; compare its literal prefix and boundary with Fr 8201 and the two different published office texts. Separately seek an authoritative image or scan of the Barbara witness and check the 1909 printed page against OCR.",
+  "fr20106_inspected": false,
+  "barbara_medieval_original_inspected": false,
+  "printed_page_image_inspected": false,
+  "barbara_office_in_fr20106_established": false,
+  "published_association_refuted": false,
+  "new_historical_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

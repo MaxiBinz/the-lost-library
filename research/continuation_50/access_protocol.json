@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "previous_turn": "Progress: E49 inspected eight photographs, recorded four source regions and corrected the local comparison scope; the765-file review archive passed extracted checks and replay. Session69243 is terminal exit0. No live process is being waited on.",
+  "question": "Can a bounded ordinary source-identifier lookup establish the actual Fr20106 image/holding crosswalk without merging an A103 shelfmark candidate?",
+  "prior_exposure": "E49 source record and canonical A103 description are known. This turn has read raw BOMPAC row11947, including its exact institutional online-record URL; no claim of preregistration before that metadata read.",
+  "source_inputs": {
+    "research/continuation_26/bompac/raw_metadata/MPO_BOMPAC.xlsx": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9",
+    "research/continuation_49/sources.json": "e930dbef8535d4cac47f74d3142a2c264a90e9f3c50ab47a5116d8607a9a5dbd"
+  },
+  "bounds": [
+    "At most one ordinary open of the exact institutional Fr20106 record URL supplied by the retained raw dataset, only if not a previously failed/challenged exact route. Stop on restrictions; no captcha, headers, proxy, mirror or endpoint tricks.",
+    "One bounded authoritative identifier chain from the actual A103 catalogue links may clarify namespace/physical correspondence; a shared shelfmark alone never establishes identity.",
+    "No image acquisition until an exact physical/locus link and rights are established; no bulk psalter download.",
+    "If this specific image lookup does not resolve, retain that dependency and execute a separately recorded primary-source test on another existing source-only pair."
+  ],
+  "frozen_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  },
+  "limits": {
+    "working_source_files": 188,
+    "conservative_transfer_plan_bytes": 1669530774,
+    "outreach": false,
+    "publication": false,
+    "paid_services": false
+  },
+  "goal_complete": false
+}

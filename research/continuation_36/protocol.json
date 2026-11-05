@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "question": "Do original source images supply exact textual boundary evidence for the three already catalogued Graduale Aboense continuities, and which captures show it?",
+  "selection": "All three continuity components in data/reconstruction.json, without selecting a successful example after viewing images. These are previously documented controls within the existing lead set, not a new target or discoveries.",
+  "prior_exposure": "The catalogue and reconstruction demonstration were read; earlier project work may have viewed these images. No fresh boundary-image inspection precedes this file in E36. This is exploratory, not an independent or blind validation.",
+  "edges": [
+    {"id":"aboense-I", "from":"mpo-7960", "catalogue_from":"2v", "to":"mpo-7961", "catalogue_to":"1r", "occasion":"Dom. in L"},
+    {"id":"aboense-II", "from":"mpo-8343", "catalogue_from":"1v", "to":"mpo-8344", "catalogue_to":"1r", "occasion":"Dom.II p. pascha"},
+    {"id":"aboense-III", "from":"mpo-8344", "catalogue_from":"2v", "to":"mpo-8343", "catalogue_to":"2r", "occasion":"Dom.V p. pascha"}
+  ],
+  "inputs": "All four retained captures of each of mpo-7960, mpo-7961, mpo-8343, mpo-8344: sixteen original JPEGs, no downloads.",
+  "hypothesis": "The stated boundaries preserve successive text, potentially splitting a word or a chant across captures from the separate objects.",
+  "predictions": {
+    "support": "Literal end/start readings form a specific uninterrupted phrase in the predicted direction and consistent liturgical setting; the same words must be visible before consulting a concordance.",
+    "challenge": "Verified incompatible text at securely mapped boundary positions challenges that specific edge. Failure to read or locate a boundary does not contradict it.",
+    "alternatives": "Common chants in different places, repeated text, wrong capture/side assignment, crop or missing material, catalogue error.",
+    "control": "Inspect the reverse direction and one non-neighbour cross-component boundary. Common chant words or identical script alone should not recover these as the same immediate text continuation; this does not make them different books."
+  },
+  "procedure": "Inspect all sixteen originals and record the actual capture inventory. Locate likely boundary regions from visible content rather than treating capture ordinals as sides. Preserve literal partial strings separately from expanded identifications; mark unread letters. Then check any chant identification against a primary catalogue/concordance and record its limited role. Do not infer physical joins, entire quire structures or unique book identity from text alone.",
+  "decision": "A readable directional boundary is local textual support for a previously published continuation. All three edges must be reported, including unresolved cases. Published status and AI/non-independent review status remain separate.",
+  "constraints": "Keep frozen ten-case reviews, matching baselines and original images unchanged. No new manuscript target, downloads, outreach or publication."
+}

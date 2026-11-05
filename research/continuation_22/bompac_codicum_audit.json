@@ -1,0 +1,82 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-24",
+  "purpose": "Bounded prior-art check of current public BOMPAC/CODICUM corpus work; no target attribution or identity claim.",
+  "sources": [
+    {
+      "id": "BOMPAC-COMBINED-2025",
+      "type": "peer-reviewed open-access research note describing a dataset",
+      "author": "Seppo Eskola",
+      "title": "Fragments Combined: A Comprehensive Dataset on Medieval Book Fragments in Stockholm and Helsinki",
+      "publication": "Fragmentology VIII (2025), pp. 233-240",
+      "doi": "10.24446/no5r",
+      "url": "https://www.fragmentology.ms/article/download/RN_Eskola_08/8737/24725",
+      "dataset_title": "Stockholm-Helsinki-Frs-Combined-BOMPAC",
+      "dataset_doi_cited_by_article": "10.5281/zenodo.17511106",
+      "dataset_url": "https://doi.org/10.5281/zenodo.17511106",
+      "access_status": "Article read; linked dataset record and payload not inspected. Direct Zenodo/community routes returned cache-miss/unavailable responses through the connected web tool.",
+      "reported_scope": {
+        "total_fragments": 29230,
+        "mpo_records": 22553,
+        "fragmenta_membranea_records": 5434,
+        "supplementary_manuscript_fragments": 14,
+        "early_print_fragments": 1229,
+        "approximate_codices": 12300,
+        "codex_distribution_approximate": {
+          "single_fragment": 8600,
+          "two_fragments": 1600,
+          "three_or_more_fragments": 2000
+        }
+      },
+      "reported_method": "Integrates Stockholm and Helsinki fragments, harmonizes institutional metadata and adds early-modern reuse information. The article says this research dataset is not a substitute for institutional metadata.",
+      "target_level_result": null,
+      "novelty_implication": "Cross-collection integration and a combined research corpus are established prior work; no Fr10370/Codex1505 row-level result is inferred from the article."
+    },
+    {
+      "id": "CODICUM-NORDIC-SURVEY",
+      "type": "living institutional survey/resource",
+      "title": "Nordic Survey: An Overview of Medieval Manuscripts in Nordic Collections",
+      "url": "https://www.codicum.eu/resources/nordic-survey",
+      "accessed": "2026-10-24",
+      "reported_method": "Compiled from published and unpublished catalogues, electronic databases, and direct correspondence with scholars and surveyed collections; the page says the resource will be updated as new information appears.",
+      "reported_finland_helsinki_entry": {
+        "manuscript_fragments": 5435,
+        "grouped_codices": 1544,
+        "early_print_fragments": 996,
+        "catalogues_and_databases_include": [
+          "Taitto 2001, Fragmenta membranea IV:1 Antiphonaria",
+          "Fragmenta membranea database",
+          "BOMPAC project metadata"
+        ]
+      },
+      "target_identifier_search": {
+        "queries_on_page": ["F.m.IV.157", "Codex 1505"],
+        "result": "No matching target identifier text in the survey page; this does not establish absence from linked datasets or catalogues."
+      },
+      "target_level_result": null,
+      "count_note": "The paper reports 5,434 Fragmenta Membranea records, whereas the current CODICUM survey reports 5,435 Helsinki manuscript fragments. Their one-record difference is unresolved and may reflect version or scope; it is not silently reconciled here.",
+      "novelty_implication": "The survey is evidence of current collection-level integration and prior-art coverage, not an adjudication of any target leaf relationship."
+    },
+    {
+      "id": "CODICUM-NEWS",
+      "type": "official project news page",
+      "title": "CODICUM News",
+      "url": "https://www.codicum.eu/news",
+      "accessed": "2026-10-24",
+      "observed_public_activity": [
+        "First MPO metadata dataset and Nordic survey announced in October 2025.",
+        "Project news page contains 2026 activity and describes ongoing multidisciplinary work and sampling."
+      ],
+      "target_level_result": null,
+      "novelty_implication": "Related institutional work remains active; no unpublished candidate or target-specific result is inferred."
+    }
+  ],
+  "overall_result": {
+    "broad_cross_collection_integration_is_new_to_this_project": false,
+    "target_level_relationship_settled_by_sources_read": false,
+    "bompac_record_payload_inspected": false,
+    "hypothesis_queue_changed": false,
+    "historical_finding_established": false,
+    "next_evidence": "Obtain any target-level BOMPAC crosswalk only through a supported public route; continue independent source-text, sequence and side tests regardless."
+  }
+}

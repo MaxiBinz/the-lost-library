@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "previous_goal_turn": "Progress: E37/E38 read relevant scholarship, acquired actual C23 69r, directly compared the selected shorter ending, retained seven regions and verified the offline package without changing frozen/core inputs.",
+  "question": "Does a short explicitly aligned portion of the retained ending have the same source-visible notes in Fr 20274 and C23 69r?",
+  "prior_exposure": "Both complete images, their selected words and published explanations have been viewed. A Urberg comparison figure was viewed in E37 but not used to copy target pitches. This test is exploratory, not blind or independent.",
+  "method_source": {
+    "url": "https://cantusdatabase.org/static/documents/2.%20Volpiano%20Protocols.pdf",
+    "authors": "Barbara Swanson, Jennifer Bain, Kate Helsen, Jan Koláček, Debra Lacoste, Alessandra Ignesti",
+    "date_from_document": "2016-08-08",
+    "scope": "Basic entry pp.2–6: clef, pitch, syllable/neume alignment, line breaks, custos exclusion and uncertain-neume retention; relevant figures visually checked."
+  },
+  "selection": "Start with Dolor cessit cum surrexit and one internal petition phrase if readable. Keep both successes and disagreements; do not extend opportunistically to obtain identity. Record any curtailed coverage explicitly.",
+  "tests": [
+    "Inspect each source clef and local staff lines; keep source-pixel notehead positions and literal underlay distinct from inferred pitch.",
+    "Transcribe each source separately before programmatic comparison. Mark uncertain clefs, pitches, note counts or syllable alignment; never normalize away variants.",
+    "Exclude custodes from sounded-note counts; do not infer modern rhythm, chromatic inflection or an entire melody from an excerpt.",
+    "Compare absolute diatonic labels only if clefs are secure. Otherwise compare explicitly limited staff-step contours, with transposition and ambiguity disclosed.",
+    "Test alternate clef interpretation and note segmentation before accepting a disagreement. A shared standard melody or version cannot establish same codex, date or copying direction."
+  ],
+  "resources": "Existing local source images only; no new download, model training, upload, outreach or publication.",
+  "frozen_inputs": "Preserve the five experiment files, core fragments and MPO metadata hashes."
+}

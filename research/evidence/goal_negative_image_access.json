@@ -1,0 +1,11 @@
+{
+  "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00001/full/800,/0/default.jpg",
+  "checked_at_utc": "2026-10-19T20:30:34.318810+00:00",
+  "purpose": "one bounded actual image request for published same-hand/different-book negative, no bulk download",
+  "status": 200,
+  "content_type": "image/jpeg",
+  "bytes": 59532,
+  "sha256": "b0e5a3a3066f0da51a4f6c94fa04ac833b4a0dc8d1488998f4ca6a02432797bb",
+  "saved": "research/evidence/mpo_8304_goal_sample.jpg",
+  "rights": "Public Domain Mark1.0 in cached source manifest"
+}

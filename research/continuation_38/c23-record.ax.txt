@@ -1,0 +1,166 @@
+Browser tab: 5, Title: "Alvin - C 23 - Rimofficier", URL: "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538".
+0 AXWebArea Alvin - C 23 - Rimofficier, URL: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538
+	1 container
+		2 container alvinForm
+			3 container header
+				4 link Description: ALVIN, Value: alvin-portal.org/alvin/home.jsf?dswid=-4538, ID: alvinForm:j_idt34
+				5 container
+					6 text Plattform för digitala samlingar och digitaliserat kulturarv
+					7 container alvinForm:j_idt41
+						8 button Svenska, ID: alvinForm:j_idt41_button
+						9 button ui-button, ID: alvinForm:j_idt41_menuButton
+					10 container alvinForm:j_idt51
+						11 button Logga in (), ID: alvinForm:j_idt51_button
+						12 button ui-button, ID: alvinForm:j_idt51_menuButton
+			13 container mainContainer
+				14 container searchContainer
+					15 container alvinForm:quickSearchContainer
+						16 container
+							17 container alvinForm:j_idt86
+								18 combo box (collapsed, settable) ID: alvinForm:j_idt86_focus, Secondary Actions: Expand
+								19 text Alla resurstyper
+							20 text field (settable) alvinForm:searchField
+							21 image
+					22 container
+						23 link Description: Utökad sökning, Value: alvin-portal.org/alvin/advanced.jsf?dswid=-4538&searchType=EXTENDED&query=&aq=%5B%5B%5D%5D&aqe=%5B%5D
+						24 text |
+						25 link Description: Om Alvin, Value: alvin-portal.org/info/sv/start.html, ID: alvinForm:about
+						26 text |
+						27 link Description: Upphovsrätt, Value: alvin-portal.org/info/sv/upphovsratt.html, ID: alvinForm:copyright
+						28 text |
+						29 link Description: Kontakt, Value: alvin-portal.org/info/sv/kontakt.html, ID: alvinForm:contact
+				30 container
+					31 content list contentMenu
+						32 container alvinForm:attachmentPanel
+							33 container alvinForm:attachmentPanel_content
+								34 link Description: Vänster pärm, utsida , Help: Vänster pärm, utsida, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:0:j_idt126
+								35 link Description: Vänster pärm, insida , Help: Vänster pärm, insida, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:1:j_idt126
+								36 link Description: Folio 1r , Help: Folio 1r, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:2:j_idt126
+								37 link Description: Folio 1v , Help: Folio 1v, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:3:j_idt126
+								38 link Description: Folio 2r , Help: Folio 2r, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:4:j_idt126
+								39 link Description: Folio 2v , Help: Folio 2v, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:5:j_idt126
+								40 link Description: Folio 3r , Help: Folio 3r, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:6:j_idt126
+								41 link Description: Folio 3v , Help: Folio 3v, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:7:j_idt126
+								42 link Description: Folio 4r , Help: Folio 4r, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:8:j_idt126
+								43 link Description: Folio 4v , Help: Folio 4v, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:9:j_idt126
+								44 link Description: Folio 5r , Help: Folio 5r, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:10:j_idt126
+								45 link Description: Folio 5v , Help: Folio 5v, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:11:j_idt126
+								46 link Description: Folio 6r , Help: Folio 6r, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:12:j_idt126
+								47 link Description: Folio 6v , Help: Folio 6v, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:13:j_idt126
+								48 link Description: Folio 7r , Help: Folio 7r, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:attachmentPanel:14:j_idt126
+							49 container Description: Pagination, ID: alvinForm:attachmentPanel_paginator_bottom
+								50 link Description: Next Page, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#
+					51 container alvinForm:content
+						52 container alvinForm:contentArkad
+							53 container alvinForm:imageHolder
+								54 link Description: previewImage, Value: alvin-portal.org/alvin/imageViewer.jsf?pid=alvin-record%3A160517&dsId=ATTACHMENT-0001
+								55 container
+									56 link Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:j_idt192
+									57 link Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:j_idt193
+									58 link alvin-portal.org/alvin/imageViewer.jsf?dswid=-4538&pid=alvin-record%3A160517&dsId=ATTACHMENT-0001
+								59 text Vänster pärm, utsida
+							60 heading C 23 - Rimofficier, Value: 1
+								61 text C 23 - Rimofficier
+							62 container
+								63 image
+								64 text (Text, Handskrift)
+							65 heading Alternativ titel, Value: 2
+								66 text Alternativ titel
+							67 container
+								68 text Reimoffizien  (översatt)
+							69 heading Språk, Value: 2
+								70 text Språk
+							71 content list alvinForm:j_idt259_list
+								72 text Latin
+								73 text Svenska
+								74 text Fornsvenska (-1500)
+							75 heading Tillkomstinformation, Value: 2
+								76 text Tillkomstinformation
+							77 link Description: Linköping, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-place%3A22
+							78 text , Sverige; 
+							79 link Description: Vadstena, Value: alvin-portal.org/alvin/view.jsf?pid=alvin-place%3A729
+							80 text , Sverige, 1400-talet
+							81 heading Fysisk beskrivning, Value: 2
+								82 text Fysisk beskrivning
+							83 content list alvinForm:j_idt382_list
+								84 container
+									85 text 210+I fol.; 22  (höjd/längd)  x 14,5  (bredd)  cm
+							86 text Material:  papper
+							87 container
+								88 text Format:  Icke digitalt + Digitalt, digitaliserad från originalet
+							89 heading Anmärkningar, Value: 2
+								90 text Anmärkningar
+							91 content list alvinForm:j_idt508_list
+								92 container
+									93 text Upphovsinformation:  Probably written in Vadstena Abbey and maybe partly written in Linköping. The first scribe was monk in Vadstena 1408-38 and the second identified scribe was active in Vadstena almost a century later, 1487-1516. Water marks gives a date after 1393 and the inscriptions on f. 64 a date after 1399. The first scribe was Reverend in Kil, Östergötland, before he came to Vadstena. The inscription on the back cover states he was a priest in the diocese of Linköping.
+								94 container
+									95 text Proveniens:  Petrus Olavi from Linköping, monk in Vadstena 1408-38, inscription on inside of front cover. No Vadstena shelf marks.
+							96 heading Litteratur, Value: 2
+								97 text Litteratur
+							98 text Nilsson, Ann-Marie, Sånger till fyra kyrkofester i Skara stift, Skara stiftshistoriska sällskap, Skara, 2011
+							99 heading Relaterade poster i Alvin, Value: 2
+								100 text Relaterade poster i Alvin
+							101 link Description: Se särskilt beskrivna delar (1), Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A160517&dswid=-4538#, ID: alvinForm:j_idt526
+							102 content list alvinForm:j_idt527_list
+								103 container
+									104 text Se även: 
+									105 link Value: alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A104049, Description: Mittelalterliche Handschriften der Universitätsbibliothek Uppsala : Katalog über die C-Sammlung : Bd 1, Handschriften C I-IV, 1-50
+							106 heading Externa länkar, Value: 2
+								107 text Externa länkar
+							108 content list alvinForm:j_idt537_list
+								109 container
+									110 text Se även: 
+									111 link Description: Manuscripta - A Digital Catalogue of Manuscripts in Sweden, Value: manuscripta.se/ms/100411
+							112 heading Ämnesord, allmänna, Value: 2
+								113 text Ämnesord, allmänna
+							114 content list alvinForm:j_idt553_list
+								115 container
+									116 text Teologi  (sao)
+								117 container
+									118 text Theology  (lcsh)
+							119 heading Ämnesord, genre/former, Value: 2
+								120 text Ämnesord, genre/former
+							121 content list alvinForm:j_idt580_list
+								122 text Medeltida handskrifter
+							123 heading Klassifikation, Value: 2
+								124 text Klassifikation
+							125 content list alvinForm:j_idt615_list
+								126 container
+									127 text C  (kssb)
+							128 heading Bokband, Value: 2
+								129 text Bokband
+							130 container
+								131 text Band:  Copertbinding. Erased illegible red title on the front cover.
+							132 heading Kontakt, Value: 2
+								133 text Kontakt
+							134 link Description: Kontakta oss, Value: mailto:fraga.biblioteket@ub.uu.se?subject=Ang%C3%A5ende%20Alvinpost%20alvin-record%3A160517&body=G%C3%A4llande%20%20http%3A//urn.kb.se/resolve%3Furn=urn%3Anbn%3Ase%3Aalvin%3Aportal%3Arecord-160517
+							135 heading Placering, Value: 2
+								136 text Placering
+							137 text Uppsala universitetsbibliotek Carolina Rediviva, Dag Hammarskjölds väg 1 Box 510
+							138 text SE 751 20 Uppsala
+							139 text C-samlingen
+							140 content list
+								141 container
+									142 text Signum:  C 23
+							143 heading Identifikatorer (generella), Value: 2
+								144 text Identifikatorer (generella)
+							145 container
+								146 text urn:nbn:se:alvin:portal:record-160517  (nbn)
+							147 heading Identifikatorer (lokala), Value: 2
+								148 text Identifikatorer (lokala)
+							149 container
+								150 text alvin-record:160517  (alvin)
+							151 heading Licensiering av verket, Value: 2
+								152 text Licensiering av verket
+							153 link Description: Public Domain Mark (Ingen känd upphovsrätt), Value: creativecommons.org/publicdomain/mark/1.0/
+					154 container functionMenu
+						155 text Länk till posten
+						156 container alvinForm:appendices
+							157 heading Bilagor, Value: 3
+								158 text Bilagor
+							159 content list alvinForm:j_idt1576:j_idt1578_list
+								160 container
+									161 link Description: 160517.pdf, Value: alvin-portal.org/alvin/attachment/document/alvin-record:160517/ATTACHMENT-0414.pdf, ID: alvinForm:j_idt1576:j_idt1578:0:appendixThumbnail
+									162 text PDF: Fulltext
+
+The focused UI element is 20 text field (settable) alvinForm:searchField

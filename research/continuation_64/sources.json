@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-01",
+  "question": "What does the A 103 reference mean for the missing Fr 20106, and is the similarly named Manuscripta psalter a sound image crosswalk?",
+  "prior_exposure": "Fr 20106, the ambiguity, Fr 20274, and the psalter had already been inspected or discussed before these source lookups; exploratory source reconciliation, not a blind test.",
+  "sources": [
+    {
+      "id": "sandgren-inventory",
+      "url": "https://www.rj.se/bidrag/2002/illuminerade-handskrifter-i-svenska-samlingar/",
+      "type": "researcher fieldwork report hosted by research funder",
+      "locator": "Eva Lindqvist Sandgren final report, paragraphs on 2003–2006 inventory and collection counts",
+      "access": "Direct web-reader text opened 2026-11-01; only relevant source passages read.",
+      "source_assertion": "The researcher reports inspecting a distinct collection of National Library fragments deposited at the National Archives, with old shelfmark A 103; the report distinguishes these from MPO account covers. Inventory totals include 522 records under that deposit.",
+      "limit": "A historical institutional description of the collection, not a current holding register or an exact Fr 20106 crosswalk."
+    },
+    {
+      "id": "reese-20120",
+      "url": "https://www.diva-portal.org/smash/get/diva2%3A419695/FULLTEXT01.pdf",
+      "type": "student dissertation reporting named manuscript source",
+      "locator": "Anne Reese, Uppsala University C-uppsats, title pages dated 2005/2006; printed pages 46–47 and 53",
+      "access": "Direct PDF web-reader text opened 2026-11-01; specified passages only, no manuscript image inspected or file saved.",
+      "source_assertion": "The source list identifies a different fragment, Fr 20120, as KB (ARKIS RA), A 103 k 121, and places it under the National Archives. The source description reports an unbound reused antiphonal leaf.",
+      "limit": "This is a related identifier example, not Fr 20106, not its photograph and not a verified description of a current holding."
+    },
+    {
+      "id": "mpo-20106",
+      "path": "research/mpo.csv",
+      "locator": "CSV line 11946; pinned source metadata in research/continuation_49/sources.json",
+      "source_assertion": "Fr 20106: KB, A 103, k 95---Episcopus--; antiphonal with Clement, Catherine and Barbara content; no image or IIIF pointer in this row.",
+      "limit": "These fields alone do not specify the current physical holder, demonstrate which A 103 namespace applies, or identify an image."
+    },
+    {
+      "id": "manuscripta-psalter",
+      "url": "https://www.manuscripta.se/ms/101111",
+      "type": "institutional catalogue record",
+      "locator": "title, contents, physical description and acquisition history",
+      "access": "Previously opened in E49 and re-opened 2026-11-01; catalogue description inspected, no image acquired.",
+      "source_assertion": "National Library of Sweden A 103 is catalogued as a 36-leaf fragmented psalter from around the late twelfth or early thirteenth century.",
+      "limit": "This record does not explicitly equate itself with Fr 20106; a similar label alone is not proof of equivalence or non-equivalence."
+    },
+    {
+      "id": "fr20274-local",
+      "path": "research/continuation_51/observations.json",
+      "locator": "I51-20274-library-label; retained native photograph and pinned MPO record",
+      "source_assertion": "The project previously read a later pencil reference on Fr 20274 as KB / A103 k / CXVIII, consistent with its separate catalogued reference.",
+      "limit": "Different object and number; this is a related reference pattern, not a crosswalk to Fr 20106."
+    }
+  ],
+  "failed_routes": [
+    {"url":"https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A473234","outcome":"A distinct indexed A 103 deposit example did not open (Cache miss); a same-call find unintentionally repeated the fetch. No content was read or used as evidence; do not retry."},
+    {"url":"https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A473578","outcome":"Cache miss; no direct content used; do not retry."},
+    {"url":"https://manuscripta.kb.se/place/100113","outcome":"Cache miss; no content used; do not retry."}
+  ],
+  "search_scope": "Several exact Fr 20106 / A 103 k searches yielded no verified image link. Search indexing is neither exhaustive nor proof of absence. Search/web-reader traffic was unmeasured within the existing reserve."
+}

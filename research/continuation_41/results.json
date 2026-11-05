@@ -1,0 +1,99 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-28",
+  "question": "Do the saved Fr8994 feature correspondences identify distinctive repeated source detail, or only generic glyph/rule similarities? Can this resolve any part of the source-surface map?",
+  "summaries": {
+    "8994-1-2": {
+      "reviewed_correspondences": 25,
+      "manual_outcomes": {
+        "isolated_generic_similarity": 11,
+        "insufficient_context": 12,
+        "context_mismatch": 2
+      },
+      "reviewed_inliers": 10,
+      "inlier_outcomes": {
+        "insufficient_context": 10
+      },
+      "distinct_inlier_positions_2px_left_right": [
+        10,
+        10
+      ],
+      "original_screen_passed": false
+    },
+    "8994-3-4": {
+      "reviewed_correspondences": 25,
+      "manual_outcomes": {
+        "isolated_generic_similarity": 19,
+        "context_mismatch": 6
+      },
+      "reviewed_inliers": 6,
+      "inlier_outcomes": {
+        "isolated_generic_similarity": 4,
+        "context_mismatch": 2
+      },
+      "distinct_inlier_positions_2px_left_right": [
+        4,
+        4
+      ],
+      "original_screen_passed": false
+    },
+    "20274-overlap-positive": {
+      "reviewed_correspondences": 6,
+      "manual_outcomes": {
+        "distinctive_context_consistent": 5,
+        "isolated_generic_similarity": 1
+      },
+      "reviewed_inliers": 6,
+      "inlier_outcomes": {
+        "distinctive_context_consistent": 5,
+        "isolated_generic_similarity": 1
+      },
+      "distinct_inlier_positions_2px_left_right": [
+        6,
+        6
+      ],
+      "original_screen_passed": true
+    },
+    "8994-1-3-nonrepeat": {
+      "reviewed_correspondences": 7,
+      "manual_outcomes": {
+        "isolated_generic_similarity": 7
+      },
+      "reviewed_inliers": 7,
+      "inlier_outcomes": {
+        "isolated_generic_similarity": 7
+      },
+      "distinct_inlier_positions_2px_left_right": [
+        4,
+        4
+      ],
+      "original_screen_passed": false
+    }
+  },
+  "direct_result": "All ten 1/2 inliers lie in the narrow fold/frame-edge band: the right points are within 37px of the top, and left points within 36px of the bottom. This remains insufficient context for a secure local identification. The six 3/4 inliers include two orientations of a word-to-decorated-initial mismatch and otherwise generic note/minim/ruling similarities. No candidate patch is assessed as distinctive shared context.",
+  "control_result": "Five of six deterministic positive-control patches show the same multi-feature writing context; the sixth is weak ruling context. The seven nonrepeat-control inliers show generic motifs at four distinct positions. These are selected patch audits, not an accuracy or sensitivity estimate.",
+  "interpretation": "The manual audit explains why small residuals or a few matching glyphs cannot promote either failed E35 boundary. It does not refute the possibility that the 1/2 fold band repeats photographed detail. Incompatible selected keypoints do not prove that entire photographs cannot overlap.",
+  "prior_exposure": "Post hoc, nonblind AI review of already inspected images/feature results; not independent confirmation.",
+  "optional_row_audit": "Not performed in E41. Any future row-count consistency must include deliberately mismatched grouping controls and cannot alone establish a medieval side.",
+  "next_test": "Audit whole-capture text-row coverage and exact boundary text using the existing photos, including wrong-grouping controls; seek distinctive uninterrupted source context before assigning a complete surface. E40 Finnish original and prior-art dependencies remain separate.",
+  "accepted_photographic_overlap": false,
+  "complete_surface_map_established": false,
+  "physical_join_established": false,
+  "new_codex_attribution": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "changed_e35_screen": false,
+  "new_download_bytes": 0,
+  "unchanged_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  }
+}

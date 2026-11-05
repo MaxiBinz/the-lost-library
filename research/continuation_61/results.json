@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-01",
+  "source_regions": [
+    "I61-10370-gloriosa"
+  ],
+  "local_observation": "The exposed lower-field words in Fr10370 capture4 provisionally fit responsory Gloriosa diei 006779; the final line is incomplete and the right side is erased.",
+  "comparison": "In the search-indexed Barcelona Ms.2322 f.097v, Gloriosa 006779 and its verse occur before a versicle, a first lauds antiphon, and then Haec corde compuncta. This is an example of non-immediate liturgical order, not proof of Fr10370/IV156 page order.",
+  "finnish_context": "The indexed IV156 folio8 opening is within Haec corde compuncta at lauds. A Matins-to-lauds progression is plausible if the candidate identifications and original surface order hold, but no unique identity or immediate adjacency follows.",
+  "e60_effect": "The comparison does not resolve the E60 same-address conditional conflict; placing the Swedish fragment earlier than f8 requires a different address, reset, side interpretation or another explanation if the compared k-II mark is assumed unique.",
+  "reference_source_directly_opened": false,
+  "finnish_image_inspected": false,
+  "complete_final_text_verified": false,
+  "same_book_proved": false,
+  "adjacent_pages_proved": false,
+  "e60_conflict_resolved": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0,
+  "next_test": "Obtain and inspect IV156 f8 original, verify the Swedish mark/side mapping and the unique-address assumptions. Use any further text comparison to test exact written boundaries, not broad feast similarity."
+}

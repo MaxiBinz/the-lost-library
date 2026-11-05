@@ -1,0 +1,168 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-29",
+  "scope": "Exploratory manual AI source inspection; provisional, not independent historical or notation review. All nine newly retained native photographs and all six initial low-resolution originals were viewed.",
+  "native_captures_inspected": [
+    "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+    "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+    "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+    "research/continuation_44/images/Fr8066-capture-4-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-2-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-3-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-5-native.jpg"
+  ],
+  "source_observations": [
+    {
+      "id": "8066-rules",
+      "path": "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+      "xywh": [
+        1160,
+        320,
+        270,
+        150
+      ],
+      "literal_observation": "Five horizontal rules can be followed in this music band; four appear dark and one red. Approximate y positions at the sampled right-hand field are334,354,372red,390,409.",
+      "limit": "Rule function and the catalogue counting convention remain separate from literal visible count; no absolute pitch or confirmed catalogue correction."
+    },
+    {
+      "id": "9620-rules",
+      "path": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+      "xywh": [
+        800,
+        290,
+        265,
+        140
+      ],
+      "literal_observation": "Five horizontal rules are visible in the selected music band, approximately301,320,337,354red,371 at the sampled right field.",
+      "limit": "Compatible local ruling, not identity evidence."
+    },
+    {
+      "id": "8066-Domus",
+      "path": "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+      "xywh": [
+        420,
+        275,
+        1060,
+        200
+      ],
+      "literal_candidate": "[...] rum [Euouae] [a] Domus mea domus ora | tionis uocabitur [...] Haec est domus",
+      "limit": "Selected words are source-visible; no local Cantus ID or complete service reconstruction is assigned yet."
+    },
+    {
+      "id": "8066-Domum",
+      "path": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+      "xywh": [
+        290,
+        440,
+        1090,
+        280
+      ],
+      "literal_candidate": "[...] [lau des?] Domum tu | am domine decet sanctitudo in longitudinem die",
+      "limit": "The following capture begins rum, consistent with a dierum word boundary; this is a candidate reading order, not a confirmed medieval side map."
+    },
+    {
+      "id": "9620-Oquam",
+      "path": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+      "xywh": [
+        45,
+        280,
+        1025,
+        255
+      ],
+      "literal_candidate": "O [quam?] metuendus est locus iste uere non | est hic aliud nisi domus dei et porta celi",
+      "limit": "The phrase occurs across chant contexts. No unique book, service position or local Cantus ID is established from a concordance alone."
+    },
+    {
+      "id": "9620-rubric",
+      "path": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+      "xywh": [
+        320,
+        530,
+        440,
+        145
+      ],
+      "literal_candidate": "[hymnus?] Hoc i[n?] templo | Beati qui habitant | ad [...]",
+      "limit": "Provisional short cue reading, revised after reference consultation and raw-image reinspection. Likely Hoc in templo; exact local hymn ID, complete service position and different-book genre remain unestablished."
+    },
+    {
+      "id": "9620-Fundata",
+      "path": "research/continuation_44/images/Fr9620-capture-2-native.jpg",
+      "xywh": [
+        325,
+        1015,
+        780,
+        270
+      ],
+      "literal_candidate": "Fundata est domus domini s[...] | ticem montium et exaltata",
+      "limit": "Right-hand text is outside this image field. Do not silently complete super verticem from a reference."
+    }
+  ],
+  "controls": [
+    {
+      "object_id": "mpo-8201",
+      "path": "data/images/mpo-8201.jpg",
+      "xywh": [
+        175,
+        180,
+        455,
+        60
+      ],
+      "observation": "The selected raw music band also presents five horizontal rules. The800px images give weaker colour detail; no absolute pitch or book attribution is certified."
+    },
+    {
+      "object_id": "mpo-8304",
+      "path": "data/images/mpo-8304.jpg",
+      "xywh": [
+        185,
+        165,
+        460,
+        60
+      ],
+      "observation": "The selected raw music band also presents five horizontal rules. The800px images give weaker colour detail; no absolute pitch or book attribution is certified."
+    },
+    {
+      "object_id": "mpo-8072",
+      "path": "data/images/mpo-8072.jpg",
+      "xywh": [
+        145,
+        180,
+        505,
+        60
+      ],
+      "observation": "The selected raw music band also presents five horizontal rules. The800px images give weaker colour detail; no absolute pitch or book attribution is certified."
+    },
+    {
+      "object_id": "mpo-8073",
+      "path": "data/images/mpo-8073.jpg",
+      "xywh": [
+        150,
+        160,
+        500,
+        70
+      ],
+      "observation": "The selected raw music band also presents five horizontal rules. The800px images give weaker colour detail; no absolute pitch or book attribution is certified."
+    }
+  ],
+  "provisional_results": {
+    "four_vs_five_split_supported": false,
+    "different_book_genres_established": false,
+    "duplicated_complete_opening_established": false,
+    "same_codex_established": false,
+    "independent_confirmation": false,
+    "new_discovery": false
+  },
+  "correction_to_E43_framing": "The9620 hymn reference is a claim about a listed item/incipit; both catalogue records call the material Antiphonarium and both originals show notated chant. The hypothesis that9620 is a different hymn-book genre is not supported by this inspection.",
+  "pending": "Formal source records are generated from this checkpoint; source-integrity checks verify provenance, not the reading. Full service/side mapping and independent adjudication remain open.",
+  "previous_version": "research/continuation_44/inspection.v1.json",
+  "reference_assisted_revision": {
+    "date": "2026-10-29",
+    "site": "I44-9620-rubric",
+    "previous_literal_candidate": "[hymnus?] Hoc e[st?] illud | Beati qui habitant | ad [...]",
+    "revised_literal_candidate": "[hymnus?] Hoc i[n?] templo | Beati qui habitant | ad [...]",
+    "basis": "Native capture1 and the exact raw region re-inspected after a reference search suggested Hoc in templo. The terminal word is better read as templo; this is a reference-assisted revision, not independent confirmation. No following hymn words or local service position supplied from the reference.",
+    "reference": "https://gams.uni-graz.at/o:cantus.seckau3/sdef:TEI/get?locale=en&mode=view:structure",
+    "limit": "The other witness uses this hymn in multiple positions; it cannot fix the target position or manuscript identity."
+  }
+}

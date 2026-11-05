@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I78-10437-lapides-verse-mane",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10437",
+      "body": {
+        "type": "TextualBody",
+        "value": "The end of Lapides pretiosi is followed by an abbreviated Domus me... / Domus or... cue, a red Ad bened... ant... rubric and a large Mane surgens opening. Verse-and-response interpretation is reference-assisted and provisional.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10437-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=200,15,1315,445"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010437_00002/full/max/0/default.jpg",
+      "sha256": "b7371ebe529d9feb2560c88c6b24937ab52e89f14db17e890a55aec30dbe1c78",
+      "image_dimensions": [
+        1880,
+        997
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "Lapides preciosi [...] [V?] Domus me[...] [marker?] Domus or[...] Ad bened[...] ant[...] Mane surgens Iacob [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; reference-exposed reading, 2026-11-02; exact model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The small markers and abbreviations require independent verification; neither Cantus ID nor missing words are image-confirmed.",
+        "The relation to capture 1 and the presence or absence of a full Domus mea antiphon around the fold remain unverified."
+      ]
+    }
+  ]
+}

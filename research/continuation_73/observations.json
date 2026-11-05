@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I73-8073-felix-terra",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8073",
+      "body": {
+        "type": "TextualBody",
+        "value": "Provisional reference-assisted reading of the Magnificat antiphon: Felix terra pariens ... in quo corporaliter fons divinitatis ... reos a peccatis solvens duc ad patriam summae claritatis. Red letter prolongations are not silently treated as words.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=425,465,1100,730"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00003/full/max/0/default.jpg",
+      "sha256": "4deff868fd2a405484f410ffd6a7225c42cfa83b81798ce6e3cfade6384ff118",
+      "image_dimensions": [
+        1736,
+        1231
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "Felix terra pariens [...] in quo corporaliter fons divinitatis [...] reos a peccatis solvens duc ad patriam summe claritatis",
+      "normalized_candidate": "Felix terra pariens caelum trinitatis in quo corporaliter fons divinitatis habitare voluit reos a peccatis solvens duc ad patriam summae claritatis",
+      "observer": "Codex AI, source and reference exposed reading, 2026-11-02; exact checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional reading; no independent reader or original medieval object inspected.",
+        "A matching text does not establish book identity, provenance, transmission, melody, or novelty."
+      ]
+    },
+    {
+      "id": "I73-8073-annam-hymn",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8073",
+      "body": {
+        "type": "TextualBody",
+        "value": "The visible verse provisionally reads Annam filiam abrahe que fulsit ex aaron stirpe. Compare the AH 52 no.104 base and Piwoński 1985 p.305. This is a reference-exposed reading, not a novelty or book-identity claim.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8073-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=370,220,1120,110"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00004/full/max/0/default.jpg",
+      "sha256": "1ab802d901dbbdaf9821595e45a2f0e20a74749fef32d5ea324c471257ca4baa",
+      "image_dimensions": [
+        1739,
+        1123
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "Annam filiam abrahe que fulsit ex aaron stirpe",
+      "normalized_candidate": "Annam filiam Abrahae quae fulsit ex Aaron stirpe",
+      "observer": "Codex AI, source and reference exposed reading, 2026-11-02; exact checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional reading; no independent reader or original medieval object inspected.",
+        "A matching text does not establish book identity, provenance, transmission, melody, or novelty."
+      ]
+    }
+  ]
+}

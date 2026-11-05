@@ -1,0 +1,135 @@
+{
+  "checked_date": "2026-10-22",
+  "access_method": "Public search-index rendering of official institutional records; no direct HTML status or browser screenshot claimed",
+  "queries": [
+    "\"F.m.IV.173\" \"Hy\"",
+    "\"F.m.IV.157\" \"22\"",
+    "site:fragmenta.kansalliskirjasto.fi/handle/10024/1300 \"OTHER NOTES\" \"1505\"",
+    "site:fragmenta.kansalliskirjasto.fi/handle/10024/1299 \"OTHER NOTES\" \"1505\""
+  ],
+  "records": [
+    {
+      "shelfmark": "F.m.IV.173",
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+      "urn": "URN:NBN:fi-fd2011-fra0868",
+      "short_literal_excerpts": [
+        {
+          "location": "Updated dc.description.additionalInformation, OTHER NOTES",
+          "text": "From same codex: CCM Ant 242"
+        },
+        {
+          "location": "Same updated field",
+          "text": "also suggested: CCM Hy 49"
+        },
+        {
+          "location": "Older dc.description.additionalInformation, signature convention",
+          "text": "red small letter"
+        },
+        {
+          "location": "Same signature convention",
+          "text": "red roman numeral"
+        }
+      ],
+      "paraphrased_facts": {
+        "accepted": "Ant242 / Fr29666",
+        "suggested": [
+          "Hy49 / Fr25592",
+          "Ant99"
+        ],
+        "signature_sides": {
+          "verso": "letter",
+          "recto": "Roman numeral"
+        },
+        "staff_height_mm": 17,
+        "physical_extent": "one leaf",
+        "date_structured": [
+          1401,
+          1500
+        ],
+        "date_updated": "second half fifteenth century"
+      }
+    },
+    {
+      "shelfmark": "F.m.IV.157",
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+      "urn": "URN:NBN:fi-fd2011-fra0852",
+      "short_literal_excerpts": [
+        {
+          "location": "Older description, Finska Cameralia48 leaf",
+          "text": "fits between our ff. 7 and 8"
+        },
+        {
+          "location": "Older description, Västergötlands1584:9:1 leaf",
+          "text": "perhaps from the same manuscript"
+        },
+        {
+          "location": "Updated OTHER NOTES, Codex1505 group",
+          "text": "also suggested"
+        }
+      ],
+      "paraphrased_facts": {
+        "physical_extent": "14leaves",
+        "date_header": [
+          1460,
+          1486
+        ],
+        "date_updated": [
+          1460,
+          1475
+        ],
+        "signature_sides": {
+          "verso": "letter",
+          "recto": "Roman numeral"
+        },
+        "staff_height_mm": [
+          16.5,
+          17.5
+        ],
+        "known_comparators": [
+          "Ant99 / Fr20274–20278",
+          "Fr1385"
+        ],
+        "suggested_comparators": [
+          "Codex1505",
+          "Turku Ms.c"
+        ],
+        "specific_older_placement": "FinskaCameralia48/ChristiernPhilipssons1610 MaryMagdalene leaf between Helsinki7and8",
+        "indexed_whole_document_filename": "F_m_IV_157.pdf",
+        "indexed_size_label": "42.31Mb",
+        "actual_pdf_href_observed": false,
+        "actual_viewer_link_observed": false
+      }
+    },
+    {
+      "shelfmark": "F.m.IV.156",
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+      "urn": "URN:NBN:fi-fd2011-fra0851",
+      "short_literal_excerpts": [
+        {
+          "location": "Updated OTHER NOTES first part",
+          "text": "MPO Codex 1505 suggested"
+        },
+        {
+          "location": "Same field, later list",
+          "text": "MPO Codex 1505 (= F.m. IV.157)"
+        }
+      ],
+      "paraphrased_facts": {
+        "physical_extent": "24leaves",
+        "date_header": [
+          1460,
+          1475
+        ],
+        "signature_convention": "Two-part opening address: letter on left verso and Roman numeral on facing right recto",
+        "f2": "hVIII–hIX; Peter/Paul",
+        "f8": "kII–kIII; MaryMagdalene→James"
+      }
+    }
+  ],
+  "limits": [
+    "Metadata reading is not image verification.",
+    "Indexed text has OCR errors; do not silently normalize damaged strings into certain readings.",
+    "Only short literal excerpts retained; no full catalogue or printed-volume copy downloaded.",
+    "No screenshot; no source image/PDF transfer; no external message."
+  ]
+}

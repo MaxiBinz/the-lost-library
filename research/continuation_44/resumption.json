@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-29",
+  "preceding_interrupted_attempt": "No progress in the strict tested-result sense: it saved E44's protocol and preview crops and viewed the six retained first captures, but recorded no completed source test, manual decision set or authoritative historical result. No live acquisition/research process exists to restart.",
+  "retained_state": "E43 remains the latest completed source result; E44's existing protocol and prior exposure are preserved.",
+  "next_safe_action": "Audit resources, then use only the exact painting-image URLs in the two saved PDM manifests for complete native capture coverage. Stop on a failure; record transfer outcomes and inspect the resulting source pixels without changing core inputs.",
+  "resource_audit_before_acquisition": {
+    "working_source_files": 179,
+    "conservative_transfer_plan_bytes": 1666761179,
+    "maximum_additional_images": 9,
+    "per_image_transfer_cap_bytes": 8000000,
+    "maximum_planned_total_source_files": 188,
+    "maximum_planned_transfer_bytes": 1738761179
+  }
+}

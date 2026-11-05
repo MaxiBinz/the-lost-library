@@ -1,0 +1,37 @@
+{
+  "checked_date": "2026-10-20",
+  "purpose": "Artifact integrity and limited numeric consistency; does not adjudicate manuscript identity, novelty or AI accuracy",
+  "required_files": {
+    "RESEARCH_STATE.md": {
+      "bytes": 7110,
+      "sha256": "4b0880ea7c9802992351fd06e5d7d568fad96d424fba743de6ab3311f1cc4918"
+    },
+    "EXPERIMENT_LOG.md": {
+      "bytes": 10178,
+      "sha256": "a05b00ad866f72139c3824dc8ed0315795f6eb9db3bdbe5ded45377c120b468e"
+    },
+    "CANDIDATES.md": {
+      "bytes": 8974,
+      "sha256": "334ea24ccdd5622c462b9e8c9afb1671563f1e935855225a654d6033a0793f23"
+    },
+    "FINDINGS.md": {
+      "bytes": 7837,
+      "sha256": "8658be23648e67bc3cf09572828216f724c52a0d7de1b3207c07cb7b46144cc7"
+    },
+    "OPEN_QUESTIONS.md": {
+      "bytes": 5663,
+      "sha256": "164bb0f51ec600698b4f428cc182179f08ac44afc78ced72b648dd6f07ed87fd"
+    },
+    "FEASIBILITY_REPORT.md": {
+      "bytes": 67688,
+      "sha256": "517351956455c725d11aae52bfdc8cb7b9b1d4ec4be092fd7518a94ece301d57"
+    }
+  },
+  "broken_local_links": [],
+  "target_log_successful_requests": 8,
+  "target_transfer_bytes": 216487,
+  "diagnostic_source_and_script_hashes_match": true,
+  "four_diagnostic_outcomes_checked": true,
+  "fr28175_direct_row_checked": true,
+  "executed_notebook_cells": 3
+}

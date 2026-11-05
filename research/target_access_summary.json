@@ -1,0 +1,114 @@
+[
+  {
+    "mpo": "1385",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1001385/manifest",
+    "canvases": 4,
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00001/full/600,/0/default.jpg",
+    "jpeg_magic_verified": true,
+    "first_canvas_dimensions": [
+      1727,
+      1189
+    ],
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "mpo": "20274",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1020274/manifest",
+    "canvases": 2,
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/600,/0/default.jpg",
+    "jpeg_magic_verified": true,
+    "first_canvas_dimensions": [
+      1831,
+      1565
+    ],
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "mpo": "8994",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1008994/manifest",
+    "canvases": 4,
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/600,/0/default.jpg",
+    "jpeg_magic_verified": true,
+    "first_canvas_dimensions": [
+      1802,
+      1246
+    ],
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "mpo": "25592",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1025592/manifest",
+    "canvases": 4,
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1025592_00001/full/600,/0/default.jpg",
+    "jpeg_magic_verified": true,
+    "first_canvas_dimensions": [
+      1728,
+      1152
+    ],
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-29",
+  "annotations": [
+    {
+      "id": "I46-8066-music-window",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The selected celos word span has 5 candidate noteheads. Labels refer to manual pixel locations, not absolute pitches. The tan sign in8066 has uncertain segmentation; no full same-work melodic variant is established.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=480,10,460,150"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/full/max/0/default.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "image_dimensions": [
+        1709,
+        1138
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "celos tangebat et",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory manual source reading; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+        "No exact rhythmic values, chromatic inflections or audio realization.",
+        "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+        "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+      ],
+      "note_position_record": "research/continuation_46/readings.v2.json"
+    },
+    {
+      "id": "I46-9620-music-window",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The selected celos word span has 2 candidate noteheads. Labels refer to manual pixel locations, not absolute pitches. The tan sign in8066 has uncertain segmentation; no full same-work melodic variant is established.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=370,1340,440,175"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00004/full/max/0/default.jpg",
+      "sha256": "053e4da7c3dd9c3cb29a867804bfc8f8f854b085b45960937944bb6744a606b3",
+      "image_dimensions": [
+        949,
+        1718
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "celos tangebat et",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory manual source reading; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+        "No exact rhythmic values, chromatic inflections or audio realization.",
+        "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+        "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+      ],
+      "note_position_record": "research/continuation_46/readings.v2.json"
+    },
+    {
+      "id": "I46-8066-left-sign",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The actual left-of-system signs and rules were inspected. The8066 field is partly cut by the photograph/fold;9620 retains C-shaped and lower tail-like signs. Exact clef/rule interpretation and absolute pitches remain unverified, rather than copied from a reference.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=260,0,250,150"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/full/max/0/default.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "image_dimensions": [
+        1709,
+        1138
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory manual source reading; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+        "No exact rhythmic values, chromatic inflections or audio realization.",
+        "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+        "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+      ],
+      "note_position_record": "research/continuation_46/readings.v2.json"
+    },
+    {
+      "id": "I46-9620-left-sign",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The actual left-of-system signs and rules were inspected. The8066 field is partly cut by the photograph/fold;9620 retains C-shaped and lower tail-like signs. Exact clef/rule interpretation and absolute pitches remain unverified, rather than copied from a reference.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=340,1310,240,210"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00004/full/max/0/default.jpg",
+      "sha256": "053e4da7c3dd9c3cb29a867804bfc8f8f854b085b45960937944bb6744a606b3",
+      "image_dimensions": [
+        949,
+        1718
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory manual source reading; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+        "No exact rhythmic values, chromatic inflections or audio realization.",
+        "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+        "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+      ],
+      "note_position_record": "research/continuation_46/readings.v2.json"
+    },
+    {
+      "id": "I46-8066-verse-end",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The local Jacob passage continues with descending/ascending angels and per eam ait, followed by Gloria patri. This supports a provisional responsory-verse interpretation; the exact parent work and007763zd assignment remain qualified.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=280,150,1070,390"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/full/max/0/default.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "image_dimensions": [
+        1709,
+        1138
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] descendentes et ascendentes per eam [a]it. Gloria patri [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory manual source reading; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+        "No exact rhythmic values, chromatic inflections or audio realization.",
+        "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+        "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+      ],
+      "note_position_record": "research/continuation_46/readings.v2.json"
+    },
+    {
+      "id": "I46-9620-ending",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Closer reference-exposed source inspection supports dixit, replacing E45's uncertain pxit. The preserved ending supports candidate antiphon005415; missing text after sa is not restored and the local service position is not imported.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=350,1550,530,155"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00004/full/max/0/default.jpg",
+      "sha256": "053e4da7c3dd9c3cb29a867804bfc8f8f854b085b45960937944bb6744a606b3",
+      "image_dimensions": [
+        949,
+        1718
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "dixit uere locus iste sa[...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory manual source reading; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+        "No exact rhythmic values, chromatic inflections or audio realization.",
+        "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+        "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+      ],
+      "note_position_record": "research/continuation_46/readings.v2.json"
+    }
+  ]
+}

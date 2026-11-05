@@ -1,0 +1,64 @@
+{
+  "source": "research/mpo.csv",
+  "source_sha256": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+  "selection": "ccmsignum exactly Ant 49 after trimming",
+  "rows": [
+    {
+      "signatur": "8066",
+      "ccmsignum": "Ant 49",
+      "codex": "Codex 1146",
+      "inhalt": "1rv Dedicatio: Dedicatio ecclesiae.",
+      "bildbetrachter": "https://sok.riksarkivet.se/bildvisning/R1008066"
+    },
+    {
+      "signatur": "8072",
+      "ccmsignum": "Ant 49",
+      "codex": "Codex 1146",
+      "inhalt": "1rv Commune sanctorum: comm. virginum.",
+      "bildbetrachter": "https://sok.riksarkivet.se/bildvisning/R1008072"
+    },
+    {
+      "signatur": "8073",
+      "ccmsignum": "Ant 49",
+      "codex": "Codex 1146",
+      "inhalt": "1rv Proprium de sanctis: Annae hy AH 52, Nr. 101; hy AH 52, Nr. 104.",
+      "bildbetrachter": "https://sok.riksarkivet.se/bildvisning/R1008073"
+    },
+    {
+      "signatur": "8201",
+      "ccmsignum": "Ant 49",
+      "codex": "Codex 1146",
+      "inhalt": "1rv Proprium de sanctis: Katharinae ro AH 26, Nr. 69.",
+      "bildbetrachter": "https://sok.riksarkivet.se/bildvisning/R1008201"
+    },
+    {
+      "signatur": "8304",
+      "ccmsignum": "Ant 49",
+      "codex": "Codex 1146",
+      "inhalt": "1rv Proprium de sanctis: Clementis; Katharinae.",
+      "bildbetrachter": "https://sok.riksarkivet.se/bildvisning/R1008304"
+    },
+    {
+      "signatur": "9620",
+      "ccmsignum": "Ant 49",
+      "codex": "Codex 1146",
+      "inhalt": "1r-2v Dedicatio ecclesiae hy (nur Incipit ohne Notation) AH 51, Nr. 102 div. 7.",
+      "bildbetrachter": "https://sok.riksarkivet.se/bildvisning/R1009620"
+    },
+    {
+      "signatur": "20106",
+      "ccmsignum": "Ant 49",
+      "codex": "",
+      "inhalt": "Clementis; Katharinae; Barbarae; hy: Novo decurrens lumine lascivit sol in virgine---",
+      "bildbetrachter": ""
+    },
+    {
+      "signatur": "20107",
+      "ccmsignum": "Ant 49",
+      "codex": "",
+      "inhalt": "",
+      "bildbetrachter": "https://sok.riksarkivet.se/bildvisning/R1020107"
+    }
+  ],
+  "interpretation_limit": "Catalogue descriptions are not full transcriptions; blank or different contents do not establish absence or a different book."
+}

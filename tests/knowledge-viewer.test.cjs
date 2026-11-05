@@ -1,0 +1,16 @@
+'use strict';
+const assert = require('node:assert/strict');
+const {localPath, sourceLink, filterLeads} = require('../viewer/knowledge.js');
+assert.equal(localPath('../../private/file'), '');
+assert.equal(localPath('/etc/passwd'), '');
+assert.equal(localPath('data/../outside'), '');
+assert.equal(sourceLink('javascript:alert(1)'), '');
+assert.equal(sourceLink('//example.org/file'), '');
+assert.equal(sourceLink('https://example.org/source'), 'https://example.org/source');
+assert.equal(localPath('data/images/leaf.jpg'), '../data/images/leaf.jpg');
+const register = require('../data/lead_register.v1.json');
+assert.ok(filterLeads(register.leads, '8994', 'unresolved').some(l => l.id === 'E33-numbering-conflict'));
+assert.ok(!filterLeads(register.leads, '8994', '').some(l => l.title === 'mpo-8072 / mpo-8201'));
+assert.ok(!filterLeads(register.leads, '8994', 'supported').some(l => l.id === 'E33-numbering-conflict'));
+assert.ok(filterLeads(register.leads, '8994', 'supported').some(l => l.id === 'E34-local-order'));
+console.log('Knowledge viewer source-path boundaries and evidence-state filters passed.');

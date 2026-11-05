@@ -1,0 +1,244 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-27",
+  "annotations": [
+    {
+      "id": "I36-I-end",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The final written row ends the phrase before es tu; bracketed letters expand visible abbreviation marks.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-7960-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=85,920,600,85"
+        }
+      },
+      "fragment_id": "mpo-7960",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00004/full/800,/0/default.jpg",
+      "sha256": "65c7cbac6e61d94b549451390bf502ec735cc521f8a4800a9dd2f66082759cd9",
+      "image_dimensions": [
+        800,
+        1309
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "quoniam firmamentu[m] meum et refugiu[m] meum",
+      "normalized_candidate": "quoniam firmamentum meum et refugium meum",
+      "observer": "Codex AI source inspection, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional AI reading; no independent transcription, melodic identity or novelty is established.",
+        "Catalogue folio-side mapping is a content-based local interpretation, not an inference from capture ordinal."
+      ]
+    },
+    {
+      "id": "I36-I-catchword",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A lower-margin catchword reads es tu. It is separate from the sung main-line text; these two words alone are not unique.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-7960-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=475,1035,115,70"
+        }
+      },
+      "fragment_id": "mpo-7960",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00004/full/800,/0/default.jpg",
+      "sha256": "65c7cbac6e61d94b549451390bf502ec735cc521f8a4800a9dd2f66082759cd9",
+      "image_dimensions": [
+        800,
+        1309
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "es tu",
+      "normalized_candidate": "es tu",
+      "observer": "Codex AI source inspection, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional AI reading; no independent transcription, melodic identity or novelty is established.",
+        "Catalogue folio-side mapping is a content-based local interpretation, not an inference from capture ordinal."
+      ]
+    },
+    {
+      "id": "I36-I-start",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first written row begins es tu and continues the Esto mihi text; the partly compressed enutries is normalized provisionally.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-7961.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=50,207,590,48"
+        }
+      },
+      "fragment_id": "mpo-7961",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00001/full/800,/0/default.jpg",
+      "sha256": "0ce3650d26aabb22cab41c6e7c53ed351ab8bd1f7255c31646626adbaa43d8f2",
+      "image_dimensions": [
+        800,
+        1184
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "es tu et propter nomen tuum dux michi eris et enu[...]tries me",
+      "normalized_candidate": "es tu et propter nomen tuum dux michi eris et enutries me",
+      "observer": "Codex AI source inspection, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional AI reading; no independent transcription, melodic identity or novelty is established.",
+        "Catalogue folio-side mapping is a content-based local interpretation, not an inference from capture ordinal."
+      ]
+    },
+    {
+      "id": "I36-II-end",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The prior Ego sum pastor bonus passage ends and a new Alleluia is written at the bottom. This is a generic chant boundary, not a distinctive split phrase.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8343-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=300,800,450,95"
+        }
+      },
+      "fragment_id": "mpo-8343",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00002/full/800,/0/default.jpg",
+      "sha256": "0f0ed5c8fe227f769de0b41283b96cc3d200ebcd830066bb463cc221a4839c5d",
+      "image_dimensions": [
+        800,
+        1164
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...]scunt me mee. Alle lu ya",
+      "normalized_candidate": "[...]scunt me meae. Alleluia",
+      "observer": "Codex AI source inspection, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional AI reading; no independent transcription, melodic identity or novelty is established.",
+        "Catalogue folio-side mapping is a content-based local interpretation, not an inference from capture ordinal."
+      ]
+    },
+    {
+      "id": "I36-II-start",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first two rows begin a Surrexit Christus et illuxit alleluia verse. Christogram expansion and redemit spelling are normalized candidates, not a melodic transcription.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8344-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=85,175,505,160"
+        }
+      },
+      "fragment_id": "mpo-8344",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00003/full/800,/0/default.jpg",
+      "sha256": "efebf8a1380a6dc340d6f2c2586e5e16f8367446998bbbbd79362c8bf3bdbb17",
+      "image_dimensions": [
+        800,
+        1103
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Surre xit / xp[istu]s et illu xit populo suo quem rede[m]p[...]",
+      "normalized_candidate": "Surrexit Christus et illuxit populo suo quem redemit [...]",
+      "observer": "Codex AI source inspection, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional AI reading; no independent transcription, melodic identity or novelty is established.",
+        "Catalogue folio-side mapping is a content-based local interpretation, not an inference from capture ordinal."
+      ]
+    },
+    {
+      "id": "I36-III-end",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The last text row supplies the prefix of the Vocem iucunditatis introit's psalm verse. No date is inferred from a possibly differing feast-number convention.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8344-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=215,825,545,75"
+        }
+      },
+      "fragment_id": "mpo-8344",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00002/full/800,/0/default.jpg",
+      "sha256": "7c417b359fa684a43590b6ee5339ea5e3bbc48f0aae793eb2d3f4fa2a5e0b302",
+      "image_dimensions": [
+        800,
+        1182
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Iubilate deo omnis terra psalmum dicite nomini eius",
+      "normalized_candidate": "Iubilate deo omnis terra psalmum dicite nomini eius",
+      "observer": "Codex AI source inspection, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional AI reading; no independent transcription, melodic identity or novelty is established.",
+        "Catalogue folio-side mapping is a content-based local interpretation, not an inference from capture ordinal."
+      ]
+    },
+    {
+      "id": "I36-III-start",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first text row completes the preceding verse before the doxology cue and next Alleluia. There is no asserted physical seam.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8343-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=45,185,520,65"
+        }
+      },
+      "fragment_id": "mpo-8343",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00003/full/800,/0/default.jpg",
+      "sha256": "3343f9bce0770259f2d7b1fce86f02d56b2905eb1378d580a96f7d50872a7cf8",
+      "image_dimensions": [
+        800,
+        1153
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "date gloriam laudi eius. Gloria euouae. Alle lu ya",
+      "normalized_candidate": "date gloriam laudi eius; Gloria euouae; Alleluia",
+      "observer": "Codex AI source inspection, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Provisional AI reading; no independent transcription, melodic identity or novelty is established.",
+        "Catalogue folio-side mapping is a content-based local interpretation, not an inference from capture ordinal."
+      ]
+    }
+  ]
+}

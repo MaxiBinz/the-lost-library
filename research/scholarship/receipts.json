@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf",
+    "checked_at_utc": "2026-10-21T11:36:28.326734+00:00",
+    "local_path": "research/scholarship/hallqvist2020.pdf",
+    "purpose": "Private scholarly reading; no redistribution permission inferred",
+    "status": 200,
+    "content_type": "application/pdf; charset=UTF-8",
+    "final_url": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9032430&fileOId=9032431",
+    "sha256": "37bb1bf94130bf500cde0c10afccdcf4e21109ffe9999446653f071f1d82c5fa",
+    "saved": true,
+    "bytes_received": 2096607
+  },
+  {
+    "url": "https://czasopisma.uni.opole.pl/index.php/ls/article/download/4818/4236/13686",
+    "checked_at_utc": "2026-10-21T11:36:29.899667+00:00",
+    "local_path": "research/scholarship/grajewski2022.pdf",
+    "purpose": "Private scholarly reading; no redistribution permission inferred",
+    "status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://czasopisma.uni.opole.pl/index.php/ls/article/download/4818/4236/13686",
+    "sha256": "bce68afeaef0e1bd0c259009f003ee07c683cd6213f3a32cc4d785f9298d2798",
+    "saved": true,
+    "bytes_received": 603793
+  }
+]

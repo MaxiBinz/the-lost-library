@@ -1,0 +1,272 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "annotations": [
+    {
+      "id": "I52-8072-invitatory",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A red invitatory rubric and Regem virginum opening are visible near the top of the source. The incomplete remainder is not restored; this is a selected local service/work cue, not a whole-office collation or identity fingerprint.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=520,220,850,170"
+        }
+      },
+      "fragment_id": "mpo-8072",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00001/full/max/0/default.jpg",
+      "sha256": "137beb149bdb0ed6652c31b540ee0b1046dd1466d485679600057cbe9614c268",
+      "image_dimensions": [
+        1685,
+        1213
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[Invi]tatorium / Regem virginum [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "This is an unblinded exploratory group comparison. Earlier five-rule observations for all six members and earlier8066/9620/8201/8304 text readings are reused, not newly independent evidence.",
+        "24 distinct photo views of six existing objects were inspected:23 retained files at their selected resolution plus the8073 first-photo800px thumbnail.8072 capture3 remains unseen;8073 first-photo native transfer failed. Neither URL was retried.",
+        "No exhaustive chant census, complete corresponding same-position diagnostic variant, physical join or secure original quire/folio map is established across the13 candidate pairs.",
+        "Both same and different books can contain different feasts, mixed notated/unnotated blocks and shared standard chants; matching colour/ruling/layout also occurs in the known wrong pair.",
+        "Candidate chant IDs do not transfer external witness service positions, melodies, provenance or book membership. No exact absolute pitches or full melodic comparison is claimed.",
+        "No new attribution, exclusion, accepted catalogue correction, novelty clearance, independent confirmation or matching-performance improvement."
+      ]
+    },
+    {
+      "id": "I52-8072-veni",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The visible Veni sponsa phrase leads into accipe coronam quam tibi and dominus preparauit in eternum. The abbreviated Christ-name is not silently expanded in the literal candidate. A common liturgical item cannot identify one book.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=290,370,1080,300"
+        }
+      },
+      "fragment_id": "mpo-8072",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00001/full/max/0/default.jpg",
+      "sha256": "137beb149bdb0ed6652c31b540ee0b1046dd1466d485679600057cbe9614c268",
+      "image_dimensions": [
+        1685,
+        1213
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Veni sponsa [...] accipe coronam quam tibi / dominus preparauit in eternum",
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "This is an unblinded exploratory group comparison. Earlier five-rule observations for all six members and earlier8066/9620/8201/8304 text readings are reused, not newly independent evidence.",
+        "24 distinct photo views of six existing objects were inspected:23 retained files at their selected resolution plus the8073 first-photo800px thumbnail.8072 capture3 remains unseen;8073 first-photo native transfer failed. Neither URL was retried.",
+        "No exhaustive chant census, complete corresponding same-position diagnostic variant, physical join or secure original quire/folio map is established across the13 candidate pairs.",
+        "Both same and different books can contain different feasts, mixed notated/unnotated blocks and shared standard chants; matching colour/ruling/layout also occurs in the known wrong pair.",
+        "Candidate chant IDs do not transfer external witness service positions, melodies, provenance or book membership. No exact absolute pitches or full melodic comparison is claimed.",
+        "No new attribution, exclusion, accepted catalogue correction, novelty clearance, independent confirmation or matching-performance improvement."
+      ]
+    },
+    {
+      "id": "I52-8073-magnificat-rubric",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A red rubric is provisionally read Super magnificat antiphona above a large red F and notated text. The rubric supplies local antiphon context alongside continuous verse blocks; the whole book is not classified from a single block.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=830,450,680,110"
+        }
+      },
+      "fragment_id": "mpo-8073",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00003/full/max/0/default.jpg",
+      "sha256": "4deff868fd2a405484f410ffd6a7225c42cfa83b81798ce6e3cfade6384ff118",
+      "image_dimensions": [
+        1736,
+        1231
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Super magnificat antiphona",
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "This is an unblinded exploratory group comparison. Earlier five-rule observations for all six members and earlier8066/9620/8201/8304 text readings are reused, not newly independent evidence.",
+        "24 distinct photo views of six existing objects were inspected:23 retained files at their selected resolution plus the8073 first-photo800px thumbnail.8072 capture3 remains unseen;8073 first-photo native transfer failed. Neither URL was retried.",
+        "No exhaustive chant census, complete corresponding same-position diagnostic variant, physical join or secure original quire/folio map is established across the13 candidate pairs.",
+        "Both same and different books can contain different feasts, mixed notated/unnotated blocks and shared standard chants; matching colour/ruling/layout also occurs in the known wrong pair.",
+        "Candidate chant IDs do not transfer external witness service positions, melodies, provenance or book membership. No exact absolute pitches or full melodic comparison is claimed.",
+        "No new attribution, exclusion, accepted catalogue correction, novelty clearance, independent confirmation or matching-performance improvement."
+      ]
+    },
+    {
+      "id": "I52-8073-unnotated-verses",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Below the notated line, successive verse-like text blocks with coloured initials occupy continuous red text ruling without music staves over each line. The exact complete hymn readings are untranscribed. Mixed notated/unnotated layout does not imply a separate codex or whole-book genre.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8073-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=365,240,1110,430"
+        }
+      },
+      "fragment_id": "mpo-8073",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00004/full/max/0/default.jpg",
+      "sha256": "1ab802d901dbbdaf9821595e45a2f0e20a74749fef32d5ea324c471257ca4baa",
+      "image_dimensions": [
+        1739,
+        1123
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "This is an unblinded exploratory group comparison. Earlier five-rule observations for all six members and earlier8066/9620/8201/8304 text readings are reused, not newly independent evidence.",
+        "24 distinct photo views of six existing objects were inspected:23 retained files at their selected resolution plus the8073 first-photo800px thumbnail.8072 capture3 remains unseen;8073 first-photo native transfer failed. Neither URL was retried.",
+        "No exhaustive chant census, complete corresponding same-position diagnostic variant, physical join or secure original quire/folio map is established across the13 candidate pairs.",
+        "Both same and different books can contain different feasts, mixed notated/unnotated blocks and shared standard chants; matching colour/ruling/layout also occurs in the known wrong pair.",
+        "Candidate chant IDs do not transfer external witness service positions, melodies, provenance or book membership. No exact absolute pitches or full melodic comparison is claimed.",
+        "No new attribution, exclusion, accepted catalogue correction, novelty clearance, independent confirmation or matching-performance improvement."
+      ]
+    },
+    {
+      "id": "I52-8072-veni-response",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A second Veni sponsa occurrence is visible with a longer pro cuius amore/sanguinem continuation and different notational elaboration from the earlier in-eternum ending. Candidate distinction: antiphon005328 versus responsory007828, reference-assisted and with exact local position/melody unadjudicated. A shared incipit is not automatically the same chant item.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=240,80,1160,500"
+        }
+      },
+      "fragment_id": "mpo-8072",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00002/full/max/0/default.jpg",
+      "sha256": "96639875c649cc9c5a6c9ae9301cc77b5a8bfc7a0896f9d842911b52cd8a91eb",
+      "image_dimensions": [
+        1685,
+        1249
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Veni sponsa [...] accipe coro- / nam quam tibi dominus preparauit pro cui- / us amore sanguinem tuum fudisti. Et / cum angelis [...] in paradysum intro[...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "This is an unblinded exploratory group comparison. Earlier five-rule observations for all six members and earlier8066/9620/8201/8304 text readings are reused, not newly independent evidence.",
+        "24 distinct photo views of six existing objects were inspected:23 retained files at their selected resolution plus the8073 first-photo800px thumbnail.8072 capture3 remains unseen;8073 first-photo native transfer failed. Neither URL was retried.",
+        "No exhaustive chant census, complete corresponding same-position diagnostic variant, physical join or secure original quire/folio map is established across the13 candidate pairs.",
+        "Both same and different books can contain different feasts, mixed notated/unnotated blocks and shared standard chants; matching colour/ruling/layout also occurs in the known wrong pair.",
+        "Candidate chant IDs do not transfer external witness service positions, melodies, provenance or book membership. No exact absolute pitches or full melodic comparison is claimed.",
+        "No new attribution, exclusion, accepted catalogue correction, novelty clearance, independent confirmation or matching-performance improvement."
+      ]
+    },
+    {
+      "id": "I52-8072-native-rules",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Five horizontal music-staff rules are visible in this selected native-image band, including one red rule. This agrees with the earlier8072 thumbnail control observation; it is not a new discriminating feature or a completed correction of the catalogue.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=600,380,650,98"
+        }
+      },
+      "fragment_id": "mpo-8072",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00001/full/max/0/default.jpg",
+      "sha256": "137beb149bdb0ed6652c31b540ee0b1046dd1466d485679600057cbe9614c268",
+      "image_dimensions": [
+        1685,
+        1213
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "This is an unblinded exploratory group comparison. Earlier five-rule observations for all six members and earlier8066/9620/8201/8304 text readings are reused, not newly independent evidence.",
+        "24 distinct photo views of six existing objects were inspected:23 retained files at their selected resolution plus the8073 first-photo800px thumbnail.8072 capture3 remains unseen;8073 first-photo native transfer failed. Neither URL was retried.",
+        "No exhaustive chant census, complete corresponding same-position diagnostic variant, physical join or secure original quire/folio map is established across the13 candidate pairs.",
+        "Both same and different books can contain different feasts, mixed notated/unnotated blocks and shared standard chants; matching colour/ruling/layout also occurs in the known wrong pair.",
+        "Candidate chant IDs do not transfer external witness service positions, melodies, provenance or book membership. No exact absolute pitches or full melodic comparison is claimed.",
+        "No new attribution, exclusion, accepted catalogue correction, novelty clearance, independent confirmation or matching-performance improvement."
+      ]
+    },
+    {
+      "id": "I52-8073-native-rules",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Five horizontal music-staff rules are visible in this selected native-image band, including one red rule. This agrees with the earlier8073 thumbnail control observation. The known different-book8201/8304 control shares this feature, so it cannot assign a book.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=650,245,700,125"
+        }
+      },
+      "fragment_id": "mpo-8073",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00002/full/max/0/default.jpg",
+      "sha256": "68b42751798348caccc0a8d3c2833504d9f2ccf40eb76068b9128b18695a284c",
+      "image_dimensions": [
+        1788,
+        1146
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "This is an unblinded exploratory group comparison. Earlier five-rule observations for all six members and earlier8066/9620/8201/8304 text readings are reused, not newly independent evidence.",
+        "24 distinct photo views of six existing objects were inspected:23 retained files at their selected resolution plus the8073 first-photo800px thumbnail.8072 capture3 remains unseen;8073 first-photo native transfer failed. Neither URL was retried.",
+        "No exhaustive chant census, complete corresponding same-position diagnostic variant, physical join or secure original quire/folio map is established across the13 candidate pairs.",
+        "Both same and different books can contain different feasts, mixed notated/unnotated blocks and shared standard chants; matching colour/ruling/layout also occurs in the known wrong pair.",
+        "Candidate chant IDs do not transfer external witness service positions, melodies, provenance or book membership. No exact absolute pitches or full melodic comparison is claimed.",
+        "No new attribution, exclusion, accepted catalogue correction, novelty clearance, independent confirmation or matching-performance improvement."
+      ]
+    }
+  ]
+}

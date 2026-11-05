@@ -1,0 +1,445 @@
+{
+  "version": "1.14.0",
+  "queue_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+  "assessment_date": "2026-10-25",
+  "observations_path": "data/observations.v9.json",
+  "reviewer": "Codex AI-assisted local screen; model identifier not exposed in this record",
+  "reviews": [
+    {
+      "id": "H01",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-20274",
+      "classification": "E",
+      "prior_status": "Previously documented same-codex association",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "Both images show broadly compatible one-column music layouts. No shared boundary or distinctive variant establishing identity was found in this screen.",
+        "Two visible antiphon incipits agree with the office sequence in Hallqvist2020 edited C435, printedp6/PDF53. The higher-resolution invitatory comparison now distinguishes edited C435, its apparatus-reported manuscript state and edited C23 (PDF67).",
+        "Two actual C23 source pages were acquired from Uppsala Alvin. A declared ten-site comparison retains eight target-evaluable word/structure sites and two unavailable target sites; corrected text, cancelled text and editorial reports remain separate."
+      ],
+      "against": [
+        "Different catalogue occasions do not contradict one book; shared broad layout cannot independently confirm it.",
+        "The short comparison established no distinctive variant: agreement with a published office sequence is shared liturgical evidence, not independent evidence for the proposed physical association.",
+        "The apparent absence of separate pium and Matri…condolentes before procida… agree with the standard edited wording, not a unique book fingerprint. The edition reports different states for C435. No direct inspection of C435 manuscript images is claimed.",
+        "No hymn entry is visible between Venite and Immolandus in the inspected continuous target region. This is a written-layout observation; abbreviated practice, different book function or a hymn elsewhere remain alternatives.",
+        "No distinctive shared uncorrected C23 reading is established. Seven selected sites give current/standard word or cue agreements; the eighth has a visible C23 hymn entry where the target continuous region has none. These are not eight independent identity features or a transmission tree."
+      ],
+      "outcome": "Existing catalogue assertion retained; metadata threshold misses this known control.",
+      "next_evidence_needed": "Check IV157 source wording and compare distinctive hands/ruling across the actual leaves.",
+      "observation_ids": [
+        "O-mpo-20274",
+        "O-mpo-1385",
+        "O-mpo-20274-1-13",
+        "O-mpo-20274-2-14",
+        "O-mpo-20274-2-15",
+        "O-mpo-20274-2-16",
+        "V-1385-clipped-mark",
+        "T-20274-invitatory",
+        "T-20274-order",
+        "T-20274-transition",
+        "T-20274-patri-parens",
+        "T-20274-dampnatur",
+        "T-20274-eructavit-rident"
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+        "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=53",
+        "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=67",
+        "data/text_collation.v2.json",
+        "research/continuation_20/c23/collation.json",
+        "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H02",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-10406",
+      "classification": "C",
+      "prior_status": "Previously suggested similarity",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "Fr10406 has an inspectable red liturgical rubric and layout resemblance to Fr1385. The source notes already cite this comparison.",
+        "Selected initials share pale-grey shafts, red stripes/lozenges and black scalloping. Four staff windows per capture, normalized by approximate ruler intervals, show no gross ruling-scale incompatibility; endpoint perturbation ranges overlap.",
+        "A controlled candidate A-to-A comparison retains specific Fr1385/10406 resemblance; the selected Ant39 A examples differ. Exact decorative-function equivalence and A-specific exclusivity remain unverified."
+      ],
+      "against": [
+        "Shared production, same chant tradition and inherited descriptions remain live explanations. No chant-boundary join established.",
+        "Related ornamental traits also occur among Ant39 controls. Ruler readings are approximate and perspective is not calibrated; no certified physical size, same hand or same book is established.",
+        "The published wrong-book pair repeats the richer motif vocabulary in separate D-to-D samples. This is a different-letter-class control, not an A-specific counterexample. Selected post-review decoration cannot establish identity."
+      ],
+      "outcome": "Not promoted: no independent same-codex evidence found.",
+      "next_evidence_needed": "Compare additional uncommon letterforms and securely paired opening signatures; verify corresponding text and side conventions. Ruling compatibility and broad decoration alone cannot decide identity.",
+      "observation_ids": [
+        "O-mpo-1385",
+        "O-mpo-10406-1-8",
+        "V-1385-clipped-mark",
+        "V-H02-1385-initial-a",
+        "V-H02-10406-initial-a",
+        "V-H02-1385-initial-b",
+        "V-H02-10406-initial-b",
+        "V-H02-1385-ruling",
+        "V-H02-10406-ruling",
+        "V-H02-1385-ruler",
+        "V-H02-10406-ruler",
+        "C20-A-1385",
+        "C20-A-10406"
+      ],
+      "sources": [
+        "https://zenodo.org/records/17287665",
+        "research/independent_pass/visual/findings.md",
+        "research/independent_pass/visual/measurements.json",
+        "research/continuation_20/ornament/results.md"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H03",
+      "left_id": "mpo-20274",
+      "right_id": "mpo-8994",
+      "classification": "C",
+      "prior_status": "E27 records the BOMPAC split between Ant 99/Codex 1505 and the IV.173 unit. E28 locates Walta 2013's broader group, which includes IV.156, IV.157 and IV.173 at a stylistic/production level; full text still pending. E29 checked the indexed IV.156/IV.157 catalogue entries: the catalogue distinguishes stylistic resemblance and suggested Codex 1505 links from its specific same-codex labels. E31 checked the official Fragmenta catalogue wording: IV.157 identifies Ant 99/Fr 1385 as same codex, while Codex 1505 is suggested; the broader IV.173 group likewise distinguishes same-codex from suggested links. Fr 8994's recorded IIII/k foliation may align with IV.157's St Olaf folio-8 k/IV signature, but that is an untested lead, not a join. E32 directly observed the four-stroke red mark on one local Fr 8994 capture, consistent with the catalogue's IIII note. The official indexed IV.156 description says the broader opening-signature convention was not infrequent, so the format alone cannot identify a codex.",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "Fr20274 has two overlapping source captures; Fr8994 has four partial captures. A simple one-image-per-side interpretation would be unsafe.",
+        "Two visible antiphon incipits agree with the office sequence in Hallqvist2020 edited C435, printedp6/PDF53. The higher-resolution invitatory comparison now distinguishes edited C435, its apparatus-reported manuscript state and edited C23 (PDF67).",
+        "An older Finnish IV157 description already places Swedish account48/ChristiernPhilipssons1610 between Helsinki ff7and8. The pinned CSV uniquely maps that description to Fr10370. This is contextual published evidence, not a new placement or proof for every Codex1505 leaf.",
+        "Two actual C23 source pages were acquired from Uppsala Alvin. A declared ten-site comparison retains eight target-evaluable word/structure sites and two unavailable target sites; corrected text, cancelled text and editorial reports remain separate.",
+        "Supporting Fr10370 context now has literal verse-prefix/suffix evidence for source-image2→3 order. This improves intrinsic orientation without proving a new relationship involving Fr8994.",
+        "The raw MPO note for Fr 8994 describes it as similar to Ant 99 and Helsinki Ant 156/157, cites Taitto 2001, pp. 161–168, and also points to Fr 1385. This is a prior catalogue similarity claim; it does not state that Fr 8994 and Fr 20274 are the same codex.",
+        "The updated official F.m.IV.173 record lists Ant 99 as a suggested relationship within a broader stylistic/liturgical group; it does not call Ant 99 a proven same-codex member. This is published prior art for a possible wider production relationship, not direct identity evidence.",
+        "The official F.m.IV.157 entry places the St Olaf office at fol. 8 and records opening-signature notation '[k] iiijr - k [v]'; Fr 8994's catalogue foliation is '1r IIII; 1v k'. This is a possible correspondence to test against images, not an established link.",
+        "E32 inspected the local first Fr 8994 capture: a source-linked red four-stroke upper-margin mark is consistent with the catalogue's IIII transcription. This checks one visible mark only; side orientation and the paired k are not independently established."
+      ],
+      "against": [
+        "Office identity and broad square notation are not unique. No verified physical adjacency or melody/variant alignment found.",
+        "The short comparison established no distinctive variant: agreement with a published office sequence is shared liturgical evidence, not independent evidence for the proposed physical association.",
+        "The apparent absence of separate pium and Matri…condolentes before procida… agree with the standard edited wording, not a unique book fingerprint. The edition reports different states for C435. No direct inspection of C435 manuscript images is claimed.",
+        "No hymn entry is visible between Venite and Immolandus in the inspected continuous target region. This is a written-layout observation; abbreviated practice, different book function or a hymn elsewhere remain alternatives.",
+        "No distinctive shared uncorrected C23 reading is established. Seven selected sites give current/standard word or cue agreements; the eighth has a visible C23 hymn entry where the target continuous region has none. These are not eight independent identity features or a transmission tree.",
+        "The predeclared Fr10370 boundary ROIs did not pass translation or SIFT/RANSAC registration; the same feature screen also produces small low-inlier fits for the deliberately different 2/3 control. These non-results do not prove different faces but remove no physical ambiguity.",
+        "E26's checksum-verified BOMPAC workbook assigns Fr 20274/Ant 99/IV.157 to BOMPAC-912 and Fr 8994/Codex 1505/IV.156 to BOMPAC-5324. This is a published separate reconstruction, but it is research metadata rather than a fresh direct image examination; it does not by itself rule out a more complex relationship.",
+        "E27's checksum-verified BOMPAC query puts F.m.IV.173, Ant 242/Fr 29666 and Hy 49/Fr 25592 in BOMPAC-9531, while Ant 99/IV.157 remain in BOMPAC-912. The different reconstruction units clarify the published disagreement but are not fresh image proof.",
+        "Walta 2013's indexed excerpt places IV.156, IV.157 and IV.173 in a larger stylistic/production group, but does not say these are one codex. Its categories therefore cannot be treated as a direct contradiction of the narrower BOMPAC reconstruction units.",
+        "The official Fragmenta catalogue describes IV.156 and IV.157 as stylistically similar but does not say they are the same codex; Codex 1505 is listed as a suggestion, while other links receive explicit same-codex labels.",
+        "The official Fragmenta entry calls Codex 1505 a suggested relation to IV.157, not a demonstrated same-codex member; the possible k/IV signature alignment has not been checked against F.m.IV.157 and Fr 20278 images.",
+        "The official F.m.IV.156 catalogue says the opening-signature convention was not infrequent in late-medieval codices and early printed books. The format alone therefore has limited specificity and is not a unique Codex 1505 fingerprint."
+      ],
+      "outcome": "Still C / unresolved. One local Fr 8994 capture shows a four-stroke red mark consistent with IIII, but the image does not independently establish side mapping, the paired k, or a match with IV.157. The signature format is described as not uncommon; only paired textual and sequence evidence could make this a specific attribution test. No new attribution is established.",
+      "next_evidence_needed": "Obtain and compare usable official images of F.m.IV.157 fol. 8 and Fr 20278, if legitimately available; resolve side mapping; compare the full k/IIII opening-signature sequence and exact Olavi text/chant boundaries. Read Taitto 2001 pp. 161-168 and Keskiaho 2008 and 2019 discussions through legitimate access. Keep C if these sources remain unavailable or nondiagnostic.",
+      "observation_ids": [
+        "O-mpo-20274",
+        "O-mpo-8994-1-9",
+        "O-mpo-20274-1-13",
+        "O-mpo-20274-2-14",
+        "O-mpo-20274-2-15",
+        "O-mpo-20274-2-16",
+        "T-20274-invitatory",
+        "T-20274-order",
+        "T-20274-transition",
+        "T-20274-patri-parens",
+        "T-20274-dampnatur",
+        "T-20274-eructavit-rident",
+        "I32-8994-red-four-stroke-mark"
+      ],
+      "sources": [
+        "https://zenodo.org/records/17287665",
+        "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=53",
+        "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=67",
+        "data/text_collation.v2.json",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/audit.md",
+        "research/continuation_20/c23/collation.json",
+        "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+        "research/continuation_20/registration/feature_results.json",
+        "RESEARCH_CONTINUATION_26.md",
+        "research/continuation_26/bompac/target_crosswalk_results.json",
+        "https://doi.org/10.5281/zenodo.17511106",
+        "https://doi.org/10.5281/zenodo.17701360",
+        "RESEARCH_CONTINUATION_27.md",
+        "research/continuation_27/related_unit_crosswalk_results.json",
+        "RESEARCH_CONTINUATION_28.md",
+        "https://researchportal.helsinki.fi/en/publications/birgittine-fragments-in-finland-reconstructing-naantali-abbeys-li/",
+        "https://www.diva-portal.org/smash/get/diva2%3A668618/FULLTEXT01.pdf",
+        "RESEARCH_CONTINUATION_29.md",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "RESEARCH_CONTINUATION_31.md",
+        "research/continuation_31/fragmenta_relationship_results.json",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+        "RESEARCH_CONTINUATION_32.md",
+        "research/continuation_32/results.json",
+        "research/continuation_32/fr8994_signature_observation.json"
+      ],
+      "originality": "No originality claim cleared; broad cross-collection reconstruction and the published target-unit split are prior work.",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H04",
+      "left_id": "finn-iv173",
+      "right_id": "mpo-1385",
+      "classification": "C",
+      "prior_status": "E27 maps IV.173/Fr 29666/Fr 25592 to BOMPAC-9531 and Fr 1385/IV.157 to BOMPAC-912. E28 locates Walta 2013's broader stylistic/production group containing both IV.173 and IV.157. E29 checked the indexed IV.156/IV.157 catalogue entries: the catalogue distinguishes stylistic resemblance and suggested Codex 1505 links from its specific same-codex labels.",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "The Finnish leaf contains a readable Te Deum passage in a large one-column music layout.",
+        "E27 verifies that BOMPAC-9531 contains F.m.IV.173, Ant 242/Fr 29666 and Hy 49/Fr 25592. The official IV.173 record explicitly identifies Ant 242/Fr 29666 as same codex."
+      ],
+      "against": [
+        "Te Deum is widespread. Fr1385 has other liturgical material; contents neither prove nor disprove same codex.",
+        "BOMPAC places Fr 1385 with IV.157 in unit 912, separate from IV.173 in unit 9531; this is a published reconstruction distinction, not proof against a shared production group or hand.",
+        "The official Fragmenta catalogue describes IV.156 and IV.157 as stylistically similar but does not say they are the same codex; Codex 1505 is listed as a suggestion, while other links receive explicit same-codex labels."
+      ],
+      "outcome": "Still C / unresolved. Walta's broader group and BOMPAC's narrower units are not demonstrably competing claims. No new direct evidence establishes a same-codex relationship between IV.173 and IV.157/Fr 1385.",
+      "next_evidence_needed": "Read the complete Walta 2013 discussion and the cited Taitto/Keskiaho passages, then compare their relationship definitions. For a physical join, test corresponding text, page order/signatures and material features; do not equate a broader style group with a single codex.",
+      "observation_ids": [
+        "O-mpo-1385",
+        "O-finn-iv173-1-10",
+        "V-1385-clipped-mark"
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314?show=full",
+        "RESEARCH_CONTINUATION_27.md",
+        "research/continuation_27/related_unit_crosswalk_results.json",
+        "RESEARCH_CONTINUATION_28.md",
+        "https://researchportal.helsinki.fi/en/publications/birgittine-fragments-in-finland-reconstructing-naantali-abbeys-li/",
+        "https://www.diva-portal.org/smash/get/diva2%3A668618/FULLTEXT01.pdf",
+        "RESEARCH_CONTINUATION_29.md",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "RESEARCH_CONTINUATION_31.md",
+        "research/continuation_31/fragmenta_relationship_results.json",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H05",
+      "left_id": "finn-iv173",
+      "right_id": "mpo-25592",
+      "classification": "C",
+      "prior_status": "E27 finds Hy 49/Fr 25592 in BOMPAC-9531 with IV.173 and Fr 29666. E28 locates Walta 2013's broader Naantali-related group, which includes IV.173 and IV.157, while distinguishing several hands and uncertain origin. E29 checked the indexed IV.156/IV.157 catalogue entries: the catalogue distinguishes stylistic resemblance and suggested Codex 1505 links from its specific same-codex labels.",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "The Finnish leaf has large one-column music systems; all four Fr25592 photographs consistently show a much denser two-column hymn layout.",
+        "A full-deposit crosswalk uniquely maps Hy49 to Fr25592. The Finnish source distinguishes accepted Ant242/Fr29666 from suggested Hy49 and Ant99 relations; a unique identifier does not resolve that historical suggestion.",
+        "E27 verifies BOMPAC-9531 contains all three rows: Fr 25592/Hy 49, Fr 29666/Ant 242 and F.m.IV.173, fol. 1. The Fr 29666 note cites Taitto 2001 p.185 for its same-codex link to IV.173."
+      ],
+      "against": [
+        "A date/alias error, composite book or differing section could explain conflict. No physical exclusion proof.",
+        "The actual captures still show a one-column music layout for IV.173 and a much denser two-column hymn layout for Fr 25592, and the catalogue dating for Fr 25592 conflicts with the proposed fifteenth-century group. BOMPAC's unit is a research reconstruction, not direct proof that these differences are compatible within one codex.",
+        "The official Fragmenta catalogue describes IV.156 and IV.157 as stylistically similar but does not say they are the same codex; Codex 1505 is listed as a suggestion, while other links receive explicit same-codex labels."
+      ],
+      "outcome": "Still C / unresolved. BOMPAC's grouping and the earlier broad style/production group are useful prior art, not independent proof that the visually different leaves belonged to one codex. The E27 source difference is not established as a contradiction.",
+      "next_evidence_needed": "Read Walta 2013 in full and compare its group definitions with Fragmenta and BOMPAC. Then test diagnostic texts, openings/signatures and physical structure in IV.173 and Fr 25592, using the accepted Fr 29666/Ant 242 comparator if an authorized image is available.",
+      "observation_ids": [
+        "O-mpo-25592",
+        "O-finn-iv173-1-10"
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314?show=full",
+        "research/independent_pass/crosswalk/audit.md",
+        "RESEARCH_CONTINUATION_27.md",
+        "research/continuation_27/related_unit_crosswalk_results.json",
+        "RESEARCH_CONTINUATION_28.md",
+        "https://researchportal.helsinki.fi/en/publications/birgittine-fragments-in-finland-reconstructing-naantali-abbeys-li/",
+        "https://www.diva-portal.org/smash/get/diva2%3A668618/FULLTEXT01.pdf",
+        "RESEARCH_CONTINUATION_29.md",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "RESEARCH_CONTINUATION_31.md",
+        "research/continuation_31/fragmenta_relationship_results.json",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H06",
+      "left_id": "mpo-8201",
+      "right_id": "mpo-8304",
+      "classification": "D",
+      "prior_status": "Previously published rejection",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "Grajewski2022 p293 argues for20106–8201 textual continuity and rejects8304 through duplicated office-opening structure despite the shared hand. Source paragraph/table re-read and visually checked.",
+        "Selected De-initial D examples share pale fields, red stems, lozenges and toothed contours despite the published different-book decision. This is descriptive corroboration of the limits of ornament, not an independently rediscovered rejection."
+      ],
+      "against": [
+        "Duplicate text is not a universal automatic exclusion: composite volumes or repeated offices need contextual assessment. Our reading of8201 rubric is incomplete."
+      ],
+      "outcome": "Published rejection overrides high compatibility. This is replication of scholarly reasoning, not a new algorithmic discovery.",
+      "next_evidence_needed": "Confirm full source-side sequence and review the published argument before extending it to other Ant49 members.",
+      "observation_ids": [
+        "O-mpo-8201-3-11",
+        "O-mpo-8304-4-12",
+        "C20-D-8201",
+        "C20-D-8304"
+      ],
+      "sources": [
+        "https://doi.org/10.25167/ls.4818#page=7"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H07",
+      "left_id": "mpo-8201",
+      "right_id": "mpo-20106",
+      "classification": "E",
+      "prior_status": "Previously published same-book relation",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "Grajewski2022 p293 reports a continuous antiphon across20106 and8201."
+      ],
+      "against": [
+        "20106 has no verified local image, so the visual comparison remains unevaluable."
+      ],
+      "outcome": "Literature-supported positive retained; no independent image validation claimed.",
+      "next_evidence_needed": "Obtain a legitimate20106 image or authorized original examination.",
+      "observation_ids": [
+        "O-mpo-8201-3-11"
+      ],
+      "sources": [
+        "https://doi.org/10.25167/ls.4818#page=7"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H08",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-4223",
+      "classification": "C",
+      "prior_status": "Unestablished model suggestion; novelty uncleared E30's checksum-verified BOMPAC crosswalk assigns Fr 4223 to BOMPAC-258/Ant-39/Codex-1200/FM.IV.159, while assigning Fr 1385 to BOMPAC-912/Ant-99/FM.IV.157. The raw MPO workbook likewise groups the candidate in C-17/Codex-1200 and lists Fr 1385 as singleton F-1385.",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "Fr4223 resembles Fr1385 in broad layout and damaged parchment geometry. It is catalogued within Ant39/Codex1200 with a Västerås attribution."
+      ],
+      "against": [
+        "Known grouping, shared broad production traits and similar damaged dimensions are simpler explanations of a high score. Decoration differs, but this is not conclusive scribe discrimination.",
+        "Selected decorated initials provide a control for shared ornamental vocabulary; resemblance in these traits is not unique to H02 and cannot identify a book or scribe.",
+        "Letter-controlled examples are now retained separately: selected Ant39 A samples differ from the H02 A samples, while the R comparison is incomplete for red fill/lozenges. This local contrast establishes no rarity, common hand or physical exclusion.",
+        "The BOMPAC combined reconstruction workbook assigns Fr 4223 to BOMPAC-258 (Ant-39/Codex-1200/FM.IV.159) and Fr 1385 to BOMPAC-912 (Ant-99/FM.IV.157); its raw MPO workbook similarly places the candidate in C-17 and Fr 1385 in singleton F-1385. These are published reconstruction assignments, not fresh image proof or independent adjudication. They weigh against treating the model suggestion as a new same-codex match but do not by themselves disprove physical connection, a shared hand, or broader production context."
+      ],
+      "outcome": "The checksum-verified BOMPAC datasets place the suggested pair in different reconstruction units and group all three suggestions with Ant 39/Codex 1200. The high model compatibility is therefore not new same-book evidence. Because workbook labels are not a fresh physical examination, retain category C rather than claim rejection.",
+      "next_evidence_needed": "Only reopen the same-codex proposal if source-level text, foliation/quire evidence, or diagnostic hand/notation features can test the BOMPAC separation; otherwise treat this as an unresolved model lookalike, not a new discovery.",
+      "observation_ids": [
+        "O-mpo-1385",
+        "O-mpo-4223-1-4",
+        "V-1385-clipped-mark",
+        "V-H08-4223-initial",
+        "C20-A-1385",
+        "C20-A-4223"
+      ],
+      "sources": [
+        "data/matches.json",
+        "research/continuation_20/ornament/results.md",
+        "research/continuation_30/bompac_suggestion_crosswalk_results.json",
+        "https://doi.org/10.5281/zenodo.17511106",
+        "https://doi.org/10.5281/zenodo.17701360"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H09",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-8311",
+      "classification": "C",
+      "prior_status": "Unestablished model suggestion; novelty uncleared E30's checksum-verified BOMPAC crosswalk assigns Fr 8311 to BOMPAC-258/Ant-39/Codex-1200/FM.IV.159, while assigning Fr 1385 to BOMPAC-912/Ant-99/FM.IV.157. The raw MPO workbook likewise groups the candidate in C-17/Codex-1200 and lists Fr 1385 as singleton F-1385.",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "Fr8311 incipit and verse provisionally identify Cantus006537/006537a, agreeing with Septuagesima catalogue contents. Other books in the chant databases have the same chant."
+      ],
+      "against": [
+        "A geographically widespread chant does not connect this fragment to Fr1385. This suggestion belongs to the same Ant39 cluster as H08/H10.",
+        "Selected decorated initials provide a control for shared ornamental vocabulary; resemblance in these traits is not unique to H02 and cannot identify a book or scribe.",
+        "Letter-controlled examples are now retained separately: selected Ant39 A samples differ from the H02 A samples, while the R comparison is incomplete for red fill/lozenges. This local contrast establishes no rarity, common hand or physical exclusion.",
+        "The BOMPAC combined reconstruction workbook assigns Fr 8311 to BOMPAC-258 (Ant-39/Codex-1200/FM.IV.159) and Fr 1385 to BOMPAC-912 (Ant-99/FM.IV.157); its raw MPO workbook similarly places the candidate in C-17 and Fr 1385 in singleton F-1385. These are published reconstruction assignments, not fresh image proof or independent adjudication. They weigh against treating the model suggestion as a new same-codex match but do not by themselves disprove physical connection, a shared hand, or broader production context."
+      ],
+      "outcome": "The checksum-verified BOMPAC datasets place the suggested pair in different reconstruction units and group all three suggestions with Ant 39/Codex 1200. The high model compatibility is therefore not new same-book evidence. Because workbook labels are not a fresh physical examination, retain category C rather than claim rejection.",
+      "next_evidence_needed": "Only reopen the same-codex proposal if source-level text, foliation/quire evidence, or diagnostic hand/notation features can test the BOMPAC separation; otherwise treat this as an unresolved model lookalike, not a new discovery.",
+      "observation_ids": [
+        "O-mpo-1385",
+        "O-mpo-8311-1-5",
+        "O-mpo-8311-1-6",
+        "V-1385-clipped-mark",
+        "V-H09-8311-initial",
+        "C20-A-1385",
+        "C20-A-8311"
+      ],
+      "sources": [
+        "data/matches.json",
+        "https://cantusdatabase.org/chant/150324/",
+        "https://cantusdatabase.org/chant/452130/",
+        "https://cantusindex.org/id/006537a",
+        "research/continuation_20/ornament/results.md",
+        "research/continuation_30/bompac_suggestion_crosswalk_results.json",
+        "https://doi.org/10.5281/zenodo.17511106",
+        "https://doi.org/10.5281/zenodo.17701360"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    },
+    {
+      "id": "H10",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-8455",
+      "classification": "C",
+      "prior_status": "Unestablished model suggestion; novelty uncleared E30's checksum-verified BOMPAC crosswalk assigns Fr 8455 to BOMPAC-258/Ant-39/Codex-1200/FM.IV.159, while assigning Fr 1385 to BOMPAC-912/Ant-99/FM.IV.157. The raw MPO workbook likewise groups the candidate in C-17/Codex-1200 and lists Fr 1385 as singleton F-1385.",
+      "review_state": "local source tests recorded; no independent expert review",
+      "supporting": [
+        "Fr8455 preserves legible Epiphany wording; the catalogue records continuity with9115 within Ant39."
+      ],
+      "against": [
+        "Existing local continuity is not an independent association with1385. Similar dimensions/layout are correlated across this Ant39 cluster.",
+        "Selected decorated initials provide a control for shared ornamental vocabulary; resemblance in these traits is not unique to H02 and cannot identify a book or scribe.",
+        "Letter-controlled examples are now retained separately: selected Ant39 A samples differ from the H02 A samples, while the R comparison is incomplete for red fill/lozenges. This local contrast establishes no rarity, common hand or physical exclusion.",
+        "The BOMPAC combined reconstruction workbook assigns Fr 8455 to BOMPAC-258 (Ant-39/Codex-1200/FM.IV.159) and Fr 1385 to BOMPAC-912 (Ant-99/FM.IV.157); its raw MPO workbook similarly places the candidate in C-17 and Fr 1385 in singleton F-1385. These are published reconstruction assignments, not fresh image proof or independent adjudication. They weigh against treating the model suggestion as a new same-codex match but do not by themselves disprove physical connection, a shared hand, or broader production context."
+      ],
+      "outcome": "The checksum-verified BOMPAC datasets place the suggested pair in different reconstruction units and group all three suggestions with Ant 39/Codex 1200. The high model compatibility is therefore not new same-book evidence. Because workbook labels are not a fresh physical examination, retain category C rather than claim rejection.",
+      "next_evidence_needed": "Only reopen the same-codex proposal if source-level text, foliation/quire evidence, or diagnostic hand/notation features can test the BOMPAC separation; otherwise treat this as an unresolved model lookalike, not a new discovery.",
+      "observation_ids": [
+        "O-mpo-1385",
+        "O-mpo-8455-4-7",
+        "V-1385-clipped-mark",
+        "V-H10-8455-initial",
+        "C20-R-1385",
+        "C20-R-8455"
+      ],
+      "sources": [
+        "data/matches.json",
+        "research/continuation_20/ornament/results.md",
+        "research/continuation_30/bompac_suggestion_crosswalk_results.json",
+        "https://doi.org/10.5281/zenodo.17511106",
+        "https://doi.org/10.5281/zenodo.17701360"
+      ],
+      "originality": "No originality claim cleared",
+      "independent_expert_review": false,
+      "new_discovery": false,
+      "screening_covers": "Available source captures, catalogue notes and cited passages only; not original-object examination or exhaustive literature clearance"
+    }
+  ],
+  "context_checks_path": "data/context_checks.v11.json"
+}

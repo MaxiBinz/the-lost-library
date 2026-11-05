@@ -1,0 +1,11 @@
+{
+  "date":"2026-11-02",
+  "sources":[
+    {"id":"fr10437", "path":"research/continuation_54/captures.json", "locator":"capture 1, Hec est domus opening", "scope":"Retained institutional image, post-selection AI notehead reading, not independent."},
+    {"id":"fr8066", "path":"research/continuation_44/captures.json", "locator":"capture 3, Hec est domus opening", "scope":"Retained institutional image, post-selection AI notehead reading, not independent."},
+    {"id":"klosterneuburg-1012", "url":"https://cantusdatabase.org/chant/285848/", "locator":"f.77r, Lauds antiphon 002998", "scope":"Search-indexed full transcription and syllable alignment; d d c d opening. Comparator original image not inspected."},
+    {"id":"einsiedeln-611", "url":"https://cantusdatabase.org/chant/233469", "locator":"f.271r, Lauds antiphon 002998", "scope":"Search-indexed full transcription and syllable alignment; d d d d opening. Comparator original image not inspected."},
+    {"id":"method-neumes", "url":"https://neume.zti.hu/en_projekt.asp", "scope":"Previously consulted in E46 as general notation context; no regional attribution inferred."}
+  ],
+  "network_scope":"Search-indexed catalogue descriptions; no original comparator image or PDF saved. Web search traffic is unmeasured within existing reserve; no uploads or contact."
+}

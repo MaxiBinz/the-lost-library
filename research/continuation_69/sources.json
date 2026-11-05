@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-02",
+  "grajewski_2025": {
+    "citation": "Czesław Grajewski, ‘Antyfony „Inclita” o św. Katarzynie w źródłach od XII do XVIII w. Próba systematyzacji’, Musica Ecclesiastica 20 (2025), p. 78 n. 11.",
+    "url": "https://www.spmk.pl/files/roczniki/spmk20/06_-Grajewski_-Inclita.pdf",
+    "access": "Direct web-reader text of pp. 76–79 and 81–84; no saved PDF and no original manuscript image inspected.",
+    "assertion": "According to the author, Vatican Pal. lat. 527 is a compilatory manuscript with two Catherine offices, both beginning with the same shortened Inclita antiphon. The office variants are Ave virgo speciosa and Inclita sanctae virginis.",
+    "limits": "This is the author's report, not an image-verified occurrence; the source passage does not establish two identical service rubrics or the same text within both complete offices. It is not independent expert review of the present project."
+  },
+  "heidelberg_description": {
+    "url": "https://digi.ub.uni-heidelberg.de/de/bpd/beschreibungen/bav_pal_lat_527.html",
+    "access": "Search-result indexed institutional catalogue text; direct find requests failed as described below.",
+    "assertion": "Institutional description identifies Pal. lat. 527 as a late-14th-century Speyer breviary, reports at least two alternating hands, and links to a facsimile.",
+    "limits": "Catalogue summary does not confirm the two office headings or prove that they were written by one hand."
+  },
+  "cambrai_index": {
+    "url": "https://cantusdatabase.org/chant/205358/",
+    "access": "Search-indexed record only; no original manuscript image inspected.",
+    "assertion": "Cantus identifies the related antiphon as 202513 and records a longer text at Cambrai 38 f.378v; this gives comparative context for the corrected Fr 8304 reading.",
+    "limits": "Reference exposure is not independent verification, and same text does not establish book identity or equivalent liturgical role."
+  },
+  "access_failures": [
+    "A single request for the exact native Fr 8304 capture 4 from the retained PDM manifest failed local DNS; no data saved. Do not repeat the failed URL.",
+    "The explicitly linked Heidelberg facsimile root did not open in the web tool; do not repeat that failed route.",
+    "Three find operations against the indexed Heidelberg catalogue were sent together before results were inspected and each returned Cache miss for the same URL. This was an inadvertent repeated failed route; no content was read through those calls and it must not be repeated.",
+    "Direct open of the Gent Cantus record 706120 returned Cache miss; only its search-indexed excerpt was available. Do not repeat."
+  ],
+  "accounting": "No source image or file successfully downloaded. Web search and reader traffic remain unmeasured under the existing conservative reserve."
+}

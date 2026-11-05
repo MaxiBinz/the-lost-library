@@ -1,0 +1,67 @@
+{
+  "version": "1.0.0",
+  "seed": 20261020,
+  "methods": {
+    "metadata": {
+      "metadata": 1.0
+    },
+    "layout": {
+      "layout": 1.0
+    },
+    "embedding": {
+      "embedding": 1.0
+    },
+    "embedding_raw": {
+      "embedding_raw": 1.0
+    },
+    "metadata_layout": {
+      "metadata": 0.65,
+      "layout": 0.35
+    },
+    "metadata_embedding": {
+      "metadata": 0.65,
+      "embedding": 0.35
+    },
+    "metadata_text": {
+      "metadata": 0.8,
+      "text": 0.2
+    },
+    "fusion": {
+      "metadata": 0.45,
+      "layout": 0.2,
+      "embedding": 0.35
+    },
+    "fusion_text": {
+      "metadata": 0.4,
+      "layout": 0.2,
+      "embedding": 0.3,
+      "text": 0.1
+    }
+  },
+  "method_selection": "On development books, maximize same-genre book-macro MRR; require at least0.02 improvement over metadata on development AND calibration before adopting a more complex method. No test-book tuning.",
+  "threshold_selection": "Maximize F1 on catalogue-label calibration pairs only; ties prefer fewer false positives then higher threshold. Not probability calibration.",
+  "evaluation": "Whole-codex split; leave one physical record out as query; identical within-split galleries; separate same-genre ablation; expected tie-aware metrics; book-macro bootstrap.",
+  "feature_whitelist": [
+    "type",
+    "date_min",
+    "date_max",
+    "leaf_cm",
+    "written_cm",
+    "columns",
+    "lines",
+    "script",
+    "notation",
+    "staff_lines",
+    "sanitized catalogue contents"
+  ],
+  "forbidden_predictors": [
+    "codex",
+    "CCM",
+    "institution",
+    "source/filename semantics",
+    "relationship notes",
+    "account provenance"
+  ],
+  "model_training": false,
+  "score_is_probability": false
+}

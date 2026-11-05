@@ -1,0 +1,13 @@
+{
+  "date":"2026-11-02",
+  "sources":[
+    {"id":"schnabel-luebeck-48a", "author":"Kerstin Schnabel", "title":"Beschreibung der Handschrift Lübeck, Stadtbibliothek, Ms. theol. lat. 2° 48a", "url":"https://diglib.hab.de/?catalog=Schnabel&db=mss&id=hl-sb-theol-lat-2f-48a&list=ms", "locator":"ff. 69va–72ra; description of contents and physical object", "access":"Full search-indexed description read. Direct web-reader open returned cache miss; do not retry this failed route.", "assertion":"Lists AH 5 no.34 second nocturn responsory 3 and verse and doxology, then AH 52 no.101 and Felix terra. Separate 33 × 24 cm two-column collectar.", "rights":"Description CC BY-SA 3.0 DE as stated on page; digital image rights not inferred."},
+    {"id":"analecta5-34", "url":"https://de.scribd.com/document/66836506/Dreves-Analecta-Hymnica-Medii-Aevi-1886-Volume-V", "locator":"p.107, no.34, second nocturn responsory 3 and verse", "access":"Previously inspected web-search OCR; printed page and medieval exemplar not examined.", "assertion":"The referenced responsory begins Funde vinum, its verse Liberalis liberali."},
+    {"id":"mpo", "path":"research/mpo.csv", "locator":"eight rows with ccmsignum Ant 49", "access":"Locally retained dataset; exact row subset reproduced by extract_candidates.py.", "assertion":"Only 8073 explicitly names Anna in the contents field; no absence claim."}
+  ],
+  "failed_routes":[
+    {"url":"https://diglib.hab.de/?catalog=Schnabel&db=mss&id=hl-sb-theol-lat-2f-48a&list=ms", "outcome":"Web-reader cache miss; search-indexed description available. Do not retry."},
+    {"url":"https://nbn-resolving.org/urn:nbn:de:gbv:48-1-3806637", "outcome":"Web-reader cache miss on the catalogue-listed facsimile resolver. No image was inspected. Do not retry."}
+  ],
+  "network_accounting":"No manuscript-image or PDF file downloaded. Web-search traffic is unmeasured within the existing reserve; no uploads or outreach."
+}

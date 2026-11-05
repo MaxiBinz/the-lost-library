@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-28",
+  "previous_goal_turn": "Progress: E41 completed all 50 candidate plus 13 control raw-context judgments, updated existing unresolved claims, and passed extracted archive replay. It did not resolve a manuscript surface.",
+  "question": "Can exact text boundaries and visible row coverage distinguish the proposed Fr8994 capture groupings 1/2 and 3/4 from deliberately mismatched 1/4 and 3/2?",
+  "prior_exposure": "All four originals, E34 chant order, E35 features and E40 terminal words were inspected before this protocol. This is exploratory AI reading, not blind or independent confirmation.",
+  "fixed_sources": [
+    "data/images/mpo-8994-capture-1-1802px.jpg",
+    "data/images/mpo-8994-capture-2-1835px.jpg",
+    "data/images/mpo-8994-capture-3-1793px.jpg",
+    "data/images/mpo-8994-capture-4-1808px.jpg"
+  ],
+  "comparisons": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      3,
+      2
+    ]
+  ],
+  "rules": [
+    "Count visible written text baselines, including clipped/partly visible rows as flagged partial, separately from musical staff systems. Do not count modern wrapper notes as medieval text.",
+    "Transcribe the last two visible medieval text rows in captures1/3 and first two in captures2/4. Preserve uncertain/abbreviated letters and distinguish literal candidate from normalized/expanded text.",
+    "Record exact bounding boxes, image hashes and row coordinates. Identify repeated text versus simple textual succession, and avoid double-counting a row that is shown in both photos.",
+    "Check every predeclared pairing. Matching row totals alone do not determine grouping, book identity or side. A textual fit does not prove repeated ink, physical seam, complete edge or a unique medieval address.",
+    "Use locally retained primary images first; if a reference is needed to expand uncertain text, retain that assistance explicitly and verify the reference through an ordinary permitted source. No failed-route retry or URL invention."
+  ],
+  "boundaries": "No new downloads or model/frozen/core changes. No outreach/publication. Source derivatives are labelled PDM analysis crops, not new physical fragments."
+}

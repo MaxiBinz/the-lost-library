@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-02",
+  "vatican_viewer": {
+    "url": "https://digi.vatlib.it/view/MSS_Pal.lat.527",
+    "discovery": "The Vatican homepage catalogue search for Pal.lat.527 returned the exact manuscript, then its linked digitized edition. The earlier Heidelberg facsimile and other failed URLs were not retried.",
+    "access": "Ordinary in-app viewer; identified 125v/126r in its labelled thumbnail grid, then followed neighbouring labelled folios back to 122r. Selected views of 122r, 122v, 123r, 123v, 124r, 124v, 125r, 125v and 126r; no source screenshots or files saved.",
+    "rights": "Viewer states images copyright Biblioteca Apostolica Vaticana, all rights reserved; no copying for the review package.",
+    "limits": "Direct visual, reference-exposed AI reading. The study is independently verifiable using the labelled viewer, but the exact textual reading and headings are not checked by a second person."
+  },
+  "heidelberg_catalogue_index": {
+    "url": "https://digi.ub.uni-heidelberg.de/de/bpd/beschreibungen/bav_pal_lat_527.html",
+    "access": "Search-indexed expanded catalogue result, not a new direct fetch of the previously failed page.",
+    "assertion": "Description of the summer breviary says its sanctoral extends to St Catherine at 125v–126r and the common of saints starts at 126r; it reports at least two alternating hands. The passage is a high-level endpoint description, not proof that Catherine content is absent on prior folios."
+  },
+  "grajewski_2025": {
+    "url": "https://www.spmk.pl/files/roczniki/spmk20/06_-Grajewski_-Inclita.pdf",
+    "locator": "printed p.78, note 11",
+    "access": "Already read in E69; no repeat fetch needed.",
+    "assertion": "The author previously documented two Catherine offices with the same shortened opening in Pal. lat. 527."
+  },
+  "failed_new_routes": [
+    {"url":"https://digi.vatlib.it/mss/Pal.lat", "outcome":"Web-reader find on the collection listing timed out; not retried. Vatican homepage search is a distinct ordinary route and led to the exact manuscript."},
+    {"url":"https://roemischequartalschrift.digitheo.de/ojs/index.php/rq/article/view/89844", "outcome":"The linked 1965 Gugumus article record returned Cache miss; not retried; no text read."}
+  ],
+  "network_accounting": "No saved downloads. Browser image tiles and search traffic are unmeasured within the existing conservative reserve; no claim of exact traffic."
+}

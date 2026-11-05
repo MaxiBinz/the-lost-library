@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-02",
+  "question": "Do the museum and Codices Fennici records visibly depict the same fragment rather than merely repeat one description?",
+  "source_access": [
+    {
+      "id": "cf-first-face",
+      "url": "https://www.codicesfennici.fi/items/show/249#?c=&m=&s=&cv=0&xywh=-388%2C-347%2C7748%2C5396",
+      "viewer_label": "TMMA.FragC_0001_r.jpg",
+      "scope": "Public IIIF viewer, whole displayed face; viewed in browser without saving a source image or cropping a derivative.",
+      "rights": "CC BY-ND 4.0 on the CF record; reproduction Mikko Kyynäräinen / Turun Museokeskus."
+    },
+    {
+      "id": "cf-second-face",
+      "url": "https://www.codicesfennici.fi/items/show/249#?c=&m=&s=&cv=1&xywh=0%2C-63%2C6984%2C4864",
+      "viewer_label": "TMMA.FragC_0002_v.jpg",
+      "scope": "Public IIIF viewer, whole displayed face; later zoomed locally in the viewer. Filename labels are institutional, not a verified medieval side map.",
+      "rights": "CC BY-ND 4.0 on the CF record; reproduction Mikko Kyynäräinen / Turun Museokeskus."
+    },
+    {
+      "id": "museum",
+      "url": "https://museo.disec.fi/Yksa4/id/160988864803200/#tab/overview",
+      "scope": "Public museum record TKM23245:3 overview and its embedded thumbnail, viewed in browser. No failed TIFF link was retried.",
+      "rights": "Museum record displays CC BY 4.0 with photographer or institution attribution."
+    }
+  ],
+  "visual_comparison": {
+    "matching_features": ["A large red O sits in the right text panel in both views.", "Both views show the same uneven left and upper contours, central fold and relative arrangement of musical/text blocks."],
+    "interpretation": "The record thumbnails visibly depict the same face or a very close reproduction of it, strengthening the crosswalk between catalogue records beyond duplicated metadata.",
+    "dependence": "The images may be the same photograph or derived from a common source; this is not independent evidence of a manuscript-to-manuscript join. Low-resolution museum overview and possible cataloguing/image attachment errors limit certainty."
+  },
+  "two_faces": "The two CF viewer captures show a broad parchment fragment with two writing fields separated by a central fold. On the first displayed face the red O is on the right; on the other a large blue initial appears in the right field and a faint later account inscription is visible below it. This is consistent with the TEI's damaged bifolium and reported reuse; precise medieval recto/verso and quire position are not independently established.",
+  "record_crosswalk": "Museum TKM23245:3 and CF item 249 are very strongly supported as records depicting the same fragment, without claiming certified object identity or resolving the separately named archive Ms. c.",
+  "sewing_holes": "Marks near the central fold are visible, but none was measured or matched to a Finnish original. Published sewing-hole and placement claims remain untested.",
+  "article_route": "The official journal.fi/htf/issue/archive page returned an Anubis challenge on one normal page open. Stopped without reload, interaction or bypass; the 2008 article page remains unread.",
+  "new_source_files_saved": 0,
+  "browser_view_transfer_bytes": "unmeasured; image tiles displayed through the ordinary viewer",
+  "resource_audit_before": {"working_source_capture_files": 209, "conservative_planning_total_bytes": 1676174588},
+  "new_codex_attribution": false,
+  "helsinki_shelfmark_corrected": false,
+  "original_discovery_claimed": false,
+  "independent_confirmation": false,
+  "frozen_decisions_changed": false
+}

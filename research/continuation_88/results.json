@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-02",
+  "source": {
+    "title": "A Glance to the Fragmenta Membranea Manuscript Collection through FTIR and Radiocarbon Analyses",
+    "authors": ["T. M. Kasso", "M. Kytökari", "M. Oinonen", "K. Mizohata", "J. Tahkokallio", "T. Heikkilä"],
+    "doi": "10.1017/RDC.2022.81",
+    "year_online": 2022,
+    "journal_year": 2023,
+    "scope": "Publisher HTML, methods, results and conclusion; publisher PDF text Table 2 p.162. Supplement and sample locations for these leaves not inspected. No source image viewed.",
+    "table_2": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF2B4D6A81FF60F9C8BB4500D3C99B43/S0033822222000819a.pdf/glance_to_the_fragmenta_membranea_manuscript_collection_through_ftir_and_radiocarbon_analyses.pdf"
+  },
+  "measurements": [
+    {"manuscript": "IV.156", "leaf": 21, "sample": "K1", "lab": "Hela-4113", "radiocarbon_age_bp": 135, "one_sigma_years": 22},
+    {"manuscript": "IV.156", "leaf": 8, "sample": "K2", "lab": "Hela-4114", "radiocarbon_age_bp": 294, "one_sigma_years": 22},
+    {"manuscript": "IV.156", "leaf": 19, "sample": "K3", "lab": "Hela-4115", "radiocarbon_age_bp": 130, "one_sigma_years": 26},
+    {"manuscript": "IV.157", "leaf": 2, "sample": "L1", "lab": "Hela-4116", "radiocarbon_age_bp": 275, "one_sigma_years": 28},
+    {"manuscript": "IV.157", "leaf": 6, "sample": "L2", "lab": "Hela-4117", "radiocarbon_age_bp": 216, "one_sigma_years": 30},
+    {"manuscript": "IV.157", "leaf": 7, "sample": "L3", "lab": "Hela-4118", "radiocarbon_age_bp": 146, "one_sigma_years": 33}
+  ],
+  "interpretation": "Reported values are conventional radiocarbon years BP, not calendar dates, and group assignments are source labels. Authors interpret four of six as younger than expected and tentatively propose contamination including elemental carbon; mechanism remains unresolved. No new dating, paired manuscript image, codex assignment or independent review follows."
+}

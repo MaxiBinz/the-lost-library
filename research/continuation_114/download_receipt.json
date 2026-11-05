@@ -1,0 +1,12 @@
+{
+  "accessed_date": "2026-11-04",
+  "source": "Zenodo combined BOMPAC v1.1 record, public CSV file link",
+  "record_url": "https://zenodo.org/records/19046496",
+  "url": "https://zenodo.org/records/19046496/files/Stockholm-Helsinki-Frs-Combined-BOMPAC.csv?download=1",
+  "destination": "research/continuation_114/Stockholm-Helsinki-Frs-Combined-BOMPAC.csv",
+  "bytes_received": 18526969,
+  "published_md5": "2db8890e0616786a3b6461c9c737da1c",
+  "sha256": "4d7ba58bb422ed5c331518284919c42ceba2648412ecf5576f0bea09874db304",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "scope": "One download of the 18.5 MB published CSV, copied locally to the research directory. CSV is research metadata, not a manuscript image."
+}

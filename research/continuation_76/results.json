@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-02",
+  "question": "Does the Fr 8073 responsory–hymn–antiphon combination discriminate a single parent book, and do other Ant 49 catalogue records explicitly describe the same Anne passages?",
+  "local_target": "Fr 8073 captures 1–3 provisionally show Funde vinum with Liberalis liberali, Gloria, Lucis huius festa and Felix terra. Capture order and readings are reference-exposed; immediate 1–2 physical adjacency is unproved.",
+  "published_comparison": "Schnabel's published Lübeck Ms. theol. lat. 2° 48a description lists AH 5 no.34 second nocturn responsory 3 with verse and Gloria, then Lucis huius festa AH 52 no.101, followed by Felix terra. AH 5 identifies the referenced responsory and verse as Funde vinum and Liberalis liberali. This is a separate surviving book.",
+  "interpretation": "The described sequence is a concrete different-book control against a unique-book inference from the proposed Swedish sequence. The catalogue alone does not establish exact adjacency, complete text, identical melodies, transmission or a relationship between the books.",
+  "catalogue_screen": "All eight retained Ant 49 MPO rows were extracted. Fr 8073 alone explicitly lists Anne; other rows describe different feasts or have no contents description. This is not proof of absence or of a different book.",
+  "limits": "Lübeck catalogue description read as a full search-indexed result; direct catalogue open and its facsimile resolver returned cache misses. No original Lübeck manuscript image or printed edition page image was inspected. Source descriptions and AH work identifiers are attributed, not direct independent readings of the Swedish fragment.",
+  "next_test": "Compare a source-verified distinguishing detail in corresponding text or music, or an original physical feature, against an existing Ant 49 candidate and a suitable separate-book control. The catalogue screen does not provide a secure second Anne passage; avoid inferring side joins from sequence alone.",
+  "source_regions": ["I75-8073-responsory", "I75-8073-doxology", "I74-8073-end-car", "I74-8073-start-nis", "I73-8073-felix-terra"],
+  "candidate_rows_path": "research/continuation_76/candidate_rows.json",
+  "luebeck_original_inspected": false,
+  "exact_comparator_adjacency_verified": false,
+  "melody_compared": false,
+  "other_anne_absence_established": false,
+  "new_codex_relationship": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

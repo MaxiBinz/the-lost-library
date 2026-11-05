@@ -1,0 +1,30 @@
+{
+  "requested_at_utc": "2026-10-27T08:12:04.819691+00:00",
+  "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+  "source_record": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+  "folio_label": "Folio 69r",
+  "identification": "Selected the explicitly named thumbnail; viewer then labelled Folio 69r and exposed this download URL. Not inferred from ordinal.",
+  "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "rights_receipt": "research/continuation_38/c23-record.ax.txt",
+  "cap_bytes": 50000000,
+  "bytes_received": 24826245,
+  "saved": true,
+  "status": 200,
+  "final_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+  "content_type": "image/tiff",
+  "local_path": "research/continuation_38/c23-69r-0139.tiff",
+  "sha256": "499bb35b4b6864b3caa87b547d2a6b757ac133f5586ab472e12152dea9daa9e7",
+  "source_dimensions": [
+    3046,
+    4043
+  ],
+  "derivative": {
+    "path": "research/continuation_38/c23-69r-0139-2200px.jpg",
+    "dimensions": [
+      2200,
+      2920
+    ],
+    "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+    "transform": "Pillow RGB, thumbnail width 2200, JPEG quality 95; no generated pixels or restoration"
+  }
+}

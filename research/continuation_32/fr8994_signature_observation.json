@@ -1,0 +1,31 @@
+{
+  "id": "I32-8994-red-four-stroke-mark",
+  "type": "Annotation",
+  "motivation": "describing",
+  "body": {
+    "type": "TextualBody",
+    "value": "On the upper margin of the first locally retained Fr 8994 capture, a red sign visibly consists of four adjacent vertical strokes. It is consistent with the MPO catalogue's transcription of the old foliation as IIII. The capture does not independently establish its medieval recto/verso assignment.",
+    "language": "en"
+  },
+  "target": {
+    "source": "data/images/mpo-8994.jpg",
+    "selector": {
+      "type": "FragmentSelector",
+      "conformsTo": "http://www.w3.org/TR/media-frags/",
+      "value": "xywh=250,45,38,20"
+    }
+  },
+  "fragment_id": "mpo-8994",
+  "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/800,/0/default.jpg",
+  "sha256": "750440678d2312c73fb6eb7eb522ca68034583affeb60208c8fa549dc0e82517",
+  "observer": "Codex AI visual inspection, 2026-10-25",
+  "evidence_kind": "image observation",
+  "verification": "Manual inspection of the source JPEG and a pixel-coordinate crop; not independently checked by another reader or manuscript specialist",
+  "interpretation_limits": [
+    "Image coordinates use the top-left origin of the retained 600 x 415 JPEG.",
+    "The visual observation supports a four-stroke mark only; the catalogue supplies the proposed foliation transcription.",
+    "The capture is not independently assigned to a medieval recto or verso.",
+    "This observation does not establish a match with F.m.IV.157 or Fr 20278, a physical join, a common hand, or a same-codex identity."
+  ],
+  "image_dimensions": [600, 415]
+}

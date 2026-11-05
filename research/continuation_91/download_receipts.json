@@ -1,0 +1,26 @@
+[
+  {
+    "key": "FM_Frs_BOMPAC.csv",
+    "url": "https://zenodo.org/api/records/19047125/files/FM_Frs_BOMPAC.csv/content",
+    "expected_size": 2679034,
+    "expected_checksum": "md5:a08f4b47206ba0b93107887151cdea1e",
+    "saved": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "key": "Bailiffs_Records_and_Covers.csv",
+    "url": "https://zenodo.org/api/records/19047125/files/Bailiffs_Records_and_Covers.csv/content",
+    "expected_size": 324884,
+    "expected_checksum": "md5:485e4415a5bdab70e4aac2936bc2d5e9",
+    "saved": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "key": "Readme-FM-frs-BOMPAC.pdf",
+    "url": "https://zenodo.org/api/records/19047125/files/Readme-FM-frs-BOMPAC.pdf/content",
+    "expected_size": 322395,
+    "expected_checksum": "md5:b0265a997997c0f1ade345805fa57a58",
+    "saved": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  }
+]

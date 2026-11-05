@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-04",
+  "rows": {
+    "Fr 10406": {
+      "row": 10406,
+      "values": {
+        "Fr_reference": "Fr 10406",
+        "Database": "MPO",
+        "BOMPAC-reconstruction": "BOMPAC-5324",
+        "No_of_leaves": 1,
+        "Account year": 1608,
+        "Area": "Finland",
+        "Province": null,
+        "Bailiwick": null,
+        "Archival_collection_accounts": "Finska cameralia",
+        "bestandssignatur": "71:2 1608",
+        "Row_exclusion": "Include row"
+      },
+      "cells": {
+        "Fr_reference": "C10406",
+        "Database": "L10406",
+        "BOMPAC-reconstruction": "M10406",
+        "No_of_leaves": "H10406",
+        "Account year": "BB10406",
+        "Area": "AX10406",
+        "Province": "AY10406",
+        "Bailiwick": "AZ10406",
+        "Archival_collection_accounts": "BD10406",
+        "bestandssignatur": "BJ10406",
+        "Row_exclusion": "BO10406"
+      }
+    },
+    "F.m.IV.156, fol. 8": {
+      "row": 25951,
+      "values": {
+        "Fr_reference": "F.m.IV.156, fol. 8",
+        "Database": "FM",
+        "BOMPAC-reconstruction": "BOMPAC-5324",
+        "No_of_leaves": 1,
+        "Account year": 1604,
+        "Area": "Finland",
+        "Province": "Karelen",
+        "Bailiwick": 338,
+        "Archival_collection_accounts": null,
+        "bestandssignatur": null,
+        "Row_exclusion": "Include row"
+      },
+      "cells": {
+        "Fr_reference": "C25951",
+        "Database": "L25951",
+        "BOMPAC-reconstruction": "M25951",
+        "No_of_leaves": "H25951",
+        "Account year": "BB25951",
+        "Area": "AX25951",
+        "Province": "AY25951",
+        "Bailiwick": "AZ25951",
+        "Archival_collection_accounts": "BD25951",
+        "bestandssignatur": "BJ25951",
+        "Row_exclusion": "BO25951"
+      }
+    }
+  },
+  "original_mpo": {
+    "path": "research/mpo.csv",
+    "signatur": "10406",
+    "bestandssignatur": "71:2 1608",
+    "bestandsbezeichnung": "Finska cameralia"
+  },
+  "swedish_date_mark": {
+    "path": "data/images/mpo-10406-capture-3.jpg",
+    "sha256": "ad15525ab9eaeb67b603ade9120886e2c5c8caecb5ebfbebef9bd478a09bfbb9",
+    "dimensions": [
+      1000,
+      659
+    ],
+    "xywh": [
+      875,
+      250,
+      105,
+      215
+    ],
+    "candidate": "1608",
+    "reading": "Visible after clockwise quarter-turn; date of inscription, source and function unverified."
+  },
+  "finnish_catalogue": {
+    "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299?show=full",
+    "access": "Search-indexed text, not direct image or verified print.",
+    "folio_8": "A heading attributed to f.8 describes Hindrich Jonszon, the Viborg garrison and 1603–1604; exact historical spelling and side marker need source-image review."
+  },
+  "limits": "Catalogue account years are not binding dates. Distinct descriptions do not exclude multiple uses, an original folio divided between wrappers, catalogue error, or physical overlap; they do not decide medieval book identity.",
+  "sources_sha256": {
+    "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/images/mpo-10406-capture-3.jpg": "ad15525ab9eaeb67b603ade9120886e2c5c8caecb5ebfbebef9bd478a09bfbb9"
+  },
+  "independent_confirmation": false
+}

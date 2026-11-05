@@ -1,0 +1,9 @@
+{
+  "finnish_iv156": {"url":"https://fragmenta.kansalliskirjasto.fi/handle/10024/1299", "scope":"Search-indexed catalogue entry for f.8 and general opening-signature description; direct institutional access previously returned 403 and was not retried. Indexed OCR contains errors. No image inspected."},
+  "finnish_iv157": {"url":"https://fragmenta.kansalliskirjasto.fi/handle/10024/1300", "scope":"Search-indexed statement locating the Christiern Philipsson 1610 wrapper between ff.7 and 8; project previously crosswalked it to Fr10370. This is prior attribution, not independent verification. Earlier direct access met a restriction and was not retried."},
+  "candidate_identification": {"url":"https://musmed.eu/chant/42833", "scope":"Search-indexed F-CH Ms 0050 402v record identifies Satagebat igitur as 004816; its context and text do not transcribe Fr10370. Direct open failed Cache miss and was stopped."},
+  "sequence_control": {"url":"https://cantusdatabase.org/chant/391041/", "scope":"Search-indexed 1537 printed Münster antiphoner gives Satagebat, Non est Martha and Et respondens in sequence. Direct page open failed Cache miss. This is a reference-order control, not another reading of either target."},
+  "local_provenance": "Pinned MPO record and Fr10370 photographs; prior k and II-like readings in independent_pass and E51 are reused, not independent new observations.",
+  "failed_routes":"The two new direct database opens failed with Cache miss. No prior access restriction or failed endpoint was retried or bypassed.",
+  "network":"No source files acquired; unmeasured search-reader traffic falls under existing planning reserve."
+}

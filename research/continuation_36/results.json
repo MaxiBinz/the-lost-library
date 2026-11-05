@@ -1,0 +1,49 @@
+{
+  "version":"1.0.0",
+  "date":"2026-10-27",
+  "question":"Source-image support and capture mapping for all three previously catalogued Aboense continuities",
+  "protocol":"research/continuation_36/protocol.json",
+  "execution":"Project AI inspected sixteen original JPEGs, then seven exact boundary regions before chant lookup. Initial candidate readings preceded lookup; their JSON serialization followed it. No independent reader or note-level melody comparison.",
+  "edges":[
+    {
+      "id":"aboense-I",
+      "from":"mpo-7960","catalogue_from":"2v","to":"mpo-7961","catalogue_to":"1r",
+      "published_status":"previously_documented","local_observation_state":"supported",
+      "from_capture":"data/images/mpo-7960-capture-4.jpg","to_capture":"data/images/mpo-7961.jpg",
+      "from_regions":["I36-I-end","I36-I-catchword"],"to_regions":["I36-I-start"],
+      "result":"The final Esto mihi row ends refugium meum. A separate catchword es tu repeats the beginning of the next object's first text row, which continues et propter nomen tuum. This supports the already catalogued directional textual continuation.",
+      "limits":["The chant and two-word catchword are not unique book fingerprints.","Text continuation plus catchword does not establish a physical seam or independent attribution.","The mapped catalogue side remains a content-based interpretation; capture ordinal supplies no side rule."]
+    },
+    {
+      "id":"aboense-II",
+      "from":"mpo-8343","catalogue_from":"1v","to":"mpo-8344","catalogue_to":"1r",
+      "published_status":"previously_documented","local_observation_state":"unresolved",
+      "from_capture":"data/images/mpo-8343-capture-2.jpg","to_capture":"data/images/mpo-8344-capture-3.jpg",
+      "from_regions":["I36-II-end"],"to_regions":["I36-II-start"],
+      "result":"Fr 8343's selected capture ends an Ego sum pastor bonus passage and then writes Alleluia. Fr 8344 capture 3 opens Surrexit Christus et illuxit. This is consistent with the catalogued sequence but is only a generic chant boundary; it does not independently establish immediate adjacency.",
+      "limits":["Alleluia alone is not diagnostic.","A text match to an office antiphon must not silently assign its ID or melody to this Mass alleluia.","The catalogue side mapping and immediate adjacency remain provisional at source-image level."]
+    },
+    {
+      "id":"aboense-III",
+      "from":"mpo-8344","catalogue_from":"2v","to":"mpo-8343","catalogue_to":"2r",
+      "published_status":"previously_documented","local_observation_state":"supported",
+      "from_capture":"data/images/mpo-8344-capture-2.jpg","to_capture":"data/images/mpo-8343-capture-3.jpg",
+      "from_regions":["I36-III-end"],"to_regions":["I36-III-start"],
+      "result":"The final row Iubilate deo ... psalmum dicite nomini eius is continued by date gloriam laudi eius at the top of the other object, before the doxology cue and next Alleluia. This supports the previously catalogued direction of the Vocem iucunditatis verse continuation.",
+      "limits":["A standard psalm verse is not a unique textual variant or codex fingerprint.","No physical join, complete bifolium collation or independent historical confirmation follows.","The side mapping is interpreted through catalogue contents and source words; no general capture-ordinal rule or feast-number correction is claimed."]
+    }
+  ],
+  "controls":{
+    "reverse":"For I, reversing the identified rows fails the catchword-to-first-row relation. For III the reversed prefix/suffix fails the specific nomini eius / date gloriam boundary. II's generic chant boundary cannot strongly distinguish directions without context.",
+    "non_neighbour":"The es tu catchword of Fr 7960 does not repeat the Surrexit beginning on Fr 8344 capture 3. This is a same-published-book, non-adjacency control, not a different-codex negative.",
+    "scope":"Qualitative local controls on selected boundary strings; no measured population accuracy or improved retrieval model."
+  },
+  "concordances":[
+    {"url":"https://musmed.eu/chant/107721","source":"MMMO, B-Br Ms 10127-44 f.096v","candidate_id":"g00648","role":"Indexed identification aid for the Esto mihi introit, not an independent reading of the Swedish sources.","access":"Search-indexed entry read 27 October 2026; direct web reader returned Cache miss."},
+    {"url":"https://cantusdatabase.org/source/666647/chants/?folio=233","candidate_id":"g02089a","role":"Primary database inventory identifies the Jubilate deo psalm verse associated with Vocem jucunditatis. Does not validate Swedish text, melody or physical identity.","access":"Database page opened 27 October 2026."},
+    {"url":"https://cantusdatabase.org/source/638308/chants/?folio=216","candidate_id":null,"role":"Indexed Mass-alleluia comparanda for Surrexit Christus et illuxit; multiple entries/melodies mean text alone cannot select the Swedish melodic ID. Office-antiphon 005077 is not adopted.","access":"Search-indexed database listing read 27 October 2026."}
+  ],
+  "novelty_cleared":false,"new_attribution":false,"independent_confirmation":false,
+  "new_downloads":0,"source_mutations":0,
+  "next_test":"Use a genuinely new lawful route if corresponding Finnish source material becomes available. Continue primary source tests of unresolved candidate pairs; the present three controls do not resolve any of the seven frozen ambiguous attribution cases."
+}

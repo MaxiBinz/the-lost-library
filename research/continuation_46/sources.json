@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-29",
+  "new_file_download_bytes": 0,
+  "new_source_images": 0,
+  "web_reader_transfer_bytes": null,
+  "transfer_note": "Only web-reader/index accesses; no new retained source or method file transfer. Their unmeasured traffic is covered by the existing conservative planning reserve, not claimed as zero measured lifetime traffic.",
+  "sources": [
+    {
+      "url": "https://neume.zti.hu/en_projekt.asp",
+      "title": "Hungarian Neume Catalogue, About/What is a neume",
+      "read_scope": "Direct web text read, especially basic signs/combinations and distinctions among staves, clefs and custodes. Its linked neume-table image returned Cache miss and was not seen or retried.",
+      "use": "General method context only. No Hungarian/German provenance or target-specific subtype diagnosis follows."
+    },
+    {
+      "url": "https://fragmenta.zti.hu/wp-content/uploads/2022/02/Gabriella_Gil%C3%A1nyi_Hungarian_notated_codex_fragments_and_musical_paleography._-Terminology_and_perspectives.pdf",
+      "title": "Gabriella Gil\u00e1nyi2022, Hungarian notated codex fragments and musical paleography. Terminology and perspectives",
+      "doi": "10.23714/rzt.fragmenta.publ.1011",
+      "read_scope": "Web-reader text of relevant printed pp4-7, especially German Gothic virga/stem and clef/ruling/custos description. No local PDF saved or full25-page read. Screenshot calls exposed text references only, so no visual page or figure review is claimed.",
+      "use": "Method cautions and basic form context, not a target-specific event or geographic adjudication."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/248539/",
+      "title": "Vidit Jacob scalam summitas ejus, A-Gu30,110r",
+      "read_scope": "Indexed full text, identifier005415 and antiphon classification. Direct open Cache miss; no retry, full page or original reference image inspected.",
+      "use": "Provisional9620 work identification; no source melody imported. Other indexed005415 witnesses show different service positions, which are not transferred to9620."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/233459/",
+      "title": "Vidit Jacob in somnis scalam, CH-E611270v",
+      "read_scope": "Prior E45 indexed verse context007763zd reused; the already failed direct route was not retried.",
+      "use": "Provisional8066 verse identification only. No copied pitch or missing word."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/202722/",
+      "title": "Benedic domine domum istam quam, F-CA38",
+      "read_scope": "Indexed text consulted to contextualize the preceding partially preserved9620 text. No full record or original read.",
+      "use": "Background only; no local Benedic ID or office-position assertion accepted."
+    }
+  ],
+  "frozen_reference_method": {
+    "path": "research/continuation_39/private-volpiano-protocols.pdf",
+    "sha256": "19b983640a7247ccb0d826c4215142ff4e9f02598ac9a5651c99ff73d014c963",
+    "read_scope": "Previously read basic entry/uncertainty conventions retained; no new full-guide reading or import."
+  },
+  "novelty_cleared": false,
+  "independent_confirmation": false
+}

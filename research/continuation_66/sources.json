@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-02",
+  "museum_transcription": {
+    "url": "https://www.snm.sk/swift_data/source/hudobne_muzeum/pdf_dokumenty/Hudobne_pramene_2011_Komplet.pdf",
+    "citation": "Eva Veselovská, contribution on medieval notated fragments, in Hudobné pramene 2011, Slovak National Museum – Music Museum, printed pp. 26–27, notes 109–114.",
+    "access": "Web-reader extracted text of the named fragment and adjacent folios, plus table and contribution header. No PDF saved and no image visually inspected.",
+    "source_assertion": "The published MUS I 12 transcription places the full Specie antiphon on f.1r, and Traditur followed by Nobilis on f.1v. Its Nobilis starts with prudens ... puella and has vana, rather than the target's provisional virgo ... beata and vaga. Footnotes identify the three items as 204720, 204938 and 601492.",
+    "limits": "This is the author’s published transcription, not our reading of the medieval original. Ellipses at the f1r/f1v transition leave any intervening material uncertain; the reported side change is after Specie, not at the proposed Fr20106/8201 split inside it."
+  },
+  "toldy_1855": {
+    "url": "https://mek.oszk.hu/17000/17077/17077.pdf",
+    "citation": "Ferenc Toldy, Alexandriai szent Katalin verses legendája, Pest, 1855, introduction p. XIII footnote; Hungarian National Electronic Library scan.",
+    "access": "Web-reader extracted text and title page; selected footnote and context only, original medieval source not inspected.",
+    "source_assertion": "The older edition reports the same virgo ... beata and vaga wording, explicitly attributing it to an earlier printed account of a breviary; the cited text has already appeared in scholarship.",
+    "limits": "Edited/transmitted text, not an independent examination of that breviary or evidence that the Swedish fragment belongs to it. No claim of first identification of the variant in Fr8201."
+  },
+  "karlsruhe_index": {
+    "url": "https://cantusdatabase.org/chant/619057",
+    "access": "Search-indexed result only; direct record open returned Cache miss, not retried.",
+    "source_assertion": "For Karlsruhe Aug. LX f.191r, Cantus ID 601492, the indexed source-spelling has virgo ... puella and vaga.",
+    "limits": "The original Karlsruhe image was not inspected; this is a partial-wording counterexample, not complete concordance or a direct manuscript reading."
+  },
+  "failed_routes": [
+    {
+      "url": "https://cantusdatabase.org/chant/547315/",
+      "outcome": "Direct open Cache miss; not retried."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/302558/",
+      "outcome": "Direct open Cache miss; not retried."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/619057",
+      "outcome": "Direct open Cache miss; not retried."
+    },
+    {
+      "url": "https://hlub.dyndns.org/projekten/webplek/CANTUS/cgi-bin/LMLO/LMLO.cgi?X=CB24",
+      "outcome": "Direct open timeout; not retried."
+    },
+    {
+      "url": "https://www.snm.sk/swift_data/source/hudobne_muzeum/pdf_dokumenty/Hudobne_pramene_2011_Komplet.pdf",
+      "outcome": "The web reader's PDF screenshot requests failed; screenshots for two selected page numbers were inadvertently requested twice before the first output was inspected. The text reader succeeded; no screenshots or original-source images were obtained. Do not repeat the failed screenshot requests."
+    }
+  ],
+  "network_accounting": "No files or images saved. Web search and text-reader traffic remain unmeasured within the existing reserve."
+}

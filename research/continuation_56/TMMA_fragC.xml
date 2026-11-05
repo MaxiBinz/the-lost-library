@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/Users/vilwal/Documents/Codices/TEI%20P5/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Turku, The Museum Centre of Turku Archives, uncatalogued choral book fragment
+          C</title>
+        <respStmt>
+          <resp>Cataloguer</resp>
+          <persName>Jesse Keskiaho</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Finnish Literature Society (SKS)</publisher>
+        <publisher>Codices Fennici</publisher>
+        <date when="2017"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY
+            4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Turku</settlement>
+            <repository>The Museum Centre of Turku Archives</repository>
+            <idno type="shelfmark">uncatalogued choral book fragment C</idno>
+          </msIdentifier>
+          <head><origDate from="1450" to="1499">Saec. XV<hi rend="superscript">2</hi></origDate>,
+              <origPlace>diocese of Turku</origPlace> (<placeName type="provenance"
+              >Naantali</placeName>?)</head>
+          <msContents>
+            <summary><title>Antiphonary</title>, fragment</summary>
+            <textLang mainLang="la"/>
+            <msItem n="1">
+              <p>Fols. 1–2, <hi rend="italic">proprium de sanctis</hi>, the feasts of St <persName
+                  role="author">Henry</persName> and <hi rend="italic">Mariae purificatio</hi>.</p>
+              <p><locus>[1r]</locus> nanctum corona triumphantium ... henrici ... gaudet cetus
+                fidelium. | O admirabile commercium creator ... nobis suam deitatem. <hi
+                  rend="italic">Psalmus</hi>. Laudat p| ... <hi rend="italic">Secreta</hi>. Gaude
+                maria. <hi rend="italic">Postcommunio</hi>. Gloria. <hi rend="italic">Dicatur
+                  immediate</hi>| ... molata. <hi rend="italic">Ad uesperas uersus</hi>. Responsium
+                accepit symeon ... uidet christum dominum. <hi rend="italic">Ad m</hi>[<hi
+                  rend="italic">atutinas</hi>] ... puerum ihesum parentes e n| <locus>[1v]</locus>
+                |ae. <hi rend="italic">Ad completorium antiphona</hi>. Sancta dei genetrix uirgo ...
+                  <hi rend="italic">Antiphona</hi>. Sicut mirra electa odorem redisti
+                  <locus>[2r]</locus> ... <hi rend="italic">Versus</hi>. Sancta dei genetrix ...
+                Adorna thalamum tuum syon ... ut sisterent eum domino <locus>[2v]</locus> |cabitur.
+                  <hi rend="italic">Versus</hi>. Obtulerunt pro eo ... <hi rend="italic">In secundo
+                  nocturno antiphona</hi>. Emissiones tue paradisus ... <hi rend="italic"
+                  >Antiphona</hi>. Fons ortorum.</p>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="fragment">
+              <supportDesc>
+                <support>
+                  <material>Parchment</material>
+                </support>
+                <extent>2 folios. <dimensions type="leaves" unit="cm">
+                    <width>33,5</width>
+                    <height>38</height>
+                  </dimensions>
+                  <dimensions type="written" unit="cm">
+                    <width>23</width>
+                    <height>29</height>
+                  </dimensions>
+                </extent>
+                <foliation>Original foliation not extant, the recto-side of fol. 2 has been marked
+                  in pencil in the right-hand margin.</foliation>
+                <condition>Mutilated, with the top and the outer edges of the bifolium
+                  trimmed.</condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">Text and notes in one column, ruled in ink.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Gothic bookhand by one scribe; square notation on four red lines. The scribe has
+                been recognized as one (Scribe A) of those collaborating in the so-called
+                Naantali-group of manuscripts (see <bibl>Keskiaho 2008, 326, 340</bibl>). It was
+                therefore possibly copied at the <origPlace>Birgittine monastery of
+                  Naantali</origPlace>.</p>
+            </handDesc>
+            <decoDesc>
+              <p>Lombards alternating in red and blue for the beginnings of feasts, hand-drawn
+                initials for the beginnings of chants, touched in red and decorated with black and
+                red diamond shapes; rubrics in red.</p>
+            </decoDesc>
+            <bindingDesc>
+              <p>Some of the sewing holes are still visible. They match those found in <ref
+                  type="mss">Helsinki, National Library, F.m. II.157</ref> (where this bifolium
+                possibly belongs between fols. 2 and 3).</p>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin><p>The bifolium was part of an antiphonary possibly copied at the <origPlace>monastery of
+              Naantali</origPlace>. Other leaves presumably from this same book are preserved in <ref type="mss">Helsinki,
+                National Library, F.m. II.157</ref>, as well as several leaves conserved in the <orgName>Swedish
+                  National Archives</orgName>. The present bifolium seems to have been used to bind an account
+              book in <date type="binding">1661</date>, probably the accounts of the municipality of Turku.</p></origin>
+            <provenance>
+              <p>The fragment was used as cover wrappers for an accout in 1661; fol. <locus>2r</locus>:
+                ’Räckenskaper för Åhr 1661’.</p>
+            </provenance>
+            </history>
+          <additional>
+            <listBibl>
+              <bibl>Jesse Keskiaho, ‘En grupp handskrifter från slutet av 1400-talet – från Nådendals <hi rend="italic">scriptorium</hi>?’, <hi rend="italic">Historisk Tidskrift för Finland</hi> <hi rend="italic">93</hi> (2008), 318–350.</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc status="draft">
+      <change when="2017-03-13" who="Ville Walta">Encoding added</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>

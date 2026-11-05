@@ -1,0 +1,447 @@
+{
+  "counts": {
+    "local_mpo_records": 115,
+    "csv_exact_match": 115,
+    "stored_equals_current_csv_parser": 115,
+    "local_csv_matches_raw_workbook_string": 115,
+    "stored_and_combined_numeric": 100,
+    "stored_equals_combined_numeric": 36,
+    "stored_differs_combined_numeric": 64,
+    "stored_or_combined_nonnumeric": 15
+  },
+  "issues": [],
+  "stored_vs_combined_examples": [
+    {
+      "id": "mpo-1114",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-11167",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1761",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1770",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1777",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1801",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1854",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1862",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1863",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1864",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-1915",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-2040",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-2134",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-25592",
+      "stored": 2,
+      "combined": 1
+    },
+    {
+      "id": "mpo-2862",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-2863",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-2864",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-2871",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-2872",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-2873",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-29733",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-29763",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-29791",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-30003",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-3557",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-3736",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-3759",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-3872",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-4315",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-4472",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-4473",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-4474",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-4476",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-4484",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-4972",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-5029",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-5070",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-607",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6359",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6360",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6362",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6425",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6426",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6427",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6588",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6664",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6690",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6696",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6712",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6779",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-6883",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-7957",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-7959",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-7960",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-7961",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-8255",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-8343",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-8344",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-8370",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-8466",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-8724",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-9202",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-9242",
+      "stored": 1,
+      "combined": 2
+    },
+    {
+      "id": "mpo-9620",
+      "stored": 1,
+      "combined": 2
+    }
+  ],
+  "counterfactual": {
+    "candidate_rows_with_numeric_substitution": 110,
+    "recomputed_baseline_equals_saved_metadata": 110,
+    "metadata_score_unchanged": 94,
+    "metadata_score_changed": 16
+  },
+  "counterfactual_changed_pairs": [
+    {
+      "left": "mpo-10349",
+      "right": "mpo-2872",
+      "current": 0.7312372013434867,
+      "counterfactual": 0.8423483124545978
+    },
+    {
+      "left": "mpo-10349",
+      "right": "mpo-2873",
+      "current": 0.7214885214102781,
+      "counterfactual": 0.8325996325213892
+    },
+    {
+      "left": "mpo-10349",
+      "right": "mpo-2863",
+      "current": 0.7010157243120168,
+      "counterfactual": 0.8121268354231278
+    },
+    {
+      "left": "mpo-10349",
+      "right": "mpo-2862",
+      "current": 0.6979104263777791,
+      "counterfactual": 0.8090215374888902
+    },
+    {
+      "left": "mpo-10349",
+      "right": "mpo-2864",
+      "current": 0.6839593299476071,
+      "counterfactual": 0.7950704410587182
+    },
+    {
+      "left": "mpo-25592",
+      "right": "mpo-10349",
+      "current": 0.5440330611862138,
+      "counterfactual": 0.43292195007510265
+    },
+    {
+      "left": "mpo-8066",
+      "right": "mpo-9620",
+      "current": 0.8564909504874518,
+      "counterfactual": 0.7453798393763407
+    },
+    {
+      "left": "mpo-8072",
+      "right": "mpo-9620",
+      "current": 0.8387955340614986,
+      "counterfactual": 0.7276844229503875
+    },
+    {
+      "left": "mpo-8073",
+      "right": "mpo-9620",
+      "current": 0.8309674795784995,
+      "counterfactual": 0.7198563684673884
+    },
+    {
+      "left": "mpo-8201",
+      "right": "mpo-9620",
+      "current": 0.8405227778861973,
+      "counterfactual": 0.7294116667750862
+    },
+    {
+      "left": "mpo-8304",
+      "right": "mpo-9620",
+      "current": 0.8377623350574421,
+      "counterfactual": 0.726651223946331
+    },
+    {
+      "left": "mpo-9620",
+      "right": "mpo-8066",
+      "current": 0.8564909504874518,
+      "counterfactual": 0.7453798393763408
+    },
+    {
+      "left": "mpo-9620",
+      "right": "mpo-8201",
+      "current": 0.8405227778861973,
+      "counterfactual": 0.7294116667750862
+    },
+    {
+      "left": "mpo-9620",
+      "right": "mpo-8072",
+      "current": 0.8387955340614986,
+      "counterfactual": 0.7276844229503875
+    },
+    {
+      "left": "mpo-9620",
+      "right": "mpo-8304",
+      "current": 0.8377623350574421,
+      "counterfactual": 0.726651223946331
+    },
+    {
+      "left": "mpo-9620",
+      "right": "mpo-8073",
+      "current": 0.8309674795784995,
+      "counterfactual": 0.7198563684673884
+    }
+  ],
+  "inputs": {
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/continuation_26/bompac/raw_metadata/MPO_BOMPAC.xlsx": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9",
+    "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041"
+  },
+  "scope": "Current saved local MPO records, current ingestion parser and existing 170 candidate rows. Counterfactual substitutes published combined values in copies only; it does not change saved data, rank or model performance, replay historical model runs, prove every earlier analysis unaffected, or verify every image."
+}

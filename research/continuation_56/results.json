@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-01",
+  "status": "unresolved",
+  "candidate": "Turku City Museum TKM23245:3, formerly TMM23245:3; Codices Fennici item249 fragment C",
+  "sources": {
+    "museum": "https://museo.disec.fi/Yksa4/id/160988864803200/",
+    "codices": "https://www.codicesfennici.fi/items/show/249",
+    "helsinki_old": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+    "helsinki_updated": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300"
+  },
+  "source_scope": "Museum visitor interface and CF TEI; older IV.173 source was opened, IV.157 supplied by search-indexed text only. Museum record reproduces Keskiaho/CF text: agreement is not independent corroboration.",
+  "findings": [
+    "CF explicitly names museum fragment C, describes two folios in a defective bifolium, and credits Keskiaho. Museum record TKM23245:3 gives one object and repeats distinctive text, dimensions and attribution; a strong proposed record crosswalk, not independently confirmed identity.",
+    "Older IV.173 description places uncatalogued Ms.c at the Provincial Museum and describes a defective bifolium with Henry and Purification material, consistent with CF fragment C. Updated IV.157 describes an uncatalogued Ms.c at the provincial archive as one folio; holder and one-folio discrepancy remain unresolved.",
+    "CF and the museum copy literally refer to F.m. II.157 and report matching sewing holes and a possible position between folios2 and3. The IV.157 catalogue describes folio2 as Henry material and folio3 as Good Friday. IV.157 is a plausible intended reference but II-to-IV is an unverified correction, and no physical comparison was performed.",
+    "The possible placement, sewing-hole comparison and scribal attribution are credited to the published catalogue; they are not new discoveries."
+  ],
+  "metadata_file": "research/continuation_56/TMMA_fragC.xml",
+  "metadata_sha256": "5eb6f4be514296d034ae3342a56bf35c59c50af9833fb24614657e67fda50cdd",
+  "metadata_bytes": 6702,
+  "native_image_attempts": 2,
+  "native_images_saved": 0,
+  "native_image_failure": "Both exact TIFF requests ended at certificate verification, with no saved bodies; no retry or alternate resolution.",
+  "working_source_files_after": 208,
+  "conservative_transfer_plan_after": 1675860841,
+  "new_codex_attribution": false,
+  "historical_placement_verified": false,
+  "catalogue_emendation_confirmed": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "goal_complete": false,
+  "next_test": "Recheck the retained Fr8311 literal chant and verse against exact public concordances. For Turku, a source identifying the historic archive reference or original object is needed; the two failed image URLs remain stopped."
+}

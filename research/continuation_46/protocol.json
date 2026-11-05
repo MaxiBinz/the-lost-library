@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "previous_goal_turn": "Progress: E45 recorded all nine captures, eight exact service/text regions, possible corresponding Jacob/verse material, explicit uncertain letters and a paper-specific prior-art scope result, with verified archive replay. No live job remains.",
+  "question": "Do the actual surviving notated celos-tangebat-et windows agree in underlay/event contour, differ securely, or remain unreadable?",
+  "selection": "Existing8066/9620 Ant49 pair, fixed surviving word window selected in E45. Not a new hypothesis family or untouched test.",
+  "prior_exposure": "All nine originals, partial correspondences and an indexed other-witness verse were previously seen. No external reference melody will be used to supply either reading. Separate manual source records will precede calculated comparison; not blinded or independent.",
+  "fixed_sources": [
+    {
+      "physical_object_id": "mpo-8066",
+      "path": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+      "url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/full/max/0/default.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "width": 1709,
+      "height": 1138,
+      "bytes": 286765,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/canvas",
+      "capture_index": 1,
+      "manifest": "data/manifests/8066.json",
+      "manifest_locator": "items/1/items/0/items/0/body/id",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "side_assignment": null,
+      "role": "Additional retained original photograph; not an extra leaf or independent witness"
+    },
+    {
+      "physical_object_id": "mpo-9620",
+      "path": "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+      "url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00004/full/max/0/default.jpg",
+      "sha256": "053e4da7c3dd9c3cb29a867804bfc8f8f854b085b45960937944bb6744a606b3",
+      "width": 949,
+      "height": 1718,
+      "bytes": 297504,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1009620_00004/canvas",
+      "capture_index": 3,
+      "manifest": "data/manifests/9620.json",
+      "manifest_locator": "items/3/items/0/items/0/body/id",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "side_assignment": null,
+      "role": "Additional retained original photograph; not an extra leaf or independent witness"
+    }
+  ],
+  "method_source": {
+    "path": "research/continuation_39/private-volpiano-protocols.pdf",
+    "sha256": "19b983640a7247ccb0d826c4215142ff4e9f02598ac9a5651c99ff73d014c963",
+    "scope": "Previously read official Cantus guide, basic pitch/underlay/uncertainty conventions. E46 uses relative ruled-band coordinates only unless clefs are actually secure; no Volpiano score or absolute pitches will be invented."
+  },
+  "predictions": [
+    "Record the source-visible word boundaries and every candidate sounded event in the fixed phrase; do not force the sources into equal event counts. Exclude obvious continuation signs/custodes and preserve uncertain segmentation as uncertainty.",
+    "Measure each candidate note centre against local ruled lines at its own x position. Normalize per source/phrase, and compare only transposition-invariant diatonic rule steps, with unresolved rule function, clef and event interpretation disclosed. These are not semitones or absolute pitches.",
+    "A robust local difference requires a corresponding secure syllable/event reading whose alternate segmentation, staff placement and underlay do not remove it. A possible match among alternatives is unresolved, not verified agreement.",
+    "If note counts or underlay are unclear, retain the entire field and conclude that a full melodic comparison is unestablished. Do not expand opportunistically to rescue identity.",
+    "Common melodic agreement cannot identify a codex. A difference could challenge one uniform setting at the same position but not exclude composite/alternative sections, different hands or shared copying traditions."
+  ],
+  "controls": "This is a bounded transcription/collation, not an improved matcher evaluation. Retain unchanged published different-book/same-hand8201/8304 and E36 continuation controls; their labels do not adjudicate this pair. No performance metric or population accuracy will be claimed.",
+  "resources": "Only retained local images. No acquisition, upload, outreach, paid tool, training or publication. Keep188 working files and existing transfer bounds.",
+  "frozen_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  }
+}

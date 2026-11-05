@@ -1,0 +1,212 @@
+{
+  "version": "5.0.0",
+  "assessment_date": "2026-10-24",
+  "scope": "Supporting source, layout-control and prior-art checks; no additional frozen attribution hypotheses.",
+  "checks": [
+    {
+      "id": "CTX01",
+      "title": "Fr10370 text order, marks and previously documented placement",
+      "record_ids": [
+        "mpo-10370"
+      ],
+      "observation_ids": [
+        "V-10370-mark",
+        "V-10370-overlap-upper",
+        "V-10370-overlap-lower",
+        "V-10370-kmark",
+        "V-10370-no-seam-34",
+        "I20-10370-verse-prefix",
+        "I20-10370-verse-suffix"
+      ],
+      "summary": "Image2 ends with candidate Ardore caritatis succensa quem; image3 begins sepultum noverat sublatum cred[ens?] de sepulchro. The concatenation matches candidate Cantus601029a, supporting2→3 relative text order. Visible margin marks and the earlier catalogue placement remain separately recorded. A fixed translation-only screen and a fixed SIFT/mutual-ratio/RANSAC screen then tested the declared 1/2 and 3/4 boundary ROIs against the 2/3 different-surface control.",
+      "outcome": "Intrinsic relative text order is supported. With the proposed1/2 same-surface association and one-leaf catalogue assertion, numeral-surface before k-surface is consistent with the Finnish medieval-side convention. No general MPO rule, physical stitch, new placement or catalogue error is established. Neither proposed boundary passed the predeclared feature-registration screen (1/2: 4 RANSAC inliers from 9 mutual matches; 3/4: 5 from 28; 2/3 control: 5 from 18).",
+      "limits": [
+        "Photograph indices are not medieval page sides.",
+        "Complementary portions in images1/2 suggest continuation, but no pixel registration or shared complete row proves an overlap.",
+        "The MPO meaning of1r/1v has not been established; the side-pattern mismatch remains conditional.",
+        "The older placement and later suggested group assertion have different scope.",
+        "Quem is expanded from an abbreviation and credens is partly uncertain; the normalized reference must not silently replace the literal reading. Cantus text came from public search indexing of primary database records, not inspection of those comparator images.",
+        "Feature matching is a test for repeated photographed detail, not a test of adjacent-but-nonoverlapping page regions. Failed registration cannot prove different faces; low-inlier homographies are not joins."
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/audit.md",
+        "research/independent_pass/crosswalk/side_convention_note.json",
+        "research/independent_pass/visual/findings.md",
+        "research/continuation_20/intrinsic_10370/results.json",
+        "https://cantusdatabase.org/chant/402240/",
+        "research/continuation_20/registration/results.json",
+        "research/continuation_20/registration/feature_results.json"
+      ]
+    },
+    {
+      "id": "CTX02",
+      "title": "Repeated opening address: conditional consistency check",
+      "record_ids": [],
+      "observation_ids": [],
+      "summary": "Indexed institutional descriptions assign hVIII–hIX to IV156f2 and IV157f5 with different feast labels. All16combinations of four explicit consistency premises were evaluated.",
+      "outcome": "Unresolved. Different feast labels alone do not demonstrate mutually incompatible text or different books.",
+      "limits": [
+        "The source readings came from public indexed institutional text with OCR noise; corresponding manuscript images were not verified.",
+        "Unique unrepeated numbering, correct transcription, the same physical position and incompatible text must all be established.",
+        "Reset numbering, composite volumes, side labels and incomplete summaries remain alternatives.",
+        "New indexed IV157 boundary assertions and its proposed interleaving of temporal/sanctoral units caution against an assumed simple global numbering sequence. This is a catalogue interpretation, not verified quire structure."
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/source_constraints.json",
+        "research/continuation_20/helsinki_access/source_assertions.json"
+      ]
+    },
+    {
+      "id": "CTX03",
+      "title": "Published image-scaling formula: possible erratum",
+      "record_ids": [],
+      "observation_ids": [],
+      "summary": "Duba2023 printedp64/PDF66 prose scales width by Smin/Sn; the displayed equation reverses this ratio. Dimensional derivation and three analytic controls preserve physical size with the prose ratio.",
+      "outcome": "Use width × Smin/Sn when rescaling to Smin pixels/mm. This is an implementation correction and possible typographical erratum.",
+      "limits": [
+        "No claim of first notice, originality or new historical finding.",
+        "The checks use synthetic analytic examples, not measured manuscript data.",
+        "No specialist or author confirmation has been received."
+      ],
+      "sources": [
+        "https://www.fragmentology.ms/article/view/4499",
+        "research/independent_pass/methods/methods.md",
+        "research/independent_pass/methods/protocol-results.json"
+      ]
+    },
+    {
+      "id": "CTX04",
+      "title": "Fr20274 against actual C23 pages and the editorial apparatus",
+      "record_ids": [
+        "mpo-20274",
+        "uub-c23-0144",
+        "uub-c23-0145"
+      ],
+      "observation_ids": [
+        "C23-0144-invitatory",
+        "C23-0144-condolentes",
+        "C23-0144-super",
+        "C23-0144-hymn",
+        "C23-0144-patri-parens",
+        "C23-0145-antiphon-opening",
+        "C23-0145-condemnation",
+        "C23-0145-eructavit",
+        "C23-0145-later-corrections",
+        "T-20274-patri-parens",
+        "T-20274-dampnatur",
+        "T-20274-eructavit-rident",
+        "T-20274-invitatory",
+        "T-20274-order",
+        "T-20274-transition"
+      ],
+      "summary": "A declared ten-site comparison uses actual C23 attachments0144/0145, Fr20274 and Hallqvist PDF67. Eight target sites are evaluable at word/cue/structure level; two remain unavailable. Current readings, visible corrections and editorial reports of old states are recorded separately.",
+      "outcome": "Seven current/standard word or cue agreements and one written-scope difference; no distinctive shared uncorrected C23 error established. This does not establish copying direction, a unique transmission branch or physical identity.",
+      "limits": [
+        "Sites were selected after prior target/page review; this is not blind validation or a corpus-frequency test.",
+        "Cancelled C23 wording is only partly legible; full old states are editorial assertions where specified.",
+        "The target lacks the end of the second antiphon; two informative sites are explicitly unevaluable.",
+        "A written hymn cue differs; no performance omission is inferred.",
+        "C435 original images were not inspected. No melodic or correcting-hand/date inference is made."
+      ],
+      "sources": [
+        "research/continuation_20/c23/collation.md",
+        "research/continuation_20/c23/collation.json",
+        "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+        "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=67"
+      ]
+    },
+    {
+      "id": "CTX05",
+      "title": "Codex 1505 ruling pitch and full-MPO layout screen",
+      "record_ids": [
+        "mpo-10370",
+        "mpo-10406",
+        "mpo-8994",
+        "mpo-10407",
+        "mpo-10437",
+        "mpo-1385",
+        "mpo-8201",
+        "mpo-8304"
+      ],
+      "observation_ids": [
+        "I21-10370-staff-pitch",
+        "I21-10406-staff-pitch"
+      ],
+      "summary": "Manual ruler-calibrated image measurements put selected Fr10370 and Fr10406 red staff-rule intervals at approximately5.6mm. The full pinned MPO export has9196Quadr/four-line entries,197 with11 text rows and149 of those with parseable written-space sizes; three other entries fall inside the five Codex1505 target records' exact dimension box, and ten within the ±1cm sensitivity box.",
+      "outcome": "The images and catalogue fields are consistent with a shared page layout in the pre-existing Codex1505 grouping. This does not independently validate that grouping or provide a unique fingerprint; 4-line Quadr notation is widespread and the matching database is the source of the existing grouping.",
+      "limits": [
+        "Image regions and coordinates were selected after viewing the sources; this was not blind, preregistered or independently repeated.",
+        "Ruler endpoints and staff-line centers are manually selected; perspective, page waviness, local deformation and ruling curvature are not corrected.",
+        "The full MPO metadata is incomplete and non-random; only149 of197 records in the specified notation/row subset have parseable written-area sizes. The 3 and10 comparison counts are descriptive, not rarity estimates.",
+        "Fr1385, already a documented comparator, is one exact-range match. The known wrong-book control Fr8201/8304 is not like-for-like Quadr notation; its records describe Gothic notation with three black and one red staff line.",
+        "The catalogue itself supplies the Codex1505 association, so this screen cannot independently confirm it. No hand, workshop or parchment-origin claim follows."
+      ],
+      "sources": [
+        "research/continuation_21/ruling_pitch_results.md",
+        "research/continuation_21/ruling_pitch_results.json",
+        "research/continuation_21/ruling_pitch_check.py",
+        "https://zenodo.org/records/17287665"
+      ]
+    },
+    {
+      "id": "CTX06",
+      "title": "Exact-layout different-codex staff-pitch control",
+      "record_ids": [
+        "mpo-7292",
+        "mpo-10370",
+        "mpo-10406"
+      ],
+      "observation_ids": [
+        "I22-7292-staff-pitch",
+        "I22-7292-ruler"
+      ],
+      "summary": "The metadata-selected Fr 7292 (MPO Codex 1306) antiphonary matches the Codex 1505 sample on notation, line count, text rows and written-area range. Two ruler-calibrated systems measure a mean staff pitch of approximately 5.543 mm, versus 5.602 mm averaged across the two E21 target images.",
+      "outcome": "The difference is about 0.059 mm, far below conservative manual measurement uncertainty. This shows the measured pitch is not unique to the catalogue-labelled Codex 1505 group. It does not establish any same-book or same-hand relation.",
+      "limits": [
+        "Only one different-codex leaf is measured; no sample distribution or classifier test is inferred.",
+        "The different-codex label and match-selection metadata come from MPO, not independent adjudication.",
+        "The control is matched on genre and layout metadata, not scribe/hand or workshop.",
+        "Ruler and staff centers were selected manually after image inspection; page warp, ruler-plane offset and perspective remain uncorrected.",
+        "No second reader, specialist review, historical attribution or physical join is claimed."
+      ],
+      "sources": [
+        "research/continuation_22/matched_staff_results.json",
+        "research/continuation_22/matched_staff_control.py",
+        "research/continuation_22/image_receipt.json",
+        "https://lbiiif.riksarkivet.se/arkis!R1007292/manifest",
+        "https://zenodo.org/records/17287665",
+        "research/continuation_21/ruling_pitch_results.json"
+      ]
+    },
+    {
+      "id": "CTX07",
+      "title": "Current BOMPAC/CODICUM prior-art check",
+      "record_ids": [
+        "mpo-10370",
+        "mpo-10406",
+        "mpo-8994",
+        "mpo-10407",
+        "mpo-10437"
+      ],
+      "observation_ids": [],
+      "summary": "A 2025 BOMPAC research note describes a 29,230-record integrated Stockholm-Helsinki dataset and about 12,300 codices. CODICUM's living survey describes a Nordic overview and reports 5,435 Helsinki fragments grouped into 1,544 codices, citing Taitto 2001 and BOMPAC metadata. The BOMPAC article reports 5,434 Finnish records; the one-record difference is unresolved.",
+      "outcome": "Cross-collection integration is established prior work, not a new contribution by this project. The published pages checked do not adjudicate the specific target relationships. The linked BOMPAC dataset payload was not inspected, so no target-level record result is claimed.",
+      "limits": [
+        "The research note was read but the linked Zenodo dataset payload was not retrievable through the connected web route at this audit.",
+        "The Nordic Survey is a living collection-level overview, not a target-level codex attribution.",
+        "The 5,434 versus 5,435 count difference is unresolved; source versions/scopes were not harmonized.",
+        "No unpublished CODICUM finding, expert endorsement or institution-held information is inferred."
+      ],
+      "sources": [
+        "research/continuation_22/bompac_codicum_audit.json",
+        "https://doi.org/10.24446/no5r",
+        "https://doi.org/10.5281/zenodo.17511106",
+        "https://www.codicum.eu/resources/nordic-survey",
+        "https://www.codicum.eu/news"
+      ]
+    }
+  ]
+}

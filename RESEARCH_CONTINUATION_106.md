@@ -1,0 +1,19 @@
+# E106 — a third-nocturn contrast for Fr 8994
+
+**4 November 2026.** Exploratory comparison with a published comparator manuscript; no new manuscript was added to the candidate queue.
+
+## Question and observations
+
+Do the St Olaf chants already provisionally read on Fr 8994 distinguish its local third-nocturn arrangement from another documented arrangement, or are the shared responsories alone sufficient? Before this comparison, E33–E34 recorded a red third-nocturn rubric and candidate *Nec propria salute contentus*, *Novo rerum ordine* and *Predicacionis gracia*, with *Devenerat* and *Egregius* in later photographs. The sequence is provisional, the source readings remain reference-assisted and unreviewed, and the *Novo* photograph boundary is partly obscured. See [E33](RESEARCH_CONTINUATION_33.md), [E34](RESEARCH_CONTINUATION_34.md), and [E42](RESEARCH_CONTINUATION_42.md). No new image or side map was obtained here.
+
+Gisela Attinger, [“Monastic Musical Fragments from Iceland” (2021)](https://doi.org/10.3390/rel12060416), section 2, describes Reykjavík National Archives Þjss “Antiphonarium 2” as a monastic St Olaf witness. For its third nocturn she lists **one** antiphon, *O beate pater olave*, followed by four responsories including *Devenerat* and *Egregius*. She gives the three-antiphon structure as the contrasting secular pattern. This is a published source description, not our transcription of the Icelandic original. The two shared responsories are thus documented in another arrangement; the Fr 8994 candidates *Nec propria*, *Novo rerum* and *Predicacionis* align instead with the three-antiphon version in the already used [St Olaf publisher listing](https://new.lawo.no/produkt/historia-sancti-olavi-2/).
+
+## Interpretation and limits
+
+If the Fr 8994 readings, sequence and red heading are correct, its visible opening differs from the described Icelandic third-nocturn arrangement despite sharing the two responsories. This is useful **counterevidence to treating those shared responsories alone as proof of a shared manuscript or identical complete office**, and a conditional indication of a three-antiphon arrangement. A partial leaf and one comparison do not prove a universal rule, classify the entire Swedish book or its institution, establish a different book by themselves, or determine the relationship to Finnish IV.156/IV.157. The latter leaves and the Icelandic original were not inspected. The earlier E33–E34 observations and Attinger's published interpretation are credited; there is no independent review or demonstrated novel attribution.
+
+Attinger also describes Stockholm Fr 29710 and Fr 29711; her comparison says Fr 29711 preserves *Egregius* and *Rex inclitus* but does not transcribe its third-nocturn antiphon opening. Do not transfer the Icelandic antiphon directly to that Swedish leaf or call the article's reconstructed whole office a surviving complete witness. The work was read from search-indexed publisher text, including its named source list and chant sequence, not from images of those manuscripts.
+
+## Access and next test
+
+One simultaneous web-reader open and three `find` requests for the publisher article each returned HTTP 429. The `find` calls repeated the same failed page within the batch contrary to the no-retry rule; the route was stopped and must not be retried. The source details above come from separately returned search-indexed publisher text. No archive image, file, message or upload was acquired or sent; search traffic is unmeasured. Next test the actual Icelandic versus Swedish source surfaces or another independently documented arrangement **only if** it can resolve a specific contrast; the main IV.156 f.9 original and prior scholarship remain the decisive missing inputs for the Finnish boundary question.

@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-05",
+  "question": "Does the candidate Swedish laudande wording distinguish the fragment from other witnesses?",
+  "selection": "Reference-exposed, exploratory AI reading after viewing the Swedish source and published comparative text; not independent or blind.",
+  "swedish_target": {
+    "fragment": "Fr 10406",
+    "path": "data/images/mpo-10406.jpg",
+    "sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+    "selector": "research/continuation_112/observations.json#I112-10406-laudande",
+    "candidate_literal": "corde ore laudande",
+    "limits": "800-pixel source; word spacing, ligatures and text reading not independently reviewed."
+  },
+  "further_witness": {
+    "catalogue_url": "https://dl.ub.uni-freiburg.de/sammlung6/werk/pdf/eaf-hs02.pdf",
+    "repository_inventory": "https://www.ebfr.de/media/download/variant/1080380/handschriftendigitalisate.pdf",
+    "book": "Freiburg, Erzbischöfliches Archiv, Hs. 1, fol. 2r",
+    "catalogue_scope": "Extracted catalogue text on printed p. 400, continuing the Hs. 1 entry before the heading for Hs. 2; no catalogue page image or original manuscript page inspected.",
+    "catalogue_excerpt": "O beate Jacobe omnium corde ore laudande ...",
+    "dating_caution": "The catalogue dates its front pastedown and fols. 1r–2v prayers to the late 16th and 17th centuries. The main Hs. 1 psalter is catalogued as late 13th century; do not assign that medieval date to the fol. 2r entry.",
+    "viewer_attempt": "One web-reader request to http://dl.ub.uni-freiburg.de/diglit/eaf-hs01 redirected to https://dl.ub.uni-freiburg.de/diglit/eaf-hs01 and returned Cache miss. Do not retry either exact route or use an alternate client to work around the failure."
+  },
+  "additional_controls": [
+    {"source": "Daroca fragment 136, published catalogue pp. 829–830", "url": "https://ifc.dpz.es/recursos/publicaciones/30/73/114fragmento136.pdf", "reported": "A different antiphonal leaf gives omnium corde et ore laudande; its description dates the leaf to the second half of the 16th century. The word et is printed there, so do not claim exact text identity with the provisional Swedish reading."},
+    {"source": "Cantus Index a00243", "url": "https://cantusindex.org/id/a00243", "reported": "The index gives corde ore voce cantande. Its standardized entry is not a transcription of the Swedish or Freiburg source and does not establish the frequency of either wording."}
+  ],
+  "conclusion": "The candidate Swedish laudande wording occurs in separately catalogued sources, including a later prayer entry. It is not by itself unique or evidence of the same book, copying, route or geographic origin. No claim is made about medieval prevalence, the Finnish text, melody or first notice.",
+  "independent_review": false,
+  "finnish_image_inspected": false,
+  "new_attribution": false
+}

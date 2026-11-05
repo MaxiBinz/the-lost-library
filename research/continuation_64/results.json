@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-01",
+  "interpretation": "The old A 103 reference was used for a separate National Library fragment collection deposited at the National Archives; a different A 103 k fragment is explicitly listed there. Together with the Fr 20106 source fields this makes the deposit a plausible collection-level lead, while the matching psalter label alone cannot identify Fr 20106.",
+  "source_support": "Sandgren's inventory reports the historical deposited collection; Reese identifies a different Fr 20120 as A 103 k 121 at the National Archives. The pinned MPO metadata separately labels Fr 20106 KB A 103 k 95.",
+  "limits": "None of these sources identifies the exact present-day holder or photo of Fr 20106, establishes a physical crosswalk to the psalter, or proves the 20106/8201 or 8201/8304 book relationships. The reference dates to historical descriptions and the reasoning about Fr 20106 is an inference.",
+  "next_test": "Seek a current, authoritative entry or explicitly identified reproduction for Fr 20106 / KB A 103 k 95 in the National Archives deposited-fragments collection; verify the full identifier and actual image before comparing the Catherine opening. Do not treat the National Library's A 103 psalter as that fragment by shelfmark alone.",
+  "exact_fr20106_crosswalk": false,
+  "current_holding_verified": false,
+  "image_pointer_verified": false,
+  "same_book_newly_proved": false,
+  "new_historical_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

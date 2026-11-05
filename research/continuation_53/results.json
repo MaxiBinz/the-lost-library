@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "selected_existing_leads": [
+    "pair-e7dd7d3bdc9a902f2a63",
+    "pair-eafe5048aae6282c0cb8",
+    "pair-0e5884ee8e7775c2a4ef",
+    "pair-968ff6460a409e3f7e76",
+    "pair-e86cd88728212e7aaf52",
+    "pair-6687f9e4a781c8262b00",
+    "pair-365f99cc96d5359228ae",
+    "pair-0809cb8978faf1329cbc"
+  ],
+  "pair_comparisons_recorded": 8,
+  "new_source_regions": [
+    "I53-10349-jesu",
+    "I53-25592-jesu",
+    "I53-25592-a-patre",
+    "I53-25592-hymn-blocks",
+    "I53-5uba-mass-rubrics",
+    "I53-5der-viri",
+    "I53-25173-offertory",
+    "I53-2872-field",
+    "I53-2873-field"
+  ],
+  "candidate_chant_identifications": [
+    {
+      "object_id": "mpo-10349",
+      "region": "I53-10349-jesu",
+      "candidate_cantus_id": "008333",
+      "reference": "https://cantusindex.org/id/008333",
+      "state": "Candidate supported by the short opening and following redemptis-ope text; compatible with the catalogue AH51/130 reference. Exact whole-hymn/melody collation and local service position remain incomplete."
+    },
+    {
+      "object_id": "mpo-25592",
+      "region": "I53-25592-jesu",
+      "candidate_cantus_id": "830177",
+      "reference": "https://cantusdatabase.org/chant/181934/",
+      "state": "Candidate supported by the redemptor/verbum-patris/lux-lucis context and a following Tu-fabricator cue. Some source words are difficult; related830179 wording exists. Exact complete local work ID, stanza order and melody remain unadjudicated."
+    }
+  ],
+  "direct_result": "15 retained photo views support limited direct comparisons of eight existing Hy49/Fr10349-related pairs. The four Codex434 first views and25173 have one broad field versus10349/Hy49 two-field layouts; this challenges an unchanged uniform copying design, not every historical same-volume explanation. Beauvais Mass cues and Hy49 hymn blocks are locally visible.",
+  "hymn_result": "The selected openings and continuations provisionally fit different known hymn texts rather than a diagnostic same-hymn variant. The first begins salvator/redemptis-ope, whereas the second has redemptor/verbum-patris context and the Tu-fabricator cue. This probable work mismatch defeats the proposed local textual correspondence; it does not exclude different sections in one historical volume.",
+  "prior_art_countercheck": "Cantus already indexes Tu fabricator as830177a in AachenG20 and also lists it after related830179 in Utrecht406. A selected full-text index omitting that stanza is not evidence of a novel local insertion or rarity.",
+  "interpretation": "No secure corresponding diagnostic text, unique address or physical join establishes a new book relationship. Similar hymns provisionally belong to different known works. Published source memberships, ordinary layout compatibility and section/composite alternatives remain distinct.",
+  "source_photo_views_inspected": 15,
+  "new_source_files": 0,
+  "working_source_files_after": 200,
+  "conservative_transfer_plan_after": 1673000850,
+  "selected_view_inspection_complete": true,
+  "complete_group_source_photo_coverage": false,
+  "complete_diplomatic_or_music_collation": false,
+  "historical_adjudication_complete": false,
+  "initial_primary_comparisons_recorded": 8,
+  "primary_pair_tests_still_pending": 8,
+  "decision_state": "unresolved",
+  "new_codex_attribution": false,
+  "new_historical_exclusion": false,
+  "new_catalogue_correction": false,
+  "novelty_cleared": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "goal_complete": false,
+  "global_blocker_established": false,
+  "next_test": "Inspect the remaining eight existing original-target/Ant39 pairs, prioritizing secure original marks and actual text context. E53 does not exhaust higher-resolution/full-side or exact-work work; retain those specific gaps without repeating generic layout or Jesu-incpit screens."
+}

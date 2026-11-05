@@ -1,0 +1,427 @@
+{
+  "version": "1.2.0",
+  "date": "2026-10-30",
+  "stage": "After initial reference lookup; exact literal source readings retained, two occurrence contexts distinguished",
+  "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+  "new_reading_candidates": [
+    {
+      "id": "I52-8072-invitatory",
+      "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+      "xywh": [
+        520,
+        220,
+        850,
+        170
+      ],
+      "literal": "[Invi]tatorium / Regem virginum [...]",
+      "normalized": null,
+      "body": "A red invitatory rubric and Regem virginum opening are visible near the top of the source. The incomplete remainder is not restored; this is a selected local service/work cue, not a whole-office collation or identity fingerprint."
+    },
+    {
+      "id": "I52-8072-veni",
+      "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+      "xywh": [
+        290,
+        370,
+        1080,
+        300
+      ],
+      "literal": "Veni sponsa [...] accipe coronam quam tibi / dominus preparauit in eternum",
+      "normalized": null,
+      "body": "The visible Veni sponsa phrase leads into accipe coronam quam tibi and dominus preparauit in eternum. The abbreviated Christ-name is not silently expanded in the literal candidate. A common liturgical item cannot identify one book."
+    },
+    {
+      "id": "I52-8073-magnificat-rubric",
+      "path": "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+      "xywh": [
+        830,
+        450,
+        680,
+        110
+      ],
+      "literal": "Super magnificat antiphona",
+      "normalized": null,
+      "body": "A red rubric is provisionally read Super magnificat antiphona above a large red F and notated text. The rubric supplies local antiphon context alongside continuous verse blocks; the whole book is not classified from a single block."
+    },
+    {
+      "id": "I52-8073-unnotated-verses",
+      "path": "research/continuation_52/images/Fr8073-capture-4-native.jpg",
+      "xywh": [
+        365,
+        240,
+        1110,
+        430
+      ],
+      "literal": null,
+      "normalized": null,
+      "body": "Below the notated line, successive verse-like text blocks with coloured initials occupy continuous red text ruling without music staves over each line. The exact complete hymn readings are untranscribed. Mixed notated/unnotated layout does not imply a separate codex or whole-book genre."
+    },
+    {
+      "id": "I52-8072-veni-response",
+      "path": "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+      "xywh": [
+        240,
+        80,
+        1160,
+        500
+      ],
+      "literal": "Veni sponsa [...] accipe coro- / nam quam tibi dominus preparauit pro cui- / us amore sanguinem tuum fudisti. Et / cum angelis [...] in paradysum intro[...]",
+      "normalized": null,
+      "body": "A second Veni sponsa occurrence is visible with a longer pro cuius amore/sanguinem continuation and different notational elaboration from the earlier in-eternum ending. Candidate distinction: antiphon005328 versus responsory007828, reference-assisted and with exact local position/melody unadjudicated. A shared incipit is not automatically the same chant item."
+    },
+    {
+      "id": "I52-8072-native-rules",
+      "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+      "xywh": [
+        600,
+        380,
+        650,
+        98
+      ],
+      "literal": null,
+      "normalized": null,
+      "body": "Five horizontal music-staff rules are visible in this selected native-image band, including one red rule. This agrees with the earlier8072 thumbnail control observation; it is not a new discriminating feature or a completed correction of the catalogue."
+    },
+    {
+      "id": "I52-8073-native-rules",
+      "path": "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+      "xywh": [
+        650,
+        245,
+        700,
+        125
+      ],
+      "literal": null,
+      "normalized": null,
+      "body": "Five horizontal music-staff rules are visible in this selected native-image band, including one red rule. This agrees with the earlier8073 thumbnail control observation. The known different-book8201/8304 control shares this feature, so it cannot assign a book."
+    }
+  ],
+  "prior_rule_observations_reused": [
+    "I44-8066-rules",
+    "I44-9620-rules",
+    "I44-8201-control-rules",
+    "I44-8304-control-rules",
+    "I44-8072-control-rules",
+    "I44-8073-control-rules"
+  ],
+  "new_rule_scope": "New native8072/8073 views are consistent with the earlier five-rule control observations. This repeats a known feature and is not six new discoveries or a source of independent votes.",
+  "failed_routes": [
+    "https://lbiiif.riksarkivet.se/arkis!R1008072_00003/full/max/0/default.jpg",
+    "https://lbiiif.riksarkivet.se/arkis!R1008073_00001/full/max/0/default.jpg"
+  ],
+  "coverage_limit": "8072 capture3 unseen after timeout;8073 capture1 inspected only from retained800px first photograph. No retry or alternate request for either failed photograph.",
+  "intraobject_observation": "Fr8072 shows two occurrences of Veni sponsa followed by different textual continuations and visibly different notational elaboration. Exact chant/genre IDs remain candidate interpretations. The first/second capture overlap is visible in the preceding boundary phrase; no source-photo ordinal is converted to medieval recto/verso.",
+  "reference_candidates": [
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-invitatory",
+      "cantus_id": "001151",
+      "confidence_word": "candidate",
+      "limit": "Only Regem virginum and the invitatory rubric securely read here; full incipit variants and local service position not completely collated."
+    },
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-veni",
+      "cantus_id": "005328",
+      "confidence_word": "candidate",
+      "limit": "The shorter in-eternum ending supports the antiphon candidate; no complete diplomatic/music edition or local precise liturgical position."
+    },
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-veni-response",
+      "cantus_id": "007828",
+      "confidence_word": "candidate",
+      "limit": "Longer pro-cuius-amore/sanguinem continuation supports responsory candidate; no complete pitch transcription or unique tradition attribution."
+    }
+  ],
+  "object_summaries": {
+    "mpo-8066": {
+      "context": "Visible Laudes/Orantibus block and Dedication passages; earlier Jacob verse candidate retained.",
+      "regions": [
+        "I45-8066-laudes",
+        "I46-8066-verse-end"
+      ],
+      "limits": "Known earlier readings reused; no new complete same-work collation.",
+      "sampled_staff_rules": 5,
+      "one_broad_writing_field_visible": true
+    },
+    "mpo-8072": {
+      "context": "Invitatory Regem virginum cue and two Veni sponsa occurrences with short in-eternum versus longer pro-cuius-amore continuations.",
+      "regions": [
+        "I52-8072-invitatory",
+        "I52-8072-veni",
+        "I52-8072-veni-response",
+        "I52-8072-native-rules"
+      ],
+      "limits": "Third source photograph unseen after timeout; work IDs provisional and local service positions incomplete.",
+      "sampled_staff_rules": 5,
+      "one_broad_writing_field_visible": true
+    },
+    "mpo-8073": {
+      "context": "Explicit Super magnificat antiphona rubric and blocks of continuous verse-like text alongside notated passages.",
+      "regions": [
+        "I52-8073-magnificat-rubric",
+        "I52-8073-unnotated-verses",
+        "I52-8073-native-rules"
+      ],
+      "limits": "First photograph uses retained800px thumbnail; exact complete hymn/antiphon identifications and local positions remain incomplete.",
+      "sampled_staff_rules": 5,
+      "one_broad_writing_field_visible": true
+    },
+    "mpo-8201": {
+      "context": "Later Catherine-office material and the published continuation phrase; no second complete local opening established.",
+      "regions": [
+        "I49-8201-continuation"
+      ],
+      "limits": "Published opening argument also needs20106; E49 reading reused, not independently confirmed.",
+      "sampled_staff_rules": 5,
+      "one_broad_writing_field_visible": true
+    },
+    "mpo-8304": {
+      "context": "Catherine rubric and Inclita opening; published different-book control to8201.",
+      "regions": [
+        "I49-8304-rubric",
+        "I49-8304-opening"
+      ],
+      "limits": "Published rejection credited, not independently re-proved by general layout resemblance.",
+      "sampled_staff_rules": 5,
+      "one_broad_writing_field_visible": true
+    },
+    "mpo-9620": {
+      "context": "Invitatory heading and Jacob passage with dixit/vere/locus-iste context; earlier antiphon candidate retained.",
+      "regions": [
+        "I45-9620-invitatory",
+        "I46-9620-ending"
+      ],
+      "limits": "Folds/cropping and distinct probable work/genre limit the8066 textual comparison; no same-chant variant established.",
+      "sampled_staff_rules": 5,
+      "one_broad_writing_field_visible": true
+    }
+  },
+  "coverage": [
+    {
+      "object_id": "mpo-8072",
+      "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+      "source_capture_index": 0,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": true
+    },
+    {
+      "object_id": "mpo-8072",
+      "path": "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+      "source_capture_index": 1,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": true
+    },
+    {
+      "object_id": "mpo-8072",
+      "path": "research/continuation_52/images/Fr8072-capture-4-native.jpg",
+      "source_capture_index": 3,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": true
+    },
+    {
+      "object_id": "mpo-8073",
+      "path": "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+      "source_capture_index": 1,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": true
+    },
+    {
+      "object_id": "mpo-8073",
+      "path": "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+      "source_capture_index": 2,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": true
+    },
+    {
+      "object_id": "mpo-8073",
+      "path": "research/continuation_52/images/Fr8073-capture-4-native.jpg",
+      "source_capture_index": 3,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": true
+    },
+    {
+      "object_id": "mpo-8201",
+      "path": "data/images/mpo-8201.jpg",
+      "source_capture_index": 0,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8201",
+      "path": "data/images/mpo-8201-capture-2.jpg",
+      "source_capture_index": 1,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8201",
+      "path": "data/images/mpo-8201-capture-3.jpg",
+      "source_capture_index": 2,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8201",
+      "path": "data/images/mpo-8201-capture-4.jpg",
+      "source_capture_index": 3,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8304",
+      "path": "data/images/mpo-8304.jpg",
+      "source_capture_index": 0,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8304",
+      "path": "data/images/mpo-8304-capture-2.jpg",
+      "source_capture_index": 1,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8304",
+      "path": "data/images/mpo-8304-capture-3.jpg",
+      "source_capture_index": 2,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8304",
+      "path": "data/images/mpo-8304-capture-4.jpg",
+      "source_capture_index": 3,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8066",
+      "path": "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+      "source_capture_index": 0,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8066",
+      "path": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+      "source_capture_index": 1,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8066",
+      "path": "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+      "source_capture_index": 2,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8066",
+      "path": "research/continuation_44/images/Fr8066-capture-4-native.jpg",
+      "source_capture_index": 3,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-9620",
+      "path": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+      "source_capture_index": 0,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-9620",
+      "path": "research/continuation_44/images/Fr9620-capture-2-native.jpg",
+      "source_capture_index": 1,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-9620",
+      "path": "research/continuation_44/images/Fr9620-capture-3-native.jpg",
+      "source_capture_index": 2,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-9620",
+      "path": "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+      "source_capture_index": 3,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-9620",
+      "path": "research/continuation_44/images/Fr9620-capture-5-native.jpg",
+      "source_capture_index": 4,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    },
+    {
+      "object_id": "mpo-8073",
+      "path": "data/images/mpo-8073.jpg",
+      "source_capture_index": 0,
+      "full_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Full photograph inspected for text/rubric boundaries and construction; not a complete diplomatic/music transcription.",
+      "newly_acquired_native_file": false
+    }
+  ],
+  "limits": [
+    "This is an unblinded exploratory group comparison. Earlier five-rule observations for all six members and earlier8066/9620/8201/8304 text readings are reused, not newly independent evidence.",
+    "24 distinct photo views of six existing objects were inspected:23 retained files at their selected resolution plus the8073 first-photo800px thumbnail.8072 capture3 remains unseen;8073 first-photo native transfer failed. Neither URL was retried.",
+    "No exhaustive chant census, complete corresponding same-position diagnostic variant, physical join or secure original quire/folio map is established across the13 candidate pairs.",
+    "Both same and different books can contain different feasts, mixed notated/unnotated blocks and shared standard chants; matching colour/ruling/layout also occurs in the known wrong pair.",
+    "Candidate chant IDs do not transfer external witness service positions, melodies, provenance or book membership. No exact absolute pitches or full melodic comparison is claimed.",
+    "No new attribution, exclusion, accepted catalogue correction, novelty clearance, independent confirmation or matching-performance improvement."
+  ]
+}

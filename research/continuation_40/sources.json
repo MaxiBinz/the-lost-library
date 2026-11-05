@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "catalogue_comparisons": [
+    {
+      "id": "IV156-ff9-11",
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+      "access": "Official-page search-indexed text, not source-image inspection. No challenged route retried.",
+      "range": "Olavi, third nocturn, Egregius martyr response; reported opening ut laborum",
+      "short_exact_opening": "ut laborum",
+      "signature_ocr": "[k]1'r - k [viij] (reader/index rendering; leading Roman component not secure)",
+      "signature_limit": "Do not silently normalize the uncertain initial numeral to V or assert an IV–V sequence."
+    },
+    {
+      "id": "IV157-f8",
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+      "access": "Official-page indexed catalogue text",
+      "range": "Olavi first nocturn, Regnante illustrissimo through the beginning of Offerebat",
+      "role": "Preserve E33 conditional address conflict; not the same local textual range."
+    },
+    {
+      "id": "IV157-ff9-10",
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+      "access": "Official-page indexed catalogue text",
+      "range": "Begins Egregius in third nocturn and proceeds to Lawrence",
+      "role": "The reported range overlaps the observed chant; it is not a reported continuation after the Swedish terminal words."
+    }
+  ],
+  "concordances": [
+    {
+      "id": "Hope2018",
+      "url": "https://findresearcher.sdu.dk/ws/portalfiles/portal/281648358/phd_thesis_sdu_cml_steffen_hope_constructing_institutional_identity_through_the_cult_of_royal_saint.pdf",
+      "author": "Steffen Hope",
+      "title": "Constructing institutional identity through the cult of royal saints, c.1050–c.1200",
+      "year": 2018,
+      "read_scope": "Web-reader text of complete printed p.169 / PDF180 and Appendix III p.LXVI / PDF353, with returned surrounding context. Full thesis not read; PDF pages not visually checked.",
+      "relevant_point": "The MR8 analysis and appendix give tempus est followed by ut laborum, and place Egregius in the third nocturn. This is a known office-text concordance, not a source transcription of Fr8994 or either Finnish fragment.",
+      "acquisition": "One exact official download returned HTTP403 before any body bytes; no local PDF saved and no retry/alternate-client acquisition attempted.",
+      "number_searches": "No web-reader text match for 8994, 20278, IV.156 or IV.157; this does not clear novelty or exclude alternative identifiers."
+    },
+    {
+      "id": "Lawo2016",
+      "url": "https://www.lawostore.no/assets/files-rte/booklet_lawo/LWC1106_Consortium_Vocale_Historia_Sancti_Olavi_Ebooklet_lettersize.pdf",
+      "read_scope": "Existing publisher transcription for responsory8, web-reader text; not a manuscript witness or melody comparator.",
+      "relevant_point": "Also supplies the expected phrase continuation; its presentation omits sue before passionis, unlike the local target reading. No source-specific variant or rarity is inferred."
+    }
+  ],
+  "Fr20278": {
+    "pinned_record": "data/fragments.json#mpo-20278",
+    "image_pointer": null,
+    "manifest_pointer": null,
+    "bounded_search": "Exact-number/general and primary-domain searches supplied no usable image. One public collection landing page was readable, but primary-domain search also reported robots restrictions. No restriction was bypassed.",
+    "conclusion": "Particular missing comparator; universal digitization status not established."
+  },
+  "novelty": "Taitto’s exact printed discussion and Keskiaho’s relevant chapter remain unread. A phrase concordance does not establish originality of the proposed placement."
+}

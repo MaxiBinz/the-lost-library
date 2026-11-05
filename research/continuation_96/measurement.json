@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-03",
+  "lead": "pair-4da59b5404a8d883782b",
+  "question": "Does the retained Fr 11167 photograph have the same approximate four-rule staff height as the published 17 mm catalogue description of IV.173?",
+  "selection": "Existing candidate, after seeing both photographs and the IV.173 catalogue description. Coordinates and control chosen after inspection; exploratory, not blind or preregistered.",
+  "target_image": "data/images/mpo-11167.jpg",
+  "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1011167_00001/full/800,/0/default.jpg",
+  "sha256": "d4a0c2303e1144caec3d3187dfeddc997be906044602308a220e8b7f61e23e33",
+  "dimensions": [800, 1063],
+  "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "ruler": {"y_pixels": [81, 354], "distance_cm": 9, "labels": [1, 10]},
+  "systems_y_top_bottom": [[165, 221], [264, 321], [368, 425], [469, 525]],
+  "sensitivity": {"rule_endpoint_each_px": 2, "ruler_endpoint_each_px": 1, "meaning": "Illustrative independent coordinate perturbations, not confidence intervals or a calibrated physical error bound."},
+  "catalogue_reference": {"record": "F.m.IV.173", "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314", "reported_staff_mm": 17, "scope": "Indexed catalogue assertion, not a direct ruler measurement of the locally retained IV.173 photographs. Treat 17 mm as total four-line staff height; verify the catalogue convention."},
+  "control": {"record": "Fr 7292", "source": "research/continuation_22/matched_staff_results.json", "description": "Existing separately catalogued Codex 1306 control: mean 5.543 mm between rules, equivalent to about 16.63 mm across three gaps. Different-codex label is a catalogue assertion, not an independent adjudication; not a positive control for IV.173."},
+  "limits": ["Fr 11167 is a single 800-pixel photograph of a two-leaf object; cropped and partially obscured material remains uninspected.", "Ruler and parchment may not be coplanar; skew, folds, camera geometry and uncertain line centers are not fully captured by point perturbation.", "The IV.173 catalogue measurement is not an image measurement with the same geometry. Its rounding and sampling uncertainty are unknown.", "Rule spacing can vary within or between sections of a manuscript. No established same-book positive control was measured at the same precision.", "Different chant passages, generic notation and page layout do not establish identity or exclusion.", "The prior actual attribution is unverified beyond the checked catalogue and BOMPAC material; unread scholarship prevents novelty clearance."]
+}

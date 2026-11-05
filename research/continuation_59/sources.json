@@ -1,0 +1,24 @@
+{
+  "chapter": {
+    "authors": ["Hilkka-Liisa Vuori", "Marika Räsänen"],
+    "year": 2025,
+    "title": "Rosa rorans bonitatem -antifoni Turun hiippakunnan nuottikäsikirjoituksissa",
+    "book": "Pyhä Birgitta ja birgittalaisuus myöhäiskeskiajan Suomessa",
+    "pages": "183–221",
+    "doi": "10.21435/ht.294",
+    "publisher_pdf": "https://oa.finlit.fi/fi/books/184/files/5199443d-0be7-4f42-aaa1-425922b42d19.pdf",
+    "bibliographic_record": "https://researchportal.helsinki.fi/fi/publications/rosa-rorans-bonitatem-antifoni-turun-hiippakunnan-nuottik%C3%A4sikirjo/",
+    "record_status": "University of Helsinki metadata calls the chapter peer reviewed, publication 25 November 2025; CC BY-NC-ND.",
+    "read_scope": "Web-reader extracted text and captions: selected pp. 183–187 and 205–221, particularly pp. 208–209, 211–218 and 220–221; not a full chapter reading. Figure captions describe f.21r. PDF page screenshot returned Cache miss; no visual figure or original page was inspected.",
+    "provenance_limits": "Finnish source interpreted by AI with no independent translator; claims attributed to authors. Does not replace reading Taitto 2001 pp.161–168 or Keskiaho 2008/2019. No direct assessment of Fr8994 or IV.156 f.9."
+  },
+  "recent_author_summary": {
+    "url": "https://blogit.utu.fi/abo800/2026/10/23/birgitta-i-domkyrkans-sangbok/",
+    "scope": "Search-indexed Swedish article by Räsänen; its proposed cathedral altar reiterates the chapter's authorship rather than independent confirmation. Direct open returned Cache miss; no visual page inspected."
+  },
+  "finnish_summary": {
+    "url": "https://blogit.utu.fi/turku800/2026/07/15/birgitta-tuomiokirkon-laulukirjassa/",
+    "scope": "Search-indexed pointer only; direct open returned Cache miss."
+  },
+  "access_policy": "Failed exact routes were not retried or bypassed. No external outreach, upload, catalogue edit or publication. No manuscript images saved; web-reader/search traffic unmeasured within the existing historical reserve."
+}

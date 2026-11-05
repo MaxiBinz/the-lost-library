@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "pair": [
+    "mpo-8066",
+    "mpo-9620"
+  ],
+  "scope": "Two fixed surviving phrase windows, head grouping and qualified work/context identification; incomplete interval transcription.",
+  "observations": [
+    "I46-8066-music-window",
+    "I46-9620-music-window",
+    "I46-8066-left-sign",
+    "I46-9620-left-sign",
+    "I46-8066-verse-end",
+    "I46-9620-ending"
+  ],
+  "result": "The selected celos window has five candidate heads in8066 and two in9620. A nominal tan/ge direction contrast fails wider sensitivity. The reference-assisted endings point to a responsory verse and an antiphon rather than a securely aligned pair of the same complete chant. No diagnostic melodic variant or book decision follows.",
+  "candidate_identifications": [
+    {
+      "object_id": "mpo-9620",
+      "candidate_cantus_id": "005415",
+      "genre": "antiphon",
+      "reference": "https://cantusdatabase.org/chant/248539/",
+      "source_fit": "Visible beginning Vidi[t?] Ia..., shared caelos-tangebat text and visible dixit/vere-locus-iste-sa ending fit this known antiphon; right-hand material remains lost.",
+      "state": "provisional; exact local work and service position not independently confirmed",
+      "external_title": "Vidit Jacob scalam summitas ejus"
+    },
+    {
+      "object_id": "mpo-8066",
+      "candidate_cantus_id": "007763zd",
+      "genre": "responsory verse",
+      "reference": "https://cantusdatabase.org/chant/233459/",
+      "source_fit": "The in-somnis/scalam, angelos-descendentes-et-ascendentes/per-eam-ait wording and following Gloria fit a related published verse; local stantem wording and parent responsory mapping remain to be checked.",
+      "state": "provisional; exact local verse and parent work not independently confirmed",
+      "external_title": "Vidit Jacob in somnis scalam"
+    }
+  ],
+  "local_visible_head_group_difference": true,
+  "same_complete_chant_identification_established": false,
+  "diagnostic_melodic_variant_established": false,
+  "robust_direction_contrast": false,
+  "melodic_identity_established": false,
+  "absolute_pitches_verified": false,
+  "same_codex_established": false,
+  "different_codex_established": false,
+  "physical_join_established": false,
+  "catalogue_correction_confirmed": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "new_discovery": false,
+  "pair_state": "unresolved",
+  "new_working_source_files": 0,
+  "new_recorded_file_download_bytes": 0,
+  "web_reader_transfer_bytes": null,
+  "limits": [
+    "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+    "No exact rhythmic values, chromatic inflections or audio realization.",
+    "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+    "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+  ],
+  "pair_next_test": "Validate the candidate work/verse identifications against the retained full context. Further book inference needs a genuinely corresponding distinctive variant or physical/quire evidence; do not repeat same-setting comparisons of provisionally different chant items.",
+  "next_action": "Audit actual published-source coverage for the six existing Aboense control objects and13 metadata-only Codex1104 pairings, keeping mere shared catalogue label distinct from documented reconstruction membership. This is source credit, not a prospective new codex; then prioritize an existing discovery lead with discriminating source evidence.",
+  "unchanged_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  }
+}

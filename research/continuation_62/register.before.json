@@ -1,0 +1,1542 @@
+{
+  "pair-8df4aca33d08e29f53f1": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "finn-iv173": [
+        "data/images/fm-IV173-1.jpg",
+        "data/images/fm-IV173-2.jpg"
+      ],
+      "mpo-10370": [
+        "data/images/mpo-10370.jpg"
+      ]
+    }
+  },
+  "pair-0116faf5fe41471874ae": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "finn-iv173": [
+        "data/images/fm-IV173-1.jpg",
+        "data/images/fm-IV173-2.jpg"
+      ],
+      "mpo-10406": [
+        "data/images/mpo-10406.jpg"
+      ]
+    }
+  },
+  "pair-64d733dbc12d8be2bc6f": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "finn-iv173": [
+        "data/images/fm-IV173-1.jpg",
+        "data/images/fm-IV173-2.jpg"
+      ],
+      "mpo-10407": [
+        "data/images/mpo-10407.jpg"
+      ]
+    }
+  },
+  "pair-50058ed141c128b9d1b1": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "finn-iv173": [
+        "data/images/fm-IV173-1.jpg",
+        "data/images/fm-IV173-2.jpg"
+      ],
+      "mpo-10437": [
+        "data/images/mpo-10437.jpg"
+      ]
+    }
+  },
+  "pair-4da59b5404a8d883782b": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "finn-iv173": [
+        "data/images/fm-IV173-1.jpg",
+        "data/images/fm-IV173-2.jpg"
+      ],
+      "mpo-11167": [
+        "data/images/mpo-11167.jpg"
+      ]
+    }
+  },
+  "pair-98a6b3277c205d6a8aa7": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "finn-iv173": [
+        "data/images/fm-IV173-1.jpg",
+        "data/images/fm-IV173-2.jpg"
+      ],
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ]
+    }
+  },
+  "pair-f0c68032e0ed8b1524ef": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "finn-iv173": [
+        "data/images/fm-IV173-1.jpg",
+        "data/images/fm-IV173-2.jpg"
+      ],
+      "mpo-25592": [
+        "data/images/mpo-25592.jpg"
+      ]
+    }
+  },
+  "pair-348a7659497f86a7bf14": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "finn-iv173": [
+        "data/images/fm-IV173-1.jpg",
+        "data/images/fm-IV173-2.jpg"
+      ],
+      "mpo-29666": []
+    }
+  },
+  "pair-10abc4db645556c6afec": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ]
+    }
+  },
+  "pair-c7f44a162c0d4a6f2c3a": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-5der": [
+        "data/images/fragmentarium-F-5der.jpg"
+      ]
+    }
+  },
+  "pair-b823da3be1175a30c2cf": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-5uba": [
+        "data/images/fragmentarium-F-5uba.jpg"
+      ]
+    }
+  },
+  "pair-448e846dda2e6e464b78": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ]
+    }
+  },
+  "pair-a1a65d62843169ab40c7": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-ag0v": [
+        "data/images/fragmentarium-F-ag0v.jpg"
+      ]
+    }
+  },
+  "pair-a9d50ed5e5f66b609dca": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ]
+    }
+  },
+  "pair-66e712483fbe551d6f35": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-fa1y": [
+        "data/images/fragmentarium-F-fa1y.jpg"
+      ]
+    }
+  },
+  "pair-2f0b58559e38dce23f09": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-n4t6": [
+        "data/images/fragmentarium-F-n4t6.jpg"
+      ]
+    }
+  },
+  "pair-49d9836212c2a2041a22": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-qbrf": [
+        "data/images/fragmentarium-F-qbrf.jpg"
+      ]
+    }
+  },
+  "pair-5f7513f624502c250a24": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-tqd2": [
+        "data/images/fragmentarium-F-tqd2.jpg"
+      ]
+    }
+  },
+  "pair-259fe1d5b9a36d3a5c7f": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-1b56": [
+        "data/images/fragmentarium-F-1b56.jpg"
+      ],
+      "fragmentarium-F-wmom": [
+        "data/images/fragmentarium-F-wmom.jpg"
+      ]
+    }
+  },
+  "pair-b9111dad1f58ebbaeaab": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-5der": [
+        "data/images/fragmentarium-F-5der.jpg"
+      ]
+    }
+  },
+  "pair-586580babd673f6c1b79": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-5uba": [
+        "data/images/fragmentarium-F-5uba.jpg"
+      ]
+    }
+  },
+  "pair-53cf500e8d646a9024e2": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ]
+    }
+  },
+  "pair-e1b917d7c73aaae0e3a1": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-ag0v": [
+        "data/images/fragmentarium-F-ag0v.jpg"
+      ]
+    }
+  },
+  "pair-4cc95bd388a5be8be680": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ]
+    }
+  },
+  "pair-a3c55aaf854e89b6fea1": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-fa1y": [
+        "data/images/fragmentarium-F-fa1y.jpg"
+      ]
+    }
+  },
+  "pair-e8b0c4bb292285f0febd": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-n4t6": [
+        "data/images/fragmentarium-F-n4t6.jpg"
+      ]
+    }
+  },
+  "pair-df6bac8ab6394c537717": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-qbrf": [
+        "data/images/fragmentarium-F-qbrf.jpg"
+      ]
+    }
+  },
+  "pair-0de9b7d78329e2571860": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-tqd2": [
+        "data/images/fragmentarium-F-tqd2.jpg"
+      ]
+    }
+  },
+  "pair-f7c859e17b339c987d31": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-458m": [
+        "data/images/fragmentarium-F-458m.jpg"
+      ],
+      "fragmentarium-F-wmom": [
+        "data/images/fragmentarium-F-wmom.jpg"
+      ]
+    }
+  },
+  "pair-5089d56b992e14ded30a": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-5der": [
+        "data/images/fragmentarium-F-5der.jpg"
+      ],
+      "fragmentarium-F-5uba": [
+        "data/images/fragmentarium-F-5uba.jpg"
+      ]
+    }
+  },
+  "pair-5cd2ee8e23a327164e4d": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-5der": [
+        "data/images/fragmentarium-F-5der.jpg"
+      ],
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ]
+    }
+  },
+  "pair-7f2827d65d4631ebc56e": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-5der": [
+        "data/images/fragmentarium-F-5der.jpg"
+      ],
+      "fragmentarium-F-ag0v": [
+        "data/images/fragmentarium-F-ag0v.jpg"
+      ]
+    }
+  },
+  "pair-b83f39c781ff51eaa731": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-5der": [
+        "data/images/fragmentarium-F-5der.jpg"
+      ],
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ]
+    }
+  },
+  "pair-e7dd7d3bdc9a902f2a63": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "fragmentarium-F-5der": [
+        "data/images/fragmentarium-F-5der.jpg"
+      ],
+      "mpo-25592": [
+        "data/images/mpo-25592.jpg"
+      ]
+    }
+  },
+  "pair-8c075b9419097453155b": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-5uba": [
+        "data/images/fragmentarium-F-5uba.jpg"
+      ],
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ]
+    }
+  },
+  "pair-ff9706e07f978fb13c37": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-5uba": [
+        "data/images/fragmentarium-F-5uba.jpg"
+      ],
+      "fragmentarium-F-ag0v": [
+        "data/images/fragmentarium-F-ag0v.jpg"
+      ]
+    }
+  },
+  "pair-eafe5048aae6282c0cb8": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "fragmentarium-F-5uba": [
+        "data/images/fragmentarium-F-5uba.jpg"
+      ],
+      "mpo-25592": [
+        "data/images/mpo-25592.jpg"
+      ]
+    }
+  },
+  "pair-daca59773e8ac5255324": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ],
+      "fragmentarium-F-ag0v": [
+        "data/images/fragmentarium-F-ag0v.jpg"
+      ]
+    }
+  },
+  "pair-1ecd49a2266fb91d7cd9": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ],
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ]
+    }
+  },
+  "pair-c908909eecd32a1fb71b": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ],
+      "fragmentarium-F-fa1y": [
+        "data/images/fragmentarium-F-fa1y.jpg"
+      ]
+    }
+  },
+  "pair-0281246ca925e678b098": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ],
+      "fragmentarium-F-n4t6": [
+        "data/images/fragmentarium-F-n4t6.jpg"
+      ]
+    }
+  },
+  "pair-0903ecd7d9d8a7e3eb81": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ],
+      "fragmentarium-F-qbrf": [
+        "data/images/fragmentarium-F-qbrf.jpg"
+      ]
+    }
+  },
+  "pair-82d768b232510b6cac90": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ],
+      "fragmentarium-F-tqd2": [
+        "data/images/fragmentarium-F-tqd2.jpg"
+      ]
+    }
+  },
+  "pair-cf8fc680cd70df68123b": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-6zvk": [
+        "data/images/fragmentarium-F-6zvk.jpg"
+      ],
+      "fragmentarium-F-wmom": [
+        "data/images/fragmentarium-F-wmom.jpg"
+      ]
+    }
+  },
+  "pair-d00763563b5373623cf9": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ],
+      "fragmentarium-F-fa1y": [
+        "data/images/fragmentarium-F-fa1y.jpg"
+      ]
+    }
+  },
+  "pair-a1b62ecb88a87193de2e": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ],
+      "fragmentarium-F-n4t6": [
+        "data/images/fragmentarium-F-n4t6.jpg"
+      ]
+    }
+  },
+  "pair-cf94183cfcfbeb54f5a1": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ],
+      "fragmentarium-F-qbrf": [
+        "data/images/fragmentarium-F-qbrf.jpg"
+      ]
+    }
+  },
+  "pair-9dd9e7f0c75f8e3e3d31": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ],
+      "fragmentarium-F-tqd2": [
+        "data/images/fragmentarium-F-tqd2.jpg"
+      ]
+    }
+  },
+  "pair-fbc28fa097c4a8a3e3f7": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-d5zj": [
+        "data/images/fragmentarium-F-d5zj.jpg"
+      ],
+      "fragmentarium-F-wmom": [
+        "data/images/fragmentarium-F-wmom.jpg"
+      ]
+    }
+  },
+  "pair-25037025f09300f8b487": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-fa1y": [
+        "data/images/fragmentarium-F-fa1y.jpg"
+      ],
+      "fragmentarium-F-n4t6": [
+        "data/images/fragmentarium-F-n4t6.jpg"
+      ]
+    }
+  },
+  "pair-e158c62f4c7541b88e33": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-fa1y": [
+        "data/images/fragmentarium-F-fa1y.jpg"
+      ],
+      "fragmentarium-F-qbrf": [
+        "data/images/fragmentarium-F-qbrf.jpg"
+      ]
+    }
+  },
+  "pair-5775e5fd6b1828fc2b31": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-fa1y": [
+        "data/images/fragmentarium-F-fa1y.jpg"
+      ],
+      "fragmentarium-F-tqd2": [
+        "data/images/fragmentarium-F-tqd2.jpg"
+      ]
+    }
+  },
+  "pair-890eb65bc62df8e869ee": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "fragmentarium-F-fa1y": [
+        "data/images/fragmentarium-F-fa1y.jpg"
+      ],
+      "fragmentarium-F-wmom": [
+        "data/images/fragmentarium-F-wmom.jpg"
+      ]
+    }
+  },
+  "pair-0e5884ee8e7775c2a4ef": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10349": [
+        "data/images/mpo-10349.jpg"
+      ],
+      "mpo-25592": [
+        "data/images/mpo-25592.jpg"
+      ]
+    }
+  },
+  "pair-d3edceeb5829ddeac135": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10349": [
+        "data/images/mpo-10349.jpg",
+        "research/continuation_50/images/Fr10349-capture-2-native.jpg",
+        "research/continuation_50/images/Fr10349-capture-3-native.jpg",
+        "research/continuation_50/images/Fr10349-capture-4-native.jpg"
+      ],
+      "mpo-2862": [
+        "data/images/mpo-2862.jpg",
+        "research/continuation_50/images/Fr2862-capture-1-native.jpg",
+        "research/continuation_50/images/Fr2862-capture-2-native.jpg",
+        "research/continuation_50/images/Fr2862-capture-4-native.jpg"
+      ]
+    }
+  },
+  "pair-968ff6460a409e3f7e76": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10349": [
+        "data/images/mpo-10349.jpg"
+      ],
+      "mpo-2863": [
+        "data/images/mpo-2863.jpg"
+      ]
+    }
+  },
+  "pair-e86cd88728212e7aaf52": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10349": [
+        "data/images/mpo-10349.jpg"
+      ],
+      "mpo-2864": [
+        "data/images/mpo-2864.jpg"
+      ]
+    }
+  },
+  "pair-6687f9e4a781c8262b00": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10349": [
+        "data/images/mpo-10349.jpg"
+      ],
+      "mpo-2872": [
+        "data/images/mpo-2872.jpg"
+      ]
+    }
+  },
+  "pair-365f99cc96d5359228ae": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10349": [
+        "data/images/mpo-10349.jpg"
+      ],
+      "mpo-2873": [
+        "data/images/mpo-2873.jpg"
+      ]
+    }
+  },
+  "pair-401a0e71980135b841a2": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10370": [
+        "data/images/mpo-10370.jpg"
+      ],
+      "mpo-10406": [
+        "data/images/mpo-10406.jpg"
+      ]
+    }
+  },
+  "pair-e726c2b78756b1b67884": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10370": [
+        "data/images/mpo-10370.jpg"
+      ],
+      "mpo-10407": [
+        "data/images/mpo-10407.jpg"
+      ]
+    }
+  },
+  "pair-0b094eb7229f60378cf3": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10370": [
+        "data/images/mpo-10370.jpg"
+      ],
+      "mpo-10437": [
+        "data/images/mpo-10437.jpg"
+      ]
+    }
+  },
+  "pair-e5c058a7f5e19723790d": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10370": [
+        "data/images/mpo-10370.jpg"
+      ],
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ]
+    }
+  },
+  "pair-d964f842625525837cb2": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10370": [
+        "data/images/mpo-10370.jpg"
+      ],
+      "mpo-20274": [
+        "data/images/mpo-20274.jpg"
+      ]
+    }
+  },
+  "pair-8cddaa40a6d04b8ab0f0": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10370": [
+        "data/images/mpo-10370.jpg"
+      ],
+      "mpo-8994": [
+        "data/images/mpo-8994.jpg"
+      ]
+    }
+  },
+  "pair-2869f9c0f94ea239cf78": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10406": [
+        "data/images/mpo-10406.jpg"
+      ],
+      "mpo-10407": [
+        "data/images/mpo-10407.jpg"
+      ]
+    }
+  },
+  "pair-09cc19512c9ba72d3890": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10406": [
+        "data/images/mpo-10406.jpg"
+      ],
+      "mpo-10437": [
+        "data/images/mpo-10437.jpg"
+      ]
+    }
+  },
+  "pair-3e9dcb9afd694419da7a": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10406": [
+        "data/images/mpo-10406.jpg"
+      ],
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ]
+    }
+  },
+  "pair-12922d2331e23ae279c7": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10406": [
+        "data/images/mpo-10406.jpg"
+      ],
+      "mpo-20274": [
+        "data/images/mpo-20274.jpg"
+      ]
+    }
+  },
+  "pair-56874b459d36d113b063": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10406": [
+        "data/images/mpo-10406.jpg"
+      ],
+      "mpo-8311": [
+        "data/images/mpo-8311.jpg"
+      ]
+    }
+  },
+  "pair-101db9134a41cb468657": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10406": [
+        "data/images/mpo-10406.jpg"
+      ],
+      "mpo-8994": [
+        "data/images/mpo-8994.jpg"
+      ]
+    }
+  },
+  "pair-b962aeb0080f381ef047": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10407": [
+        "data/images/mpo-10407.jpg"
+      ],
+      "mpo-10437": [
+        "data/images/mpo-10437.jpg"
+      ]
+    }
+  },
+  "pair-f283a0b0ac763b5bfb06": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10407": [
+        "data/images/mpo-10407.jpg"
+      ],
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ]
+    }
+  },
+  "pair-6a754492c040fc412408": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10407": [
+        "data/images/mpo-10407.jpg"
+      ],
+      "mpo-20274": [
+        "data/images/mpo-20274.jpg"
+      ]
+    }
+  },
+  "pair-36e1e13fd0d21847cd97": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10407": [
+        "data/images/mpo-10407.jpg"
+      ],
+      "mpo-8994": [
+        "data/images/mpo-8994.jpg"
+      ]
+    }
+  },
+  "pair-4773bf552c2b6e6a497c": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10437": [
+        "data/images/mpo-10437.jpg"
+      ],
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ]
+    }
+  },
+  "pair-913f792004fbccb24bad": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-10437": [
+        "data/images/mpo-10437.jpg"
+      ],
+      "mpo-20274": [
+        "data/images/mpo-20274.jpg"
+      ]
+    }
+  },
+  "pair-a1618c08d7e6c514e564": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-10437": [
+        "data/images/mpo-10437.jpg"
+      ],
+      "mpo-8994": [
+        "data/images/mpo-8994.jpg"
+      ]
+    }
+  },
+  "pair-f78c2e29d7f637cc2bc2": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ],
+      "mpo-20274": [
+        "data/images/mpo-20274.jpg"
+      ]
+    }
+  },
+  "pair-43ea5533d834862d7057": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ],
+      "mpo-365": [
+        "data/images/mpo-365.jpg"
+      ]
+    }
+  },
+  "pair-d1b9840d2e187b72bb21": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ],
+      "mpo-4223": [
+        "data/images/mpo-4223.jpg"
+      ]
+    }
+  },
+  "pair-4759b59a5830f7f14b98": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ],
+      "mpo-8311": [
+        "data/images/mpo-8311.jpg"
+      ]
+    }
+  },
+  "pair-5f8fd11af5e4ca9f8c24": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ],
+      "mpo-8455": [
+        "data/images/mpo-8455.jpg"
+      ]
+    }
+  },
+  "pair-1ed7d480c307658eaecd": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-1385": [
+        "data/images/mpo-1385.jpg"
+      ],
+      "mpo-8994": [
+        "data/images/mpo-8994.jpg"
+      ]
+    }
+  },
+  "pair-1b35a032653fb22b9e36": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-20106": [],
+      "mpo-8201": [
+        "data/images/mpo-8201.jpg"
+      ]
+    }
+  },
+  "pair-3dbddb1743a8f10fe6f2": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-20274": [
+        "data/images/mpo-20274.jpg"
+      ],
+      "mpo-8994": [
+        "data/images/mpo-8994.jpg"
+      ]
+    }
+  },
+  "pair-0809cb8978faf1329cbc": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-25173": [
+        "data/images/mpo-25173.jpg"
+      ],
+      "mpo-25592": [
+        "data/images/mpo-25592.jpg"
+      ]
+    }
+  },
+  "pair-f652d6434d04aca15e91": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7957": [
+        "data/images/mpo-7957.jpg"
+      ],
+      "mpo-7960": [
+        "data/images/mpo-7960.jpg"
+      ]
+    }
+  },
+  "pair-7f135fc0216264e67394": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7957": [
+        "data/images/mpo-7957.jpg"
+      ],
+      "mpo-7961": [
+        "data/images/mpo-7961.jpg"
+      ]
+    }
+  },
+  "pair-3d6bc9b31e88428a08a4": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7957": [
+        "data/images/mpo-7957.jpg"
+      ],
+      "mpo-8343": [
+        "data/images/mpo-8343.jpg"
+      ]
+    }
+  },
+  "pair-146db6d39398de2b92af": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7957": [
+        "data/images/mpo-7957.jpg"
+      ],
+      "mpo-8344": [
+        "data/images/mpo-8344.jpg"
+      ]
+    }
+  },
+  "pair-b7a6e55d53ee12472249": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7957": [
+        "data/images/mpo-7957.jpg"
+      ],
+      "mpo-9242": [
+        "data/images/mpo-9242.jpg"
+      ]
+    }
+  },
+  "pair-00a2bc1211763a926f46": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7960": [
+        "data/images/mpo-7960.jpg"
+      ],
+      "mpo-7961": [
+        "data/images/mpo-7961.jpg"
+      ]
+    }
+  },
+  "pair-27ae1026223463854aff": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7960": [
+        "data/images/mpo-7960.jpg"
+      ],
+      "mpo-8343": [
+        "data/images/mpo-8343.jpg"
+      ]
+    }
+  },
+  "pair-f47d791e267241ef21a2": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7960": [
+        "data/images/mpo-7960.jpg"
+      ],
+      "mpo-8344": [
+        "data/images/mpo-8344.jpg"
+      ]
+    }
+  },
+  "pair-8906ae88c5a88c0bf6ef": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7960": [
+        "data/images/mpo-7960.jpg"
+      ],
+      "mpo-9242": [
+        "data/images/mpo-9242.jpg"
+      ]
+    }
+  },
+  "pair-374cd8eb5961c73820e4": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7961": [
+        "data/images/mpo-7961.jpg"
+      ],
+      "mpo-8343": [
+        "data/images/mpo-8343.jpg"
+      ]
+    }
+  },
+  "pair-e1a07e7ab1e75f0dfe8c": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7961": [
+        "data/images/mpo-7961.jpg"
+      ],
+      "mpo-8344": [
+        "data/images/mpo-8344.jpg"
+      ]
+    }
+  },
+  "pair-ba130b3a13121d7c3209": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-7961": [
+        "data/images/mpo-7961.jpg"
+      ],
+      "mpo-9242": [
+        "data/images/mpo-9242.jpg"
+      ]
+    }
+  },
+  "pair-da6e424935de87380cab": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8066": [
+        "data/images/mpo-8066.jpg"
+      ],
+      "mpo-8072": [
+        "data/images/mpo-8072.jpg",
+        "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-4-native.jpg"
+      ]
+    }
+  },
+  "pair-b9c7f92d84cc017ba48c": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8066": [
+        "data/images/mpo-8066.jpg"
+      ],
+      "mpo-8073": [
+        "data/images/mpo-8073.jpg",
+        "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-4-native.jpg"
+      ]
+    }
+  },
+  "pair-41bdbdc443d5b9b42678": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8066": [
+        "data/images/mpo-8066.jpg"
+      ],
+      "mpo-8201": [
+        "data/images/mpo-8201.jpg"
+      ]
+    }
+  },
+  "pair-8f3a072d37ac0a71a565": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8066": [
+        "data/images/mpo-8066.jpg"
+      ],
+      "mpo-8304": [
+        "data/images/mpo-8304.jpg"
+      ]
+    }
+  },
+  "pair-55da78aa92ce35902aab": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8066": [
+        "data/images/mpo-8066.jpg",
+        "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+        "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+        "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+        "research/continuation_44/images/Fr8066-capture-4-native.jpg"
+      ],
+      "mpo-9620": [
+        "data/images/mpo-9620.jpg",
+        "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+        "research/continuation_44/images/Fr9620-capture-2-native.jpg",
+        "research/continuation_44/images/Fr9620-capture-3-native.jpg",
+        "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+        "research/continuation_44/images/Fr9620-capture-5-native.jpg"
+      ]
+    }
+  },
+  "pair-00f7a4ed7b39e57ed29e": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8072": [
+        "data/images/mpo-8072.jpg",
+        "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-4-native.jpg"
+      ],
+      "mpo-8073": [
+        "data/images/mpo-8073.jpg",
+        "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-4-native.jpg"
+      ]
+    }
+  },
+  "pair-89949f510ea367ba8a23": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8072": [
+        "data/images/mpo-8072.jpg",
+        "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-4-native.jpg"
+      ],
+      "mpo-8201": [
+        "data/images/mpo-8201.jpg"
+      ]
+    }
+  },
+  "pair-40a423101854019bb578": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8072": [
+        "data/images/mpo-8072.jpg",
+        "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-4-native.jpg"
+      ],
+      "mpo-8304": [
+        "data/images/mpo-8304.jpg"
+      ]
+    }
+  },
+  "pair-c92d0fefbd71465ce0fb": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8072": [
+        "data/images/mpo-8072.jpg",
+        "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8072-capture-4-native.jpg"
+      ],
+      "mpo-9620": [
+        "data/images/mpo-9620.jpg"
+      ]
+    }
+  },
+  "pair-920b9d36ad1deef7511a": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8073": [
+        "data/images/mpo-8073.jpg",
+        "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-4-native.jpg"
+      ],
+      "mpo-8201": [
+        "data/images/mpo-8201.jpg"
+      ]
+    }
+  },
+  "pair-7958393ae77f4c1164b7": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8073": [
+        "data/images/mpo-8073.jpg",
+        "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-4-native.jpg"
+      ],
+      "mpo-8304": [
+        "data/images/mpo-8304.jpg"
+      ]
+    }
+  },
+  "pair-f106d472d279f60545ae": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8073": [
+        "data/images/mpo-8073.jpg",
+        "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+        "research/continuation_52/images/Fr8073-capture-4-native.jpg"
+      ],
+      "mpo-9620": [
+        "data/images/mpo-9620.jpg"
+      ]
+    }
+  },
+  "pair-bef99c0c6dd2ef1ff931": {
+    "decision_state": "contradicted",
+    "available_primary_images": {
+      "mpo-8201": [
+        "data/images/mpo-8201.jpg"
+      ],
+      "mpo-8304": [
+        "data/images/mpo-8304.jpg"
+      ]
+    }
+  },
+  "pair-dd801424ce2ad9ecda18": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8201": [
+        "data/images/mpo-8201.jpg"
+      ],
+      "mpo-9620": [
+        "data/images/mpo-9620.jpg"
+      ]
+    }
+  },
+  "pair-2bcf84be6d1c5ab3e8b1": {
+    "decision_state": "unresolved",
+    "available_primary_images": {
+      "mpo-8304": [
+        "data/images/mpo-8304.jpg"
+      ],
+      "mpo-9620": [
+        "data/images/mpo-9620.jpg"
+      ]
+    }
+  },
+  "pair-6392b3d5ccd2551daf9d": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-8343": [
+        "data/images/mpo-8343.jpg"
+      ],
+      "mpo-8344": [
+        "data/images/mpo-8344.jpg"
+      ]
+    }
+  },
+  "pair-5d81755c3d352f2a9bda": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-8343": [
+        "data/images/mpo-8343.jpg"
+      ],
+      "mpo-9242": [
+        "data/images/mpo-9242.jpg"
+      ]
+    }
+  },
+  "pair-d1082adc3980fb62e788": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {
+      "mpo-8344": [
+        "data/images/mpo-8344.jpg"
+      ],
+      "mpo-9242": [
+        "data/images/mpo-9242.jpg"
+      ]
+    }
+  },
+  "CTX01": {
+    "decision_state": "supported",
+    "available_primary_images": {}
+  },
+  "CTX02": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX03": {
+    "decision_state": "supported",
+    "available_primary_images": {}
+  },
+  "CTX04": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX05": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX06": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX07": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX08": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX09": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX10": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX11": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX12": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "CTX13": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "iv157-ant99": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "iv157-1385": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "iv157-1505": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "iv156-1505": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "iv156-iv157": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "iv173-29666": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "iv173-25592": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "iv173-ant99": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_known:mpo-1385": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_known:mpo-20274": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_known:mpo-20275": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_known:mpo-20276": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_known:mpo-20277": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_known:mpo-20278": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_suggested:mpo-8994": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_suggested:mpo-10370": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_suggested:mpo-10406": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_suggested:mpo-10407": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "crosslink:IV157_suggested:mpo-10437": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "crosslink:IV160:mpo-20340": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "crosslink:IV28_negative:mpo-10349": {
+    "decision_state": "contradicted",
+    "available_primary_images": {}
+  },
+  "fr8311-chant": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "ant49-audit": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "aboense-control": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "iv160-control": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "iv28-control": {
+    "decision_state": "contradicted",
+    "available_primary_images": {}
+  },
+  "turku-ms-c": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "E33-numbering-conflict": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "E34-local-order": {
+    "decision_state": "supported",
+    "available_primary_images": {}
+  },
+  "E35-overlap": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "E36-aboense-I": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "E36-aboense-II": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "E36-aboense-III": {
+    "decision_state": "previously_documented",
+    "available_primary_images": {}
+  },
+  "E37-ending": {
+    "decision_state": "supported",
+    "available_primary_images": {}
+  },
+  "E37-C435-access": {
+    "decision_state": "not_testable",
+    "available_primary_images": {}
+  },
+  "E38-replacement-text": {
+    "decision_state": "supported",
+    "available_primary_images": {}
+  },
+  "E39-excerpt": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  },
+  "E40-boundary": {
+    "decision_state": "unresolved",
+    "available_primary_images": {}
+  }
+}

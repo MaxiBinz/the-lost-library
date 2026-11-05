@@ -1,0 +1,154 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "annotations": [
+    {
+      "id": "I51-20274-upper-sign",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A red angular glyph with flanking red punctuation is visible above the medieval text. Candidate shape f-like/4-like only; diplomatic reading, numeric value, function and medieval side are unresolved. It cannot supply a secure common folio/quire address with10370.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-1-1831px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=900,120,180,155"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "image_dimensions": [
+        1831,
+        1565
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "f? / 4?",
+      "normalized_candidate": null,
+      "observer": "Codex AI source-image inspection; explicitly unblinded and without independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The inspection is unblinded; two10370 and two8994 mark observations were already recorded. These are re-used evidence, not four new observations or independent votes.",
+        "Six target photographs are views of two catalogue objects. Cropped views, reused folds and unknown medieval sides prevent automatic conversion to six leaves or a complete surface map.",
+        "No secure normalization of the20274 red sign is made. A visual candidate is not an original-address assignment; missing/uncertain evidence is not counterevidence to one book.",
+        "The20274 pencil identifier supports this particular catalogue reference. It does not identify20106, establish a relationship to the A103 psalter record or supply a new image pointer.",
+        "No new attribution, exclusion, catalogue correction, novelty clearance, independent confirmation or matcher improvement is established."
+      ]
+    },
+    {
+      "id": "I51-20274-library-label",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A later pencil library reference below the medieval text is provisionally read KB / A 103 k / CXVIII. The components correspond to the pinned MPO reference institution KB, collection A103, item k118. CXVIII here is part of that later identifier; no medieval folio118, shared codex or20106 image crosswalk follows.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-2-1835px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1100,1440,330,165"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00002/full/1835,/0/default.jpg",
+      "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+      "image_dimensions": [
+        1835,
+        1705
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "KB / A 103 k / CXVIII",
+      "normalized_candidate": null,
+      "observer": "Codex AI source-image inspection; explicitly unblinded and without independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The inspection is unblinded; two10370 and two8994 mark observations were already recorded. These are re-used evidence, not four new observations or independent votes.",
+        "Six target photographs are views of two catalogue objects. Cropped views, reused folds and unknown medieval sides prevent automatic conversion to six leaves or a complete surface map.",
+        "No secure normalization of the20274 red sign is made. A visual candidate is not an original-address assignment; missing/uncertain evidence is not counterevidence to one book.",
+        "The20274 pencil identifier supports this particular catalogue reference. It does not identify20106, establish a relationship to the A103 psalter record or supply a new image pointer.",
+        "No new attribution, exclusion, catalogue correction, novelty clearance, independent confirmation or matcher improvement is established."
+      ]
+    },
+    {
+      "id": "I51-10370-reuse-heading",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A large reuse/account heading and smaller annotations run at right angles to the medieval music/text. These are excluded from original folio/quire addressing. No complete transcription, exact year or original recto/verso is assigned.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-4-1742px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1220,210,440,900"
+        }
+      },
+      "fragment_id": "mpo-10370",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00004/full/1742,/0/default.jpg",
+      "sha256": "2f2d35bf4253989714fda7877403a48bc4cd58bffa2e893469968546a9c1594f",
+      "image_dimensions": [
+        1742,
+        1219
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI source-image inspection; explicitly unblinded and without independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The inspection is unblinded; two10370 and two8994 mark observations were already recorded. These are re-used evidence, not four new observations or independent votes.",
+        "Six target photographs are views of two catalogue objects. Cropped views, reused folds and unknown medieval sides prevent automatic conversion to six leaves or a complete surface map.",
+        "No secure normalization of the20274 red sign is made. A visual candidate is not an original-address assignment; missing/uncertain evidence is not counterevidence to one book.",
+        "The20274 pencil identifier supports this particular catalogue reference. It does not identify20106, establish a relationship to the A103 psalter record or supply a new image pointer.",
+        "No new attribution, exclusion, catalogue correction, novelty clearance, independent confirmation or matcher improvement is established."
+      ]
+    },
+    {
+      "id": "I51-10370-edge-strip",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A narrow text-bearing strip is visible at the photographed right edge, alongside the medieval writing field. Its material attachment, age and complete text are unadjudicated; no folio/quire address or physical join is inferred.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-2-1739px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1570,365,85,355"
+        }
+      },
+      "fragment_id": "mpo-10370",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00002/full/1739,/0/default.jpg",
+      "sha256": "fe8019fd85f078f5f552e9aa4befbae21bee8522506a1f77385d032a0499ee58",
+      "image_dimensions": [
+        1739,
+        1132
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI source-image inspection; explicitly unblinded and without independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The inspection is unblinded; two10370 and two8994 mark observations were already recorded. These are re-used evidence, not four new observations or independent votes.",
+        "Six target photographs are views of two catalogue objects. Cropped views, reused folds and unknown medieval sides prevent automatic conversion to six leaves or a complete surface map.",
+        "No secure normalization of the20274 red sign is made. A visual candidate is not an original-address assignment; missing/uncertain evidence is not counterevidence to one book.",
+        "The20274 pencil identifier supports this particular catalogue reference. It does not identify20106, establish a relationship to the A103 psalter record or supply a new image pointer.",
+        "No new attribution, exclusion, catalogue correction, novelty clearance, independent confirmation or matcher improvement is established."
+      ]
+    }
+  ]
+}

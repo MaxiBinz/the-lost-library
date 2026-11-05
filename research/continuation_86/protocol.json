@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-02",
+  "question": "Does the contested initial in the Turku catalogue's redisti resemble the same scribe's d or r elsewhere on the same photographed face?",
+  "exposure": "E85 already disclosed the exact target, compared one nearby d and consulted a dedisti concordance. The new check is neither blinded nor independent and the control choices are post-exposure.",
+  "target": "CF item 249, second viewer image TMMA.FragC_0002_v.jpg, left field, bottom line, initial of word after odorem; manuscript ending faded.",
+  "controls_to_seek": [
+    "Word-initial d in a readable dominum/deum context on the same field, without treating the catalogue alone as proof of the letter.",
+    "Medial d in odorem immediately before the target, already used in E85.",
+    "r in the nearby readable fructus or ventris, subject to positional and ligature variation."
+  ],
+  "decision_rule": "Record visible shape and whether controls actually appear and are legible. A successful comparison supports only the specific d/r reading, not independent verification; don't complete faded letters by concordance.",
+  "falsifiers": ["A target initial visually incompatible with local d or resembling a clear local r", "An illegible or insufficiently comparable control", "A plausible scribal variant whose form makes the comparison inconclusive"],
+  "rights": "View via institutional viewer; no source image or cropped derivative saved; respect CF BY-ND.",
+  "unchanged": ["frozen queue and decisions", "no external contact", "no Helsinki book attribution"]
+}

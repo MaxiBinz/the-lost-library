@@ -1,0 +1,110 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I57-8311-sudore",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A provisional In sudore opening continues over successive visible staff lines. The bottom contains a Pro-like beginning; its continuation on another photo is a text-order hypothesis, not a demonstrated physical seam.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=90,15,680,430"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00002/full/1000,/0/default.jpg",
+      "sha256": "e3b1eba2064492294fa6f75ec6087bbacedd6a636572cf6cfe2ce43e561b46c5",
+      "image_dimensions": [
+        1000,
+        639
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "[... in sudo]re vultus tui [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded reinspection, 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Partial provisional reading; no complete chant or melody edition.",
+        "Photograph index is not a medieval side or demonstrated physical join."
+      ]
+    },
+    {
+      "id": "I57-8311-abel",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A Pro-eo-quod-oboedisti continuation candidate precedes a decorated Ubi est Abel opening within this photograph. This supports two known-work candidates but is not a complete edition or physical side map.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=230,140,680,380"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00003/full/1000,/0/default.jpg",
+      "sha256": "e65493d56b027bfab469905a67eaffeaac32e9231b32f169c51c481e2ffea232",
+      "image_dimensions": [
+        1000,
+        663
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "[...] eo quod obedisti voci uxoris tue [...] / Ubi est abel frater tuus [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded reinspection, 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Partial provisional reading; no complete chant or melody edition.",
+        "Photograph index is not a medieval side or demonstrated physical join."
+      ]
+    },
+    {
+      "id": "I57-8311-maledicta",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A Maledicta-terra verse candidate is followed by a Miserere-mei opening; the earlier Abel ending is a plausible textual context. No exact melody or diagnostic book identity is inferred.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=220,75,680,400"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00004/full/1000,/0/default.jpg",
+      "sha256": "f95e8acdcd9e812103976bcb84020aca788388d92913c58cce2fa0aed684d818",
+      "image_dimensions": [
+        1000,
+        656
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "Maledicta terra in opere tuo [...] / Miserere mei deus [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; unblinded reinspection, 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Partial provisional reading; no complete chant or melody edition.",
+        "Photograph index is not a medieval side or demonstrated physical join."
+      ]
+    }
+  ]
+}

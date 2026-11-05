@@ -1,0 +1,79 @@
+{
+  "version": "1.0.0",
+  "experiment": "E33",
+  "date": "2026-10-25",
+  "question": "Does source-visible Fr 8994 text support or challenge interpreting its IIII/k signs as the same address as F.m.IV.157 folio 8?",
+  "selection": "Follow-up to E31/E32, using four larger versions of the already retained photographs. The text was inspected before this formal result was written; exploratory, not preregistered.",
+  "image_observation_ids": [
+    "I33-8994-roman",
+    "I33-8994-k",
+    "I33-8994-third-nocturn",
+    "I33-8994-devenerat",
+    "I33-8994-egregius"
+  ],
+  "direct_result": "The numeral-bearing capture includes a third-nocturn rubric and Nec propria salute contentus. A separate upper-margin capture shows k and Devenerat martir; another capture shows Egregius martyr Olavus. These are source-linked readings, not inferred from photograph ordinal.",
+  "catalogue_comparator": {
+    "source_url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+    "access": "Official-page search indexing, rechecked 25 October; Finnish scan not inspected",
+    "folio_8": {
+      "signature_notation": "[k] iiijr - k [v]",
+      "office": "Olavi",
+      "nocturn": 1,
+      "range": "Within Regnante illustrissimo through the beginning of the verse Offerebat of Iustus vero"
+    },
+    "folios_9_10": {
+      "signature_notation": "[k] uijr - [k ix]v (index/OCR requires source verification)",
+      "range": "Begins Egregius in the third nocturn and proceeds to Lawrence"
+    },
+    "warning": "The catalogue itself suggests interleaving temporale/sanctorale units. Bracketed signature components are editorially supplied; do not treat every component as read from a surviving page."
+  },
+  "interpretation": {
+    "decision": "unresolved",
+    "frozen_H03_category": "C (unchanged)",
+    "changed_case": "The apparent same-address lead is now a potential content conflict, not simple corroborating signature similarity. The local third-nocturn text differs from the catalogue's first-nocturn range at the proposed matching address.",
+    "conditional_exclusion": "If the addresses identify the same unique unrepeated location in the same service/section and both source descriptions are correct, incompatible first- versus third-nocturn text challenges the single-book attribution.",
+    "unverified_premises": {
+      "same_complete_address": null,
+      "unique_unrepeated_numbering": null,
+      "same_service_and_section": null,
+      "Finnish_description_and_side_mapping_correct": null
+    },
+    "alternatives": [
+      "Repeated/reset opening signatures",
+      "Composite volume or duplicated/alternative office",
+      "Inferred signature components or side mapping are wrong",
+      "Catalogue/OCR error",
+      "Different books sharing production and liturgy"
+    ],
+    "originality_cleared": false,
+    "new_attribution": false,
+    "new_unconditional_exclusion": false
+  },
+  "identification_concordance": {
+    "url": "https://www.lawostore.no/assets/files-rte/booklet_lawo/LWC1106_Consortium_Vocale_Historia_Sancti_Olavi_Ebooklet_lettersize.pdf",
+    "role": "Modern performance booklet offers the same chant incipits/order. An identification aid, not a primary witness or independent target transcription; no variants or melodies imported."
+  },
+  "access_record": [
+    {
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+      "outcome": "Browser verification page; untouched. Official index lists PDM, a 42.31 MB whole-fragment PDF and 28 TIFF files; listing is not acquisition."
+    },
+    {
+      "url": "https://fragmenta.kansalliskirjasto.fi/oai/request?verb=Identify",
+      "outcome": "Documented open metadata route also displayed browser verification; untouched. No Finnish image acquired."
+    }
+  ],
+  "next_test": "Inspect Finnish folio 8 and ff.9-10 signs and full text through ordinary legitimate access; establish the numbering units and whether labels repeat. Read the exact Taitto/Keskiaho passages before novelty claims. Fr 20278 remains an additional missing comparator.",
+  "resources": {
+    "new_resolution_variants": 4,
+    "download_bytes": 1261947,
+    "new_physical_objects": 0
+  },
+  "frozen_inputs": {
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  }
+}

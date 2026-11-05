@@ -1,0 +1,42 @@
+{
+  "completed_at_utc": "2026-10-21T11:47:22.715054+00:00",
+  "metadata_source": "https://zenodo.org/records/17287665",
+  "metadata_version": "1.0.0 (9October2025)",
+  "metadata_sha256": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+  "records": 129,
+  "records_with_images": 121,
+  "source_image_files": 173,
+  "physical_objects_with_images": 120,
+  "collections": {
+    "Fragmenta membranea": 2,
+    "Fragmentarium / Beauvais Missal": 12,
+    "MPO": 115
+  },
+  "new_download_bytes": 21608267,
+  "stored_image_bytes": 22853439,
+  "benchmark_groups": 11,
+  "beauvais_records": 12,
+  "metadata_only_records": [
+    "mpo-20106",
+    "mpo-20275",
+    "mpo-20276",
+    "mpo-20277",
+    "mpo-20278",
+    "mpo-20340",
+    "mpo-28175",
+    "mpo-29666"
+  ],
+  "failures": [
+    {
+      "id": "F-nf2m",
+      "error": "Child is not explicitly one leaf; skip ambiguous physical unit"
+    },
+    {
+      "id": "F-0lns",
+      "error": "Child is not explicitly one leaf; skip ambiguous physical unit"
+    }
+  ],
+  "database": "data/fragments.sqlite",
+  "rights_policy": "Explicit child-levelPDM/CC0/CCBY4; no blanket aggregate-rights assumption",
+  "restrictions": "No paid API, public hosting, external contact, access-denial bypass, or large original-TIFF harvest."
+}

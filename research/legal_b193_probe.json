@@ -1,0 +1,18 @@
+{
+  "record": "https://www.manuscripta.se/ms/100332",
+  "manifest": "https://www.manuscripta.se/iiif/100332/manifest.json",
+  "manifest_canvas_count": 18,
+  "manuscript_leaf_sides": [
+    "⟨f. 1r⟩",
+    "⟨f. 1v⟩",
+    "⟨f. 2r⟩",
+    "⟨f. 2v⟩"
+  ],
+  "image_url": "https://iiif.manuscripta.se/iiif/ms-100332/ms-100332_0003.tif/full/800,/0/default.jpg",
+  "http_status": 200,
+  "content_type": "image/jpeg",
+  "bytes": 186621,
+  "sha256": "05b26e6341d51d2501ef37b90652016606dd38eb72defb1dc8f558a42cb8a4b7",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution": "Kungliga biblioteket"
+}

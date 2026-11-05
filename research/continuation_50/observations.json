@@ -1,0 +1,286 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "annotations": [
+    {
+      "id": "I50-10349-page",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Two narrow ruled/text fields share the preserved parchment view and are separated by a gutter. Mixed prose/music remains within that two-field design. This is a visible page-layout distinction, not a new foliation or codex identity.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_50/images/Fr10349-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,0,1057,1373"
+        }
+      },
+      "fragment_id": "mpo-10349",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010349_00002/full/max/0/default.jpg",
+      "sha256": "c4aecdd59edc86b50ff79cd5ee764f26dedfe18b057749db034305bb7e98d5cd",
+      "image_dimensions": [
+        1057,
+        1373
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source layout inspection; catalogue predictions known, not blinded or independently adjudicated",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Seven distinct target photo views were inspected, plus two retained control views. Only six native files were newly saved;10349 capture1 uses a lower-resolution retained thumbnail and2862 capture3 remains unseen.",
+        "The exact catalogue #15/#10 convention, original fold/leaf structure and a complete system-count census remain unadjudicated; no measured count or corrected catalogue value is claimed.",
+        "No chant correspondence, physical join, new historical attribution, novelty clearance, independent confirmation or improved matcher is established."
+      ]
+    },
+    {
+      "id": "I50-10349-gutter",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The writing fields stop independently on each side of the intervening gutter. The observation is not merely two text regions separated by a ruler or photographic frame; exact original fold/leaf structure is still qualified.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_50/images/Fr10349-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=500,150,160,980"
+        }
+      },
+      "fragment_id": "mpo-10349",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010349_00002/full/max/0/default.jpg",
+      "sha256": "c4aecdd59edc86b50ff79cd5ee764f26dedfe18b057749db034305bb7e98d5cd",
+      "image_dimensions": [
+        1057,
+        1373
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source layout inspection; catalogue predictions known, not blinded or independently adjudicated",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Seven distinct target photo views were inspected, plus two retained control views. Only six native files were newly saved;10349 capture1 uses a lower-resolution retained thumbnail and2862 capture3 remains unseen.",
+        "The exact catalogue #15/#10 convention, original fold/leaf structure and a complete system-count census remain unadjudicated; no measured count or corrected catalogue value is claimed.",
+        "No chant correspondence, physical join, new historical attribution, novelty clearance, independent confirmation or improved matcher is established."
+      ]
+    },
+    {
+      "id": "I50-2862-page",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "One broad music/text field occupies the preserved view between outside margins. No central writing-column gutter is present in this field.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_50/images/Fr2862-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,0,1140,1694"
+        }
+      },
+      "fragment_id": "mpo-2862",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1002862_00001/full/max/0/default.jpg",
+      "sha256": "09b5e110cbecab8ac85b46635b2302b56dd58ee77845db606fa43d316f1556f9",
+      "image_dimensions": [
+        1140,
+        1694
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source layout inspection; catalogue predictions known, not blinded or independently adjudicated",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Seven distinct target photo views were inspected, plus two retained control views. Only six native files were newly saved;10349 capture1 uses a lower-resolution retained thumbnail and2862 capture3 remains unseen.",
+        "The exact catalogue #15/#10 convention, original fold/leaf structure and a complete system-count census remain unadjudicated; no measured count or corrected catalogue value is claimed.",
+        "No chant correspondence, physical join, new historical attribution, novelty clearance, independent confirmation or improved matcher is established."
+      ]
+    },
+    {
+      "id": "I50-2862-fold",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Staff rules and text continue through the reuse crease within one writing field; the crease is not the gutter separating two narrow writing columns. The source description also records nonoriginal folding.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_50/images/Fr2862-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=160,80,440,1050"
+        }
+      },
+      "fragment_id": "mpo-2862",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1002862_00002/full/max/0/default.jpg",
+      "sha256": "8cabf3f43d2e6316a37c775e2e09199890ac0f623120edd27a08ac483f8dacd6",
+      "image_dimensions": [
+        1086,
+        1713
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source layout inspection; catalogue predictions known, not blinded or independently adjudicated",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Seven distinct target photo views were inspected, plus two retained control views. Only six native files were newly saved;10349 capture1 uses a lower-resolution retained thumbnail and2862 capture3 remains unseen.",
+        "The exact catalogue #15/#10 convention, original fold/leaf structure and a complete system-count census remain unadjudicated; no measured count or corrected catalogue value is claimed.",
+        "No chant correspondence, physical join, new historical attribution, novelty clearance, independent confirmation or improved matcher is established."
+      ]
+    },
+    {
+      "id": "I50-2863-control",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The retained first-capture source control shows one broad writing field. Its source-described relationship to2864 is credited, not independently re-established from this image.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-2863.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,0,800,1172"
+        }
+      },
+      "fragment_id": "mpo-2863",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1002863_00001/full/800,/0/default.jpg",
+      "sha256": "c31c3cb98b1534602a0d6ea4534d9be1e29f49bd638ab4cec9349a5399c05bea",
+      "image_dimensions": [
+        800,
+        1172
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source layout inspection; catalogue predictions known, not blinded or independently adjudicated",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Seven distinct target photo views were inspected, plus two retained control views. Only six native files were newly saved;10349 capture1 uses a lower-resolution retained thumbnail and2862 capture3 remains unseen.",
+        "The exact catalogue #15/#10 convention, original fold/leaf structure and a complete system-count census remain unadjudicated; no measured count or corrected catalogue value is claimed.",
+        "No chant correspondence, physical join, new historical attribution, novelty clearance, independent confirmation or improved matcher is established."
+      ]
+    },
+    {
+      "id": "I50-2864-control",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The retained first-capture source control shows the same broad writing-field design. This is a selected diagnostic control, not a population accuracy or same-book proof.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-2864.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,0,800,1199"
+        }
+      },
+      "fragment_id": "mpo-2864",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1002864_00001/full/800,/0/default.jpg",
+      "sha256": "73548fb7ee199a321e9483ff4d869097222e829e517f766cef8c69c0f2a6ff09",
+      "image_dimensions": [
+        800,
+        1199
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source layout inspection; catalogue predictions known, not blinded or independently adjudicated",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Seven distinct target photo views were inspected, plus two retained control views. Only six native files were newly saved;10349 capture1 uses a lower-resolution retained thumbnail and2862 capture3 remains unseen.",
+        "The exact catalogue #15/#10 convention, original fold/leaf structure and a complete system-count census remain unadjudicated; no measured count or corrected catalogue value is claimed.",
+        "No chant correspondence, physical join, new historical attribution, novelty clearance, independent confirmation or improved matcher is established."
+      ]
+    },
+    {
+      "id": "I50-10349-ruler",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The retained horizontal centimetre ruler supplies an approximate per-image scale. Manual ruler anchors and writing-field endpoints were selected post-inspection and retain broad sensitivity; no exact leaf-size correction or identity probability is inferred.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_50/images/Fr10349-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=50,1270,1000,103"
+        }
+      },
+      "fragment_id": "mpo-10349",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010349_00002/full/max/0/default.jpg",
+      "sha256": "c4aecdd59edc86b50ff79cd5ee764f26dedfe18b057749db034305bb7e98d5cd",
+      "image_dimensions": [
+        1057,
+        1373
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source layout inspection; catalogue predictions known, not blinded or independently adjudicated",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Seven distinct target photo views were inspected, plus two retained control views. Only six native files were newly saved;10349 capture1 uses a lower-resolution retained thumbnail and2862 capture3 remains unseen.",
+        "The exact catalogue #15/#10 convention, original fold/leaf structure and a complete system-count census remain unadjudicated; no measured count or corrected catalogue value is claimed.",
+        "No chant correspondence, physical join, new historical attribution, novelty clearance, independent confirmation or improved matcher is established."
+      ]
+    },
+    {
+      "id": "I50-2862-ruler",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The horizontal centimetre ruler supplies an approximate image scale for the broad writing field. Perspective, paper/ruler plane differences and endpoint uncertainty limit physical interpretation.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_50/images/Fr2862-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=30,0,1100,140"
+        }
+      },
+      "fragment_id": "mpo-2862",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1002862_00001/full/max/0/default.jpg",
+      "sha256": "09b5e110cbecab8ac85b46635b2302b56dd58ee77845db606fa43d316f1556f9",
+      "image_dimensions": [
+        1140,
+        1694
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source layout inspection; catalogue predictions known, not blinded or independently adjudicated",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Seven distinct target photo views were inspected, plus two retained control views. Only six native files were newly saved;10349 capture1 uses a lower-resolution retained thumbnail and2862 capture3 remains unseen.",
+        "The exact catalogue #15/#10 convention, original fold/leaf structure and a complete system-count census remain unadjudicated; no measured count or corrected catalogue value is claimed.",
+        "No chant correspondence, physical join, new historical attribution, novelty clearance, independent confirmation or improved matcher is established."
+      ]
+    }
+  ]
+}

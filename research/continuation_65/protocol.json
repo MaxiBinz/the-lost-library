@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "question": "For the published Fr20106/8201 continuity, what does a separately indexed complete medieval witness show, and is the surviving 8201 ending suitable for a bounded music/text check?",
+  "pre_exposure": "All retained 8201/8304 views and published argument were inspected before this protocol. Cantus Vienna 1799 record and its complete text/melody were also seen in search output; exploratory, unblinded, not a validation sample.",
+  "selection": "Fixed Fr8201 first photograph with the published pulchrior ending, compared only with Cantus indexed Vienna Cod.1799 f223v chant 204720. Source text spelling, standardized text and Volpiano are separate database fields. Inspect notation only if native target image allows secure pitches and alignment.",
+  "alternatives": [
+    "two books can contain the same antiphon",
+    "published reading or source identification might be wrong",
+    "melody and text traditions can vary",
+    "Fr20106 end, local seam, page order, and full office remain unavailable",
+    "composite books and repeated feasts"
+  ],
+  "controls": "Vienna is a counterexample to uniqueness of the chant, not a same-book or negative training control; published 8201/8304 different-book argument remains a separate attributed source, not a verified direct 20106 image.",
+  "decision_rule": "Do not infer a book, physical adjacency, hand, copied source, or prevalence from text agreement; refrain from a full melodic comparison if clef, note segmentation, alignment, or pitches are uncertain.",
+  "acquisition": {
+    "manifest": "data/manifests/8201.json",
+    "manifest_sha256": "0b0e55cb37292833fe123e224a457f0c5753266ca49e380a1569b077395bdf78",
+    "locator": "items/0/items/0/items/0/body/id",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/full/max/0/default.jpg",
+    "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/canvas",
+    "width": 1718,
+    "height": 1156,
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "max_bytes": 8000000,
+    "path": "research/continuation_65/images/Fr8201-capture-1-native.jpg",
+    "maximum_requests": 1,
+    "retry": false
+  },
+  "resources_before": "208 working source files; 1675860841 byte conservative planning total including 1GB historical reserve; exact past transfers unverified.",
+  "post_exposure_extension": "After inspecting the acquired photograph and Vienna indexed navigation, we additionally recorded the following Traditur candidate and tested the two-chant order. This extension is selected post-inspection, not blind or preregistered."
+}

@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "question": "Does the retained published BOMPAC reconstruction dataset explicitly assign all six existing Aboense controls to one reconstruction unit, with exact source rows, beyond their common catalogue label?",
+  "selection": {
+    "physical_objects": [
+      "mpo-7957",
+      "mpo-7960",
+      "mpo-7961",
+      "mpo-8343",
+      "mpo-8344",
+      "mpo-9242"
+    ],
+    "baseline_pairings": 15,
+    "baseline_metadata_only_pairings": 13,
+    "prior_exposure": "The catalogue reconstruction, Taitto credit and E36 continuities are already known. Actual Aboense workbook rows have not yet been inspected for this audit. This is a prior-source credit check, not a blind new attribution experiment."
+  },
+  "predictions": [
+    "Use exact fragment identifiers, preserve all matching rows and exclusions, reject ambiguous or duplicate active identifiers rather than silently choosing a first match.",
+    "Extract all rows of any matched combined reconstruction unit. Compare named unit, Finnish signum, source labels, inclusion flags and count definitions. Dataset row counts are not surviving leaves or an image-ready corpus.",
+    "Compare raw MPO unit membership as related published data, never as an independent vote. Keep corrections, uncertainty and possible disagreement.",
+    "If all six have one explicit included-unit assignment, record six attributable membership assertions and recredit only the 13 baseline metadata-only pair leads as previously documented. Keep computational suggestions and physical objects separate. Existing image/dossier reviews retain their own scope.",
+    "If membership differs, remains ambiguous, is excluded or missing, keep the relevant relationships unresolved and report the discrepancy without invention.",
+    "Shared codex labels alone, source credit, and agreement of related datasets do not confirm physical joins, adjacency, side order, date, completeness or a new discovery."
+  ],
+  "method": {
+    "headers_row": 2,
+    "first_data_row": 3,
+    "combined_sheet": "Sheet1",
+    "combined_include": "Row_exclusion == Include row",
+    "raw_sheet": "Blad1",
+    "row_locators": "Excel 1-based row plus exact column header and cell coordinates",
+    "workbooks": "Read only; no recalculation, export or modification."
+  },
+  "source_inputs": {
+    "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+    "research/continuation_26/bompac/raw_metadata/MPO_BOMPAC.xlsx": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9",
+    "research/continuation_26/bompac/download_receipt.json": "266e4694f6ce041b3b71c713ab577e516182f6d7ce349232685b14711d8cc30d",
+    "research/continuation_47/lead_register.before.json": "928a37fa9e99a15ba57bc07a40a6a5c46fbd0f2cabfd526032cc188d870f5cfd"
+  },
+  "frozen_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  },
+  "limits": {
+    "no_acquisition": true,
+    "no_outreach": true,
+    "no_publication": true,
+    "working_source_files": 188,
+    "conservative_transfer_plan_bytes": 1669530774
+  },
+  "goal_complete": false
+}

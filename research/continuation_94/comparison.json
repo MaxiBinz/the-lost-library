@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-03",
+  "status": "exploratory; no independent review",
+  "selection": "Fr 10406 was inspected before selection. F.m. IV.33 was found by a search for the St Olaf invitatory, not selected blind or from a representative sample.",
+  "question": "Does the same apparent St Olaf text and nearby feast sequence identify a specific manuscript relationship?",
+  "swedish_observations": [
+    {
+      "path": "data/images/mpo-10406-capture-3.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00003/full/1000,/0/default.jpg",
+      "sha256": "ad15525ab9eaeb67b603ade9120886e2c5c8caecb5ebfbebef9bd478a09bfbb9",
+      "xywh": [240, 407, 655, 108],
+      "literal_candidate": "Adest ... leticie ... materia ... resultet vox",
+      "normalized_identification": "Adest dies leticie, antiphon at Magnificat in the known St Olaf office",
+      "limits": "Reference-assisted, incomplete AI reading; capture is not an independently verified medieval page assignment."
+    },
+    {
+      "path": "data/images/mpo-10406-capture-4.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00004/full/1000,/0/default.jpg",
+      "sha256": "eb77ec83d785842e929432be99d99b579fce102d062d0ecdebe280dbdf9f6677",
+      "xywh": [215, 220, 675, 208],
+      "literal_candidate": "Magnus dominus et laudabilis valde. Qui regis olaui industria in late[... ]",
+      "normalized_identification": "St Olaf invitatory Magnus dominus et laudabilis valde",
+      "limits": "Reference-assisted provisional reading; capture ends within the chant. No claim that the fragment physically ends at that exact word."
+    }
+  ],
+  "comparison": {
+    "id": "F.m. IV.33",
+    "source": "https://fragmenta.kansalliskirjasto.fi/handle/10024/221?show=full",
+    "access": "Search-indexed official catalogue description; Finnish manuscript image not inspected.",
+    "reported_contents": "Ff. 1–8 Petri et Pauli, Mariae Magdalenae, Iacobi, de sancta Anna, then Olavi, ending in invitatory Magnus dominus et laudabilis.",
+    "reported_description": "10 folios; 14th century; 16–16.5 x 21.5–22 cm as stated, 11 lines; Dominican and Nordic. Ff. 1–8 given k3–k10; catalogue describes letter and Arabic numeral in text ink, not the Swedish object's red Roman opening signature.",
+    "cautions": "The catalogue reports the end within an invitatory, not its exact last word. Dimensions, date and numbering are catalogue assertions, and extent and units are not direct measurements in this project. No Finnish image reviewed."
+  },
+  "published_attribution": {
+    "source": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299?show=full",
+    "statement": "IV.156 catalogue already suggests Codex 1505, including Fr 10406 and Fr 8994; BOMPAC-5324 already includes them. This comparison did not discover that association."
+  },
+  "conclusion": "Shared chant position and a similar calendar span are consistent with shared liturgical tradition, but are not a distinctive fingerprint or an exact edge match. IV.33 is a contextual comparator, not an independently confirmed different-book control, proposed new attribution or newly proven exclusion. No relationship is decided."
+}

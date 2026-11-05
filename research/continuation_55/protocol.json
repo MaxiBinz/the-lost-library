@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "previous_goal_turn": "Progress: E54 recorded the last eight limited initial comparisons and verified the860-file archive with extracted source checks and offline replay. No live process remains.",
+  "question": "Can source-local staff calibration resolve the two E39 upper-note alternatives, and would any bounded interval difference already occur in the retained published musical comparisons?",
+  "selection": "Existing E39-excerpt auxiliary lead, not a new target family. Prioritize the two explicitly located upper events plus the opening-sign classification limit; retain all fourteen declared alignment slots and their source exposure.",
+  "prior_exposure": "E39 readings and edition-assisted C23 interpretation are known. Fresh raw target crops were viewed while selecting this bounded recheck; not blinded or independent. Calibration and head placement must not be chosen by cross-source agreement.",
+  "sources": [
+    {
+      "id": "target",
+      "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "width": 1831,
+      "height": 1565,
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1020274_00001/canvas"
+    },
+    {
+      "id": "c23",
+      "path": "research/continuation_38/c23-69r-0139-2200px.jpg",
+      "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+      "width": 2200,
+      "height": 2920,
+      "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Uppsala universitetsbibliotek",
+      "canvas_id": null
+    }
+  ],
+  "reference_pdf": {
+    "path": "research/scholarship/urberg2016.pdf",
+    "scope": "Only inspect retained printed600–605/PDF626–631 and relevant captions for the six-witness comparison; no entire thesis rereading or public reproduction.",
+    "sha256": "d247384a4daa8bbf6abb22b9b06857edf698a6c5497aba2c06a52e3a3ef59639"
+  },
+  "predictions": [
+    "Fit staff rules separately within each source/phrase using red source pixels, retaining line width, local slope and threshold sensitivity. No learned recognition or score retuning.",
+    "Declare each selected head bounding region from raw ink independently of its desired pitch; retain ambiguity from head geometry and local staff placement. Recheck existing clearer heads as controls.",
+    "Compare relative diatonic staff positions only. No absolute clef-dependent pitch, sounding-note declaration for an unclassified sign, chromatic interval, rhythm or full melody from this test.",
+    "A robust excerpt difference is a selected local observation, not a new manuscript branch or book exclusion. Check the already retained six-witness edition before interpreting rarity. If calibration is unstable, retain E39 alternatives.",
+    "The opening signs may remain unclassified. Record their exact remaining requirement; do not use a phrase-relative test to claim a complete melody."
+  ],
+  "resources": {
+    "new_downloads": 0,
+    "working_source_files_before": 208,
+    "conservative_transfer_plan_bytes_before": 1675854139,
+    "outreach": false,
+    "upload": false,
+    "publication": false
+  },
+  "register_before_overlay": {
+    "path": "research/continuation_55/lead_register.before.json",
+    "sha256": "fc8f1b9801b0d7e9301f8bf76386c30f163c3a04cae835b952edd97e4e88f754"
+  },
+  "frozen_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09",
+    "research/continuation_39/readings.v1.json": "7a83edc3ad35ccec27199fc957434329ab9e0345fcb9f0d86c2149ce83bf4e74",
+    "research/continuation_39/readings.v2.json": "c3e4bcd4d95c47c119c68a253848924fa41708d88f69a25f2d47c8cbd8449534",
+    "research/continuation_39/readings.v3.json": "01e3e5d23726edbf74b21e3cafa12676a9aa9abb99bb4c895e21e245a255b289",
+    "research/continuation_39/comparison.json": "febdd7b1a466dba410e6a714c02548217f39e868d2fe50301331cfe9876822fd",
+    "research/continuation_39/results.json": "f79461189dc4f82924f5951d2abb1882dd00189a56625ec1f6abb5b42868a0a3"
+  },
+  "supplementary_native_recheck": {
+    "path": "research/continuation_38/c23-69r-0139.tiff",
+    "sha256": "499bb35b4b6864b3caa87b547d2a6b757ac133f5586ab472e12152dea9daa9e7",
+    "width": 3046,
+    "height": 4043,
+    "reason": "The fixed C23 JPEG rule fit failed. Inspect the already retained original TIFF before attributing the limit to source ink; no threshold retuning or new fitted score.",
+    "scope": "Visual recheck of the same two windows; same witness, no new download or independent confirmation."
+  }
+}

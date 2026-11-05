@@ -1,0 +1,197 @@
+{
+  "version": "1.0.0",
+  "source_images_inspected": [
+    {
+      "fragment_id": "mpo-7960",
+      "path": "data/images/mpo-7960.jpg",
+      "sha256": "17a6ee87a3aa967b85ccce30e1512eebe1de779f2d46e05df3bada0b31eb2538",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007960_00001/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00001/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1278
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-7960",
+      "path": "data/images/mpo-7960-capture-2.jpg",
+      "sha256": "b294b7856025a8d2654fa86f546bd383c2359058529896738eb2158dce30b54f",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007960_00002/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00002/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1249
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-7960",
+      "path": "data/images/mpo-7960-capture-3.jpg",
+      "sha256": "84fa48dea5ea7dfc604d7ff76998a2349acdd819bb4dde2573bcbab830550bd6",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007960_00003/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00003/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1241
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-7960",
+      "path": "data/images/mpo-7960-capture-4.jpg",
+      "sha256": "65c7cbac6e61d94b549451390bf502ec735cc521f8a4800a9dd2f66082759cd9",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007960_00004/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00004/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1309
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-7961",
+      "path": "data/images/mpo-7961.jpg",
+      "sha256": "0ce3650d26aabb22cab41c6e7c53ed351ab8bd1f7255c31646626adbaa43d8f2",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007961_00001/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00001/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1184
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-7961",
+      "path": "data/images/mpo-7961-capture-2.jpg",
+      "sha256": "2fca21f263cfc1744bcc816fe4263959d96621e5a29956a9a8b498a4f404cd43",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007961_00002/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00002/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1182
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-7961",
+      "path": "data/images/mpo-7961-capture-3.jpg",
+      "sha256": "e037731bbe8423fe4b08628bc2528bea7ac8f50e58b318558156c922719210f1",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007961_00003/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00003/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1206
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-7961",
+      "path": "data/images/mpo-7961-capture-4.jpg",
+      "sha256": "0926942dff786f385b813088e7a74c4af33b5d2478e9a806feb08bb00f65cd5c",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007961_00004/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00004/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1135
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-8343",
+      "path": "data/images/mpo-8343.jpg",
+      "sha256": "6e3890120762d10676e5c1a6552930c6831c3ed2fc1d796565ff8698315c9d07",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008343_00001/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00001/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1112
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-8343",
+      "path": "data/images/mpo-8343-capture-2.jpg",
+      "sha256": "0f0ed5c8fe227f769de0b41283b96cc3d200ebcd830066bb463cc221a4839c5d",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008343_00002/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00002/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1164
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-8343",
+      "path": "data/images/mpo-8343-capture-3.jpg",
+      "sha256": "3343f9bce0770259f2d7b1fce86f02d56b2905eb1378d580a96f7d50872a7cf8",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008343_00003/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00003/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1153
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-8343",
+      "path": "data/images/mpo-8343-capture-4.jpg",
+      "sha256": "e5df5b0cdee5aa7aa9886fe2f6563c43b971238161143055fe318cd3f4acd41b",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008343_00004/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00004/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1176
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-8344",
+      "path": "data/images/mpo-8344.jpg",
+      "sha256": "89e01071ff60162235653789ddcfaf41a7bfbd2f41b5c5254079431bfb879b22",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008344_00001/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00001/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1194
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-8344",
+      "path": "data/images/mpo-8344-capture-2.jpg",
+      "sha256": "7c417b359fa684a43590b6ee5339ea5e3bbc48f0aae793eb2d3f4fa2a5e0b302",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008344_00002/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00002/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1182
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-8344",
+      "path": "data/images/mpo-8344-capture-3.jpg",
+      "sha256": "efebf8a1380a6dc340d6f2c2586e5e16f8367446998bbbbd79362c8bf3bdbb17",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008344_00003/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00003/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1103
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    },
+    {
+      "fragment_id": "mpo-8344",
+      "path": "data/images/mpo-8344-capture-4.jpg",
+      "sha256": "5659e80d27adc06bdb62df210c7a42506faa77ed321cb9dc8c821cf2a43d2382",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008344_00004/canvas",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00004/full/800,/0/default.jpg",
+      "dimensions": [
+        800,
+        1069
+      ],
+      "inspection": "Original image inspected by project AI in E36; not an independent reader."
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "version": "1.0.0",
+  "input": "research/continuation_39/readings.v3.json",
+  "scope": "Two selected phrase windows, each independently normalized to staff-step zero; no absolute pitches or full melody",
+  "potential_aligned_positions": 14,
+  "provisional_agree": 12,
+  "unresolved": 2,
+  "different": 0,
+  "rows": [
+    {
+      "phrase": "nobis-vite-spem",
+      "slot": 1,
+      "underlay": "no",
+      "target_staff_steps": [
+        0
+      ],
+      "c23_staff_steps": [
+        0
+      ],
+      "result": "agree",
+      "target_pixel": [
+        955,
+        357
+      ],
+      "c23_pixel": [
+        860,
+        1117
+      ]
+    },
+    {
+      "phrase": "nobis-vite-spem",
+      "slot": 2,
+      "underlay": "bis",
+      "target_staff_steps": [
+        2
+      ],
+      "c23_staff_steps": [
+        2
+      ],
+      "result": "agree",
+      "target_pixel": [
+        1040,
+        320
+      ],
+      "c23_pixel": [
+        955,
+        1076
+      ]
+    },
+    {
+      "phrase": "nobis-vite-spem",
+      "slot": 3,
+      "underlay": "vi:lower",
+      "target_staff_steps": [
+        2
+      ],
+      "c23_staff_steps": [
+        2
+      ],
+      "result": "agree",
+      "target_pixel": [
+        1113,
+        320
+      ],
+      "c23_pixel": [
+        1037,
+        1076
+      ]
+    },
+    {
+      "phrase": "nobis-vite-spem",
+      "slot": 4,
+      "underlay": "vi:upper",
+      "target_staff_steps": [
+        3,
+        4
+      ],
+      "c23_staff_steps": [
+        3
+      ],
+      "result": "unresolved",
+      "target_pixel": [
+        1113,
+        291
+      ],
+      "c23_pixel": [
+        1055,
+        1054
+      ]
+    },
+    {
+      "phrase": "nobis-vite-spem",
+      "slot": 5,
+      "underlay": "te",
+      "target_staff_steps": [
+        0
+      ],
+      "c23_staff_steps": [
+        0
+      ],
+      "result": "agree",
+      "target_pixel": [
+        1168,
+        354
+      ],
+      "c23_pixel": [
+        1110,
+        1117
+      ]
+    },
+    {
+      "phrase": "nobis-vite-spem",
+      "slot": 6,
+      "underlay": "spem:1",
+      "target_staff_steps": [
+        2
+      ],
+      "c23_staff_steps": [
+        2
+      ],
+      "result": "agree",
+      "target_pixel": [
+        1248,
+        319
+      ],
+      "c23_pixel": [
+        1173,
+        1078
+      ]
+    },
+    {
+      "phrase": "nobis-vite-spem",
+      "slot": 7,
+      "underlay": "spem:2",
+      "target_staff_steps": [
+        2
+      ],
+      "c23_staff_steps": [
+        2
+      ],
+      "result": "agree",
+      "target_pixel": [
+        1270,
+        319
+      ],
+      "c23_pixel": [
+        1213,
+        1078
+      ]
+    },
+    {
+      "phrase": "fac-nos-virgo",
+      "slot": 1,
+      "underlay": "Fac",
+      "target_staff_steps": [
+        0
+      ],
+      "c23_staff_steps": [
+        0
+      ],
+      "result": "agree",
+      "target_pixel": [
+        756,
+        645
+      ],
+      "c23_pixel": [
+        967,
+        1392
+      ]
+    },
+    {
+      "phrase": "fac-nos-virgo",
+      "slot": 2,
+      "underlay": "nos:1",
+      "target_staff_steps": [
+        1
+      ],
+      "c23_staff_steps": [
+        1
+      ],
+      "result": "agree",
+      "target_pixel": [
+        835,
+        627
+      ],
+      "c23_pixel": [
+        1037,
+        1378
+      ]
+    },
+    {
+      "phrase": "fac-nos-virgo",
+      "slot": 3,
+      "underlay": "nos:2",
+      "target_staff_steps": [
+        2
+      ],
+      "c23_staff_steps": [
+        2
+      ],
+      "result": "agree",
+      "target_pixel": [
+        852,
+        603
+      ],
+      "c23_pixel": [
+        1054,
+        1358
+      ]
+    },
+    {
+      "phrase": "fac-nos-virgo",
+      "slot": 4,
+      "underlay": "nos:3",
+      "target_staff_steps": [
+        3,
+        4
+      ],
+      "c23_staff_steps": [
+        3
+      ],
+      "result": "unresolved",
+      "target_pixel": [
+        853,
+        576
+      ],
+      "c23_pixel": [
+        1083,
+        1335
+      ]
+    },
+    {
+      "phrase": "fac-nos-virgo",
+      "slot": 5,
+      "underlay": "vir",
+      "target_staff_steps": [
+        3
+      ],
+      "c23_staff_steps": [
+        3
+      ],
+      "result": "agree",
+      "target_pixel": [
+        948,
+        584
+      ],
+      "c23_pixel": [
+        1163,
+        1338
+      ]
+    },
+    {
+      "phrase": "fac-nos-virgo",
+      "slot": 6,
+      "underlay": "go:1",
+      "target_staff_steps": [
+        1
+      ],
+      "c23_staff_steps": [
+        1
+      ],
+      "result": "agree",
+      "target_pixel": [
+        1013,
+        620
+      ],
+      "c23_pixel": [
+        1244,
+        1376
+      ]
+    },
+    {
+      "phrase": "fac-nos-virgo",
+      "slot": 7,
+      "underlay": "go:2",
+      "target_staff_steps": [
+        0
+      ],
+      "c23_staff_steps": [
+        0
+      ],
+      "result": "agree",
+      "target_pixel": [
+        1031,
+        640
+      ],
+      "c23_pixel": [
+        1274,
+        1399
+      ]
+    }
+  ],
+  "melodic_identity_established": false,
+  "independent_confirmation": false,
+  "limits": "Calculates consistency of declared AI readings, not reading truth, rare variants, book identity or population accuracy."
+}

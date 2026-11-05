@@ -1,0 +1,16 @@
+{
+  "date":"2026-11-02",
+  "sources":[
+    {"id":"fr8073", "path":"research/continuation_52/captures.json", "locator":"capture 3, capture 4", "scope":"Retained native Riksarkivet photographs, reference-assisted visual readings. Source extents and previous manifest/rights receipts retained in E52."},
+    {"id":"cantus-201813", "url":"https://cantusindex.uwaterloo.ca/id/201813", "scope":"Search-indexed text, antiphon, Annae; direct page open failed. No external medieval witness inspected."},
+    {"id":"analecta5-34", "url":"https://de.scribd.com/document/66836506/Dreves-Analecta-Hymnica-Medii-Aevi-1886-Volume-V", "scope":"Web-reader OCR for no.34 p.107; OCR mixes two columns. Printed page image and source exemplar not inspected."},
+    {"id":"analecta52-104", "url":"https://de.scribd.com/doc/66837361/Dreves-Analecta-Hymnica-Medii-Aevi-1886-Volume-LII", "scope":"Web-reader OCR of no.104 pp.100–101 and apparatus; base text not a new medieval reading. Manuscript and printed page image not inspected."},
+    {"id":"piwonski-1985", "url":"https://bibliotekanauki.pl/articles/1044076.pdf", "scope":"Henryk Piwoński, Hymny w zabytkach liturgiczno-muzycznych Krzyżaków w Polsce, Lublin 1985, p.305, no.27. Web-reader OCR; author, print year and selected text checked. Modern hosting date is not publication date. No original witness inspected."},
+    {"id":"mpo", "path":"research/mpo.csv", "scope":"Fr 8073 row already lists Anna hymns AH 52 numbers 101 and 104. It does not list Felix terra in the contents field."}
+  ],
+  "failed_routes":[
+    {"url":"https://catholiclibrary.org/library/view?chunk.id=00000069&docId=%2FMedieval-OR%2FAnHymAuthorVHistoriaeRhythmicaeAnalectaHymnica.00000104.la.html", "outcome":"Search-indexed extract only. Three simultaneous find requests to the same URL accidentally repeated the failed cache-miss fetch; stop and do not retry."},
+    {"url":"https://cantusindex.uwaterloo.ca/id/201813", "outcome":"Direct web-reader open cache miss; search-indexed text used only. Do not retry."}
+  ],
+  "network_accounting":"No new source image or scholarly PDF saved; text-reader traffic unmeasured within existing reserve. Temporary local crops made from existing PDM images for inspection."
+}

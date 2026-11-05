@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "previous_turn": "Progress: E50 saved six source files, recorded a partially executed direct layout comparison with eight regions and preserved unresolved historical identity. Its787-file archive passed extracted checks/replay. Session6131 is terminal exit0.",
+  "question": "Do current official public dataset metadata/version links identify a later BOMPAC release or explicit correction relevant to the pinned4861/8201/8304 source disagreement?",
+  "selection": "Existing two source deposits and existing discrepancy only; no new manuscript target, matching screen or success criterion.",
+  "source_interface": "Official documented public Records search API, https://developers.zenodo.org/ Records/List; DOI-version semantics from the official Zenodo support article. This is a distinct ordinary metadata interface, not a retry of the previously failed HTML record URLs or a restriction bypass.",
+  "initial_metadata_url": "https://zenodo.org/api/records/?q=doi%3A%2210.5281%2Fzenodo.17511106%22+OR+doi%3A%2210.5281%2Fzenodo.17701360%22&all_versions=true&size=25",
+  "bounds": {
+    "maximum_requests": 4,
+    "maximum_bytes_per_response": 2000000,
+    "maximum_total_metadata_bytes": 5000000,
+    "workbook_downloads_authorized_in_this_protocol": false,
+    "authentication": false,
+    "outreach": false,
+    "upload": false,
+    "publication": false
+  },
+  "predictions": [
+    "Retrieve the two exact DOI records, preserve their IDs/concept/version/modified fields and returned public version links. Do not infer latest version from numeric record IDs or a semantic version string alone.",
+    "Only follow exact returned public API version/latest links on zenodo.org, if material; no guessed record IDs, mirrored URLs, credentials or access-control workarounds. Stop each failed route without retry.",
+    "Compare current source-file checksums/filenames and explicit correction/release wording with retained receipts. A matching checksum can establish current file identity for the checked release, not scientific correctness or exhaustive novelty.",
+    "If metadata is inaccessible, incomplete, ambiguous or the published-case correction is absent, retain that exact gap. A failed search or API response is not evidence of novelty or global unavailability.",
+    "Keep all pinned source records, raw workbooks, frozen metrics/reviews and the30 first-primary-review-pending flags unchanged by this source audit. Select any next actual pair test separately before decisive source inspection."
+  ],
+  "inputs": {
+    "research/continuation_26/bompac/download_receipt.json": "266e4694f6ce041b3b71c713ab577e516182f6d7ce349232685b14711d8cc30d",
+    "research/continuation_48/results.json": "8d65c0e536f284e8fcac185c6fb7f2ab5ab510ca084e31f4b7d91df2a0bef147",
+    "research/continuation_50/results.json": "f9ce57edb6ae22a1550cc661658c4e28d09db5c949dc7051f38a2167ed30edef"
+  },
+  "frozen_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  },
+  "resources_before": {
+    "working_source_files": 194,
+    "conservative_transfer_plan_bytes": 1671072950
+  },
+  "goal_complete": false
+}

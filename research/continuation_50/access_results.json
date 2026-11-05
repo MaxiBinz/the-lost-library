@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "raw_source": {
+    "path": "research/continuation_26/bompac/raw_metadata/MPO_BOMPAC.xlsx",
+    "sheet": "Blad1",
+    "excel_row": 11947,
+    "source_identifier": 20106,
+    "unit_HK": "C-20",
+    "institution": "KB",
+    "archival_group": "Non-account cover",
+    "archival_collection_fragments": "A 103",
+    "bestandssignatur_HK": "k 95---Episcopus--",
+    "interpretation": "The raw dataset supplies archival/reference context and an exact catalogue URL, but does not by itself identify an image locus or equate the fragment with the canonical A103 psalter."
+  },
+  "attempts": [
+    {
+      "url": "https://sok.riksarkivet.se/MPO?FragmentID=20106&page=1&postid=Mpo_20106&tab=post#tab",
+      "outcome": "Web reader reported not accessible via this tool. Stopped; no retry or alternate-client attempt."
+    },
+    {
+      "url": "https://libris.kb.se/9rfrsxdh7std0d87",
+      "outcome": "Web reader reported not accessible via this tool. Stopped; no retry or alternate-client attempt."
+    }
+  ],
+  "exact_physical_crosswalk_established": false,
+  "image_pointer_verified": false,
+  "holding_candidate_merged": false,
+  "scope": "Specific source-access dependency remains. These tool outcomes are not a historical negative, proof of global unavailability or global research blocker.",
+  "next_independent_work": "Predeclared actual layout test of existing pair Fr10349/Fr2862."
+}

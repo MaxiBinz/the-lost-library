@@ -1,0 +1,12 @@
+{
+  "source_hashes_and_bounds_valid": true,
+  "verified_regions": 7,
+  "inspected_source_files": 16,
+  "declared_reading_consistency": {
+    "catchword_reappears_at_next_start": true,
+    "III_forward_prefix_suffix": true,
+    "III_reverse_lacks_that_boundary": true,
+    "non_neighbour_does_not_repeat_catchword": true
+  },
+  "scope": "Checks retained inputs and recorded strings; no automated verification of manuscript readings."
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://findresearcher.sdu.dk/ws/portalfiles/portal/281648358/phd_thesis_sdu_cml_steffen_hope_constructing_institutional_identity_through_the_cult_of_royal_saint.pdf",
+  "requested_at_utc": "2026-10-27T09:50:19.440300+00:00",
+  "cap_bytes": 30000000,
+  "bytes_received": 0,
+  "saved": false,
+  "role": "Private scholarly concordance reading copy, not a manuscript source image",
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "status": 403
+}

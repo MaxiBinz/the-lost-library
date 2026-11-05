@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-02",
+  "observation_type": "AI visual reading, post-exposure and reference-assisted",
+  "source_image": "data/images/mpo-10370-capture-4-1742px.jpg",
+  "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00004/full/1742,/0/default.jpg",
+  "source_sha256": "2f2d35bf4253989714fda7877403a48bc4cd58bffa2e893469968546a9c1594f",
+  "reused_annotation": "I51-10370-reuse-heading",
+  "view_transform": "90 degrees counter-clockwise; original-pixel region remains in the existing annotation",
+  "visible_candidates": [
+    "A large heading provisionally reads Christiern Philipsson[s?]; final letters are obscured by a folded corner.",
+    "The following line contains a provision-account phrase, provisionally Reckenskap för Proffianten, and Finlandh.",
+    "A smaller line provisionally includes 1610 and 1611; a large 1610 is separately visible below."
+  ],
+  "printed_comparator": {
+    "source": "https://www.doria.fi/bitstream/handle/10024/100895/Verzeichnis_der_mittelalterlic.pdf?sequence=1",
+    "locator": "Haapanen 1925 p.39 no.64, extracted PDF text",
+    "scope": "A truncated provision-account description contains Christiern Philipsson, Finland and 1611; it does not identify a leaf for that heading in the read passage."
+  },
+  "interpretation": "Shared name, account subject, Finland and 1611 make a related-account comparison specific; they do not establish the same surviving account or physical parchment object.",
+  "alternatives": [
+    "Distinct accounts by one person with similar headings",
+    "Different same-named people",
+    "Repeated title or copied administrative text",
+    "Inaccurate reading or attribution",
+    "A physical cross-identification or an association requiring further archival evidence"
+  ],
+  "next_test": "Compare an authenticated image or exact archival record of II.64 ff.6–7 with this heading, including its handwriting, complete wording and account provenance; assess whether the descriptions refer to distinct accounts or an error in object mapping.",
+  "finnish_original_seen": false,
+  "independent_reading": false,
+  "same_account_proved": false,
+  "same_object_proved": false,
+  "new_codex_established": false
+}

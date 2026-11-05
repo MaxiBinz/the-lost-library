@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-04",
+  "source": "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx",
+  "sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+  "sheet": "Sheet1",
+  "unit": "BOMPAC-9531",
+  "rows": [
+    {
+      "excel_row": 17427,
+      "values": {
+        "Fr_reference": "Fr 25592",
+        "BOMPAC-reconstruction": "BOMPAC-9531",
+        "Row_exclusion": "Include row",
+        "datierung": "12.-13. Jh.",
+        "Dating_start": 1101,
+        "Dating_end": 1300,
+        "Dating_BOMPAC": "1401-1500",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C17427",
+        "BOMPAC-reconstruction": "M17427",
+        "Row_exclusion": "BO17427",
+        "datierung": "BG17427",
+        "Dating_start": "AH17427",
+        "Dating_end": "AI17427",
+        "Dating_BOMPAC": "AF17427",
+        "Dating_BOMPAC_conflict": "AG17427"
+      }
+    },
+    {
+      "excel_row": 21491,
+      "values": {
+        "Fr_reference": "Fr 29666",
+        "BOMPAC-reconstruction": "BOMPAC-9531",
+        "Row_exclusion": "Include row",
+        "datierung": "15. Jh.",
+        "Dating_start": 1401,
+        "Dating_end": 1500,
+        "Dating_BOMPAC": "1401-1500",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C21491",
+        "BOMPAC-reconstruction": "M21491",
+        "Row_exclusion": "BO21491",
+        "datierung": "BG21491",
+        "Dating_start": "AH21491",
+        "Dating_end": "AI21491",
+        "Dating_BOMPAC": "AF21491",
+        "Dating_BOMPAC_conflict": "AG21491"
+      }
+    },
+    {
+      "excel_row": 26058,
+      "values": {
+        "Fr_reference": "F.m.IV.173, fol. 1",
+        "BOMPAC-reconstruction": "BOMPAC-9531",
+        "Row_exclusion": "Include row",
+        "datierung": null,
+        "Dating_start": 1401,
+        "Dating_end": 1500,
+        "Dating_BOMPAC": "1401-1500",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C26058",
+        "BOMPAC-reconstruction": "M26058",
+        "Row_exclusion": "BO26058",
+        "datierung": "BG26058",
+        "Dating_start": "AH26058",
+        "Dating_end": "AI26058",
+        "Dating_BOMPAC": "AF26058",
+        "Dating_BOMPAC_conflict": "AG26058"
+      }
+    }
+  ],
+  "limits": "Reported catalogue dates and dataset harmonization, not an independent paleographic dating, book attribution or correction."
+}

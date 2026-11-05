@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "pair": [
+    "mpo-8201",
+    "mpo-8304"
+  ],
+  "captures_inspected": 8,
+  "source_regions": [
+    "I49-8304-rubric",
+    "I49-8304-opening",
+    "I49-8201-nocturn",
+    "I49-8201-continuation"
+  ],
+  "direct_result": "Fr8304 visibly preserves the Catherine/service rubric and opening incipit. Fr8201 preserves later office material and the cited pulchrior... continuation, not a second complete office-opening rubric in these retained photos.",
+  "interpretation": "The planned two-local-opening comparison cannot be completed from8201/8304 alone. The published argument uses Fr20106 as well, so a full local replication requires that missing source and its correct catalogue/holding identification. The published rejection remains attributed and unchanged.",
+  "limits": [
+    "All eight retained photographs were inspected, but they are multiple views of two fragments, not eight leaves or independent witnesses.",
+    "No original-object review, complete diplomatic/chant transcription, full medieval-side map, repeated-office/composite adjudication, new exclusion or novelty clearance.",
+    "The local visibility limit is not a refutation of the published rejection or evidence that a second beginning does not exist on the missing20106 source."
+  ],
+  "8304_local_opening_supported": true,
+  "8201_second_complete_office_opening_established": false,
+  "published_duplicate_opening_argument_fully_replicated": false,
+  "published_20106_8201_continuity_independently_verified": false,
+  "published_rejection_refuted": false,
+  "new_historical_exclusion_established": false,
+  "frozen_classification": "D, retained published rejection; no silent review rewrite",
+  "source_only_pair_tests_remaining": 31,
+  "catalogue_access_result": "A legitimate canonical Manuscripta A103 record was found, but describes a36-leaf early psalter and does not explicitly identify Fr20106 or its Catherine opening. The shelfmark match is not a verified physical crosswalk; no images or guessed URLs were acquired.",
+  "next_test": "Resolve the exact Fr20106 physical holding/catalogue-image crosswalk or find an explicit source that reproduces its opening. Keep the canonical A103 psalter separate until that link is demonstrated; do not download its corpus merely from a shelfmark coincidence. Continue other existing primary pair tests independently.",
+  "new_source_files": 0,
+  "retained_file_acquisition_bytes": 0,
+  "network_accounting": "Web-reader/search traffic unmeasured within the existing planning reserve.",
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "goal_complete": false,
+  "global_blocker_established": false
+}

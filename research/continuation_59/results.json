@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-01",
+  "source": "research/continuation_59/sources.json",
+  "prior_study": "Vuori and Räsänen (2025) study F.m. IV.156, ff. 21r–23v, and its St Birgitta liturgy. Their discussion reports an unusually extended Vespers among their Finnish comparisons, offers arguments against several convent-use scenarios, and proposes a side altar at Turku Cathedral as a possible original use context.",
+  "production_vs_use": "The authors report Taitto's and Keskiaho's earlier production-place arguments and explicitly distinguish a possible Naantali place of manufacture from where the book was used. Their own proposed cathedral use is a scholarly interpretation, not an established location.",
+  "musical_warning": "The authors report that an apparent extra opening note in an earlier IV.156 musical reading was ink showing through from the other side; their report is not our independent note-reading or a basis to resolve E55's other ambiguous notes.",
+  "image_scope": "Captions identify published images of f.21r. The PDF screenshot failed; neither visual reproduction nor Finnish original was inspected. It is not the f.9 comparison needed for E40.",
+  "boundary_effect": "This source supplies relevant historical and methodological prior art but does not by itself establish the Fr8994/IV156 relationship, original page sequence, a physical join, a production site or a use site. Exact f9 evidence and unread Taitto/Keskiaho publications remain required for their affected claims.",
+  "claim_specific_next_test": "For the E40 boundary, obtain a legitimate, source-identified IV.156 f.9 image including its opening and signature; compare the words, music, physical edge and side map against Fr 8994. Keep production, use and book identity independent.",
+  "primary_f9_inspected": false,
+  "published_figure_visually_inspected": false,
+  "scholarship_independently_verified": false,
+  "new_book_attribution": false,
+  "new_discovery": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

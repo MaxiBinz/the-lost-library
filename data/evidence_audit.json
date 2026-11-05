@@ -1,0 +1,21 @@
+{
+  "assessment_date": "2026-10-28",
+  "records": 129,
+  "imaged_physical_objects": 120,
+  "primary_analysis_images": 121,
+  "source_image_files": 171,
+  "image_hash_failures": [],
+  "source_image_hashes_and_dimensions_checked": 171,
+  "feature_images": 121,
+  "ranked_suggestions": 170,
+  "frozen_hypotheses": 10,
+  "validation_scope": "Closed-world retrieval against provisional catalogue-derived book labels, with separate literature controls; not expert-validated attribution accuracy.",
+  "metadata_input_sha256": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+  "fragments_sha256": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+  "hypotheses_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+  "limitations": [
+    "Hash integrity is not attribution truth.",
+    "Previously inspected evaluation remains exploratory.",
+    "The inventory counts captures separately from physical objects."
+  ]
+}

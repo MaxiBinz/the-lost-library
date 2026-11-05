@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-02",
+  "toldy_1855": {
+    "citation": "Ferenc Toldy, Alexandriai szent Katalin verses legendája, Pest, 1855, introduction pp. IX and XIII, footnotes.",
+    "url": "https://mek.oszk.hu/17000/17077/17077.pdf",
+    "access": "Previously accessible web-reader text, revisited; neither medieval manuscript nor original Szilágyi account inspected.",
+    "assertion": "The introduction describes a Sziget breviary written in 1399 and cites Szilágyi on Máramarossziget. The p. XIII footnote attributes a selected Catherine verse with the virgo/beata and vaga wording to the Sziget breviary after Szilágyi.",
+    "limit": "The named place is evidence of a historic association, not of the book's medieval place of production. The printed transcription is a mediated report."
+  },
+  "gabriel_1942": {
+    "citation": "Asztrik Gábriel, ‘A debreceni könyvtár középkori kéziratai’, Magyar Könyvszemle 66 (1942), approximately pp. 362–363; opening pagination note near p. 347.",
+    "url": "https://epa.oszk.hu/00000/00021/00211/pdf/MKSZ_EPA00021_1942_66_04_00211.pdf",
+    "access": "Web-reader text of introduction, historic collection context, and no. 167 description. No original manuscript or image examined.",
+    "assertion": "The 1942 article describes a 14th-century breviary no. 167 deposited from the Máramarossziget Lyceum at the Debrecen library; a reported colophon on f. 313 says it was completed in 1399.",
+    "limit": "The passage does not quote the Catherine wording or explicitly identify the book with Toldy's source. The article warns that its foliation is often private and subject to correction; f. 313 must not be assumed a modern folio. Historic custody and no. 167 are not verified current references."
+  },
+  "almanac_1861": {
+    "url": "https://real-j.mtak.hu/14657/1/MTA_Almanach_1861.pdf",
+    "access": "Search-indexed extract only.",
+    "assertion": "The academy almanac lists the Szilágyi wall-painting article under 1851, while Toldy's footnote cites 1850.",
+    "limit": "The publication-year discrepancy and the actual 1850/1851 source text remain unresolved."
+  },
+  "access_failures": [
+    "Direct URL opens of the two historical PDFs in this continuation returned 502 and 400 responses despite their previously successful web-reader text and indexed extracts. Earlier successful reader references remained accessible; do not repeat these failed direct opens."
+  ],
+  "network_accounting": "No files or images saved. Web-reader and search traffic remain unmeasured within the existing conservative reserve."
+}

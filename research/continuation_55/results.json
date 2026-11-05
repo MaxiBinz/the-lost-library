@@ -1,0 +1,127 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "selected_existing_lead": "E39-excerpt",
+  "retained_head_anchors": 28,
+  "declared_alignment_slots": 14,
+  "candidate_rule_models": 12,
+  "valid_rule_models": 8,
+  "source_regions_reused": [
+    "I39-target-opening-signs",
+    "I39-target-nobis",
+    "I39-C23-nobis",
+    "I39-target-petition",
+    "I39-C23-petition"
+  ],
+  "direct_result": "Both E39 target upper events retain geometric relative alternatives3/4 under the declared source-pixel sensitivity. C23 nobis has no valid complete four-rule fit; its prior edition-assisted reading is not freshly certified by this algorithm. C23 petition has two valid threshold fits and one failed fit.",
+  "qualified_target_upper_events": [
+    {
+      "source": "target",
+      "phrase": "nobis-vite-spem",
+      "slot": 4,
+      "underlay": "vi:upper",
+      "original_anchor": [
+        1113,
+        291
+      ],
+      "e39_relative_alternatives": [
+        3,
+        4
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        7.50593655800994,
+        7.507454162445953,
+        7.508338762845364
+      ],
+      "geometric_absolute_position_range": [
+        7.22689763177069,
+        7.787489702668203
+      ],
+      "geometric_nearest_integer_alternatives": [
+        7,
+        8
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        3,
+        4
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "fac-nos-virgo",
+      "slot": 4,
+      "underlay": "nos:3",
+      "original_anchor": [
+        853,
+        576
+      ],
+      "e39_relative_alternatives": [
+        3,
+        4
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        3.5676275746299653,
+        3.5628451553479454,
+        3.56453413534231
+      ],
+      "geometric_absolute_position_range": [
+        3.2887652525423903,
+        3.8420531176232124
+      ],
+      "geometric_nearest_integer_alternatives": [
+        3,
+        4
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        3,
+        4
+      ]
+    }
+  ],
+  "further_uncertainty": "The same broad sensitivity also permits1/2 at the two target spem anchors. E39 twelve provisional concordances remain a historical selected reading, not twelve newly verified pitches or recognition accuracy.",
+  "opening_signs": {
+    "region": "I39-target-opening-signs",
+    "state": "unclassified",
+    "limit": "The exact source crop was re-viewed. This local geometric test does not supply a documented clef/guide/neume classification or absolute pitch."
+  },
+  "native_recheck": "The already retained C23 original TIFF was visually rechecked at both windows after the JPEG fit failed. No new target pitch was read from it and no classifier thresholds were retuned.",
+  "prior_art_recheck": {
+    "source": "research/scholarship/urberg2016.pdf",
+    "url": "https://doi.org/10.6082/uchicago.1751",
+    "fresh_pages_visually_checked": [
+      600,
+      604,
+      605
+    ],
+    "pdf_pages": [
+      626,
+      630,
+      631
+    ],
+    "actual_scope": "Legend/opening and two selected six-witness score pages; not a fresh full-thesis or all AppendixF review.",
+    "result": "The edition already compares six witnesses. These pages show broad shared internal contours and some other variation; no new target reading is established by matching the edition. The unresolved target events cannot be presented as an original variant."
+  },
+  "interpretation": "Source-local geometry does not resolve either target ambiguity. Do not claim a robust melodic difference, exact excerpt identity, new tradition or codex attribution. A future documented sign/anchor reading or genuinely better primary detail is needed for this specific uncertainty.",
+  "decision_state": "unresolved",
+  "new_source_files": 0,
+  "new_download_bytes": 0,
+  "new_source_regions": 0,
+  "working_source_files_after": 208,
+  "conservative_transfer_plan_after": 1675854139,
+  "two_target_events_resolved": false,
+  "complete_rule_calibration_succeeded": false,
+  "exact_pitches_verified": false,
+  "robust_melodic_variant_established": false,
+  "melodic_identity_established": false,
+  "new_codex_attribution": false,
+  "new_discovery": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "goal_complete": false,
+  "global_blocker_established": false,
+  "next_test": "Reconcile the existing Turku Ms.c holding/extent alias through exact legitimate institutional records, then perform the still-open Fr8311 work/verse identification check. Do not repeat E39 pixel rounding without genuinely new notation evidence.",
+  "future_note_test": "The two target upper signs need a documented source-specific neume/anchor interpretation or genuinely better primary detail. Raw geometric rounding is insufficient; retain3/4 alternatives. Opening signs remain unclassified, and two spem controls also widen to1/2 under this sensitivity.",
+  "preserved_e39_reading_hash": "01e3e5d23726edbf74b21e3cafa12676a9aa9abb99bb4c895e21e245a255b289"
+}

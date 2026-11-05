@@ -1,0 +1,644 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-24",
+  "question": "How unusual are H03's nearly equal catalogued written-area dimensions among four-line Quadr records with 11 text rows?",
+  "hypothesis_id": "H03",
+  "frozen_queue_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+  "source": {
+    "path": "research/mpo.csv",
+    "record_count": 22909,
+    "sha256": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "source_version": "MPO dataset 1.0.0",
+    "source_url": "https://zenodo.org/records/17287665"
+  },
+  "selection": {
+    "status": "post-inspection descriptive screen; not preregistered, blind, or an image measurement",
+    "cohort_rule": "notation starts Quadr; notenlinien exactly 4; leading integer in zeilenzahl1 equals 11 (therefore includes both '#11' and '11 (33)')",
+    "candidate_pair": [
+      "mpo-8994",
+      "mpo-20274"
+    ],
+    "dimensions_source": "pinned MPO catalogue schriftraum1 field; recorded centimetre values, not remeasured pixels",
+    "pair_record_details": {
+      "20274": {
+        "catalogue_record": {
+          "sachtitel": "Antiphonarium",
+          "datierung": "15. Jh.",
+          "format": "",
+          "schriftraum1": "36.0 x 22.5",
+          "zeilenzahl1": "11 (33)",
+          "notation": "Quadr",
+          "notenlinien": "4",
+          "schrift": "",
+          "codex": "",
+          "inhalt": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---"
+        },
+        "record_sha256": "7b6b9137368ae22e612395c22ad3874bada793d9b30d33ae6459a78fd8ceb89f"
+      },
+      "8994": {
+        "catalogue_record": {
+          "sachtitel": "Antiphonarium",
+          "datierung": "15. Jh.",
+          "format": "49.0 x 34.5",
+          "schriftraum1": "35.5 x 22.5",
+          "zeilenzahl1": "#11",
+          "notation": "Quadr",
+          "notenlinien": "4",
+          "schrift": "Textualis",
+          "codex": "Codex 1505",
+          "inhalt": "1rv Proprium de sanctis: Olavi."
+        },
+        "record_sha256": "16d1a54c2fc2a484345f8389f7c5222db7633af184cb941675b8294d154cf86f"
+      }
+    }
+  },
+  "denominators": {
+    "quadr4_11_row_cohort_records": 244,
+    "quadr4_11_row_cohort_records_with_parseable_written_area": 154,
+    "antiphonarium_subset_records": 97,
+    "antiphonarium_subset_records_with_parseable_written_area": 52
+  },
+  "candidate_bbox_cm": {
+    "width": [
+      35.5,
+      36.0
+    ],
+    "height": [
+      22.5,
+      22.5
+    ],
+    "pair_width_difference_cm": 0.5,
+    "pair_height_difference_cm": 0.0
+  },
+  "sensitivity_results": [
+    {
+      "tolerance_cm_beyond_candidate_pair_bbox": 0.0,
+      "bbox_cm": {
+        "written_width": [
+          35.5,
+          36.0
+        ],
+        "written_height": [
+          22.5,
+          22.5
+        ]
+      },
+      "match_count": 2,
+      "candidate_pair_included": [
+        "20274",
+        "8994"
+      ],
+      "matches": [
+        {
+          "signatur": "8994",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Olavi."
+        },
+        {
+          "signatur": "20274",
+          "codex": "",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            22.5
+          ],
+          "main_text_rows_literal": "11 (33)",
+          "script": "",
+          "content_excerpt": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---"
+        }
+      ]
+    },
+    {
+      "tolerance_cm_beyond_candidate_pair_bbox": 0.5,
+      "bbox_cm": {
+        "written_width": [
+          35.0,
+          36.5
+        ],
+        "written_height": [
+          22.0,
+          23.0
+        ]
+      },
+      "match_count": 8,
+      "candidate_pair_included": [
+        "20274",
+        "8994"
+      ],
+      "matches": [
+        {
+          "signatur": "7292",
+          "codex": "Codex 1306",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.0,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de tempore: Die VI p. nat. dni."
+        },
+        {
+          "signatur": "8735",
+          "codex": "",
+          "type": "Graduale OP",
+          "written_area_cm": [
+            36.0,
+            22.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Georgii; Marci; Vitalis; Petri mart.; Philippi et Iacobi."
+        },
+        {
+          "signatur": "8994",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Olavi."
+        },
+        {
+          "signatur": "9165",
+          "codex": "Codex 1306",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1r-2v Proprium de sanctis: 1rv Stephani; Stephani oct.; 2rv Innocentium martyrum; Thomae mart. ro AH 13, Nr. 92, an 3 ab"
+        },
+        {
+          "signatur": "10370",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae Magdalenae."
+        },
+        {
+          "signatur": "10406",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi."
+        },
+        {
+          "signatur": "10407",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.0,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae visitatio ro AH 24, Nr. 36; Mariae Magdalenae."
+        },
+        {
+          "signatur": "20274",
+          "codex": "",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            22.5
+          ],
+          "main_text_rows_literal": "11 (33)",
+          "script": "",
+          "content_excerpt": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---"
+        }
+      ]
+    },
+    {
+      "tolerance_cm_beyond_candidate_pair_bbox": 1.0,
+      "bbox_cm": {
+        "written_width": [
+          34.5,
+          37.0
+        ],
+        "written_height": [
+          21.5,
+          23.5
+        ]
+      },
+      "match_count": 9,
+      "candidate_pair_included": [
+        "20274",
+        "8994"
+      ],
+      "matches": [
+        {
+          "signatur": "7292",
+          "codex": "Codex 1306",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.0,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de tempore: Die VI p. nat. dni."
+        },
+        {
+          "signatur": "8735",
+          "codex": "",
+          "type": "Graduale OP",
+          "written_area_cm": [
+            36.0,
+            22.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Georgii; Marci; Vitalis; Petri mart.; Philippi et Iacobi."
+        },
+        {
+          "signatur": "8994",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Olavi."
+        },
+        {
+          "signatur": "9165",
+          "codex": "Codex 1306",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1r-2v Proprium de sanctis: 1rv Stephani; Stephani oct.; 2rv Innocentium martyrum; Thomae mart. ro AH 13, Nr. 92, an 3 ab"
+        },
+        {
+          "signatur": "9690",
+          "codex": "",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            34.5,
+            22.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Caeciliae."
+        },
+        {
+          "signatur": "10370",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae Magdalenae."
+        },
+        {
+          "signatur": "10406",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi."
+        },
+        {
+          "signatur": "10407",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.0,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae visitatio ro AH 24, Nr. 36; Mariae Magdalenae."
+        },
+        {
+          "signatur": "20274",
+          "codex": "",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            22.5
+          ],
+          "main_text_rows_literal": "11 (33)",
+          "script": "",
+          "content_excerpt": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---"
+        }
+      ]
+    }
+  ],
+  "antiphonarium_sensitivity_results": [
+    {
+      "tolerance_cm_beyond_candidate_pair_bbox": 0.0,
+      "bbox_cm": {
+        "written_width": [
+          35.5,
+          36.0
+        ],
+        "written_height": [
+          22.5,
+          22.5
+        ]
+      },
+      "match_count": 2,
+      "candidate_pair_included": [
+        "20274",
+        "8994"
+      ],
+      "matches": [
+        {
+          "signatur": "8994",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Olavi."
+        },
+        {
+          "signatur": "20274",
+          "codex": "",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            22.5
+          ],
+          "main_text_rows_literal": "11 (33)",
+          "script": "",
+          "content_excerpt": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---"
+        }
+      ]
+    },
+    {
+      "tolerance_cm_beyond_candidate_pair_bbox": 0.5,
+      "bbox_cm": {
+        "written_width": [
+          35.0,
+          36.5
+        ],
+        "written_height": [
+          22.0,
+          23.0
+        ]
+      },
+      "match_count": 7,
+      "candidate_pair_included": [
+        "20274",
+        "8994"
+      ],
+      "matches": [
+        {
+          "signatur": "7292",
+          "codex": "Codex 1306",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.0,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de tempore: Die VI p. nat. dni."
+        },
+        {
+          "signatur": "8994",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Olavi."
+        },
+        {
+          "signatur": "9165",
+          "codex": "Codex 1306",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1r-2v Proprium de sanctis: 1rv Stephani; Stephani oct.; 2rv Innocentium martyrum; Thomae mart. ro AH 13, Nr. 92, an 3 ab"
+        },
+        {
+          "signatur": "10370",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae Magdalenae."
+        },
+        {
+          "signatur": "10406",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi."
+        },
+        {
+          "signatur": "10407",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.0,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae visitatio ro AH 24, Nr. 36; Mariae Magdalenae."
+        },
+        {
+          "signatur": "20274",
+          "codex": "",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            22.5
+          ],
+          "main_text_rows_literal": "11 (33)",
+          "script": "",
+          "content_excerpt": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---"
+        }
+      ]
+    },
+    {
+      "tolerance_cm_beyond_candidate_pair_bbox": 1.0,
+      "bbox_cm": {
+        "written_width": [
+          34.5,
+          37.0
+        ],
+        "written_height": [
+          21.5,
+          23.5
+        ]
+      },
+      "match_count": 8,
+      "candidate_pair_included": [
+        "20274",
+        "8994"
+      ],
+      "matches": [
+        {
+          "signatur": "7292",
+          "codex": "Codex 1306",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.0,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de tempore: Die VI p. nat. dni."
+        },
+        {
+          "signatur": "8994",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.5
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Olavi."
+        },
+        {
+          "signatur": "9165",
+          "codex": "Codex 1306",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            22.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1r-2v Proprium de sanctis: 1rv Stephani; Stephani oct.; 2rv Innocentium martyrum; Thomae mart. ro AH 13, Nr. 92, an 3 ab"
+        },
+        {
+          "signatur": "9690",
+          "codex": "",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            34.5,
+            22.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Caeciliae."
+        },
+        {
+          "signatur": "10370",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae Magdalenae."
+        },
+        {
+          "signatur": "10406",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.5,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi."
+        },
+        {
+          "signatur": "10407",
+          "codex": "Codex 1505",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            35.0,
+            23.0
+          ],
+          "main_text_rows_literal": "#11",
+          "script": "Textualis",
+          "content_excerpt": "1rv Proprium de sanctis: Mariae visitatio ro AH 24, Nr. 36; Mariae Magdalenae."
+        },
+        {
+          "signatur": "20274",
+          "codex": "",
+          "type": "Antiphonarium",
+          "written_area_cm": [
+            36.0,
+            22.5
+          ],
+          "main_text_rows_literal": "11 (33)",
+          "script": "",
+          "content_excerpt": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---"
+        }
+      ]
+    }
+  ],
+  "interpretation": {
+    "supports": "The pinned catalogue records closely similar written-area sizes for this already proposed H03 pair, consistent with a shared page-design tradition or possible common codex.",
+    "limits": [
+      "The metadata itself records Fr 8994 as Codex 1505 and supplies the existing comparison context; it is not independent physical evidence.",
+      "The pair-defined exact box is post hoc and mechanically contains both candidates, so its two-record count is not a rarity statistic.",
+      "Within the genre-matched Antiphonarium subset, the ±0.5 cm box also includes two Fragments labelled Codex 1306 and three other Codex 1505 leaves; close dimensions do not identify one codex.",
+      "Only 154 of 244 catalogue records in the notation/row-count cohort have parseable written areas; within the Antiphonarium subset, only 52 of 97 do. Missingness is not random or quantified.",
+      "Fr 20274 has no catalogue leaf format value and no script value, limiting direct codicological comparison.",
+      "Catalogue dimensions are inherited descriptions, not independent ruler measurements of the displayed source images.",
+      "This result does not establish or refute same-book, same-hand, workshop, or historical transmission claims."
+    ],
+    "classification": "supportive compatibility only; H03 remains C/unresolved",
+    "new_discovery": false,
+    "new_source_downloads": false
+  }
+}

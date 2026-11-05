@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00001",
+  "type": "ImageService3",
+  "profile": "level1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1189,
+  "height": 1775,
+  "tiles": [
+    {
+      "width": 1024,
+      "height": 1024,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ]
+    }
+  ],
+  "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "extraFeatures": [
+    "mirroring",
+    "rotationArbitrary",
+    "rotationBy90s",
+    "sizeByPct"
+  ]
+}

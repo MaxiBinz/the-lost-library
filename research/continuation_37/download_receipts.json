@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77/files/Urberg_uchicago_0330D_13320.pdf?download=1",
+    "record_url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77",
+    "expected_md5": "1f0193e4c997d3a94e060d804a38aeda",
+    "private_reading_only": true,
+    "rights": "Copyright 2016 Michelle Urberg; repository labels the dissertation Open. No redistribution permission inferred.",
+    "checked_at_utc": "2026-10-26T23:37:53.092099+00:00",
+    "bytes_received": 0,
+    "saved": false,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "elapsed_s": 0.01
+  },
+  {
+    "url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77/files/Urberg_uchicago_0330D_13320.pdf?download=1",
+    "record_url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77",
+    "expected_md5": "1f0193e4c997d3a94e060d804a38aeda",
+    "private_reading_only": true,
+    "rights": "Copyright 2016 Michelle Urberg; repository labels the dissertation Open. No redistribution permission inferred.",
+    "checked_at_utc": "2026-10-26T23:38:06.722586+00:00",
+    "bytes_received": 0,
+    "status": 200,
+    "final_url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77/files/Urberg_uchicago_0330D_13320.pdf?download=1",
+    "content_type": "application/octet-stream",
+    "content_length": "425202182",
+    "saved": false,
+    "error": "AssertionError: ",
+    "elapsed_s": 0.7
+  },
+  {
+    "url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77/files/Urberg_uchicago_0330D_13320.pdf?download=1",
+    "record_url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77",
+    "expected_md5": "1f0193e4c997d3a94e060d804a38aeda",
+    "private_reading_only": true,
+    "rights": "Copyright 2016 Michelle Urberg; repository labels the dissertation Open. No redistribution permission inferred.",
+    "checked_at_utc": "2026-10-26T23:38:52.941864+00:00",
+    "bytes_received": 425202182,
+    "status": 200,
+    "final_url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77/files/Urberg_uchicago_0330D_13320.pdf?download=1",
+    "content_type": "application/octet-stream",
+    "content_length": "425202182",
+    "md5": "1f0193e4c997d3a94e060d804a38aeda",
+    "sha256": "d247384a4daa8bbf6abb22b9b06857edf698a6c5497aba2c06a52e3a3ef59639",
+    "saved": true,
+    "path": "research/scholarship/urberg2016.pdf",
+    "elapsed_s": 12.97
+  }
+]

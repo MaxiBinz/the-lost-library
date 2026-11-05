@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-29",
+  "page": "http://127.0.0.1:8765/viewer/knowledge.html#evidence",
+  "method": "Supported CUA browser control on the existing local viewer tab; reloaded current data, filtered the exact pair, opened its detail and selected I44-9620-rubric.",
+  "verified": [
+    "109-region count",
+    "unresolved same_codex state and scope",
+    "new source-image link",
+    "version2 reference-assisted reading",
+    "actual native image and correctly placed red region box"
+  ],
+  "proofs": [
+    {
+      "path": "output/research/e44-rubric-region.png",
+      "sha256": "9a7cf77c142c9c59d1839e0fa179a6a9ceb4e571a9985185ce5a0d70d8213e70"
+    },
+    {
+      "path": "output/research/e44-source-box.png",
+      "sha256": "498a556ad823a023e03c8c2c25eb41d843a0efa432e04b9a6b05d6b8c68facee"
+    }
+  ],
+  "limits": "Scoped rendering/provenance check only; no full responsive/accessibility audit, independent reading or historical confirmation."
+}

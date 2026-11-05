@@ -1,0 +1,65 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-29",
+  "reader": "Codex AI source reinspection; not independent or blind",
+  "prior_exposure": "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading.",
+  "result": "Fr8066 has a source-visible Laudes label and a likely second-vespers heading;9620 has an invitatory heading. Partial Vidi-Iacob/caelos-tangebat and in-loco-isto/et-ego passages occur in both. They are explicit possible correspondences, not two independently established responsories or a verified duplicated office opening. Lost text and uncertain letters prevent a secure diagnostic variant; the book relation remains unresolved.",
+  "duplicate_test_disposition": "Complete duplicated-opening claim unestablished with retained photographs. Partial corresponding passages remain available for a bounded musical/underlay comparison; do not close the whole pair or infer different books from this incomplete map.",
+  "what_would_change_result": "A corrected label reading or complete corresponding text/music and verified positions could change the narrow map. New distinctive version, quire/physical structure or original-object evidence would be needed for the book relationship.",
+  "same_codex_established": false,
+  "different_codex_established": false,
+  "physical_join_established": false,
+  "complete_side_map_established": false,
+  "complete_duplicate_opening_established": false,
+  "catalogue_correction_confirmed": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "new_discovery": false,
+  "next_action": "Compare the actual notated caelos-tangebat-et windows in8066 and9620 with explicit underlay and interval uncertainty. Determine whether the surviving music and word order supply a real difference or only incomplete compatibility; do not import the indexed verse melody or infer missing words. Keep source credit for known Aboense controls as a separate coverage audit.",
+  "reference_scope": "One new Cantus233459 indexed entry presents a Vidi/ Vidit-Jacob passage as a verse associated with007763 in another witness; direct open returned Cache miss and was stopped. An indexed Cantus Index feast list also has a different related text under an introit-verse identifier. This cautions against assigning a local work/genre from the incipit. No local chant ID, full page, original reference manuscript or melody was inspected/imported.",
+  "literature_scope_result": "Grajewski2022p293, footnote11 explicitly limits that study to Catherine material and excludes the other preserved Ant49 fragments. Its8201/8304 rejection therefore does not adjudicate8066/9620. This paper-specific scope result supplies no wider novelty clearance.",
+  "reading_revisions": [
+    {
+      "site": "I45-8066-Vidi",
+      "previous": "[...] Vi | di Ia[cob] in sompnis scalam stantem",
+      "current": "[...] Vi | di[t?] Ia[cob] in sompnis scalam stantem",
+      "reason": "After the indexed Vidit reference, the raw panel was re-examined for the final t; it remains explicitly uncertain rather than silently supplied."
+    },
+    {
+      "site": "I45-9620-Vidi",
+      "previous": "[...] Vidi Ia[...] | celos tangebat et d[e?][...] | [...]pxit uere locus iste sa[...]",
+      "current": "[...] Vidi[t?] Ia[...] | celos tangebat et d[e?][...] | [...]pxit uere locus iste sa[...]",
+      "reason": "Reference-exposed reinspection; retain uncertain terminal t and clipped following words."
+    }
+  ],
+  "pair": [
+    "mpo-8066",
+    "mpo-9620"
+  ],
+  "source_photographs_reviewed": 9,
+  "observations": [
+    "I45-8066-laudes",
+    "I45-8066-next-service",
+    "I45-9620-invitatory",
+    "I45-8066-Vere",
+    "I45-8066-Vidi",
+    "I45-8066-Vidi-cont",
+    "I45-9620-Vidi",
+    "I45-9620-Vere"
+  ],
+  "pair_state": "unresolved",
+  "new_download_bytes": 0,
+  "new_source_files": 0,
+  "unchanged_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  }
+}

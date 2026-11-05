@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-25",
+  "question": "Do published BOMPAC reconstruction assignments already separate the H08–H10 Fr 1385 model suggestions from their anchor?",
+  "source_records": [
+    {
+      "doi": "10.5281/zenodo.17511106",
+      "license": "CC BY 4.0",
+      "workbook": {
+        "filename": "Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx",
+        "bytes": 8219923,
+        "md5": "ae9572cd4df5e5bccc241e8423ddf0c1",
+        "sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3"
+      }
+    },
+    {
+      "doi": "10.5281/zenodo.17701360",
+      "license": "CC BY 4.0",
+      "workbook": {
+        "filename": "MPO_BOMPAC.xlsx",
+        "bytes": 12303416,
+        "md5": "6aaea1e3ba1a60355dfb6c649fc7baff",
+        "sha256": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9"
+      }
+    }
+  ],
+  "queue_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+  "method": {
+    "parser": "openpyxl read_only=True, data_only=True; headers on row 2; records from row 3",
+    "combined_sheet": "Sheet1; included rows only where Row_exclusion == 'Include row'",
+    "raw_sheet": "Blad1; exact numeric fragment_id values",
+    "query_references": [
+      "Fr 1385",
+      "Fr 4223",
+      "Fr 8311",
+      "Fr 8455"
+    ],
+    "images_downloaded": 0,
+    "queue_or_model_changed": false
+  },
+  "combined_dataset": {
+    "records": [
+      {
+        "Fr_reference": "Fr 1385",
+        "BOMPAC-reconstruction": "BOMPAC-912",
+        "Frs_per_unit": 20,
+        "Fr_in_unit": 1,
+        "CCM_signum_BOMPAC": "Ant-99",
+        "Codex_signum_BOMPAC": null,
+        "FM_signum_BOMPAC": "FM.IV.157",
+        "Category": "Liturgical",
+        "Genre": "Liturgy",
+        "Rows": "#11",
+        "Notation_type": "Quadratic",
+        "Notation_lines": 4,
+        "Row_exclusion": "Include row"
+      },
+      {
+        "Fr_reference": "Fr 4223",
+        "BOMPAC-reconstruction": "BOMPAC-258",
+        "Frs_per_unit": 39,
+        "Fr_in_unit": 2,
+        "CCM_signum_BOMPAC": "Ant-39",
+        "Codex_signum_BOMPAC": "Codex-1200",
+        "FM_signum_BOMPAC": "FM.IV.159",
+        "Category": "Liturgical",
+        "Genre": "Liturgy",
+        "Rows": "#10",
+        "Notation_type": "Quadratic",
+        "Notation_lines": 4,
+        "Row_exclusion": "Include row"
+      },
+      {
+        "Fr_reference": "Fr 8311",
+        "BOMPAC-reconstruction": "BOMPAC-258",
+        "Frs_per_unit": 39,
+        "Fr_in_unit": 3,
+        "CCM_signum_BOMPAC": "Ant-39",
+        "Codex_signum_BOMPAC": "Codex-1200",
+        "FM_signum_BOMPAC": "FM.IV.159",
+        "Category": "Liturgical",
+        "Genre": "Liturgy",
+        "Rows": "#10",
+        "Notation_type": "Quadratic",
+        "Notation_lines": 4,
+        "Row_exclusion": "Include row"
+      },
+      {
+        "Fr_reference": "Fr 8455",
+        "BOMPAC-reconstruction": "BOMPAC-258",
+        "Frs_per_unit": 39,
+        "Fr_in_unit": 4,
+        "CCM_signum_BOMPAC": "Ant-39",
+        "Codex_signum_BOMPAC": "Codex-1200",
+        "FM_signum_BOMPAC": "FM.IV.159",
+        "Category": "Liturgical",
+        "Genre": "Liturgy",
+        "Rows": "#10",
+        "Notation_type": "Quadratic",
+        "Notation_lines": 4,
+        "Row_exclusion": "Include row"
+      }
+    ],
+    "units": {
+      "BOMPAC-258": {
+        "included_row_count": 39,
+        "target_members": [
+          "Fr 4223",
+          "Fr 8311",
+          "Fr 8455"
+        ]
+      },
+      "BOMPAC-912": {
+        "included_row_count": 20,
+        "target_members": [
+          "Fr 1385"
+        ]
+      }
+    }
+  },
+  "raw_mpo_dataset": {
+    "records": [
+      {
+        "fragment_id": 1385,
+        "unit_HK": "F-1385",
+        "frs_per_unit_HK": 1,
+        "fr_in_unit_IDX_HK": null,
+        "ccmsignum_HK": null,
+        "codex_HK": null,
+        "sachtitel": "Antiphonarium OP",
+        "datierung": "15. Jh.",
+        "entstehungsort": null,
+        "inhalt": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+        "Row_exclusion": "Include row"
+      },
+      {
+        "fragment_id": 4223,
+        "unit_HK": "C-17",
+        "frs_per_unit_HK": 27,
+        "fr_in_unit_IDX_HK": 2,
+        "ccmsignum_HK": "Ant-39",
+        "codex_HK": "Codex-1200",
+        "sachtitel": "Antiphonarium",
+        "datierung": "15. Jh.",
+        "entstehungsort": "Schweden: Västerås",
+        "inhalt": "1rv Proprium de sanctis: Mariae conceptio.",
+        "Row_exclusion": "Include row"
+      },
+      {
+        "fragment_id": 8311,
+        "unit_HK": "C-17",
+        "frs_per_unit_HK": 27,
+        "fr_in_unit_IDX_HK": 3,
+        "ccmsignum_HK": "Ant-39",
+        "codex_HK": "Codex-1200",
+        "sachtitel": "Antiphonarium",
+        "datierung": "15. Jh.",
+        "entstehungsort": "Schweden: Västerås",
+        "inhalt": "1rv Proprium de tempore: Dom. in LXX.",
+        "Row_exclusion": "Include row"
+      },
+      {
+        "fragment_id": 8455,
+        "unit_HK": "C-17",
+        "frs_per_unit_HK": 27,
+        "fr_in_unit_IDX_HK": 4,
+        "ccmsignum_HK": "Ant-39",
+        "codex_HK": "Codex-1200",
+        "sachtitel": "Antiphonarium",
+        "datierung": "15. Jh.",
+        "entstehungsort": "Schweden: Västerås",
+        "inhalt": "1rv Proprium de tempore: Epiphania.",
+        "Row_exclusion": "Include row"
+      }
+    ],
+    "units": {
+      "C-17": {
+        "row_count": 27,
+        "fragment_ids": [
+          365,
+          4223,
+          8311,
+          8455,
+          8466,
+          8724,
+          8993,
+          9115,
+          9116,
+          9117,
+          9119,
+          9726,
+          9796,
+          9798,
+          20072,
+          20073,
+          20074,
+          20075,
+          20076,
+          20077,
+          20078,
+          20079,
+          20080,
+          20081,
+          20082,
+          20083,
+          20084
+        ]
+      },
+      "F-1385": {
+        "row_count": 1,
+        "fragment_ids": [
+          1385
+        ]
+      }
+    }
+  },
+  "existing_model_candidates": {
+    "H08": {
+      "rank": 1,
+      "method": "metadata",
+      "score": 0.943176275486705,
+      "scores": {
+        "metadata": 0.943176275486705,
+        "metadata_coverage": 1.0,
+        "layout": 0.5881837010383606,
+        "embedding": 0.9176468253135681,
+        "embedding_raw": 0.8578982353210449,
+        "catalogue_text": 0.26666666666666666
+      }
+    },
+    "H09": {
+      "rank": 2,
+      "method": "metadata",
+      "score": 0.9415798493488359,
+      "scores": {
+        "metadata": 0.9415798493488359,
+        "metadata_coverage": 1.0,
+        "layout": 0.751639723777771,
+        "embedding": 0.9032260775566101,
+        "embedding_raw": 0.8788765668869019,
+        "catalogue_text": 0.0
+      }
+    },
+    "H10": {
+      "rank": 3,
+      "method": "metadata",
+      "score": 0.9363906436045375,
+      "scores": {
+        "metadata": 0.9363906436045375,
+        "metadata_coverage": 1.0,
+        "layout": 0.7441624402999878,
+        "embedding": 0.9140945672988892,
+        "embedding_raw": 0.8366774320602417,
+        "catalogue_text": 0.0
+      }
+    }
+  },
+  "interpretation": {
+    "supported": [
+      "The combined workbook places Fr 4223, Fr 8311 and Fr 8455 in BOMPAC-258 (Ant-39/Codex-1200/FM.IV.159), with Fr 1385 in BOMPAC-912 (Ant-99/FM.IV.157).",
+      "The raw MPO workbook groups Fr 4223, Fr 8311 and Fr 8455 in C-17/Codex-1200 and lists Fr 1385 as singleton F-1385.",
+      "All three model suggestions are high-scoring, correlated lookalikes whose published reconstruction assignments differ from the anchor's assignment."
+    ],
+    "not_established": [
+      "Workbook unit assignments are prior reconstruction data, not fresh image-based proof or independent expert adjudication.",
+      "Separate reconstruction units do not prove physical incompatibility, different hand, or absence of a broader production relationship.",
+      "The workbook sources are related BOMPAC datasets, not independent corroborating studies.",
+      "No case is rejected, no hypothesis category changes, and no novel attribution or method is established by this crosswalk."
+    ]
+  }
+}

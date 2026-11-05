@@ -1,0 +1,13 @@
+{
+  "date":"2026-11-02",
+  "sources":[
+    {"id":"fr8066", "path":"research/continuation_44/captures.json", "locator":"capture 2 and capture 3", "scope":"Retained institutional images inspected; unblinded AI readings, earlier E44/E45 observations credited."},
+    {"id":"fr10437", "path":"research/continuation_54/captures.json", "locator":"capture 1 and capture 2", "scope":"Retained institutional images inspected; unblinded AI readings. Source sides and complete service not verified."},
+    {"id":"salzburg-cantus-network", "url":"https://gams.uni-graz.at/o:cantus.salzburg.vo/sdef:TEI/get?locale=en&mode=view:edition", "locator":"De dedicatione, Laudes", "scope":"Directly opened web edition; three antiphons in the tentative 8066 order. The source original and melody were not inspected."},
+    {"id":"paris-latin-1085-cantus", "url":"https://cantusdatabase.org/chant/447844/", "locator":"f.65v source navigation, positions 31–33", "scope":"Search-indexed inventory only; direct web-reader open returned cache miss. No manuscript image inspected; do not retry the failed route."},
+    {"id":"mpo", "path":"research/mpo.csv", "locator":"Fr 8066 and Fr 10437 catalogue rows", "scope":"Separate assigned reconstructed codices 1146 and 1505; not independently certified as different original books."}
+  ],
+  "limited_novelty_search":"Searches for quoted 10437 and 8066, with dedication/text terms, found no relevant direct comparison. This is not an exhaustive search; prior publications remain possible.",
+  "failed_routes":[{"url":"https://cantusdatabase.org/chant/447844/", "outcome":"Web-reader cache miss; search-indexed inventory used. Do not retry."}],
+  "network_scope":"No image or PDF was downloaded; web-search traffic is unmeasured within the existing planning reserve. No upload or contact."
+}

@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I93-10407-secus",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Selected writing provisionally fits Secus pedes domini astans; the end of the preceding text is also in view.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10407-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=430,20,1150,420"
+        }
+      },
+      "fragment_id": "mpo-10407",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010407_00004/full/max/0/default.jpg",
+      "sha256": "8f5378042349ad1eca0cc9871d54cd634a7877a7a64f5a2d474b97ae0ae7501d",
+      "image_dimensions": [
+        1829,
+        1150
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "observer": "Codex AI; post-exposure, reference-assisted; 2026-11-03",
+      "independent_confirmation": false
+    },
+    {
+      "id": "I93-10406-tail",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Selected text includes capillis capitis sui tergebat and osculabatur pedes eius et unguento ungebat; its beginning is not visible in this crop.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=110,50,530,135"
+        }
+      },
+      "fragment_id": "mpo-10406",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00001/full/800,/0/default.jpg",
+      "sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "observer": "Codex AI; post-exposure, reference-assisted; 2026-11-03",
+      "independent_confirmation": false
+    }
+  ]
+}

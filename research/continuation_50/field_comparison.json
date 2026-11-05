@@ -1,0 +1,162 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "measurements": [
+    {
+      "object_id": "mpo-10349",
+      "path": "research/continuation_50/images/Fr10349-capture-2-native.jpg",
+      "nominal_field_width_cm": 7.434343434343434,
+      "sensitivity": [
+        {
+          "endpoint_tolerance_px": 10,
+          "range_cm": [
+            6.891089108910891,
+            8.0
+          ],
+          "with_additional_scale_range_cm": [
+            5.512871287128713,
+            9.6
+          ]
+        },
+        {
+          "endpoint_tolerance_px": 20,
+          "range_cm": [
+            6.4950495049504955,
+            8.412371134020619
+          ],
+          "with_additional_scale_range_cm": [
+            5.196039603960397,
+            10.094845360824742
+          ]
+        },
+        {
+          "endpoint_tolerance_px": 30,
+          "range_cm": [
+            6.099009900990099,
+            8.824742268041238
+          ],
+          "with_additional_scale_range_cm": [
+            4.87920792079208,
+            10.589690721649484
+          ]
+        },
+        {
+          "endpoint_tolerance_px": 40,
+          "range_cm": [
+            5.702970297029703,
+            9.237113402061855
+          ],
+          "with_additional_scale_range_cm": [
+            4.562376237623762,
+            11.084536082474225
+          ]
+        },
+        {
+          "endpoint_tolerance_px": 50,
+          "range_cm": [
+            5.306930693069307,
+            9.649484536082474
+          ],
+          "with_additional_scale_range_cm": [
+            4.245544554455446,
+            11.579381443298969
+          ]
+        }
+      ]
+    },
+    {
+      "object_id": "mpo-2862",
+      "path": "research/continuation_50/images/Fr2862-capture-1-native.jpg",
+      "nominal_field_width_cm": 15.66735112936345,
+      "sensitivity": [
+        {
+          "endpoint_tolerance_px": 10,
+          "range_cm": [
+            15.101626016260163,
+            16.244813278008298
+          ],
+          "with_additional_scale_range_cm": [
+            12.08130081300813,
+            19.493775933609957
+          ]
+        },
+        {
+          "endpoint_tolerance_px": 20,
+          "range_cm": [
+            14.695121951219512,
+            16.6597510373444
+          ],
+          "with_additional_scale_range_cm": [
+            11.756097560975611,
+            19.991701244813278
+          ]
+        },
+        {
+          "endpoint_tolerance_px": 30,
+          "range_cm": [
+            14.288617886178862,
+            17.074688796680498
+          ],
+          "with_additional_scale_range_cm": [
+            11.43089430894309,
+            20.489626556016596
+          ]
+        },
+        {
+          "endpoint_tolerance_px": 40,
+          "range_cm": [
+            13.882113821138212,
+            17.489626556016596
+          ],
+          "with_additional_scale_range_cm": [
+            11.10569105691057,
+            20.987551867219914
+          ]
+        },
+        {
+          "endpoint_tolerance_px": 50,
+          "range_cm": [
+            13.475609756097562,
+            17.904564315352697
+          ],
+          "with_additional_scale_range_cm": [
+            10.78048780487805,
+            21.485477178423235
+          ]
+        }
+      ]
+    }
+  ],
+  "sensitivity_comparison": [
+    {
+      "endpoint_tolerance_px": 10,
+      "ranges_separate": true,
+      "ranges_separate_with_additional_scale": true
+    },
+    {
+      "endpoint_tolerance_px": 20,
+      "ranges_separate": true,
+      "ranges_separate_with_additional_scale": true
+    },
+    {
+      "endpoint_tolerance_px": 30,
+      "ranges_separate": true,
+      "ranges_separate_with_additional_scale": true
+    },
+    {
+      "endpoint_tolerance_px": 40,
+      "ranges_separate": true,
+      "ranges_separate_with_additional_scale": true
+    },
+    {
+      "endpoint_tolerance_px": 50,
+      "ranges_separate": true,
+      "ranges_separate_with_additional_scale": false
+    }
+  ],
+  "scope": "Ruler/field endpoints were selected after full source inspection to explain the layout distinction. These are manual illustrative measurements, not preregistered thresholds, statistical confidence bounds or photogrammetric calibration.",
+  "historical_same_codex_excluded": false,
+  "catalogue_measurement_corrected": false,
+  "independent_confirmation": false,
+  "new_discovery": false
+}

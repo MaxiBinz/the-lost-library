@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2026-10-30",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00001/full/max/0/default.jpg",
+    "saved": true,
+    "bytes_received": 346805,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00001/full/max/0/default.jpg",
+    "content_type": "image/jpeg",
+    "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+    "sha256": "137beb149bdb0ed6652c31b540ee0b1046dd1466d485679600057cbe9614c268"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00002/full/max/0/default.jpg",
+    "saved": true,
+    "bytes_received": 333204,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00002/full/max/0/default.jpg",
+    "content_type": "image/jpeg",
+    "path": "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+    "sha256": "96639875c649cc9c5a6c9ae9301cc77b5a8bfc7a0896f9d842911b52cd8a91eb"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00003/full/max/0/default.jpg",
+    "saved": false,
+    "bytes_received": 0,
+    "retry": false,
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00004/full/max/0/default.jpg",
+    "saved": true,
+    "bytes_received": 284304,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008072_00004/full/max/0/default.jpg",
+    "content_type": "image/jpeg",
+    "path": "research/continuation_52/images/Fr8072-capture-4-native.jpg",
+    "sha256": "0a2a8bc5f4415160ec91e5c563f0d7e8b9e6c4c8e7657dbeb0365ba47cfff5bd"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00001/full/max/0/default.jpg",
+    "saved": false,
+    "bytes_received": 0,
+    "retry": false,
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00002/full/max/0/default.jpg",
+    "saved": true,
+    "bytes_received": 285507,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00002/full/max/0/default.jpg",
+    "content_type": "image/jpeg",
+    "path": "research/continuation_52/images/Fr8073-capture-2-native.jpg",
+    "sha256": "68b42751798348caccc0a8d3c2833504d9f2ccf40eb76068b9128b18695a284c"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00003/full/max/0/default.jpg",
+    "saved": true,
+    "bytes_received": 352715,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00003/full/max/0/default.jpg",
+    "content_type": "image/jpeg",
+    "path": "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+    "sha256": "4deff868fd2a405484f410ffd6a7225c42cfa83b81798ce6e3cfade6384ff118"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00004/full/max/0/default.jpg",
+    "saved": true,
+    "bytes_received": 293992,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008073_00004/full/max/0/default.jpg",
+    "content_type": "image/jpeg",
+    "path": "research/continuation_52/images/Fr8073-capture-4-native.jpg",
+    "sha256": "1ab802d901dbbdaf9821595e45a2f0e20a74749fef32d5ea324c471257ca4baa"
+  }
+]

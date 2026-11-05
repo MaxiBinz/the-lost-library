@@ -1,0 +1,13 @@
+{
+  "url": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/full/max/0/default.jpg",
+  "saved": true,
+  "bytes_received": 313747,
+  "retry": false,
+  "status": 200,
+  "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/full/max/0/default.jpg",
+  "content_type": "image/jpeg",
+  "path": "research/continuation_65/images/Fr8201-capture-1-native.jpg",
+  "sha256": "6716356b5a3fc1776afc9d6ccd75fc9ba2bbecb6f541e6444b800c9335dc4ec2",
+  "width": 1718,
+  "height": 1156
+}

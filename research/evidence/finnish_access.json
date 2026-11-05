@@ -1,0 +1,12 @@
+{
+  "record": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+  "viewer": "https://fragmenta.kansalliskirjasto.fi/viewer/fragmenta.html?item=fd2011-fra0868&handle=10024/1314#page=",
+  "download_url": "https://fragmenta.kansalliskirjasto.fi/bitstream/handle/10024/1314/F_m_IV_173.pdf?sequence=3",
+  "access_method": "official viewer browser download; direct urllib requests to other Finnish pages returned403",
+  "bytes": 3030807,
+  "magic": "%PDF-1.4",
+  "sha256": "86c4995af128a61631ea2e880e3eb9470bcd20f1fd1cefe427103129605b6ce1",
+  "pages_reported_by_browser": 2,
+  "rights_from_catalogue": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "checked_date": "2026-10-19"
+}

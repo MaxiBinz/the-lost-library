@@ -1,0 +1,14 @@
+{
+  "source_url": "https://fragmentarium.ms/uploads/descriptions/F-u1fn/62301/Fragmentology_6_FullIssue.pdf",
+  "fetched_at_utc": "2026-10-22T21:32:35.850452+00:00",
+  "limit_bytes": 27000000,
+  "cap_revision": "Parent authorized one official full-issue source at most27MB after size HEAD200; source article endpoint unavailable",
+  "purpose": "Read Duba2023 pp5\u201365; private scholarly reading copy excluded from release",
+  "bytes_received": 26149638,
+  "status": 200,
+  "final_url": "https://fragmentarium.ms/uploads/descriptions/F-u1fn/62301/Fragmentology_6_FullIssue.pdf",
+  "content_type": "application/pdf",
+  "saved": true,
+  "path": "research/independent_pass/methods/fragmentology6-private.pdf",
+  "sha256": "daa2a0a3ecebfeb40788a64f0313079ad8379612db565889fbb4e5772c7009af"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-02",
+  "question": "Does Fr8201 preserve the same broader local chant succession and exact responsory wording as independently published comparators?",
+  "prior_exposure": "Fr8201 photograph, 2022 study and Vienna indexed sequence had already been viewed in E65. The museum transcription and Hungarian edition were identified and read before writing this protocol; this is an exploratory post-exposure comparison, not blind or preregistered.",
+  "fixed_target": "research/continuation_65/images/Fr8201-capture-1-native.jpg",
+  "comparison_scope": "Fr8201 surviving Specie ending, Traditur, and following Nobilis incipit compared with the published transcription of SNM-HuM MUS I 12, fol.1r/1v; a separate 1855 edition is a prior-art wording counterexample.",
+  "alternatives": [
+    "different books can share a sequence and a variant",
+    "different liturgical traditions or revisions",
+    "different functions and section layouts",
+    "source transcription or AI reading error",
+    "repeated material or composite books"
+  ],
+  "decision_rule": "Preserve each source, reading and uncertainty separately; no physical-identity, origin, melodic, rarity or novelty claim follows from this small unblinded collation. The Hungarian text is an edited report, not our examination of its medieval source.",
+  "new_source_images": 0,
+  "new_download_bytes": 0,
+  "failed_route_policy": "Do not repeat unsuccessful screenshot or record routes."
+}

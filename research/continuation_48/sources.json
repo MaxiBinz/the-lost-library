@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "local_sources": [
+    {
+      "path": "research/continuation_26/bompac/Readme-Sto-Hel-Frs-Combined-BOMPAC.pdf",
+      "sha256": "d393b46426122666acdb5b2d9fe59a1ddcedbcc062f4b9294d461b8540c98d12",
+      "read_scope": "PDF pp2–3, text; p2 rendered and visually inspected. Unit definition and metadata harmonisation; no full4-page reading claim.",
+      "archive_policy": "Private reading copy/render remains excluded; no new redistribution requested."
+    },
+    {
+      "path": "research/continuation_26/bompac/raw_metadata/Readme-Raw-Metadata-BOMPAC.pdf",
+      "sha256": "787f89736e6ac58f0a860b2c02bc4b62b06b313a3d33041c79082b03d6732092",
+      "read_scope": "PDF pp3–4, text; MPO derivation, row controls and dataset listing.",
+      "archive_policy": "Private reading copy/render remains excluded; no new redistribution requested."
+    },
+    {
+      "path": "research/scholarship/grajewski2022.pdf",
+      "sha256": "bce68afeaef0e1bd0c259009f003ee07c683cd6213f3a32cc4d785f9298d2798",
+      "read_scope": "Printed p293/PDF7 re-read from retained full-page rendering; paragraph beside Table2 and footnote11. Same-hand/different-book rejection retained, not independently re-established.",
+      "archive_policy": "Private reading copy/render remains excluded; no new redistribution requested."
+    }
+  ],
+  "web_sources": [
+    {
+      "url": "https://doi.org/10.24446/no5r",
+      "outcome": "Direct web-reader open failed: not accessible via this tool. Stopped; not retried."
+    },
+    {
+      "url": "https://www.fragmentology.ms/article/view/RN_Eskola_08",
+      "outcome": "Official journal search result supplied title, author and publication date; distinct ordinary source route, no access restriction bypass."
+    },
+    {
+      "url": "https://www.fragmentology.ms/article/download/RN_Eskola_08/8737/24725",
+      "outcome": "Official journal PDF web-reader text available,11 PDF pages including front matter; printed pp233–240 read. Relevant research-data caveat p239 and harmonisation discussion pp238–239. No local PDF saved or PDF figure/screenshot review claimed.",
+      "scope": "Dataset overview and caveat, not target-level adjudication; no explicit4861/8201/8304 discussion in this article text."
+    },
+    {
+      "url": "https://zenodo.org/records/17511106",
+      "outcome": "30October web-reader current-record/version check failed: not accessible via this tool. Stopped without retry or alternate API. Current/latest-version status remains unverified; retained pinned payload remains available."
+    },
+    {
+      "url": "https://zenodo.org/records/17701360",
+      "outcome": "30October web-reader current-record/version check failed: not accessible via this tool. Stopped without retry or alternate API. Current/latest-version status remains unverified; retained pinned payload remains available."
+    }
+  ],
+  "novelty_scope": "This is a specific reconciliation of already published sources. Neither an exact-term search with no relevant result nor the absence of a case from one dataset overview proves novelty. Later corrections, other versions, specialist literature and the historical argument remain to be checked before a scientific correction claim.",
+  "network_accounting": "No retained-file acquisition; web-reader/search traffic unmeasured and covered by existing planning reserve. No repeated failed/challenged source routes, outreach or publication.",
+  "completed_date": "2026-10-30",
+  "bounded_prior_art_search": {
+    "queries": [
+      "\"BOMPAC-4861\" \"8304\"",
+      "\"Ant 49\" \"Grajewski\" \"BOMPAC\""
+    ],
+    "outcome": "One combined search returned no results. This is not evidence of novelty or absence of a later correction."
+  }
+}

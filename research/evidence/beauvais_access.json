@@ -1,0 +1,186 @@
+{
+  "retrieved_utc": "2026-10-19T20:18:18.435668+00:00",
+  "probes": [
+    {
+      "manifest": "https://fragmentarium.ms/metadata/iiif/F-4ihz/manifest.json",
+      "status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "bytes": 220065,
+      "canvases": 240,
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Fragmentarium \u2013 International Digital Research Lab for Medieval Manuscript Fragments"
+    },
+    {
+      "manifest": "https://fragmentarium.ms/metadata/iiif/F-6zvk/manifest.json",
+      "status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "bytes": 4226,
+      "canvases": 2,
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Fragmentarium \u2013 International Digital Research Lab for Medieval Manuscript Fragments",
+      "sample": {
+        "url": "https://fragmentarium.ms:443/loris/F-6zvk/CMA_r.JPG/full/400,/0/default.jpg",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "bytes": 70627,
+        "magic": "ffd8ff",
+        "sha256": "1b197bb574fab09b623c21ffb6e4ac51be69337f32685bcdc5d6f2a4537b8c71",
+        "decoded_width": 400,
+        "decoded_height": 553,
+        "dimension_check": "macOS sips"
+      }
+    },
+    {
+      "manifest": "https://fragmentarium.ms/metadata/iiif/F-qbrf/manifest.json",
+      "status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "bytes": 4220,
+      "canvases": 2,
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Fragmentarium \u2013 International Digital Research Lab for Medieval Manuscript Fragments",
+      "sample": {
+        "url": "https://fragmentarium.ms:443/loris/F-qbrf/Lima_r.JPG/full/400,/0/default.jpg",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "bytes": 61829,
+        "magic": "ffd8ff",
+        "sha256": "f51f2cc658cfe23762cb66feb95bd274ac0d1cb458b5834708099fd137aae58e",
+        "decoded_width": 400,
+        "decoded_height": 565,
+        "dimension_check": "macOS sips"
+      }
+    },
+    {
+      "manifest": "https://fragmentarium.ms/metadata/iiif/F-g7p5/manifest.json",
+      "status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "bytes": 4127,
+      "canvases": 2,
+      "license": "http://rightsstatements.org/page/NKC/1.0/?language=en",
+      "attribution": "Fragmentarium \u2013 International Digital Research Lab for Medieval Manuscript Fragments",
+      "sample": {
+        "url": "https://fragmentarium.ms:443/loris/F-g7p5/Waseda_r.jpg/full/400,/0/default.jpg",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "bytes": 67015,
+        "magic": "ffd8ff",
+        "sha256": "f55a9715a721c34d98762912906f187b976772ff907f88574e9170b6a35deaf9",
+        "decoded_width": 400,
+        "decoded_height": 589,
+        "dimension_check": "macOS sips"
+      }
+    },
+    {
+      "manifest": "https://fragmentarium.ms/metadata/iiif/F-5uba/manifest.json",
+      "status": 200,
+      "bytes": 7248,
+      "canvases": 2,
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "sample": {
+        "url": "https://fragmentarium.ms:443/loris/F-5uba/Chifley_005_cropped.jp2/full/1200,/0/default.jpg",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "bytes": 527097,
+        "sha256": "e3b43d298d2add60fd22d9adc0a78f79e1902e0ba69af282ad6592df3745a95e",
+        "decoded_width": 1200,
+        "decoded_height": 1730,
+        "dimension_check": "macOS sips"
+      }
+    }
+  ],
+  "reconstruction_inspection": {
+    "canvas_count": 240,
+    "image_bearing_canvas_count": 240,
+    "missing_image_canvas_count": 0,
+    "missing_image_canvas_labels": [],
+    "distinct_image_resource_ids": 237,
+    "local_fragmentarium_image_references": 226,
+    "external_image_references": [
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://ark.digitalcommonwealth.org/ark:/50959/7d279x50k/large_image.json",
+        "label": "image 2",
+        "resource": "https://ark.digitalcommonwealth.org/full/full/0/default.jpg",
+        "service": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d279x50k"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://ark.digitalcommonwealth.org/ark:/50959/7d279x49t/large_image.json",
+        "label": "image 1",
+        "resource": "https://ark.digitalcommonwealth.org/full/full/0/default.jpg",
+        "service": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d279x49t"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://ids.lib.harvard.edu/ids/iiif/494003352/full/full/0/default.jpg.json",
+        "label": "(seq. 47)",
+        "resource": "https://ids.lib.harvard.edu/ids/iiif/494003352/full/full/0/default.jpg",
+        "service": "https://ids.lib.harvard.edu/ids/iiif/494003352"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://ids.lib.harvard.edu/ids/iiif/494003351/full/full/0/default.jpg.json",
+        "label": "(seq. 46)",
+        "resource": "https://ids.lib.harvard.edu/ids/iiif/494003351/full/full/0/default.jpg",
+        "service": "https://ids.lib.harvard.edu/ids/iiif/494003351"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://cdm15808.contentdm.oclc.org/iiif/2/p15808coll19:61/full/full/0/default.jpg.json",
+        "label": "Verso",
+        "resource": "https://cdm15808.contentdm.oclc.org/iiif/2/p15808coll19:61/full/full/0/default.jpg",
+        "service": "https://cdm15808.contentdm.oclc.org/iiif/2/p15808coll19:61"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://cdm15808.contentdm.oclc.org/iiif/2/p15808coll19:60/full/full/0/default.jpg.json",
+        "label": "Recto",
+        "resource": "https://cdm15808.contentdm.oclc.org/iiif/2/p15808coll19:60/full/full/0/default.jpg",
+        "service": "https://cdm15808.contentdm.oclc.org/iiif/2/p15808coll19:60"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://iiif.archive.org/image/iiif/3/images_MC122001_6/images_MC122001_6_jp2.zip/images_MC122001_6_jp2/images_MC122001_6_0000.jp2/full/max/0/default.jpg.json",
+        "label": "[s.n.]",
+        "resource": "https://iiif.archive.org/image/iiif/3/images_MC122001_6/images_MC122001_6_jp2.zip/images_MC122001_6_jp2/images_MC122001_6_0000.jp2/full/full/0/default.jpg",
+        "service": "https://iiif.archive.org/image/iiif/3/images_MC122001_6%2Fimages_MC122001_6_jp2.zip%2Fimages_MC122001_6_jp2%2Fimages_MC122001_6_0000.jp2"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://iiif.archive.org/image/iiif/3/images_MC122001_6/images_MC122001_6_jp2.zip/images_MC122001_6_jp2/images_MC122001_6_0001.jp2/full/max/0/default.jpg.json",
+        "label": "1",
+        "resource": "https://iiif.archive.org/image/iiif/3/images_MC122001_6/images_MC122001_6_jp2.zip/images_MC122001_6_jp2/images_MC122001_6_0001.jp2/full/full/0/default.jpg",
+        "service": "https://iiif.archive.org/image/iiif/3/images_MC122001_6%2Fimages_MC122001_6_jp2.zip%2Fimages_MC122001_6_jp2%2Fimages_MC122001_6_0001.jp2"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://ark.digitalcommonwealth.org/ark:/50959/7d279x524/large_image.json",
+        "label": "image 4",
+        "resource": "https://ark.digitalcommonwealth.org/full/full/0/default.jpg",
+        "service": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d279x524"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://ark.digitalcommonwealth.org/ark:/50959/7d279x51v/large_image.json",
+        "label": "image 3",
+        "resource": "https://ark.digitalcommonwealth.org/full/full/0/default.jpg",
+        "service": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7d279x51v"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://collections.library.yale.edu/iiif/2/10520324/full/!200,200/0/default.jpg.json",
+        "label": "verso",
+        "resource": "https://collections.library.yale.edu/iiif/2/10520324/full/full/0/default.jpg",
+        "service": "https://collections.library.yale.edu/iiif/2/10520324"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://collections.library.yale.edu/iiif/2/10520323/full/!200,200/0/default.jpg.json",
+        "label": "recto",
+        "resource": "https://collections.library.yale.edu/iiif/2/10520323/full/full/0/default.jpg",
+        "service": "https://collections.library.yale.edu/iiif/2/10520323"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://collections.dartmouth.edu/xcdas-api/iiif/pre-1600-manuscripts/tiff_pyr/missal-002258-001.tif/full/full/0/default.jpg.json",
+        "label": "missal-002258-001.tif",
+        "resource": "https://collections.dartmouth.edu/xcdas-api/iiif/pre-1600-manuscripts/tiff_pyr/missal-002258-001.tif/full/full/0/default.jpg",
+        "service": "https://collections.dartmouth.edu/xcdas-api/iiif/pre-1600-manuscripts/tiff_pyr/missal-002258-001.tif"
+      },
+      {
+        "canvas": "https://fragmentarium.ms/metadata/iiif/F-4ihz/canvas/https://collections.dartmouth.edu/xcdas-api/iiif/pre-1600-manuscripts/tiff_pyr/missal-002258-002.tif/full/full/0/default.jpg.json",
+        "label": "missal-002258-002.tif",
+        "resource": "https://collections.dartmouth.edu/xcdas-api/iiif/pre-1600-manuscripts/tiff_pyr/missal-002258-002.tif/full/full/0/default.jpg",
+        "service": "https://collections.dartmouth.edu/xcdas-api/iiif/pre-1600-manuscripts/tiff_pyr/missal-002258-002.tif"
+      }
+    ],
+    "warning": "Image references are not proof of working images. Four Boston image URLs lack their image identifier. Do not use distinct source IDs from malformed nested external canvas URLs as a leaf count."
+  }
+}

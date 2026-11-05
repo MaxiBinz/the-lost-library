@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-02",
+  "question": "What can the Vatican digitization show about the two reported Catherine office openings, and do their headings match the target rubric?",
+  "prior_exposure": "The two-office interpretation, named manuscript, and an expected shared antiphon were known from Grajewski 2025 before image inspection. This is reference-exposed, exploratory, AI-assisted and not independent confirmation.",
+  "source_observations": [
+    {"folio": "122r", "location": "lower-middle writing area, following preceding text", "observation": "A red heading appears to refer to St Catherine, followed by a large red initial and an Inclita antiphon; a provisional source reading includes the beginning Inclita s[an]cte virginis Katherine and later suscipiat alacriter pia mater ecclesia. The exact heading and uncertain letters are not fully transcribed."},
+    {"folio": "125v", "location": "middle writing area following earlier text", "observation": "A second red Catherine/virgin heading is followed by a separate Inclita incipit, written in abbreviated form. The expansion, complete wording and the liturgical function are not independently settled from this view."},
+    {"folio": "126r", "location": "upper part", "observation": "A subsequent major red heading appears to introduce an apostles' vigil, consistent with the catalogue's reported transition to the common of saints; exact reading remains provisional."}
+  ],
+  "published_comparison": "Grajewski 2025, p.78 note 11, reports two Catherine office variants in Pal. lat. 527 beginning with the same shortened Inclita antiphon. The current image recheck provides two visible Inclita openings after Catherine-related headings, but does not verify every word or full liturgical identity.",
+  "interpretation": "The selected original views support a bounded repeated-opening counterexample within this specific breviary. They do not establish two copies of the identical heading De sancta Katherina super psalmos feriales, a repeated complete office in every respect, or physical identity between Swedish fragments.",
+  "limits": "No Fr 20106 image was inspected. The earlier image-derived readings are unblinded and not independently reviewed. The Vatican viewer presented copyrighted images for ordinary viewing only; no image file or screenshot was saved. The 125v abbreviated incipit and both complete rubrics remain uncertain. Book genre, composite structure and multiple hands differ or remain unresolved. The counterexample was previously documented in scholarship, and source dating and hand attributions rely on the institutional catalogue.",
+  "next_test": "Obtain a secure Fr 20106 source/image and read its full rubric, original side and exact continuity; compare both target headings against Fr 8304. Independently check the two Pal. lat. 527 headings and their liturgical sections against the viewer and 2025 publication. Do not treat repetition alone as proof of one book.",
+  "vatican_selected_original_views_inspected": true,
+  "full_offices_collated": false,
+  "identical_full_rubrics_verified": false,
+  "fr20106_inspected": false,
+  "published_exclusion_refuted": false,
+  "target_same_codex_proved": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "saved_new_source_images": 0,
+  "saved_download_bytes": 0
+}

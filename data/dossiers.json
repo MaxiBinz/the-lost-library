@@ -1,0 +1,1209 @@
+[
+  {
+    "id": "case-01",
+    "left_id": "mpo-8201",
+    "right_id": "mpo-8304",
+    "classification": "D",
+    "originality": "Previously documented rejection",
+    "title": "A published same-hand, different-book comparison",
+    "summary": "Riksarkivet Fr 8201 compared with Riksarkivet Fr 8304. Category D; compatibility is not identity.",
+    "score": 0.9926686738986257,
+    "scores": {
+      "metadata": 0.9926686738986257,
+      "metadata_coverage": 1.0,
+      "layout": 0.6068540215492249,
+      "embedding": 0.9344361424446106,
+      "embedding_raw": 0.8779503107070923,
+      "catalogue_text": 0.5833333333333333
+    },
+    "rank": 1,
+    "rank_interval": [
+      1,
+      1
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.956; this is not an identity probability.",
+      "written_cm: compatibility 1.000; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "shared catalogue content terms: katharinae",
+      "Catalogue type: Antiphonarium / Antiphonarium.",
+      "Notation: Got / Got."
+    ],
+    "against": [
+      "Grajewski's published analysis distinguishes these books despite the hand; this overrides computational resemblance.",
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion."
+    ],
+    "textual_musical_evidence": {
+      "left": "1rv Proprium de sanctis: Katharinae ro AH 26, Nr. 69.",
+      "right": "1rv Proprium de sanctis: Clementis; Katharinae.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        42.5,
+        31.5
+      ],
+      "right_leaf_cm": [
+        43.0,
+        31.5
+      ],
+      "left_written_cm": [
+        32.0,
+        21.0
+      ],
+      "right_written_cm": [
+        32.0,
+        21.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://doi.org/10.25167/ls.4818",
+      "https://sok.riksarkivet.se/bildvisning/R1008201",
+      "https://sok.riksarkivet.se/bildvisning/R1008304"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-02",
+    "left_id": "mpo-7960",
+    "right_id": "mpo-7961",
+    "classification": "E",
+    "originality": "Previously documented",
+    "title": "Two members of the published Graduale Aboense grouping",
+    "summary": "Riksarkivet Fr 7960 compared with Riksarkivet Fr 7961. Category E; compatibility is not identity.",
+    "score": 0.9556535040353409,
+    "scores": {
+      "metadata": 0.9556535040353409,
+      "metadata_coverage": 1.0,
+      "layout": 0.7609765529632568,
+      "embedding": 0.8867340087890625,
+      "embedding_raw": 0.9432317614555359,
+      "catalogue_text": 0.0
+    },
+    "rank": 4,
+    "rank_interval": [
+      4,
+      4
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.921; this is not an identity probability.",
+      "written_cm: compatibility 0.813; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "Catalogue type: Graduale / Graduale.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion."
+    ],
+    "textual_musical_evidence": {
+      "left": "1r-2v Proprium de tempore: 1rv Nativitas dni [1] - Nativitas dni [2]; 2rv Dom. in LX - Dom. in L (Fortsetzung in Fr 7961, 1r).",
+      "right": "1r-2v Proprium de tempore: 1rv Dom. in L (Beginn in Fr 7960, 2v); 2rv Fer.IIII q.t. in XL [1] - Fer.VI q.t. in XL [1].",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        33.0,
+        23.0
+      ],
+      "right_leaf_cm": [
+        33.0,
+        23.5
+      ],
+      "left_written_cm": [
+        23.0,
+        16.0
+      ],
+      "right_written_cm": [
+        22.5,
+        15.5
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1610?show=full",
+      "https://zenodo.org/records/17287665",
+      "https://sok.riksarkivet.se/bildvisning/R1007960",
+      "https://sok.riksarkivet.se/bildvisning/R1007961"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-03",
+    "left_id": "mpo-8343",
+    "right_id": "mpo-8344",
+    "classification": "E",
+    "originality": "Previously documented",
+    "title": "Two members of the published Graduale Aboense grouping",
+    "summary": "Riksarkivet Fr 8343 compared with Riksarkivet Fr 8344. Category E; compatibility is not identity.",
+    "score": 0.9802522880948784,
+    "scores": {
+      "metadata": 0.9802522880948784,
+      "metadata_coverage": 1.0,
+      "layout": 0.8332973718643188,
+      "embedding": 0.9597356915473938,
+      "embedding_raw": 0.9414884448051453,
+      "catalogue_text": 0.41666666666666663
+    },
+    "rank": 2,
+    "rank_interval": [
+      2,
+      2
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 1.000; this is not an identity probability.",
+      "written_cm: compatibility 0.882; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "shared catalogue content terms: pascha",
+      "Catalogue type: Graduale / Graduale.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion."
+    ],
+    "textual_musical_evidence": {
+      "left": "1r-2v Proprium de tempore: 1rv Sabb. p. pascha - Dom.II p. pascha (Fortsetzung in Fr 8344, 1r) ; 2rv Dom.V p. pascha (Beginn in Fr 8344, 2v) - Fer.II p. pascha [4] >In rogationibus<.",
+      "right": "1r-2v Proprium de tempore: 1rv Dom.II p. pascha (Beginn in Fr 8343, 1v) - Dom.V p. pascha (Fortsetzung in Fr 8343, 2r).",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        33.0,
+        23.5
+      ],
+      "right_leaf_cm": [
+        33.0,
+        23.5
+      ],
+      "left_written_cm": [
+        23.0,
+        15.5
+      ],
+      "right_written_cm": [
+        23.0,
+        15.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1610?show=full",
+      "https://zenodo.org/records/17287665",
+      "https://sok.riksarkivet.se/bildvisning/R1008343",
+      "https://sok.riksarkivet.se/bildvisning/R1008344"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-04",
+    "left_id": "finn-iv173",
+    "right_id": "mpo-29666",
+    "classification": "E",
+    "originality": "Previously documented",
+    "title": "Catalogue links IV.173 with Ant 242 / Fr 29666; no Swedish image is currently verified",
+    "summary": "Helsinki F.m.IV.173 compared with Riksarkivet Fr 29666. Category E; compatibility is not identity.",
+    "score": null,
+    "scores": {},
+    "rank": null,
+    "rank_interval": null,
+    "supporting": [
+      "Catalogue documents this association; retained as a reference case independently of retrieval rank. A missing image is not a validated image match.",
+      "Catalogue type: Antiphonal / Gradual? / Antiphonarium.",
+      "Notation: Quadr / Got."
+    ],
+    "against": [
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion.",
+      "At least one source object lacks a verified local image; this is a catalogue reference case, not an evaluated visual match."
+    ],
+    "textual_musical_evidence": {
+      "left": "Terminal Te Deum leaf (catalogue description)",
+      "right": "Fer. V adv. [3].",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": null,
+      "right_leaf_cm": null,
+      "left_written_cm": null,
+      "right_written_cm": null
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314?show=full",
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+      "https://sok.riksarkivet.se/en/mpo"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-05",
+    "left_id": "finn-iv173",
+    "right_id": "mpo-10370",
+    "classification": "C",
+    "originality": "Scholarly novelty unverified",
+    "title": "A retrieval suggestion, not a demonstrated same-book relationship",
+    "summary": "Helsinki F.m.IV.173 compared with Riksarkivet Fr 10370. Category C; compatibility is not identity.",
+    "score": 0.6666666666666666,
+    "scores": {
+      "metadata": 0.6666666666666666,
+      "metadata_coverage": 0.3333333333333333,
+      "layout": 0.6731284856796265,
+      "embedding": 0.8941004276275635,
+      "embedding_raw": 0.8856931924819946,
+      "catalogue_text": 0.0
+    },
+    "rank": 1,
+    "rank_interval": [
+      1,
+      40
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "Catalogue type: Antiphonal / Gradual? / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "This shortlist truncates an equal-score tie; ID ordering within that tie is display-only, not scientific ranking.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion.",
+      "Keskiaho's 2018/2019 update remains unread, so a claim of present scholarly novelty is unavailable."
+    ],
+    "textual_musical_evidence": {
+      "left": "Terminal Te Deum leaf (catalogue description)",
+      "right": "1rv Proprium de sanctis: Mariae Magdalenae.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": null,
+      "right_leaf_cm": [
+        49.0,
+        32.5
+      ],
+      "left_written_cm": null,
+      "right_written_cm": [
+        36.0,
+        23.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+      "https://sok.riksarkivet.se/bildvisning/R1010370"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-06",
+    "left_id": "finn-iv173",
+    "right_id": "mpo-10406",
+    "classification": "C",
+    "originality": "Scholarly novelty unverified",
+    "title": "A retrieval suggestion, not a demonstrated same-book relationship",
+    "summary": "Helsinki F.m.IV.173 compared with Riksarkivet Fr 10406. Category C; compatibility is not identity.",
+    "score": 0.6666666666666666,
+    "scores": {
+      "metadata": 0.6666666666666666,
+      "metadata_coverage": 0.3333333333333333,
+      "layout": 0.7068947553634644,
+      "embedding": 0.8696126937866211,
+      "embedding_raw": 0.8405700922012329,
+      "catalogue_text": 0.0
+    },
+    "rank": 2,
+    "rank_interval": [
+      1,
+      40
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "Catalogue type: Antiphonal / Gradual? / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "This shortlist truncates an equal-score tie; ID ordering within that tie is display-only, not scientific ranking.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion.",
+      "Keskiaho's 2018/2019 update remains unread, so a claim of present scholarly novelty is unavailable."
+    ],
+    "textual_musical_evidence": {
+      "left": "Terminal Te Deum leaf (catalogue description)",
+      "right": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": null,
+      "right_leaf_cm": [
+        43.0,
+        34.0
+      ],
+      "left_written_cm": null,
+      "right_written_cm": [
+        35.5,
+        23.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+      "https://sok.riksarkivet.se/bildvisning/R1010406"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-07",
+    "left_id": "finn-iv173",
+    "right_id": "mpo-10407",
+    "classification": "C",
+    "originality": "Scholarly novelty unverified",
+    "title": "A retrieval suggestion, not a demonstrated same-book relationship",
+    "summary": "Helsinki F.m.IV.173 compared with Riksarkivet Fr 10407. Category C; compatibility is not identity.",
+    "score": 0.6666666666666666,
+    "scores": {
+      "metadata": 0.6666666666666666,
+      "metadata_coverage": 0.3333333333333333,
+      "layout": 0.6743329763412476,
+      "embedding": 0.8970947265625,
+      "embedding_raw": 0.8781085014343262,
+      "catalogue_text": 0.0
+    },
+    "rank": 3,
+    "rank_interval": [
+      1,
+      40
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "Catalogue type: Antiphonal / Gradual? / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "This shortlist truncates an equal-score tie; ID ordering within that tie is display-only, not scientific ranking.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion.",
+      "Keskiaho's 2018/2019 update remains unread, so a claim of present scholarly novelty is unavailable."
+    ],
+    "textual_musical_evidence": {
+      "left": "Terminal Te Deum leaf (catalogue description)",
+      "right": "1rv Proprium de sanctis: Mariae visitatio ro AH 24, Nr. 36; Mariae Magdalenae.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": null,
+      "right_leaf_cm": [
+        48.0,
+        34.5
+      ],
+      "left_written_cm": null,
+      "right_written_cm": [
+        35.0,
+        23.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+      "https://sok.riksarkivet.se/bildvisning/R1010407"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-08",
+    "left_id": "finn-iv173",
+    "right_id": "mpo-10437",
+    "classification": "C",
+    "originality": "Scholarly novelty unverified",
+    "title": "A retrieval suggestion, not a demonstrated same-book relationship",
+    "summary": "Helsinki F.m.IV.173 compared with Riksarkivet Fr 10437. Category C; compatibility is not identity.",
+    "score": 0.6666666666666666,
+    "scores": {
+      "metadata": 0.6666666666666666,
+      "metadata_coverage": 0.3333333333333333,
+      "layout": 0.6624171137809753,
+      "embedding": 0.8728849291801453,
+      "embedding_raw": 0.8265717029571533,
+      "catalogue_text": 0.0
+    },
+    "rank": 4,
+    "rank_interval": [
+      1,
+      40
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "Catalogue type: Antiphonal / Gradual? / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "This shortlist truncates an equal-score tie; ID ordering within that tie is display-only, not scientific ranking.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion.",
+      "Keskiaho's 2018/2019 update remains unread, so a claim of present scholarly novelty is unavailable."
+    ],
+    "textual_musical_evidence": {
+      "left": "Terminal Te Deum leaf (catalogue description)",
+      "right": "1rv Dedicatio: Dedicatio ecclesiae.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": null,
+      "right_leaf_cm": [
+        48.0,
+        34.0
+      ],
+      "left_written_cm": null,
+      "right_written_cm": [
+        34.0,
+        22.5
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+      "https://sok.riksarkivet.se/bildvisning/R1010437"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-09",
+    "left_id": "finn-iv173",
+    "right_id": "mpo-11167",
+    "classification": "C",
+    "originality": "Scholarly novelty unverified",
+    "title": "A retrieval suggestion, not a demonstrated same-book relationship",
+    "summary": "Helsinki F.m.IV.173 compared with Riksarkivet Fr 11167. Category C; compatibility is not identity.",
+    "score": 0.6666666666666666,
+    "scores": {
+      "metadata": 0.6666666666666666,
+      "metadata_coverage": 0.3333333333333333,
+      "layout": 0.5945602059364319,
+      "embedding": 0.8245090246200562,
+      "embedding_raw": 0.8566078543663025,
+      "catalogue_text": 0.0
+    },
+    "rank": 5,
+    "rank_interval": [
+      1,
+      40
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "Catalogue type: Antiphonal / Gradual? / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "This shortlist truncates an equal-score tie; ID ordering within that tie is display-only, not scientific ranking.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion.",
+      "Keskiaho's 2018/2019 update remains unread, so a claim of present scholarly novelty is unavailable."
+    ],
+    "textual_musical_evidence": {
+      "left": "Terminal Te Deum leaf (catalogue description)",
+      "right": "1r-2v Proprium de sanctis: Patronorum regni Sueciae.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": null,
+      "right_leaf_cm": [
+        33.0,
+        26.0
+      ],
+      "left_written_cm": null,
+      "right_written_cm": [
+        28.5,
+        23.5
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+      "https://sok.riksarkivet.se/bildvisning/R1011167"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-10",
+    "left_id": "mpo-10370",
+    "right_id": "mpo-8994",
+    "classification": "E",
+    "originality": "Previously catalogued group",
+    "title": "Two members of Swedish MPO Codex 1505; broader Helsinki assignment remains qualified",
+    "summary": "Riksarkivet Fr 10370 compared with Riksarkivet Fr 8994. Category E; compatibility is not identity.",
+    "score": 0.9442656515672601,
+    "scores": {
+      "metadata": 0.9442656515672601,
+      "metadata_coverage": 1.0,
+      "layout": 0.6926323771476746,
+      "embedding": 0.9051547646522522,
+      "embedding_raw": 0.8734886646270752,
+      "catalogue_text": 0.0
+    },
+    "rank": 1,
+    "rank_interval": [
+      1,
+      1
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.795; this is not an identity probability.",
+      "written_cm: compatibility 0.871; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "Catalogue type: Antiphonarium / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion."
+    ],
+    "textual_musical_evidence": {
+      "left": "1rv Proprium de sanctis: Mariae Magdalenae.",
+      "right": "1rv Proprium de sanctis: Olavi.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        49.0,
+        32.5
+      ],
+      "right_leaf_cm": [
+        49.0,
+        34.5
+      ],
+      "left_written_cm": [
+        36.0,
+        23.0
+      ],
+      "right_written_cm": [
+        35.5,
+        22.5
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+      "https://sok.riksarkivet.se/bildvisning/R1010370",
+      "https://sok.riksarkivet.se/bildvisning/R1008994"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-11",
+    "left_id": "mpo-10370",
+    "right_id": "mpo-10407",
+    "classification": "E",
+    "originality": "Previously catalogued group",
+    "title": "Two members of Swedish MPO Codex 1505; broader Helsinki assignment remains qualified",
+    "summary": "Riksarkivet Fr 10370 compared with Riksarkivet Fr 10407. Category E; compatibility is not identity.",
+    "score": 0.9385831417003,
+    "scores": {
+      "metadata": 0.9385831417003,
+      "metadata_coverage": 1.0,
+      "layout": 0.7101216316223145,
+      "embedding": 0.9583456516265869,
+      "embedding_raw": 0.9196301698684692,
+      "catalogue_text": 0.6666666666666666
+    },
+    "rank": 2,
+    "rank_interval": [
+      2,
+      2
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.734; this is not an identity probability.",
+      "written_cm: compatibility 0.897; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "shared catalogue content terms: magdalenae, mariae",
+      "Catalogue type: Antiphonarium / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion."
+    ],
+    "textual_musical_evidence": {
+      "left": "1rv Proprium de sanctis: Mariae Magdalenae.",
+      "right": "1rv Proprium de sanctis: Mariae visitatio ro AH 24, Nr. 36; Mariae Magdalenae.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        49.0,
+        32.5
+      ],
+      "right_leaf_cm": [
+        48.0,
+        34.5
+      ],
+      "left_written_cm": [
+        36.0,
+        23.0
+      ],
+      "right_written_cm": [
+        35.0,
+        23.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+      "https://sok.riksarkivet.se/bildvisning/R1010370",
+      "https://sok.riksarkivet.se/bildvisning/R1010407"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-12",
+    "left_id": "mpo-10370",
+    "right_id": "mpo-10437",
+    "classification": "E",
+    "originality": "Previously catalogued group",
+    "title": "Two members of Swedish MPO Codex 1505; broader Helsinki assignment remains qualified",
+    "summary": "Riksarkivet Fr 10370 compared with Riksarkivet Fr 10437. Category E; compatibility is not identity.",
+    "score": 0.9190288176781751,
+    "scores": {
+      "metadata": 0.9190288176781751,
+      "metadata_coverage": 1.0,
+      "layout": 0.6954848170280457,
+      "embedding": 0.9107835292816162,
+      "embedding_raw": 0.8678532838821411,
+      "catalogue_text": 0.0
+    },
+    "rank": 3,
+    "rank_interval": [
+      3,
+      3
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.777; this is not an identity probability.",
+      "written_cm: compatibility 0.738; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "Catalogue type: Antiphonarium / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion."
+    ],
+    "textual_musical_evidence": {
+      "left": "1rv Proprium de sanctis: Mariae Magdalenae.",
+      "right": "1rv Dedicatio: Dedicatio ecclesiae.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        49.0,
+        32.5
+      ],
+      "right_leaf_cm": [
+        48.0,
+        34.0
+      ],
+      "left_written_cm": [
+        36.0,
+        23.0
+      ],
+      "right_written_cm": [
+        34.0,
+        22.5
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+      "https://sok.riksarkivet.se/bildvisning/R1010370",
+      "https://sok.riksarkivet.se/bildvisning/R1010437"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-13",
+    "left_id": "mpo-10370",
+    "right_id": "mpo-10406",
+    "classification": "E",
+    "originality": "Previously catalogued group",
+    "title": "Two members of Swedish MPO Codex 1505; broader Helsinki assignment remains qualified",
+    "summary": "Riksarkivet Fr 10370 compared with Riksarkivet Fr 10406. Category E; compatibility is not identity.",
+    "score": 0.9093855762947195,
+    "scores": {
+      "metadata": 0.9093855762947195,
+      "metadata_coverage": 1.0,
+      "layout": 0.7035987973213196,
+      "embedding": 0.9569648504257202,
+      "embedding_raw": 0.8801974654197693,
+      "catalogue_text": 0.5833333333333333
+    },
+    "rank": 4,
+    "rank_interval": [
+      4,
+      4
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.509; this is not an identity probability.",
+      "written_cm: compatibility 0.948; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "shared catalogue content terms: magdalenae, mariae",
+      "Catalogue type: Antiphonarium / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion."
+    ],
+    "textual_musical_evidence": {
+      "left": "1rv Proprium de sanctis: Mariae Magdalenae.",
+      "right": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        49.0,
+        32.5
+      ],
+      "right_leaf_cm": [
+        43.0,
+        34.0
+      ],
+      "left_written_cm": [
+        36.0,
+        23.0
+      ],
+      "right_written_cm": [
+        35.5,
+        23.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+      "https://sok.riksarkivet.se/bildvisning/R1010370",
+      "https://sok.riksarkivet.se/bildvisning/R1010406"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-14",
+    "left_id": "mpo-10370",
+    "right_id": "mpo-1385",
+    "classification": "C",
+    "originality": "Previously suggested; not a new hypothesis",
+    "title": "A qualified catalogue association needing source and physical review",
+    "summary": "Riksarkivet Fr 10370 compared with Riksarkivet Fr 1385. Category C; compatibility is not identity.",
+    "score": 0.8997708041289282,
+    "scores": {
+      "metadata": 0.8997708041289282,
+      "metadata_coverage": 1.0,
+      "layout": 0.7399188876152039,
+      "embedding": 0.9263127446174622,
+      "embedding_raw": 0.8711996674537659,
+      "catalogue_text": 0.26666666666666666
+    },
+    "rank": 5,
+    "rank_interval": [
+      5,
+      5
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.596; this is not an identity probability.",
+      "written_cm: compatibility 0.803; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "shared catalogue content terms: mariae",
+      "Catalogue type: Antiphonarium / Antiphonarium OP.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion.",
+      "Keskiaho's 2018/2019 update remains unread, so a claim of present scholarly novelty is unavailable."
+    ],
+    "textual_musical_evidence": {
+      "left": "1rv Proprium de sanctis: Mariae Magdalenae.",
+      "right": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        49.0,
+        32.5
+      ],
+      "right_leaf_cm": [
+        43.5,
+        32.0
+      ],
+      "left_written_cm": [
+        36.0,
+        23.0
+      ],
+      "right_written_cm": [
+        34.0,
+        23.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+      "https://zenodo.org/records/17287665",
+      "https://sok.riksarkivet.se/bildvisning/R1010370",
+      "https://sok.riksarkivet.se/bildvisning/R1001385"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-15",
+    "left_id": "mpo-10406",
+    "right_id": "mpo-1385",
+    "classification": "C",
+    "originality": "Previously suggested; not a new hypothesis",
+    "title": "A qualified catalogue association needing source and physical review",
+    "summary": "Riksarkivet Fr 10406 compared with Riksarkivet Fr 1385. Category C; compatibility is not identity.",
+    "score": 0.9340964771844011,
+    "scores": {
+      "metadata": 0.9340964771844011,
+      "metadata_coverage": 1.0,
+      "layout": 0.7200924158096313,
+      "embedding": 0.9348044395446777,
+      "embedding_raw": 0.9075694680213928,
+      "catalogue_text": 0.19642857142857142
+    },
+    "rank": 1,
+    "rank_interval": [
+      1,
+      1
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.758; this is not an identity probability.",
+      "written_cm: compatibility 0.847; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "shared catalogue content terms: mariae",
+      "Catalogue type: Antiphonarium / Antiphonarium OP.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion.",
+      "Keskiaho's 2018/2019 update remains unread, so a claim of present scholarly novelty is unavailable."
+    ],
+    "textual_musical_evidence": {
+      "left": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi.",
+      "right": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        43.0,
+        34.0
+      ],
+      "right_leaf_cm": [
+        43.5,
+        32.0
+      ],
+      "left_written_cm": [
+        35.5,
+        23.0
+      ],
+      "right_written_cm": [
+        34.0,
+        23.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+      "https://zenodo.org/records/17287665",
+      "https://sok.riksarkivet.se/bildvisning/R1010406",
+      "https://sok.riksarkivet.se/bildvisning/R1001385"
+    ],
+    "discovery_claim": false
+  },
+  {
+    "id": "case-16",
+    "left_id": "mpo-10406",
+    "right_id": "mpo-10407",
+    "classification": "E",
+    "originality": "Previously catalogued group",
+    "title": "Two members of Swedish MPO Codex 1505; broader Helsinki assignment remains qualified",
+    "summary": "Riksarkivet Fr 10406 compared with Riksarkivet Fr 10407. Category E; compatibility is not identity.",
+    "score": 0.9276942495011582,
+    "scores": {
+      "metadata": 0.9276942495011582,
+      "metadata_coverage": 1.0,
+      "layout": 0.6751710772514343,
+      "embedding": 0.9358435273170471,
+      "embedding_raw": 0.9155694842338562,
+      "catalogue_text": 0.45
+    },
+    "rank": 2,
+    "rank_interval": [
+      2,
+      2
+    ],
+    "supporting": [
+      "manuscript type: compatibility 1.000; this is not an identity probability.",
+      "script: compatibility 1.000; this is not an identity probability.",
+      "notation: compatibility 1.000; this is not an identity probability.",
+      "staff_lines: compatibility 1.000; this is not an identity probability.",
+      "columns: compatibility 1.000; this is not an identity probability.",
+      "lines: compatibility 1.000; this is not an identity probability.",
+      "leaf_cm: compatibility 0.619; this is not an identity probability.",
+      "written_cm: compatibility 0.947; this is not an identity probability.",
+      "catalogue date range: compatibility 1.000; this is not an identity probability.",
+      "shared catalogue content terms: magdalenae, mariae",
+      "Catalogue type: Antiphonarium / Antiphonarium.",
+      "Notation: Quadr / Quadr."
+    ],
+    "against": [
+      "Compatibility score is not an identity probability.",
+      "Text/chant continuity, individual letterforms and physical joins have not been independently verified.",
+      "Current target-specific novelty is uncleared until later scholarship and expert review.",
+      "Image similarity can reflect shared script, notation, damage, capture background or workshop rather than one codex.",
+      "Source metadata may inherit reconstructed-group descriptions; it is not independent physical evidence.",
+      "No external specialist has adjudicated this computational suggestion."
+    ],
+    "textual_musical_evidence": {
+      "left": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi.",
+      "right": "1rv Proprium de sanctis: Mariae visitatio ro AH 24, Nr. 36; Mariae Magdalenae.",
+      "interpretation": "Catalogue contents are provided for inspection. Similar feast/chant texts do not prove book identity; no automatic note-level transcription is asserted."
+    },
+    "physical_evidence": {
+      "left_leaf_cm": [
+        43.0,
+        34.0
+      ],
+      "right_leaf_cm": [
+        48.0,
+        34.5
+      ],
+      "left_written_cm": [
+        35.5,
+        23.0
+      ],
+      "right_written_cm": [
+        35.0,
+        23.0
+      ]
+    },
+    "alternatives": [
+      "Same liturgical tradition or workshop, different books.",
+      "A previously catalogued relationship or alias.",
+      "Capture/metadata similarity without a historical relationship."
+    ],
+    "expert_verification_needed": "Check source identities and later bibliography; compare chants, scribal/notation details, opening signatures and original ruling on all relevant sides.",
+    "sources": [
+      "https://zenodo.org/records/17287665",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+      "https://sok.riksarkivet.se/bildvisning/R1010406",
+      "https://sok.riksarkivet.se/bildvisning/R1010407"
+    ],
+    "discovery_claim": false
+  }
+]

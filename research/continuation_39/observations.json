@@ -1,0 +1,181 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-27",
+  "annotations": [
+    {
+      "id": "I39-target-opening-signs",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Opening signs and notes above Dolor cessit cum remain unclassified in this test; no absolute pitch or complete opening transcription is asserted.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-1-1831px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=225,275,340,260"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "image_dimensions": [
+        1831,
+        1565
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Provisional manually located noteheads; see readings.v1/v2/v3.json for positions and alternatives.",
+      "normalized_candidate": null,
+      "observer": "Single Codex AI exploratory reading, no independent confirmation.",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Relative staff positions only; clefs and absolute pitches unverified.",
+        "Two target upper events remain unresolved; no full-melody, unique-branch or codex identity."
+      ],
+      "note_position_record": "research/continuation_39/readings.v3.json"
+    },
+    {
+      "id": "I39-target-nobis",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Selected Nobis vite spem staff positions are provisionally compatible with C23; the upper vi event remains uncertain. No exact seven-note or full-melody identity is accepted.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-1-1831px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=900,275,415,260"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "image_dimensions": [
+        1831,
+        1565
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Provisional manually located noteheads; see readings.v1/v2/v3.json for positions and alternatives.",
+      "normalized_candidate": "[[0], [2], [2], [3, 4], [0], [2], [2]]",
+      "observer": "Single Codex AI exploratory reading, no independent confirmation.",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Relative staff positions only; clefs and absolute pitches unverified.",
+        "Two target upper events remain unresolved; no full-melody, unique-branch or codex identity."
+      ],
+      "note_position_record": "research/continuation_39/readings.v3.json"
+    },
+    {
+      "id": "I39-C23-nobis",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "C23 Nobis vite spem supplies the reference contour. The vi upper event was clarified with the published score after retaining v1; this is literature-assisted, not independent adjudication.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_38/c23-69r-0139-2200px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=830,1035,415,230"
+        }
+      },
+      "fragment_id": "uub-c23-0139",
+      "source_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+      "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+      "image_dimensions": [
+        2200,
+        2920
+      ],
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Provisional manually located noteheads; see readings.v1/v2/v3.json for positions and alternatives.",
+      "normalized_candidate": "[[0], [2], [2], [3], [0], [2], [2]]",
+      "observer": "Single Codex AI exploratory reading, no independent confirmation.",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Relative staff positions only; clefs and absolute pitches unverified.",
+        "Two target upper events remain unresolved; no full-melody, unique-branch or codex identity."
+      ],
+      "note_position_record": "research/continuation_39/readings.v3.json"
+    },
+    {
+      "id": "I39-target-petition",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Selected Fac nos Virgo staff positions are provisionally compatible with C23. The upper nos event lies between nominal staff positions and remains unresolved, rather than declared a variant.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-1-1831px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=690,520,365,235"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "image_dimensions": [
+        1831,
+        1565
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Provisional manually located noteheads; see readings.v1/v2/v3.json for positions and alternatives.",
+      "normalized_candidate": "[[0], [1], [2], [3, 4], [3], [1], [0]]",
+      "observer": "Single Codex AI exploratory reading, no independent confirmation.",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Relative staff positions only; clefs and absolute pitches unverified.",
+        "Two target upper events remain unresolved; no full-melody, unique-branch or codex identity."
+      ],
+      "note_position_record": "research/continuation_39/readings.v3.json"
+    },
+    {
+      "id": "I39-C23-petition",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "C23 Fac nos Virgo provides a provisional relative contour of 0,1,2,3,3,1,0. These numbers are diatonic staff steps within this window, not semitones or absolute pitches.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_38/c23-69r-0139-2200px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=925,1250,430,225"
+        }
+      },
+      "fragment_id": "uub-c23-0139",
+      "source_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+      "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+      "image_dimensions": [
+        2200,
+        2920
+      ],
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Provisional manually located noteheads; see readings.v1/v2/v3.json for positions and alternatives.",
+      "normalized_candidate": "[[0], [1], [2], [3], [3], [1], [0]]",
+      "observer": "Single Codex AI exploratory reading, no independent confirmation.",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Relative staff positions only; clefs and absolute pitches unverified.",
+        "Two target upper events remain unresolved; no full-melody, unique-branch or codex identity."
+      ],
+      "note_position_record": "research/continuation_39/readings.v3.json"
+    }
+  ]
+}

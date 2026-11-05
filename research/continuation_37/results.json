@@ -1,0 +1,61 @@
+{
+  "version":"1.0.0",
+  "date":"2026-10-27",
+  "question":"Does retained Fr 20274 text distinguish one previously published Compassio Mariae antiphon version?",
+  "decision":"supported",
+  "scope":"Identification of the selected surviving Magnificat-antiphon ending only, not the entire office or a codex",
+  "new_source_observation":"Above its matins invitatory, Fr 20274 preserves the differentiating nobis vite spem porrexit / presidens in gloria / Fac nos Virgo ending of O Maria stans sub cruce. It does not reproduce the different tam prolixus / ille dulcis crucifixus ending visible on the retained older C23 71v page.",
+  "target_observations":["I37-20274-ending-1","I37-20274-ending-2","I37-20274-ending-3"],
+  "comparison_observations":["I37-C23-older-ending"],
+  "secondary_word_candidates":{
+    "cum_dum":"Target provisionally cum; the edition's C435 base text prints dum while its apparatus reports cum for C23, C21 and several other witnesses.",
+    "feruere_perfrui":"Target provisionally feruere; the apparatus reports this for C23, C21 and multiple other witnesses, versus perfrui in the edited base text.",
+    "limit":"Shared readings across several witnesses cannot identify one book, one exemplar or a unique transmission branch. C435 manuscript readings remain editorial reports pending originals."
+  },
+  "previously_published":{
+    "Urberg2016":{
+      "url":"https://doi.org/10.6082/uchicago.1751",
+      "record_url":"https://knowledge.uchicago.edu/records/ejwkr-nxd77",
+      "private_pdf":"research/scholarship/urberg2016.pdf",
+      "sha256":"d247384a4daa8bbf6abb22b9b06857edf698a6c5497aba2c06a52e3a3ef59639",
+      "md5":"1f0193e4c997d3a94e060d804a38aeda",
+      "locator":"Printed pp.247-267, especially pp.254-257; PDF273-293, especially PDF280-283; full relevant range read, figures checked.",
+      "statement":"The dissertation already analyses C23's textual and musical redactions and the replacement of its longer antiphons. Its historical reconstruction is prior scholarship, not this project's discovery.",
+      "read_status":"Relevant range read; the full 996-page PDF was text-searched, not read in its entirety."
+    },
+    "Hallqvist2020":{
+      "url":"https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf",
+      "private_pdf":"research/scholarship/hallqvist2020.pdf",
+      "sha256":"37bb1bf94130bf500cde0c10afccdcf4e21109ffe9999446653f071f1d82c5fa",
+      "locator":"Printed p.4 / PDF51 (shorter ending and apparatus); p.19 / PDF66 (older ending); introduction p.x / PDF15 (C435 photo access). Relevant complete pages visually checked.",
+      "statement":"The edition already prints the two versions and the cum/dum and feruere/perfrui witness distributions. Its edited text is kept separate from actual source readings."
+    }
+  },
+  "diagnostic_coverage":[
+    {"id":"Magnificat-I-ending","target":"Present in the three newly read upper rows; incipit missing","result":"Shorter-version ending supported; comparison against older C23 ending directly evaluable.","state":"supported"},
+    {"id":"responsory-text-redactions","target":"The three responsories are not visible in retained target images","result":"Cannot test the source's responsory-redaction diagnostics.","state":"not_testable"},
+    {"id":"responsory-melody-redactions","target":"Required passages absent from retained target images","result":"No melodic comparison, copying direction or revised-note match asserted.","state":"not_testable"},
+    {"id":"Benedictus-antiphon","target":"Required passage absent from retained target images","result":"Cannot test the other long-antiphon replacement.","state":"not_testable"},
+    {"id":"Magnificat-II-antiphon","target":"Required passage absent from retained target images","result":"Cannot test the final-vespers replacement.","state":"not_testable"},
+    {"id":"matins-hymn","target":"No written hymn entry in the retained transition, already noted by E20","result":"A difference of written scope does not establish which hymn was performed.","state":"unresolved"}
+  ],
+  "limits":[
+    "Exploratory literature-assisted AI reading, not independent confirmation.",
+    "The candidate incipit is inferred from the differentiating ending; the incipit itself is not retained.",
+    "One passage cannot assign the whole office to a single recension; mixed textual states remain possible.",
+    "A shared standard version is not a unique lineage, date, production-site or physical same-codex fingerprint.",
+    "Urberg's account concerns historical changes to C23; it does not date this target or establish dependence on C23.",
+    "The specific C23 added/replacement page 69r and C435 original pages are not locally inspected.",
+    "Full-text searches found none of the four target numbers checked, but this does not clear novelty or exclude other scholarship, identifiers or unindexed evidence.",
+    "No claim meets the project's original discovery standard, and none of the seven frozen ambiguous attribution cases is resolved."
+  ],
+  "access_dependency":"Current C435 catalogue search met an Anubis verification page and was stopped. Hallqvist's statement about author-held photographs is dated 2020, not a claim about universal present access.",
+  "next_test":"Inspect an explicitly identified, lawfully available C23 replacement page 69r and compare the retained target ending's original notation directly; re-read manuscript clefs and pitches before any melody claim. C435 originals could verify the reported lexical differences. Continue other unresolved attribution candidates independently.",
+  "new_download_bytes":425202182,
+  "working_source_files":177,
+  "conservative_download_plan_bytes":1640851781,
+  "new_codex_attribution":false,
+  "whole_office_recension_established":false,
+  "novelty_cleared":false,
+  "independent_confirmation":false
+}

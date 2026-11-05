@@ -1,0 +1,389 @@
+{
+  "assessment_date": "2026-10-24",
+  "method": {
+    "library": "opencv-python-headless",
+    "opencv_version": "4.13.0",
+    "sift": "OpenCV SIFT_create defaults",
+    "clahe": {
+      "clip_limit": 2.0,
+      "tile_grid": [
+        8,
+        8
+      ]
+    },
+    "ratio_test": 0.75,
+    "mutual": true,
+    "ransac": {
+      "model": "homography",
+      "reprojection_threshold_px": 3.0
+    },
+    "screen": {
+      "minimum_mutual_ratio_matches": 8,
+      "minimum_inliers": 8,
+      "minimum_axis_span_fraction_each_axis": 0.2
+    },
+    "scope": "Only the three predeclared ROIs; no new images, ROI changes, or parameter tuning."
+  },
+  "results": [
+    {
+      "id": "capture1_2",
+      "role": "candidate partial views of one surface",
+      "sources": [
+        {
+          "side": "left",
+          "capture_index_one_based": 1,
+          "path": "data/images/mpo-10370-capture-1-1700px.jpg",
+          "sha256": "07efe2e1f8f87f31156630a7fe5340f78600c78ddc31d7fad930e5ae81f8a409",
+          "roi_xywh": [
+            234,
+            1290,
+            1179,
+            127
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00001/full/1700,/0/default.jpg"
+        },
+        {
+          "side": "right",
+          "capture_index_one_based": 2,
+          "path": "data/images/mpo-10370-capture-2-1739px.jpg",
+          "sha256": "fe8019fd85f078f5f552e9aa4befbae21bee8522506a1f77385d032a0499ee58",
+          "roi_xywh": [
+            232,
+            25,
+            1163,
+            100
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00002/full/1739,/0/default.jpg"
+        }
+      ],
+      "keypoints": {
+        "left": 2870,
+        "right": 1588
+      },
+      "mutual_ratio_matches": 9,
+      "ratio": 0.75,
+      "ransac_reprojection_threshold_px": 3.0,
+      "inliers": 4,
+      "inlier_spans": {
+        "left": {
+          "x": 0.46568265557289124,
+          "y": 0.6691182255744934
+        },
+        "right": {
+          "x": 0.697781503200531,
+          "y": 0.5538318157196045
+        }
+      },
+      "homography": [
+        [
+          -1.89515927,
+          -1.75858786,
+          1475.24567738
+        ],
+        [
+          -0.01224328,
+          -0.14308405,
+          31.21145373
+        ],
+        [
+          -0.00100669,
+          0.00295944,
+          1.0
+        ]
+      ],
+      "median_inlier_reprojection_error_px": 0.0,
+      "candidate_ransac_inlier_correspondences": [
+        {
+          "left_xy": [
+            191.91,
+            91.16
+          ],
+          "right_xy": [
+            883.55,
+            14.69
+          ]
+        },
+        {
+          "left_xy": [
+            546.87,
+            6.18
+          ],
+          "right_xy": [
+            914.89,
+            50.52
+          ]
+        },
+        {
+          "left_xy": [
+            698.15,
+            58.81
+          ],
+          "right_xy": [
+            103.37,
+            30.24
+          ]
+        },
+        {
+          "left_xy": [
+            740.95,
+            12.37
+          ],
+          "right_xy": [
+            169.53,
+            70.08
+          ]
+        }
+      ],
+      "strong_registration_screen": false,
+      "outcome": "No accepted registration: fixed feature screen did not produce enough distributed RANSAC inliers."
+    },
+    {
+      "id": "capture3_4",
+      "role": "candidate partial views of one surface",
+      "sources": [
+        {
+          "side": "left",
+          "capture_index_one_based": 3,
+          "path": "data/images/mpo-10370-capture-3-1728px.jpg",
+          "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+          "roi_xywh": [
+            300,
+            1040,
+            1180,
+            193
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg"
+        },
+        {
+          "side": "right",
+          "capture_index_one_based": 4,
+          "path": "data/images/mpo-10370-capture-4-1742px.jpg",
+          "sha256": "2f2d35bf4253989714fda7877403a48bc4cd58bffa2e893469968546a9c1594f",
+          "roi_xywh": [
+            300,
+            0,
+            1180,
+            190
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00004/full/1742,/0/default.jpg"
+        }
+      ],
+      "keypoints": {
+        "left": 3725,
+        "right": 4599
+      },
+      "mutual_ratio_matches": 28,
+      "ratio": 0.75,
+      "ransac_reprojection_threshold_px": 3.0,
+      "inliers": 5,
+      "inlier_spans": {
+        "left": {
+          "x": 0.8494552373886108,
+          "y": 0.5472714900970459
+        },
+        "right": {
+          "x": 0.40028321743011475,
+          "y": 0.23619236052036285
+        }
+      },
+      "homography": [
+        [
+          -0.04573749,
+          -2.72024866,
+          423.37766049
+        ],
+        [
+          -0.0299861,
+          -0.64720491,
+          118.84105019
+        ],
+        [
+          -0.00021699,
+          -0.00575177,
+          1.0
+        ]
+      ],
+      "median_inlier_reprojection_error_px": 0.053055617958307266,
+      "candidate_ransac_inlier_correspondences": [
+        {
+          "left_xy": [
+            86.43,
+            116.66
+          ],
+          "right_xy": [
+            329.01,
+            131.66
+          ]
+        },
+        {
+          "left_xy": [
+            343.92,
+            144.01
+          ],
+          "right_xy": [
+            163.88,
+            157.83
+          ]
+        },
+        {
+          "left_xy": [
+            461.76,
+            118.89
+          ],
+          "right_xy": [
+            365.1,
+            129.62
+          ]
+        },
+        {
+          "left_xy": [
+            954.57,
+            132.8
+          ],
+          "right_xy": [
+            636.21,
+            147.06
+          ]
+        },
+        {
+          "left_xy": [
+            1088.79,
+            38.39
+          ],
+          "right_xy": [
+            495.72,
+            112.95
+          ]
+        }
+      ],
+      "strong_registration_screen": false,
+      "outcome": "No accepted registration: fixed feature screen did not produce enough distributed RANSAC inliers."
+    },
+    {
+      "id": "capture2_3_control",
+      "role": "different-surface text-boundary control",
+      "sources": [
+        {
+          "side": "left",
+          "capture_index_one_based": 2,
+          "path": "data/images/mpo-10370-capture-2-1739px.jpg",
+          "sha256": "fe8019fd85f078f5f552e9aa4befbae21bee8522506a1f77385d032a0499ee58",
+          "roi_xywh": [
+            650,
+            490,
+            740,
+            115
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00002/full/1739,/0/default.jpg"
+        },
+        {
+          "side": "right",
+          "capture_index_one_based": 3,
+          "path": "data/images/mpo-10370-capture-3-1728px.jpg",
+          "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+          "roi_xywh": [
+            345,
+            330,
+            1155,
+            85
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg"
+        }
+      ],
+      "keypoints": {
+        "left": 1460,
+        "right": 1847
+      },
+      "mutual_ratio_matches": 18,
+      "ratio": 0.75,
+      "ransac_reprojection_threshold_px": 3.0,
+      "inliers": 5,
+      "inlier_spans": {
+        "left": {
+          "x": 0.3957487642765045,
+          "y": 0.5399956703186035
+        },
+        "right": {
+          "x": 0.5581213235855103,
+          "y": 0.27671104669570923
+        }
+      },
+      "homography": [
+        [
+          -1.23638686,
+          -0.6895362,
+          1012.47024592
+        ],
+        [
+          -0.03305646,
+          0.33165598,
+          23.8822006
+        ],
+        [
+          -0.00100347,
+          0.00627247,
+          1.0
+        ]
+      ],
+      "median_inlier_reprojection_error_px": 0.11353373527526855,
+      "candidate_ransac_inlier_correspondences": [
+        {
+          "left_xy": [
+            380.86,
+            5.06
+          ],
+          "right_xy": [
+            828.38,
+            20.05
+          ]
+        },
+        {
+          "left_xy": [
+            468.79,
+            67.16
+          ],
+          "right_xy": [
+            406.39,
+            33.05
+          ]
+        },
+        {
+          "left_xy": [
+            474.26,
+            64.03
+          ],
+          "right_xy": [
+            412.74,
+            30.83
+          ]
+        },
+        {
+          "left_xy": [
+            672.9,
+            65.59
+          ],
+          "right_xy": [
+            183.75,
+            31.89
+          ]
+        },
+        {
+          "left_xy": [
+            673.71,
+            5.46
+          ],
+          "right_xy": [
+            490.57,
+            9.53
+          ]
+        }
+      ],
+      "strong_registration_screen": false,
+      "outcome": "No accepted registration: fixed feature screen did not produce enough distributed RANSAC inliers."
+    }
+  ],
+  "limits": "A passed feature screen would require independent visual review and cannot establish a medieval leaf, side, sequence or manuscript relationship. A failed screen cannot prove different faces.",
+  "source_downloads": 0,
+  "source_mutations": 0,
+  "new_discovery": false
+}

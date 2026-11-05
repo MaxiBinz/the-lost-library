@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-01",
+  "previous_turn": "E60 changed the evidence record with a conditional Fr10370/IV156 f8 opening comparison; package verification completed.",
+  "question": "What does the surviving final photographed material in Fr10370 imply for a possible position before the indexed IV156 f8 lauds opening, and can a different manuscript illustrate a non-immediate liturgical ordering?",
+  "prior_exposure": "All Fr10370 images, the candidate identification Gloriosa diei and the Barcelona indexed result were seen before this protocol. This is a post-exposure, unblinded source and falsification analysis, not preregistration.",
+  "predictions": ["A source showing Gloriosa followed by other items and then Haec corde compuncta would demonstrate that these two works can appear in that order without being physically adjacent.", "The example would not prove that Fr10370 and IV156 are related or that either has the same omitted material.", "If the Swedish photograph's ending is erased or incomplete, do not supply unobserved text as a physical page boundary."],
+  "alternatives": ["separate books sharing ordinary liturgy", "same book but nonconsecutive folios", "different office ordering", "a damaged surface or lost intervening text", "incorrect identification, side assignment, catalogue boundary or address", "repeated numbering or a composite book"],
+  "fixed_source": "data/images/mpo-10370-capture-4-1742px.jpg",
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

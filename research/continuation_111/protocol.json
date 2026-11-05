@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-04",
+  "question": "In uniquely matched included Swedish records, how often does the combined Columns field contain a numeric 1 or 2 when the original MPO spaltenzahl field is empty or explicitly NULL?",
+  "decision": "A nonzero count identifies records where the combined value cannot be interpreted as a directly supplied original column count. Zero would restrict this particular missingness concern. Neither outcome determines true historical layouts or the mapping's software cause.",
+  "population": "Included MPO rows in the pinned combined workbook with exact Fr number and Fr reference, uniquely matching an included raw MPO fragment_id. Count source blank and literal NULL separately. Report the full denominator and exclusions.",
+  "outputs": "Machine-readable counts and a few exact source-cell examples; no source data modified and no claim that original blank proves the true count is unknowable from images or other sources.",
+  "independence": "Post-discrepancy exploratory analysis of related published data; no human or independent external validation."
+}

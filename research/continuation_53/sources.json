@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "queries": [
+    "\"Jesu redemptor saeculi\" \"patris\" hymn",
+    "\"Jesu salvator saeculi\" \"redemptis\"",
+    "\"Tu fabricator omnium\" \"Jesu\"",
+    "\"Jesu redemptor saeculi\" \"verbum\" \"altissimi\""
+  ],
+  "references": [
+    {
+      "url": "https://cantusindex.org/id/008333",
+      "read_scope": "Search-indexed primary entry:All-Saints hymn, AH51/130, redemptis-ope continuation; direct open Cache miss, stopped without retry. No original reference manuscript or melody inspected."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/705834/",
+      "read_scope": "Primary indexed first-stanza record008333:01 in a different witness; local phrase comparison only, no copied witness position/melody."
+    },
+    {
+      "url": "https://cantusindex.org/genre/139?page=7",
+      "read_scope": "Primary indexed work listing distinguishes008333-related text from830177/830179. Direct open Cache miss, stopped; neither complete original reading nor a local rarity test."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/181934/",
+      "read_scope": "Primary indexed AachenG20 first-stanza record830177; candidate context only."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/181935/",
+      "read_scope": "Primary indexed AachenG20 sequence already records Tu-fabricator as830177a. This counters a novelty inference from omission in another selected full-text listing."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/496703/",
+      "read_scope": "Primary indexed Utrecht406 surrounding list records related830179 and Tu-fabricator. No exact local variant, service position or lineage is transferred."
+    }
+  ],
+  "catalogue_controls": "Existing E43 exact Beauvais reconstruction membership, E48 workbook rows and E50 source-control layout remain previously documented. This is not fresh independent adjudication.",
+  "local_transformations": "25592 captures2/3 viewed upright with an exact180-degree transpose of retained pixels. Source annotation coordinates stay in the original JPEG. Scratch rotations and candidate crops are excluded from the archive.",
+  "network_scope": "No retained-file acquisition. Search/web-reader traffic is unmeasured and covered by the existing reserve; no claim of zero lifetime traffic. No failed route retry, outreach, upload or publication.",
+  "novelty_cleared": false,
+  "independent_confirmation": false
+}

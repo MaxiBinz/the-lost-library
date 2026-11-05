@@ -1,0 +1,425 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-22",
+  "source": {
+    "author": "William Duba",
+    "title": "Finding the Prior Leaf: Manuscript Fragments and Original Codices",
+    "doi": "10.24446/j9en",
+    "article_url": "https://www.fragmentology.ms/article/view/4499",
+    "read_scope": "Complete article text, printed5–65/PDF7–67; selected methodological pages rendered and visually inspected",
+    "full_issue_pdf_sha256": "daa2a0a3ecebfeb40788a64f0313079ad8379612db565889fbb4e5772c7009af",
+    "downloaded_bytes": 26149638,
+    "copy": "private reading copy, excluded from release"
+  },
+  "method_page_map": {
+    "leaf_bifolium_and_orientation": {
+      "printed": [
+        7,
+        21
+      ],
+      "pdf": [
+        9,
+        23
+      ]
+    },
+    "calibrated_layout_and_text_extrapolation": {
+      "printed": [
+        23,
+        44
+      ],
+      "pdf": [
+        25,
+        46
+      ]
+    },
+    "missing_leaves_and_gatherings": {
+      "printed": [
+        44,
+        58
+      ],
+      "pdf": [
+        46,
+        60
+      ]
+    },
+    "image_calibration_and_scaling": {
+      "printed": [
+        61,
+        64
+      ],
+      "pdf": [
+        63,
+        66
+      ]
+    }
+  },
+  "scaling_consistency": {
+    "printed_page": 64,
+    "pdf_page": 66,
+    "prose_operation": "new_width_px = width_px * Smin / Sn",
+    "displayed_equation_operation": "new_width_px = width_px * Sn / Smin",
+    "source_verification": "Both operations verified on the rendered full page; not inferred only from PDF extraction order.",
+    "own_dimensional_derivation": "An object of length L at Sn pixels/mm has width L*Sn. At Smin pixels/mm its target width is L*Smin, requiring factor Smin/Sn.",
+    "conclusion": "Displayed equation reverses the prose ratio; use Smin/Sn to preserve physical dimensions.",
+    "classification": "Source-backed implementation correction / possible typographical erratum; not claimed first notice or new historical finding.",
+    "analytic_controls": [
+      {
+        "kind": "analytic scale-invariance control, not empirical manuscript data",
+        "width_px": 800,
+        "source_px_per_mm": 4,
+        "target_px_per_mm": 4,
+        "physical_width_mm": 200.0,
+        "prose_ratio_output_px": 800.0,
+        "displayed_ratio_output_px": 800.0,
+        "prose_ratio_preserves_physical_width": true,
+        "displayed_ratio_preserves_physical_width": true,
+        "displayed_ratio_physical_error_factor": 1.0
+      },
+      {
+        "kind": "analytic scale-invariance control, not empirical manuscript data",
+        "width_px": 800,
+        "source_px_per_mm": 8,
+        "target_px_per_mm": 4,
+        "physical_width_mm": 100.0,
+        "prose_ratio_output_px": 400.0,
+        "displayed_ratio_output_px": 1600.0,
+        "prose_ratio_preserves_physical_width": true,
+        "displayed_ratio_preserves_physical_width": false,
+        "displayed_ratio_physical_error_factor": 4.0
+      },
+      {
+        "kind": "analytic scale-invariance control, not empirical manuscript data",
+        "width_px": 1200,
+        "source_px_per_mm": 12,
+        "target_px_per_mm": 3,
+        "physical_width_mm": 100.0,
+        "prose_ratio_output_px": 300.0,
+        "displayed_ratio_output_px": 4800.0,
+        "prose_ratio_preserves_physical_width": true,
+        "displayed_ratio_preserves_physical_width": false,
+        "displayed_ratio_physical_error_factor": 16.0
+      }
+    ]
+  },
+  "capture_orientation_prerequisites": {
+    "fragments_sha256": "1243131507c1f72652cbb36507d2c9f0f6a24ea99fe9cfafd7c4387d33864080",
+    "queue_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "objects": [
+      {
+        "id": "finn-iv173",
+        "physical_object_id": "finn-iv173",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 2,
+        "distinct_source_view_keys": 2,
+        "source_view_keys": [
+          "('PDF page 1', None)",
+          "('PDF page 2', None)"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-10406",
+        "physical_object_id": "mpo-10406",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1010406_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1010406_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1010406_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1010406_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-1385",
+        "physical_object_id": "mpo-1385",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1001385_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1001385_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1001385_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1001385_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-20106",
+        "physical_object_id": "mpo-20106",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 0,
+        "distinct_source_view_keys": 0,
+        "source_view_keys": [],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-20274",
+        "physical_object_id": "mpo-20274",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 2,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1020274_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1020274_00002/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-25592",
+        "physical_object_id": "mpo-25592",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1025592_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1025592_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1025592_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1025592_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-4223",
+        "physical_object_id": "mpo-4223",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1004223_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1004223_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1004223_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1004223_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-8201",
+        "physical_object_id": "mpo-8201",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008201_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008201_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008201_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-8304",
+        "physical_object_id": "mpo-8304",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1008304_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008304_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008304_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008304_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-8311",
+        "physical_object_id": "mpo-8311",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1008311_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008311_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008311_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008311_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-8455",
+        "physical_object_id": "mpo-8455",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1008455_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008455_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008455_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008455_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      },
+      {
+        "id": "mpo-8994",
+        "physical_object_id": "mpo-8994",
+        "catalogued_leaves": 1,
+        "stored_capture_files": 4,
+        "distinct_source_view_keys": 4,
+        "source_view_keys": [
+          "https://lbiiif.riksarkivet.se/arkis!R1008994_00001/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008994_00002/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008994_00003/canvas",
+          "https://lbiiif.riksarkivet.se/arkis!R1008994_00004/canvas"
+        ],
+        "verified_recto_verso_assignment_from_this_check": false,
+        "reason": "Capture ordinals and resolution variants are not medieval side assignments; no source-side adjudication made by inventory audit."
+      }
+    ],
+    "pair_tests": [
+      {
+        "hypothesis": "H01",
+        "left_id": "mpo-1385",
+        "right_id": "mpo-20274",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H02",
+        "left_id": "mpo-1385",
+        "right_id": "mpo-10406",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H03",
+        "left_id": "mpo-20274",
+        "right_id": "mpo-8994",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H04",
+        "left_id": "finn-iv173",
+        "right_id": "mpo-1385",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H05",
+        "left_id": "finn-iv173",
+        "right_id": "mpo-25592",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H06",
+        "left_id": "mpo-8201",
+        "right_id": "mpo-8304",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H07",
+        "left_id": "mpo-8201",
+        "right_id": "mpo-20106",
+        "both_objects_have_images": false,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H08",
+        "left_id": "mpo-1385",
+        "right_id": "mpo-4223",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H09",
+        "left_id": "mpo-1385",
+        "right_id": "mpo-8311",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      },
+      {
+        "hypothesis": "H10",
+        "left_id": "mpo-1385",
+        "right_id": "mpo-8455",
+        "both_objects_have_images": true,
+        "direct_join_or_original_quire_conclusion_from_capture_ordinals": "not justified"
+      }
+    ],
+    "distinct_queue_records": 12,
+    "imaged_physical_objects": 11,
+    "distinct_stored_capture_files": 42,
+    "pairs_with_two_imaged_objects": 9,
+    "conclusion": "All available queue images pass stored hashes. Source capture grouping alone cannot orient leaves or establish any new same-book association."
+  },
+  "target_application": {
+    "hypotheses": [
+      "H01",
+      "H03"
+    ],
+    "fragment_id": "mpo-20274",
+    "view_a": "data/images/mpo-20274.jpg",
+    "view_b": "data/images/mpo-20274-capture-2.jpg",
+    "observation": "Existing overlapping upper/lower writing areas were visually rechecked. New resolution variants in the current store share the same source canvas IDs and are not new sides.",
+    "consequence": "Treat these as two views of an overlapping writing surface; do not derive recto-to-verso continuity or missing-leaf counts from their ordinals.",
+    "not_established": [
+      "Original recto/verso designation",
+      "A new physical association with another object",
+      "Calibrated staff spacing or original written dimensions from this pass"
+    ]
+  },
+  "protocol": [
+    {
+      "step": 1,
+      "action": "Separate object, source photograph and resolution derivative; attach source hashes and preserve catalogue wording.",
+      "record": "object_id, canvas_id, capture_index, derivative_of, sha256"
+    },
+    {
+      "step": 2,
+      "action": "Read enough exact text and inspect visible folds/paratext to test orientation; retain multiple orientations if clues conflict.",
+      "record": "literal transcription, pixel regions, orientation alternatives"
+    },
+    {
+      "step": 3,
+      "action": "Calibrate each photograph from explicit ruler ticks, validate distant intervals/axes, and record coordinate choices and perspective limits.",
+      "record": "tick coordinates, ruler units, px_per_mm, validation discrepancy"
+    },
+    {
+      "step": 4,
+      "action": "Compare staff or text-line intervals at a shared physical scale; measure intervals, not the count of baseline endpoints.",
+      "record": "source coordinate endpoints, interval count, physical estimate and uncertainty"
+    },
+    {
+      "step": 5,
+      "action": "Establish which actual edition/witness passage corresponds; test for variants, rubrics and missing material before any text-length extrapolation.",
+      "record": "edition identifiers/pages, exact source passage, variant ledger"
+    },
+    {
+      "step": 6,
+      "action": "For chant, do not substitute character counts for music-system capacity without validation: melisma, rubrics and varying notation density can change spacing.",
+      "record": "genre-specific applicability decision; abstain where density is not validated"
+    },
+    {
+      "step": 7,
+      "action": "Test proposed joins against unchanged positive and difficult-negative controls; treat folds and holes as potentially belonging to later reuse.",
+      "record": "positive/negative/unknown outcomes and contrary evidence"
+    },
+    {
+      "step": 8,
+      "action": "Report only the reconstruction constraints actually observed; leave side, gap and gathering extents unknown when prerequisites fail.",
+      "record": "supported constraint, alternatives, exact dependency"
+    }
+  ],
+  "independent_expert_review": false,
+  "new_historical_finding": false,
+  "limits": [
+    "One AI reading is not expert validation.",
+    "The source method does not automatically establish manuscript identity.",
+    "Numerical controls test dimensional consistency, not performance on historical labels.",
+    "No claim that the scaling inconsistency is unreported in existing errata.",
+    "No physical millimetre measurement is reported from the exploratory ruler crops."
+  ]
+}

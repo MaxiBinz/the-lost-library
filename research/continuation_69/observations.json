@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I69-8304-opening-corrected",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Re-reading of E49: the word after Katherina appears sollempni[a?], not sollempnitas; it is followed by suscipiat alacriter pia ma[...]. The image is lower-resolution, the reading is reference-exposed and requires independent palaeographic verification. The chant identification is provisional.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8304-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=205,310,660,155"
+        }
+      },
+      "fragment_id": "mpo-8304",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00004/full/1000,/0/default.jpg",
+      "sha256": "819f3dd18443e352d4162249aae929ff4b34fcc6cc1913e79dff267d11550529",
+      "image_dimensions": [
+        1000,
+        697
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Inclita sancte uirginis / katherine sollempni[a?] suscipiat alacriter pia ma[...]",
+      "normalized_candidate": "Inclita sanctae virginis Katherinae sollemnia suscipiat alacriter pia ma[...]",
+      "observer": "Codex AI, reference-exposed re-reading, 2026-11-02; model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Reading is provisional and based on the existing 1000-pixel image; higher-resolution request failed DNS.",
+        "The abbreviated end of ma[...] is not supplied and no independent reader or manuscript original has confirmed this reading.",
+        "This corrects a local transcription and does not establish a manuscript relationship or scholarly novelty."
+      ],
+      "supersedes": "I49-8304-opening (sollempnitas reading only)"
+    }
+  ]
+}

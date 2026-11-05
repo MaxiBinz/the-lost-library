@@ -1,0 +1,54 @@
+{
+  "version": "1.0.0",
+  "checked_at_utc": "2026-10-23T08:54:30Z",
+  "prior_route_review": {
+    "403_routes_not_retried": [
+      "https://fragmenta.kansalliskirjasto.fi/",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1610",
+      "https://api.finna.fi/v1/search?lookfor=F.m.II.44&limit=1"
+    ],
+    "earlier_legitimate_route": "19October official in-app browser read ofIV157 and official IV173viewer download; see existing research/evidence/finnish_access.json"
+  },
+  "browser_attempt": {
+    "requested_url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+    "method": "Normal institutional record navigation in a hidden in-app browser tab",
+    "observed_title": "Nur einen Moment…",
+    "observed_state": "Cloudflare security check; no catalogue page, viewer or PDFhref exposed",
+    "http_status_observed": null,
+    "retry_refresh_challenge_interaction": false,
+    "passive_later_observation": "Same live tab still showed the security check",
+    "tab_closed": true
+  },
+  "search_queries": [
+    "\"URN:NBN:fi-fd2011-fra0852\" \"F_m_IV_157\"",
+    "\"F.m.IV.157\" \"view\"",
+    "site:fragmenta.kansalliskirjasto.fi/handle/10024/1300 \"F. 7\" \"F. 8\"",
+    "site:fragmenta.kansalliskirjasto.fi/handle/10024/1299 \"F. 2\" \"F. 8\"",
+    "\"F.m.IV.156\" \"h\" \"Mariae Magdalenae\""
+  ],
+  "search_outcome": "OfficialIV157indexedtext readable; finalIV156query empty. No additional exactIV156passage or actual PDF/viewerhref obtained.",
+  "recorded_pdf_listing": {
+    "name": "F_m_IV_157.pdf",
+    "displayed_size": "42.31Mb",
+    "actual_href_observed": false,
+    "requested": false
+  },
+  "new_pdf_or_image_download_bytes": 0,
+  "web_html_transfer_bytes_measured": false,
+  "new_working_source_image_files": 0,
+  "artifacts": {
+    "iv157_browser_state.txt": {
+      "bytes": 1079,
+      "sha256": "fee868955f1d3df913b78322ed16e15333eb03f8688f9ac72c56e420b246b458"
+    },
+    "iv157_browser_state.png": {
+      "bytes": 42283,
+      "sha256": "620c767d9f2626aad1fba9ab78f4c2d18d631b3243569680c087def0867761f1"
+    },
+    "source_assertions.json": {
+      "bytes": 3240,
+      "sha256": "dc4138de614c0a2cfaf82983cd6d587cbb81f36e8021993bccde85739ca64692"
+    }
+  },
+  "hash_scope": "Hashes identify retained browser-state and selected assertion artifacts, not an original institutional HTTP body."
+}

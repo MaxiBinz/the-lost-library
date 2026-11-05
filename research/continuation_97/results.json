@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-03",
+  "source_regions": ["I97-8994-faint-after-est"],
+  "reused_regions": ["I40-8994-tempus-est"],
+  "result": "There are faint ochre marks after the last clearly read tempus est. A concordance-exposed ut is only a candidate; the marks have not been established as writing. The E40 description of an absolute visible endpoint should be read as the last clearly transcribed word.",
+  "finnish_comparison": "The IV.156 catalogue reports a range ff.9–11 beginning ut laborum; the physical Finnish page and the mark's function remain unexamined.",
+  "interpretation": "The marks cannot yet support or disprove an immediate text continuation; different layers, cue, offset or damage remain live alternatives.",
+  "same_book_newly_proved": false,
+  "adjacency_proved": false,
+  "catchword_proved": false,
+  "independent_confirmation": false,
+  "novelty_cleared": false
+}

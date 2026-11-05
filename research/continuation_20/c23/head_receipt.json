@@ -1,0 +1,23 @@
+{
+  "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0144.tiff",
+  "method": "HEAD",
+  "purpose": "Inspect size of one exact source file linked by the institutional viewer; no body transfer",
+  "checked_at_utc": "2026-10-23T09:00:58.230084+00:00",
+  "candidate_folio": "71v, unverified until source label/image inspection",
+  "bytes_received": 0,
+  "sandbox_attempt_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+  "status": 200,
+  "headers": {
+    "Date": "Fri, 23 Oct 2026 09:00:58 GMT",
+    "Server": "WildFly/10",
+    "Expires": "Fri, 06 Nov 2026 09:00:58 GMT",
+    "Cache-Control": "public, max-age=1209600",
+    "X-Powered-By": "Undertow/1",
+    "Content-Disposition": "attachment; filename=\"alvin-record_160517-ATTACHMENT-0144.tiff\"",
+    "Last-Modified": "Fri, 08 Sep 2017 13:47:45 GMT",
+    "Content-Type": "image/tiff",
+    "Connection": "close"
+  },
+  "final_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0144.tiff",
+  "header_policy": "Anonymous session cookie omitted; only public resource headers retained."
+}

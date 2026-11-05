@@ -1,0 +1,49 @@
+{
+  "experiment": "E31",
+  "date": "2026-10-25",
+  "question": "What do the official Fragmenta catalogue entries actually claim about same-codex, suggested, and stylistic links among F.m.IV.156, IV.157, IV.173, Ant 99, Fr 1385, Codex 1505, and Hy 49?",
+  "sources": {
+    "iv156": {
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+      "access": "Search-indexed official page text; direct open returned HTTP 403.",
+      "relevant_claims": [
+        "The entry describes a strong stylistic resemblance to F.m.IV.157.",
+        "Codex 1505 is listed as a suggested relationship."
+      ]
+    },
+    "iv157": {
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+      "access": "Search-indexed official page text; direct open returned HTTP 403.",
+      "relevant_claims": [
+        "The entry labels CCM Ant 99 and MPO Fr 1385 as from the same codex.",
+        "It lists Turku Ms. c and MPO Codex 1505 as suggested relationships.",
+        "Its folio 8 description gives the St Olaf section with the opening-signature notation '[k] iiijr - k [v]'."
+      ]
+    },
+    "iv173": {
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+      "access": "Official page opened directly; relevant text appeared in lines 60-72.",
+      "relevant_claims": [
+        "The entry describes a wider group of at least 18 sources with uniform stylistic traits and Åbo-diocesan liturgical use.",
+        "It labels CCM Ant 242 / Fr 29666 as from the same codex, while Hy 49 / Fr 25592 and Ant 99 are suggested relationships.",
+        "It includes Codex 1505 in the broader list of related sources, not as a same-codex assertion for IV.173."
+      ]
+    }
+  },
+  "local_crosscheck": {
+    "record_id": "mpo-8994",
+    "catalogue_foliation": "Old foliation: 1r IIII; 1v k.",
+    "possible_alignment": "The k/IV components may correspond to the F.m.IV.157 folio-8 opening-signature notation. This is an inference to test, not an established identity or join.",
+    "record_20278_content": "Olavi r. m.; Laurentii",
+    "record_8994_content": "1rv Proprium de sanctis: Olavi."
+  },
+  "outcome": "The published catalogue uses distinct relationship labels: same-codex, suggested, and stylistic-group membership. This clarifies prior art but establishes no new historical attribution. The possible k/IV signature alignment is a specific follow-up lead only.",
+  "limits": [
+    "The direct official F.m.IV.156 and IV.157 pages returned HTTP 403 in this route; their detailed wording was available from official-page search indexing.",
+    "The relevant Taitto printed discussion on pages 161-168 and Keskiaho's 2019 chapter have not been read in full.",
+    "No local image of Fr 20278 or F.m.IV.157 was available for the proposed source-image comparison.",
+    "The k/IV correspondence has not been independently transcribed from both physical pages; no join, common hand, or same-codex relationship is inferred from it.",
+    "The frozen queue and classifications are unchanged."
+  ],
+  "queue_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47"
+}

@@ -1,0 +1,230 @@
+{
+  "title": "Graduale Aboense: a documented surviving subset",
+  "status": "Previously documented reconstruction demonstration",
+  "description": "An Åbo-use gradual dated 1397–1406. These are separate source-backed continuity components, not a newly discovered codex or an inferred global page order.",
+  "historical_origin": "Åbo/Turku liturgical use; production attribution and date derive from the Finnish catalogue and prior scholarship.",
+  "dimensions": "Surviving Swedish catalogue dimensions around 33 × 23 cm, sometimes trimmed; original untrimmed size is not inferred.",
+  "liturgical_function": "Gradual: chants for the Mass, including the temporal cycle and saints' feasts.",
+  "credits": "National Library of Finland; National Archives of Sweden; Toivo Haapanen; Ilkka Taitto's published Graduale Aboense (2002).",
+  "sources": [
+    "https://fragmenta.kansalliskirjasto.fi/handle/10024/1610?show=full",
+    "https://zenodo.org/records/17287665",
+    "https://kirjat.finlit.fi/EN/page/product/graduale-aboense-1397-1406/21983?category=4949"
+  ],
+  "components": [
+    {
+      "title": "Continuity I · Pre-Lent",
+      "status": "documented",
+      "description": "The catalogue explicitly continues Fr 7960 leaf 2v into Fr 7961 leaf 1r. The two physical fragments each contain multiple leaves; this does not order their complete contents.",
+      "items": [
+        {
+          "missing": true,
+          "status": "unknown",
+          "label": "Unknown original position / extent",
+          "note": "Other leaves and their number are not reconstructed. This placeholder does not assert that exactly one leaf is missing."
+        },
+        {
+          "fragment_id": "mpo-7960",
+          "label": "Fr 7960 · catalogue leaf 2v",
+          "status": "documented",
+          "representative_image": false,
+          "note": "E36 selects this capture for its visible boundary passage. The final Esto mihi row ends refugium meum. A separate catchword es tu repeats the beginning of the next object's first text row, which continues et propter nomen tuum. This supports the already catalogued directional textual continuation. The named catalogue side is mapped provisionally from contents; this is an AI reading without independent confirmation.",
+          "image_available": true,
+          "source_url": "https://zenodo.org/records/17287665",
+          "image_path": "data/images/mpo-7960-capture-4.jpg",
+          "image_sha256": "65c7cbac6e61d94b549451390bf502ec735cc521f8a4800a9dd2f66082759cd9",
+          "passage_evidence": [
+            "I36-I-end",
+            "I36-I-catchword"
+          ],
+          "source_image_review": "research/continuation_36/results.json",
+          "mapping_status": "provisional_content_based"
+        },
+        {
+          "fragment_id": "mpo-7961",
+          "label": "Fr 7961 · catalogue leaf 1r",
+          "status": "documented",
+          "representative_image": false,
+          "note": "E36 selects this capture for its visible boundary passage. The final Esto mihi row ends refugium meum. A separate catchword es tu repeats the beginning of the next object's first text row, which continues et propter nomen tuum. This supports the already catalogued directional textual continuation. The named catalogue side is mapped provisionally from contents; this is an AI reading without independent confirmation.",
+          "image_available": true,
+          "source_url": "https://zenodo.org/records/17287665",
+          "image_path": "data/images/mpo-7961.jpg",
+          "image_sha256": "0ce3650d26aabb22cab41c6e7c53ed351ab8bd1f7255c31646626adbaa43d8f2",
+          "passage_evidence": [
+            "I36-I-start"
+          ],
+          "source_image_review": "research/continuation_36/results.json",
+          "mapping_status": "provisional_content_based"
+        },
+        {
+          "missing": true,
+          "status": "unknown",
+          "label": "Unknown original position / extent",
+          "note": "Other leaves and their number are not reconstructed. This placeholder does not assert that exactly one leaf is missing."
+        }
+      ],
+      "source_image_review": "supported",
+      "link_label": "catalogued continuation; exact text support",
+      "source_url": "../research/continuation_36/results.json",
+      "source_label": "E36 source-image review and limits"
+    },
+    {
+      "title": "Continuity II · After Easter",
+      "status": "documented",
+      "description": "Fr 8343 leaf 1v continues in Fr 8344 leaf 1r, according to the catalogue. Fr 8344 is described as an inner bifolium.",
+      "items": [
+        {
+          "missing": true,
+          "status": "unknown",
+          "label": "Unknown original position / extent",
+          "note": "Other leaves and their number are not reconstructed. This placeholder does not assert that exactly one leaf is missing."
+        },
+        {
+          "fragment_id": "mpo-8343",
+          "label": "Fr 8343 · catalogue leaf 1v",
+          "status": "documented",
+          "representative_image": false,
+          "note": "E36 selects this capture for its visible boundary passage. Fr 8343's selected capture ends an Ego sum pastor bonus passage and then writes Alleluia. Fr 8344 capture 3 opens Surrexit Christus et illuxit. This is consistent with the catalogued sequence but is only a generic chant boundary; it does not independently establish immediate adjacency. The named catalogue side is mapped provisionally from contents; this is an AI reading without independent confirmation.",
+          "image_available": true,
+          "source_url": "https://zenodo.org/records/17287665",
+          "image_path": "data/images/mpo-8343-capture-2.jpg",
+          "image_sha256": "0f0ed5c8fe227f769de0b41283b96cc3d200ebcd830066bb463cc221a4839c5d",
+          "passage_evidence": [
+            "I36-II-end"
+          ],
+          "source_image_review": "research/continuation_36/results.json",
+          "mapping_status": "provisional_content_based"
+        },
+        {
+          "fragment_id": "mpo-8344",
+          "label": "Fr 8344 · catalogue leaf 1r",
+          "status": "documented",
+          "representative_image": false,
+          "note": "E36 selects this capture for its visible boundary passage. Fr 8343's selected capture ends an Ego sum pastor bonus passage and then writes Alleluia. Fr 8344 capture 3 opens Surrexit Christus et illuxit. This is consistent with the catalogued sequence but is only a generic chant boundary; it does not independently establish immediate adjacency. The named catalogue side is mapped provisionally from contents; this is an AI reading without independent confirmation.",
+          "image_available": true,
+          "source_url": "https://zenodo.org/records/17287665",
+          "image_path": "data/images/mpo-8344-capture-3.jpg",
+          "image_sha256": "efebf8a1380a6dc340d6f2c2586e5e16f8367446998bbbbd79362c8bf3bdbb17",
+          "passage_evidence": [
+            "I36-II-start"
+          ],
+          "source_image_review": "research/continuation_36/results.json",
+          "mapping_status": "provisional_content_based"
+        },
+        {
+          "missing": true,
+          "status": "unknown",
+          "label": "Unknown original position / extent",
+          "note": "Other leaves and their number are not reconstructed. This placeholder does not assert that exactly one leaf is missing."
+        }
+      ],
+      "source_image_review": "unresolved",
+      "link_label": "catalogued continuation; generic boundary only",
+      "source_url": "../research/continuation_36/results.json",
+      "source_label": "E36 source-image review and limits"
+    },
+    {
+      "title": "Continuity III · Returning to the outer leaf",
+      "status": "documented",
+      "description": "The catalogue also continues Fr 8344 leaf 2v into Fr 8343 leaf 2r. This interleaving is why fragments must not be displayed as a simple whole-record linear book.",
+      "items": [
+        {
+          "missing": true,
+          "status": "unknown",
+          "label": "Unknown original position / extent",
+          "note": "Other leaves and their number are not reconstructed. This placeholder does not assert that exactly one leaf is missing."
+        },
+        {
+          "fragment_id": "mpo-8344",
+          "label": "Fr 8344 · catalogue leaf 2v",
+          "status": "documented",
+          "representative_image": false,
+          "note": "E36 selects this capture for its visible boundary passage. The final row Iubilate deo ... psalmum dicite nomini eius is continued by date gloriam laudi eius at the top of the other object, before the doxology cue and next Alleluia. This supports the previously catalogued direction of the Vocem iucunditatis verse continuation. The named catalogue side is mapped provisionally from contents; this is an AI reading without independent confirmation.",
+          "image_available": true,
+          "source_url": "https://zenodo.org/records/17287665",
+          "image_path": "data/images/mpo-8344-capture-2.jpg",
+          "image_sha256": "7c417b359fa684a43590b6ee5339ea5e3bbc48f0aae793eb2d3f4fa2a5e0b302",
+          "passage_evidence": [
+            "I36-III-end"
+          ],
+          "source_image_review": "research/continuation_36/results.json",
+          "mapping_status": "provisional_content_based"
+        },
+        {
+          "fragment_id": "mpo-8343",
+          "label": "Fr 8343 · catalogue leaf 2r",
+          "status": "documented",
+          "representative_image": false,
+          "note": "E36 selects this capture for its visible boundary passage. The final row Iubilate deo ... psalmum dicite nomini eius is continued by date gloriam laudi eius at the top of the other object, before the doxology cue and next Alleluia. This supports the previously catalogued direction of the Vocem iucunditatis verse continuation. The named catalogue side is mapped provisionally from contents; this is an AI reading without independent confirmation.",
+          "image_available": true,
+          "source_url": "https://zenodo.org/records/17287665",
+          "image_path": "data/images/mpo-8343-capture-3.jpg",
+          "image_sha256": "3343f9bce0770259f2d7b1fce86f02d56b2905eb1378d580a96f7d50872a7cf8",
+          "passage_evidence": [
+            "I36-III-start"
+          ],
+          "source_image_review": "research/continuation_36/results.json",
+          "mapping_status": "provisional_content_based"
+        },
+        {
+          "missing": true,
+          "status": "unknown",
+          "label": "Unknown original position / extent",
+          "note": "Other leaves and their number are not reconstructed. This placeholder does not assert that exactly one leaf is missing."
+        }
+      ],
+      "source_image_review": "supported",
+      "link_label": "catalogued continuation; exact text support",
+      "source_url": "../research/continuation_36/results.json",
+      "source_label": "E36 source-image review and limits"
+    },
+    {
+      "title": "Other surviving witnesses · position unplaced",
+      "status": "unknown",
+      "description": "These belong to the published book grouping, but no physical adjacency to the components above is asserted here.",
+      "items": [
+        {
+          "fragment_id": "mpo-7957",
+          "label": "Fr 7957 · Advent",
+          "status": "documented",
+          "representative_image": true,
+          "note": "Catalogue contents: Advent temporal cycle. The displayed image is a representative source capture; its ordinal is not an independently verified folio-side mapping.",
+          "image_available": true,
+          "source_url": "https://zenodo.org/records/17287665"
+        },
+        {
+          "missing": true,
+          "status": "unknown",
+          "label": "Unknown original position / extent",
+          "note": "Other leaves and their number are not reconstructed. This placeholder does not assert that exactly one leaf is missing."
+        },
+        {
+          "fragment_id": "mpo-9242",
+          "label": "Fr 9242 · Christmas / Epiphany",
+          "status": "documented",
+          "representative_image": true,
+          "note": "Catalogue contents: Christmas season, Circumcision and Epiphany. The displayed image is a representative source capture; its ordinal is not an independently verified folio-side mapping.",
+          "image_available": true,
+          "source_url": "https://zenodo.org/records/17287665"
+        },
+        {
+          "missing": true,
+          "status": "unknown",
+          "label": "Unknown original position / extent",
+          "note": "Other leaves and their number are not reconstructed. This placeholder does not assert that exactly one leaf is missing."
+        }
+      ]
+    }
+  ],
+  "music": {
+    "status": "Audio withheld: no verified note-level transcription",
+    "available": false,
+    "explanation": "Square notation and chant texts are visible, but cropped/folded captures and uncertain page-side mapping do not supply an expert-checked melodic transcription. No notes, recordings or missing pages have been invented. Catalogue chant/feast identifications remain available in each fragment record."
+  },
+  "limits": [
+    "This is a documented subset demonstration, not a novel reconstruction.",
+    "Local continuities do not establish global foliation or a complete quire structure.",
+    "First captures may show only part of a folded fragment; source page positions are distinguished from image ordinals.",
+    "The Finnish collection's other leaves and Fr 28175 have not all been acquired."
+  ]
+}

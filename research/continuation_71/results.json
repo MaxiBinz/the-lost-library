@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "source_description": "The existing MPO export reports one leaf for Fr 20106 and lists Clement, Catherine, Barbara and Novo decurrens lumine lascivit sol in virgine. The raw BOMPAC workbook repeats the description and is not independent evidence.",
+  "published_association": "Grajewski 2022 p.293 associates Fr 20106 and 8201 citing a Catherine antiphon continuation; the source image of Fr 20106 remains uninspected.",
+  "conditional_test": "If primary evidence establishes that the Catherine prefix and a later Barbara passage occupy the same intact original Fr 20106 leaf, and the Fr 8201 continuation must physically fall between them, the ordinary single-leaf ordering cannot satisfy that sequence. None of those decisive premises follows from the catalogue content list.",
+  "limits": "The catalogue does not supply side mapping or guarantee sequence, object completeness, or a physical join. Alternative structures, including a bifolium, repeated material, mistaken descriptions and different orderings remain possible. This is a conditional test, not a historical contradiction or a refutation.",
+  "next_test": "Obtain securely identified views or an authoritative detailed description of both sides of Fr 20106; record its physical extent, side order, Catherine and Barbara positions and literal readings, then compare the relevant text boundary with Fr 8201.",
+  "fr20106_image_inspected": false,
+  "side_order_verified": false,
+  "historical_contradiction_established": false,
+  "published_association_refuted": false,
+  "published_exclusion_refuted": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "saved_new_source_images": 0,
+  "saved_download_bytes": 0
+}

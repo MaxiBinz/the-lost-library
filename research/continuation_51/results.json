@@ -1,0 +1,159 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "selected_lead": "pair-d964f842625525837cb2",
+  "pair": [
+    "mpo-10370",
+    "mpo-20274"
+  ],
+  "metadata_audit": {
+    "checked_releases": [
+      {
+        "id": 19046496,
+        "conceptrecid": "17511104",
+        "doi": "10.5281/zenodo.19046496",
+        "version": "v1.1",
+        "publication_date": "2026-03-16",
+        "relations": {
+          "version": [
+            {
+              "index": 1,
+              "is_last": true,
+              "parent": {
+                "pid_type": "recid",
+                "pid_value": "17511104"
+              }
+            }
+          ]
+        },
+        "description_html": "<p>The <em>Books of the Medieval Parish Church</em> (BOMPAC) project (2021&ndash;2025), hosted by the National Library of Finland, systematically produced and edited metadata on medieval parchment fragments reused by the Swedish tax administration as soft covers for account booklets between c. 1540 and 1630.</p>\n<p>This dataset brings together selected parts of the project&rsquo;s research data into a single spreadsheet, covering the entire currently identified corpus of approximately 29,000 fragments.</p>\n<p>Version v1.1 adds the data (unchanged) in csv format.</p>"
+      },
+      {
+        "id": 19047125,
+        "conceptrecid": "17701359",
+        "doi": "10.5281/zenodo.19047125",
+        "version": "v1.1",
+        "publication_date": "2026-03-16",
+        "relations": {
+          "version": [
+            {
+              "index": 1,
+              "is_last": true,
+              "parent": {
+                "pid_type": "recid",
+                "pid_value": "17701359"
+              }
+            }
+          ]
+        },
+        "description_html": "<p><span lang=\"EN-GB\">The <em>Books of the Medieval Parish Church</em> (BOMPAC) project (2021&ndash;2025), hosted by the National Library of Finland, systematically produced and edited metadata on medieval parchment fragments reused by the Swedish tax administration as soft covers for account booklets between c. 1540 and 1630. For the most part, these fragments are listed in either the <em>Medeltida pergamentomslag </em>(National Archives of Sweden) or the <em>Fragmenta membranea</em> (National Library of Finland) database. </span></p>\n<p>This dataset presents the project&rsquo;s research data, in lightly edited form, as it stood at the conclusion of the project.</p>\n<p>Version v1.1: adds the data in csv format with the data unchanged.</p>"
+      }
+    ],
+    "file_comparisons": [
+      {
+        "label": "combined_workbook",
+        "path": "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx",
+        "file": "Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx",
+        "bytes": 8219923,
+        "published_current_md5": "ae9572cd4df5e5bccc241e8423ddf0c1",
+        "sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+        "original_receipt_md5_matches": true,
+        "local_bytes_verified_in_this_execution": true,
+        "current_version_record": 19046496,
+        "doi": "10.5281/zenodo.19046496"
+      },
+      {
+        "label": "combined_readme",
+        "path": "research/continuation_26/bompac/Readme-Sto-Hel-Frs-Combined-BOMPAC.pdf",
+        "file": "Readme-Sto-Hel-Frs-Combined-BOMPAC.pdf",
+        "bytes": 354385,
+        "published_current_md5": "277c9e39fa987139607f76ed2f3168e6",
+        "sha256": "d393b46426122666acdb5b2d9fe59a1ddcedbcc062f4b9294d461b8540c98d12",
+        "original_receipt_md5_matches": true,
+        "local_bytes_verified_in_this_execution": true,
+        "current_version_record": 19046496,
+        "doi": "10.5281/zenodo.19046496"
+      },
+      {
+        "label": "raw_mpo_workbook",
+        "path": "research/continuation_26/bompac/raw_metadata/MPO_BOMPAC.xlsx",
+        "file": "MPO_BOMPAC.xlsx",
+        "bytes": 12303416,
+        "published_current_md5": "6aaea1e3ba1a60355dfb6c649fc7baff",
+        "sha256": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9",
+        "original_receipt_md5_matches": true,
+        "local_bytes_verified_in_this_execution": true,
+        "current_version_record": 19047125,
+        "doi": "10.5281/zenodo.19047125"
+      },
+      {
+        "label": "raw_readme",
+        "path": "research/continuation_26/bompac/raw_metadata/Readme-Raw-Metadata-BOMPAC.pdf",
+        "file": "Readme-Raw-Metadata-BOMPAC.pdf",
+        "bytes": 376495,
+        "published_current_md5": "cbde32835ab0acc379117354cdf06c4b",
+        "sha256": "787f89736e6ac58f0a860b2c02bc4b62b06b313a3d33041c79082b03d6732092",
+        "original_receipt_md5_matches": true,
+        "local_bytes_verified_in_this_execution": true,
+        "current_version_record": 19047125,
+        "doi": "10.5281/zenodo.19047125"
+      },
+      {
+        "label": "kaasik_commentary",
+        "path": "research/continuation_26/bompac/raw_metadata/MPO_commentary_Holger_Kaasik.pdf",
+        "file": "MPO_commentary_Holger_Kaasik.pdf",
+        "bytes": 671637,
+        "published_current_md5": "38cd079e03c0030cbccfefe5dd2436a5",
+        "sha256": "455f9b0444f758d81480c4e1868e31c21e0274a57665f4ab96c54cef0019e5de",
+        "original_receipt_md5_matches": true,
+        "local_bytes_verified_in_this_execution": true,
+        "current_version_record": 19047125,
+        "doi": "10.5281/zenodo.19047125"
+      }
+    ],
+    "both_workbooks_identical_to_retained_bytes": true,
+    "release_change_as_stated_by_publisher": "v1.1 adds CSV with data unchanged.",
+    "new_csv_bytes_downloaded_or_checked": false,
+    "current_xlsx_assignment_scope": "The latest public records returned on2026-10-30 distribute the identical two retained workbooks. E48 exact-cell findings, including4861 co-assignment of8201/8304, therefore apply to this current XLSX distribution. No CSV equivalence, historical correctness or novelty is independently established.",
+    "independent_confirmation": false,
+    "novelty_cleared": false
+  },
+  "metadata_response_bytes": 31373,
+  "source_regions": [
+    "I51-20274-upper-sign",
+    "I51-20274-library-label",
+    "I51-10370-reuse-heading",
+    "I51-10370-edge-strip"
+  ],
+  "reused_source_regions": [
+    "V-10370-mark",
+    "V-10370-kmark",
+    "I33-8994-roman",
+    "I33-8994-k"
+  ],
+  "target_photo_views_inspected": 6,
+  "control_photo_views_inspected": 2,
+  "new_source_files": 0,
+  "working_source_files_after": 194,
+  "conservative_transfer_plan_after": 1671104323,
+  "direct_result": "All six retained target photographs and two selected8994 mark controls were inspected.10370's already recorded ij/II and k-like marks are visible again.20274 has a red upper-margin glyph whose reading/function remain uncertain, and a later pencil identifier corresponding to its catalogue reference. No secure comparable original address was recovered across this pair.",
+  "interpretation": "The available images do not establish a shared original folio/quire address or a conflicting address. Similar red ink, punctuation and k-like shape within the wider group are compatible with several books using a shared convention. An unread sign, different addresses and later identifiers cannot decide same-codex identity. The historical relationship stays unresolved.",
+  "primary_pair_test_executed": true,
+  "primary_pair_test_completed": true,
+  "all_planned_target_views_inspected": true,
+  "initial_primary_comparison_recorded": true,
+  "primary_pair_test_scope": "The fixed six-view margin/address audit is completed; original side mapping and historical same-codex adjudication remain incomplete.",
+  "historical_same_codex_adjudication_complete": false,
+  "secure_comparable_original_address_recovered": false,
+  "shared_original_address_established": false,
+  "conflicting_original_address_established": false,
+  "new_historical_exclusion": false,
+  "new_20106_crosswalk": false,
+  "decision_state": "unresolved",
+  "primary_pair_tests_still_pending": 29,
+  "next_test": "Continue a different existing source-only pair with a discriminating textual or physical test. Revisit10370/20274 addressing only with securely readable original marks, an explicit addressing convention and original surface/context mapping; do not repeat generic glyph resemblance. Keep the unread Finnish scholarship and original comparator images as claim-specific dependencies.",
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "goal_complete": false,
+  "global_blocker_established": false
+}

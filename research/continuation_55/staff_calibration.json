@@ -1,0 +1,1328 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "selection": "Existing E39 head anchors retained unchanged; manually located rule search bands after raw-source exposure.",
+  "scope": "Local geometric position only; no independent pitch/neume adjudication.",
+  "anchor_shift_sensitivity_pixels": [
+    -3,
+    0,
+    3
+  ],
+  "rule_vertical_shift_sensitivity_pixels": [
+    -2,
+    0,
+    2
+  ],
+  "windows": {
+    "target:nobis-vite-spem": {
+      "search": {
+        "x": [
+          850,
+          1330
+        ],
+        "bands": [
+          [
+            302,
+            335
+          ],
+          [
+            338,
+            371
+          ],
+          [
+            376,
+            407
+          ],
+          [
+            412,
+            442
+          ]
+        ]
+      },
+      "models": [
+        {
+          "threshold_r_minus_g": 20,
+          "threshold_r_minus_b": 15,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.023880771591481408,
+              "intercept": 344.5636442686352,
+              "selected_columns": 403,
+              "inlier_columns": 403,
+              "residual_abs_p95": 0.7409580239424031
+            },
+            {
+              "valid": true,
+              "slope": -0.023040278770875437,
+              "intercept": 379.6375534733092,
+              "selected_columns": 433,
+              "inlier_columns": 433,
+              "residual_abs_p95": 0.5928112592629644
+            },
+            {
+              "valid": true,
+              "slope": -0.020693096541217735,
+              "intercept": 413.08783701499,
+              "selected_columns": 480,
+              "inlier_columns": 480,
+              "residual_abs_p95": 0.6955988451918071
+            },
+            {
+              "valid": true,
+              "slope": -0.01957544303577718,
+              "intercept": 447.28369518747917,
+              "selected_columns": 480,
+              "inlier_columns": 480,
+              "residual_abs_p95": 0.644910923549963
+            }
+          ],
+          "valid": true
+        },
+        {
+          "threshold_r_minus_g": 25,
+          "threshold_r_minus_b": 20,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.023625643845168135,
+              "intercept": 344.2836317464759,
+              "selected_columns": 403,
+              "inlier_columns": 403,
+              "residual_abs_p95": 0.8465655771426325
+            },
+            {
+              "valid": true,
+              "slope": -0.022330146427994402,
+              "intercept": 378.90869316277553,
+              "selected_columns": 432,
+              "inlier_columns": 432,
+              "residual_abs_p95": 0.6644241119114213
+            },
+            {
+              "valid": true,
+              "slope": -0.021268864014167048,
+              "intercept": 413.6453440101015,
+              "selected_columns": 480,
+              "inlier_columns": 480,
+              "residual_abs_p95": 0.719766397098223
+            },
+            {
+              "valid": true,
+              "slope": -0.020020784595419335,
+              "intercept": 447.6907698167092,
+              "selected_columns": 480,
+              "inlier_columns": 480,
+              "residual_abs_p95": 0.7046159597044945
+            }
+          ],
+          "valid": true
+        },
+        {
+          "threshold_r_minus_g": 35,
+          "threshold_r_minus_b": 25,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.023795193190595747,
+              "intercept": 344.50059461529816,
+              "selected_columns": 386,
+              "inlier_columns": 386,
+              "residual_abs_p95": 0.84562337781297
+            },
+            {
+              "valid": true,
+              "slope": -0.02273218239970754,
+              "intercept": 379.2616631016679,
+              "selected_columns": 417,
+              "inlier_columns": 417,
+              "residual_abs_p95": 0.7010157861526635
+            },
+            {
+              "valid": true,
+              "slope": -0.02118685953498068,
+              "intercept": 413.5945417966946,
+              "selected_columns": 480,
+              "inlier_columns": 480,
+              "residual_abs_p95": 0.6754332619714937
+            },
+            {
+              "valid": true,
+              "slope": -0.0201296989136239,
+              "intercept": 447.8896402997265,
+              "selected_columns": 480,
+              "inlier_columns": 480,
+              "residual_abs_p95": 0.7739491002565472
+            }
+          ],
+          "valid": true
+        }
+      ]
+    },
+    "target:fac-nos-virgo": {
+      "search": {
+        "x": [
+          720,
+          1100
+        ],
+        "bands": [
+          [
+            518,
+            544
+          ],
+          [
+            552,
+            580
+          ],
+          [
+            590,
+            618
+          ],
+          [
+            628,
+            656
+          ]
+        ]
+      },
+      "models": [
+        {
+          "threshold_r_minus_g": 20,
+          "threshold_r_minus_b": 15,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.017691604512496736,
+              "intercept": 546.7734090409576,
+              "selected_columns": 380,
+              "inlier_columns": 380,
+              "residual_abs_p95": 0.5287656050611761
+            },
+            {
+              "valid": true,
+              "slope": -0.018966143153783376,
+              "intercept": 583.9457598299448,
+              "selected_columns": 380,
+              "inlier_columns": 380,
+              "residual_abs_p95": 0.7166349052569219
+            },
+            {
+              "valid": true,
+              "slope": -0.018520444470108775,
+              "intercept": 620.0012112769521,
+              "selected_columns": 349,
+              "inlier_columns": 349,
+              "residual_abs_p95": 0.7783738137980208
+            },
+            {
+              "valid": true,
+              "slope": -0.019553360716960667,
+              "intercept": 657.6807569763221,
+              "selected_columns": 350,
+              "inlier_columns": 350,
+              "residual_abs_p95": 0.6524836937054205
+            }
+          ],
+          "valid": true
+        },
+        {
+          "threshold_r_minus_g": 25,
+          "threshold_r_minus_b": 20,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.017743270565002762,
+              "intercept": 546.6743466841331,
+              "selected_columns": 380,
+              "inlier_columns": 380,
+              "residual_abs_p95": 0.563889775807536
+            },
+            {
+              "valid": true,
+              "slope": -0.019312661080537058,
+              "intercept": 584.2714442001168,
+              "selected_columns": 380,
+              "inlier_columns": 380,
+              "residual_abs_p95": 0.7029186699792606
+            },
+            {
+              "valid": true,
+              "slope": -0.017950352493442612,
+              "intercept": 619.4694307051658,
+              "selected_columns": 342,
+              "inlier_columns": 342,
+              "residual_abs_p95": 0.7362125014040314
+            },
+            {
+              "valid": true,
+              "slope": -0.01963384281650389,
+              "intercept": 657.7441364500443,
+              "selected_columns": 348,
+              "inlier_columns": 348,
+              "residual_abs_p95": 0.6068004931917582
+            }
+          ],
+          "valid": true
+        },
+        {
+          "threshold_r_minus_g": 35,
+          "threshold_r_minus_b": 25,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.018549315657165125,
+              "intercept": 547.3350762744021,
+              "selected_columns": 380,
+              "inlier_columns": 380,
+              "residual_abs_p95": 0.844830598221728
+            },
+            {
+              "valid": true,
+              "slope": -0.02017594887849135,
+              "intercept": 585.0513412944614,
+              "selected_columns": 380,
+              "inlier_columns": 380,
+              "residual_abs_p95": 0.7062121758025512
+            },
+            {
+              "valid": true,
+              "slope": -0.017826891467548057,
+              "intercept": 619.3472280590852,
+              "selected_columns": 331,
+              "inlier_columns": 331,
+              "residual_abs_p95": 0.6209765651839234
+            },
+            {
+              "valid": true,
+              "slope": -0.01888709991670074,
+              "intercept": 657.2223362378403,
+              "selected_columns": 339,
+              "inlier_columns": 339,
+              "residual_abs_p95": 0.7988149350123989
+            }
+          ],
+          "valid": true
+        }
+      ]
+    },
+    "c23:nobis-vite-spem": {
+      "search": {
+        "x": [
+          820,
+          1320
+        ],
+        "bands": [
+          [
+            983,
+            1009
+          ],
+          [
+            1022,
+            1048
+          ],
+          [
+            1062,
+            1088
+          ],
+          [
+            1103,
+            1129
+          ]
+        ]
+      },
+      "models": [
+        {
+          "threshold_r_minus_g": 15,
+          "threshold_r_minus_b": 30,
+          "rules": [
+            {
+              "valid": true,
+              "slope": 0.00022532817886730498,
+              "intercept": 995.5577122580684,
+              "selected_columns": 479,
+              "inlier_columns": 478,
+              "residual_abs_p95": 1.2295441418540634
+            },
+            {
+              "valid": false,
+              "reason": "Too few robust inliers",
+              "selected_columns": 89
+            },
+            {
+              "valid": true,
+              "slope": 0.007319410091311635,
+              "intercept": 1065.0740025916066,
+              "selected_columns": 385,
+              "inlier_columns": 326,
+              "residual_abs_p95": 2.8983322120390085
+            },
+            {
+              "valid": true,
+              "slope": 0.009003598923009807,
+              "intercept": 1105.9887178915778,
+              "selected_columns": 412,
+              "inlier_columns": 386,
+              "residual_abs_p95": 2.294807653235864
+            }
+          ],
+          "valid": false
+        },
+        {
+          "threshold_r_minus_g": 20,
+          "threshold_r_minus_b": 40,
+          "rules": [
+            {
+              "valid": true,
+              "slope": 0.0009902283904394602,
+              "intercept": 994.7549002535666,
+              "selected_columns": 377,
+              "inlier_columns": 377,
+              "residual_abs_p95": 0.9500790574167013
+            },
+            {
+              "valid": false,
+              "reason": "Fewer than30 selected columns",
+              "selected_columns": 0
+            },
+            {
+              "valid": true,
+              "slope": 0.00918686591896653,
+              "intercept": 1063.1014685866928,
+              "selected_columns": 175,
+              "inlier_columns": 175,
+              "residual_abs_p95": 2.3990265952624434
+            },
+            {
+              "valid": true,
+              "slope": 0.00953030377932152,
+              "intercept": 1105.3647223416826,
+              "selected_columns": 346,
+              "inlier_columns": 346,
+              "residual_abs_p95": 2.1105211332098293
+            }
+          ],
+          "valid": false
+        },
+        {
+          "threshold_r_minus_g": 25,
+          "threshold_r_minus_b": 50,
+          "rules": [
+            {
+              "valid": true,
+              "slope": 0.0004693599011024203,
+              "intercept": 995.6000346805305,
+              "selected_columns": 182,
+              "inlier_columns": 182,
+              "residual_abs_p95": 1.1590188547484614
+            },
+            {
+              "valid": false,
+              "reason": "Fewer than30 selected columns",
+              "selected_columns": 0
+            },
+            {
+              "valid": true,
+              "slope": 0.02457336507271986,
+              "intercept": 1044.513768407524,
+              "selected_columns": 58,
+              "inlier_columns": 58,
+              "residual_abs_p95": 1.6622861752442986
+            },
+            {
+              "valid": true,
+              "slope": 0.010098820478844113,
+              "intercept": 1104.7858560020445,
+              "selected_columns": 287,
+              "inlier_columns": 287,
+              "residual_abs_p95": 1.9827038119467941
+            }
+          ],
+          "valid": false
+        }
+      ]
+    },
+    "c23:fac-nos-virgo": {
+      "search": {
+        "x": [
+          930,
+          1320
+        ],
+        "bands": [
+          [
+            1262,
+            1288
+          ],
+          [
+            1303,
+            1330
+          ],
+          [
+            1343,
+            1370
+          ],
+          [
+            1382,
+            1410
+          ]
+        ]
+      },
+      "models": [
+        {
+          "threshold_r_minus_g": 15,
+          "threshold_r_minus_b": 30,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.010759818351896317,
+              "intercept": 1286.0626327788264,
+              "selected_columns": 375,
+              "inlier_columns": 371,
+              "residual_abs_p95": 1.7278272518299218
+            },
+            {
+              "valid": true,
+              "slope": -0.009450068554349938,
+              "intercept": 1327.5025244949804,
+              "selected_columns": 344,
+              "inlier_columns": 335,
+              "residual_abs_p95": 1.6631703389479546
+            },
+            {
+              "valid": true,
+              "slope": -0.006071530152087378,
+              "intercept": 1362.7143807283662,
+              "selected_columns": 352,
+              "inlier_columns": 342,
+              "residual_abs_p95": 1.6143238765396062
+            },
+            {
+              "valid": true,
+              "slope": -0.008637296848568855,
+              "intercept": 1403.694829868755,
+              "selected_columns": 243,
+              "inlier_columns": 223,
+              "residual_abs_p95": 2.4533911861530657
+            }
+          ],
+          "valid": true
+        },
+        {
+          "threshold_r_minus_g": 20,
+          "threshold_r_minus_b": 40,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.012241195955819888,
+              "intercept": 1287.9111729220474,
+              "selected_columns": 266,
+              "inlier_columns": 266,
+              "residual_abs_p95": 0.8076751868906058
+            },
+            {
+              "valid": true,
+              "slope": -0.009303484980233293,
+              "intercept": 1327.2048824565036,
+              "selected_columns": 231,
+              "inlier_columns": 231,
+              "residual_abs_p95": 1.0498215452710156
+            },
+            {
+              "valid": true,
+              "slope": -0.006025410574664098,
+              "intercept": 1362.5800664696224,
+              "selected_columns": 320,
+              "inlier_columns": 319,
+              "residual_abs_p95": 1.490173094039664
+            },
+            {
+              "valid": true,
+              "slope": -0.009963709916184576,
+              "intercept": 1405.0340765350543,
+              "selected_columns": 56,
+              "inlier_columns": 56,
+              "residual_abs_p95": 1.2209683800814446
+            }
+          ],
+          "valid": true
+        },
+        {
+          "threshold_r_minus_g": 25,
+          "threshold_r_minus_b": 50,
+          "rules": [
+            {
+              "valid": true,
+              "slope": -0.012531156736231532,
+              "intercept": 1288.3535276226687,
+              "selected_columns": 142,
+              "inlier_columns": 138,
+              "residual_abs_p95": 0.6602313572033041
+            },
+            {
+              "valid": true,
+              "slope": -0.009544937520998045,
+              "intercept": 1327.3244789773435,
+              "selected_columns": 65,
+              "inlier_columns": 65,
+              "residual_abs_p95": 0.8167396445152005
+            },
+            {
+              "valid": true,
+              "slope": -0.006062005895704578,
+              "intercept": 1362.615895195279,
+              "selected_columns": 256,
+              "inlier_columns": 256,
+              "residual_abs_p95": 1.569097292604738
+            },
+            {
+              "valid": false,
+              "reason": "Fewer than30 selected columns",
+              "selected_columns": 2
+            }
+          ],
+          "valid": false
+        }
+      ]
+    }
+  },
+  "notes": [
+    {
+      "source": "target",
+      "phrase": "nobis-vite-spem",
+      "slot": 1,
+      "underlay": "no",
+      "original_anchor": [
+        955,
+        357
+      ],
+      "e39_relative_alternatives": [
+        0
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        4.020671065033946,
+        4.018965023410067,
+        4.022792641318734
+      ],
+      "geometric_absolute_position_range": [
+        3.738197010804091,
+        4.303456073902711
+      ],
+      "geometric_nearest_integer_alternatives": [
+        4
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        0
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "nobis-vite-spem",
+      "slot": 2,
+      "underlay": "bis",
+      "original_anchor": [
+        1040,
+        320
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        5.984755729311247,
+        5.983927880528113,
+        5.986208751647671
+      ],
+      "geometric_absolute_position_range": [
+        5.703962723808126,
+        6.266056470411769
+      ],
+      "geometric_nearest_integer_alternatives": [
+        6
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        2
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "nobis-vite-spem",
+      "slot": 3,
+      "underlay": "vi:lower",
+      "original_anchor": [
+        1113,
+        320
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        5.887510785822293,
+        5.887634215604676,
+        5.8892633118729005
+      ],
+      "geometric_absolute_position_range": [
+        5.608354914425145,
+        6.168414251695739
+      ],
+      "geometric_nearest_integer_alternatives": [
+        6
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        2
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "nobis-vite-spem",
+      "slot": 4,
+      "underlay": "vi:upper",
+      "original_anchor": [
+        1113,
+        291
+      ],
+      "e39_relative_alternatives": [
+        3,
+        4
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        7.50593655800994,
+        7.507454162445953,
+        7.508338762845364
+      ],
+      "geometric_absolute_position_range": [
+        7.22689763177069,
+        7.787489702668203
+      ],
+      "geometric_nearest_integer_alternatives": [
+        7,
+        8
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        3,
+        4
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "nobis-vite-spem",
+      "slot": 5,
+      "underlay": "te",
+      "original_anchor": [
+        1168,
+        354
+      ],
+      "e39_relative_alternatives": [
+        0
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        3.9213240220049985,
+        3.9197947813045286,
+        3.921868362692516
+      ],
+      "geometric_absolute_position_range": [
+        3.6410300050208426,
+        4.200496619686358
+      ],
+      "geometric_nearest_integer_alternatives": [
+        4
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        0
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "nobis-vite-spem",
+      "slot": 6,
+      "underlay": "spem:1",
+      "original_anchor": [
+        1248,
+        319
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        5.764671826044931,
+        5.766398253388435,
+        5.766821011987281
+      ],
+      "geometric_absolute_position_range": [
+        5.487133299214149,
+        6.044692487661076
+      ],
+      "geometric_nearest_integer_alternatives": [
+        5,
+        6
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        1,
+        2
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "nobis-vite-spem",
+      "slot": 7,
+      "underlay": "spem:2",
+      "original_anchor": [
+        1270,
+        319
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        5.735740914319039,
+        5.737690100622254,
+        5.7379239396124015
+      ],
+      "geometric_absolute_position_range": [
+        5.45844536937317,
+        6.0155880205919185
+      ],
+      "geometric_nearest_integer_alternatives": [
+        5,
+        6
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        1,
+        2
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "fac-nos-virgo",
+      "slot": 1,
+      "underlay": "Fac",
+      "original_anchor": [
+        756,
+        645
+      ],
+      "e39_relative_alternatives": [
+        0
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        -0.11515541961434518,
+        -0.11486896125161913,
+        -0.11253903608979138
+      ],
+      "geometric_absolute_position_range": [
+        -0.3891283720266518,
+        0.16110395788288215
+      ],
+      "geometric_nearest_integer_alternatives": [
+        0
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        0
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "fac-nos-virgo",
+      "slot": 2,
+      "underlay": "nos:1",
+      "original_anchor": [
+        835,
+        627
+      ],
+      "e39_relative_alternatives": [
+        1
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        0.7875630000532503,
+        0.7863581376548059,
+        0.791108805502394
+      ],
+      "geometric_absolute_position_range": [
+        0.5123634200029743,
+        1.0648184217769134
+      ],
+      "geometric_nearest_integer_alternatives": [
+        1
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        1
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "fac-nos-virgo",
+      "slot": 3,
+      "underlay": "nos:2",
+      "original_anchor": [
+        852,
+        603
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        2.0867672922097844,
+        2.083853935673043,
+        2.0874477522461667
+      ],
+      "geometric_absolute_position_range": [
+        1.8097787667656033,
+        2.3611881616925254
+      ],
+      "geometric_nearest_integer_alternatives": [
+        2
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        2
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "fac-nos-virgo",
+      "slot": 4,
+      "underlay": "nos:3",
+      "original_anchor": [
+        853,
+        576
+      ],
+      "e39_relative_alternatives": [
+        3,
+        4
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        3.5676275746299653,
+        3.5628451553479454,
+        3.56453413534231
+      ],
+      "geometric_absolute_position_range": [
+        3.2887652525423903,
+        3.8420531176232124
+      ],
+      "geometric_nearest_integer_alternatives": [
+        3,
+        4
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        3,
+        4
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "fac-nos-virgo",
+      "slot": 5,
+      "underlay": "vir",
+      "original_anchor": [
+        948,
+        584
+      ],
+      "e39_relative_alternatives": [
+        3
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        3.031498453791383,
+        3.027040682739698,
+        3.029233897625259
+      ],
+      "geometric_absolute_position_range": [
+        2.752510312689612,
+        3.3063687073378945
+      ],
+      "geometric_nearest_integer_alternatives": [
+        3
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        3
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "fac-nos-virgo",
+      "slot": 6,
+      "underlay": "go:1",
+      "original_anchor": [
+        1013,
+        620
+      ],
+      "e39_relative_alternatives": [
+        1
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        0.9836529923350383,
+        0.9814545857858921,
+        0.990808712415431
+      ],
+      "geometric_absolute_position_range": [
+        0.7066151471752348,
+        1.2646685586567687
+      ],
+      "geometric_nearest_integer_alternatives": [
+        1
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        1
+      ]
+    },
+    {
+      "source": "target",
+      "phrase": "fac-nos-virgo",
+      "slot": 7,
+      "underlay": "go:2",
+      "original_anchor": [
+        1031,
+        640
+      ],
+      "e39_relative_alternatives": [
+        0
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        -0.13646056705746104,
+        -0.13737215172815762,
+        -0.12325821959609519
+      ],
+      "geometric_absolute_position_range": [
+        -0.4122973016330602,
+        0.15061682762160797
+      ],
+      "geometric_nearest_integer_alternatives": [
+        0
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        0
+      ]
+    },
+    {
+      "source": "c23",
+      "phrase": "nobis-vite-spem",
+      "slot": 1,
+      "underlay": "no",
+      "original_anchor": [
+        860,
+        1117
+      ],
+      "e39_relative_alternatives": [
+        0
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [],
+      "geometric_absolute_position_range": null,
+      "geometric_nearest_integer_alternatives": [],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": []
+    },
+    {
+      "source": "c23",
+      "phrase": "nobis-vite-spem",
+      "slot": 2,
+      "underlay": "bis",
+      "original_anchor": [
+        955,
+        1076
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [],
+      "geometric_absolute_position_range": null,
+      "geometric_nearest_integer_alternatives": [],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": []
+    },
+    {
+      "source": "c23",
+      "phrase": "nobis-vite-spem",
+      "slot": 3,
+      "underlay": "vi:lower",
+      "original_anchor": [
+        1037,
+        1076
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [],
+      "geometric_absolute_position_range": null,
+      "geometric_nearest_integer_alternatives": [],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": []
+    },
+    {
+      "source": "c23",
+      "phrase": "nobis-vite-spem",
+      "slot": 4,
+      "underlay": "vi:upper",
+      "original_anchor": [
+        1055,
+        1054
+      ],
+      "e39_relative_alternatives": [
+        3
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [],
+      "geometric_absolute_position_range": null,
+      "geometric_nearest_integer_alternatives": [],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": []
+    },
+    {
+      "source": "c23",
+      "phrase": "nobis-vite-spem",
+      "slot": 5,
+      "underlay": "te",
+      "original_anchor": [
+        1110,
+        1117
+      ],
+      "e39_relative_alternatives": [
+        0
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [],
+      "geometric_absolute_position_range": null,
+      "geometric_nearest_integer_alternatives": [],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": []
+    },
+    {
+      "source": "c23",
+      "phrase": "nobis-vite-spem",
+      "slot": 6,
+      "underlay": "spem:1",
+      "original_anchor": [
+        1173,
+        1078
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [],
+      "geometric_absolute_position_range": null,
+      "geometric_nearest_integer_alternatives": [],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": []
+    },
+    {
+      "source": "c23",
+      "phrase": "nobis-vite-spem",
+      "slot": 7,
+      "underlay": "spem:2",
+      "original_anchor": [
+        1213,
+        1078
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [],
+      "geometric_absolute_position_range": null,
+      "geometric_nearest_integer_alternatives": [],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": []
+    },
+    {
+      "source": "c23",
+      "phrase": "fac-nos-virgo",
+      "slot": 1,
+      "underlay": "Fac",
+      "original_anchor": [
+        967,
+        1392
+      ],
+      "e39_relative_alternatives": [
+        0
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        0.16756851144765436,
+        0.17091954341888588
+      ],
+      "geometric_absolute_position_range": [
+        -0.08309014559290459,
+        0.4223332582130826
+      ],
+      "geometric_nearest_integer_alternatives": [
+        0
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        0
+      ]
+    },
+    {
+      "source": "c23",
+      "phrase": "fac-nos-virgo",
+      "slot": 2,
+      "underlay": "nos:1",
+      "original_anchor": [
+        1037,
+        1378
+      ],
+      "e39_relative_alternatives": [
+        1
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        0.8380621959075338,
+        0.8386872334329646
+      ],
+      "geometric_absolute_position_range": [
+        0.5876089707957362,
+        1.089765496070193
+      ],
+      "geometric_nearest_integer_alternatives": [
+        1
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        1
+      ]
+    },
+    {
+      "source": "c23",
+      "phrase": "fac-nos-virgo",
+      "slot": 3,
+      "underlay": "nos:2",
+      "original_anchor": [
+        1054,
+        1358
+      ],
+      "e39_relative_alternatives": [
+        2
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        1.8315502825801395,
+        1.8339003539675638
+      ],
+      "geometric_absolute_position_range": [
+        1.5812777665821325,
+        2.0848972847051885
+      ],
+      "geometric_nearest_integer_alternatives": [
+        2
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        2
+      ]
+    },
+    {
+      "source": "c23",
+      "phrase": "fac-nos-virgo",
+      "slot": 4,
+      "underlay": "nos:3",
+      "original_anchor": [
+        1083,
+        1335
+      ],
+      "e39_relative_alternatives": [
+        3
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        2.9687416693906274,
+        2.9723387672643287
+      ],
+      "geometric_absolute_position_range": [
+        2.7185976028303136,
+        3.2231970768929226
+      ],
+      "geometric_nearest_integer_alternatives": [
+        3
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        3
+      ]
+    },
+    {
+      "source": "c23",
+      "phrase": "fac-nos-virgo",
+      "slot": 5,
+      "underlay": "vir",
+      "original_anchor": [
+        1163,
+        1338
+      ],
+      "e39_relative_alternatives": [
+        3
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        2.780149913543437,
+        2.7776003343408835
+      ],
+      "geometric_absolute_position_range": [
+        2.527123635179739,
+        3.0299403194132215
+      ],
+      "geometric_nearest_integer_alternatives": [
+        3
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        3
+      ]
+    },
+    {
+      "source": "c23",
+      "phrase": "fac-nos-virgo",
+      "slot": 6,
+      "underlay": "go:1",
+      "original_anchor": [
+        1244,
+        1376
+      ],
+      "e39_relative_alternatives": [
+        1
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        0.8455806545457446,
+        0.832265566486306
+      ],
+      "geometric_absolute_position_range": [
+        0.5821740668563148,
+        1.095013996369448
+      ],
+      "geometric_nearest_integer_alternatives": [
+        1
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        1
+      ]
+    },
+    {
+      "source": "c23",
+      "phrase": "fac-nos-virgo",
+      "slot": 7,
+      "underlay": "go:2",
+      "original_anchor": [
+        1274,
+        1399
+      ],
+      "e39_relative_alternatives": [
+        0
+      ],
+      "geometric_absolute_position_from_bottom_rule_nominal": [
+        -0.3145727532391342,
+        -0.332916744055089
+      ],
+      "geometric_absolute_position_range": [
+        -0.5828658776827838,
+        -0.06527139844127247
+      ],
+      "geometric_nearest_integer_alternatives": [
+        -1,
+        0
+      ],
+      "sounding_pitch_adjudicated": false,
+      "geometric_relative_alternatives": [
+        -1,
+        0
+      ]
+    }
+  ]
+}

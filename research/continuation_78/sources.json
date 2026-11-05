@@ -1,0 +1,15 @@
+{
+  "date":"2026-11-02",
+  "sources":[
+    {"id":"fr10437-image-2", "path":"research/continuation_54/captures.json", "locator":"capture 2", "scope":"Retained Riksarkivet image directly inspected. Abbreviations and sequence are reference-exposed AI candidates."},
+    {"id":"krakow-carmelite-3", "url":"https://cantusdatabase.org/chant/319875/", "locator":"source navigation, f.080r, rows 3–10", "scope":"Search-indexed Cantus inventory. Direct web-reader open returned cache miss; original manuscript and melody uninspected. Multiple returned rows are one manuscript, not independent witnesses."},
+    {"id":"utrecht-406", "url":"https://cantusdatabase.org/chant/496650", "locator":"source navigation, ff.177v–178r", "scope":"Search-indexed Cantus inventory. The related 496628 direct open returned cache miss and is not retried. Original manuscript uninspected."},
+    {"id":"trnava-antiphonary", "url":"https://cantus.sk/source/33906", "locator":"f.006v row 5", "scope":"Search-indexed 008036 verse/response inventory. Direct web-reader open returned cache miss; no comparator image inspected."}
+  ],
+  "failed_routes":[
+    {"url":"https://cantusdatabase.org/chant/319875/", "outcome":"Direct web-reader cache miss; search-indexed inventory used. Do not retry."},
+    {"url":"https://cantus.sk/source/33906", "outcome":"Direct web-reader cache miss; search-indexed inventory used. Do not retry."},
+    {"url":"https://cantusdatabase.org/chant/496628/", "outcome":"Direct web-reader cache miss; related search-indexed source navigation used. Do not retry."}
+  ],
+  "network_scope":"No new manuscript images or PDFs saved; web-reader traffic is unmeasured within existing reserve. No upload or contact."
+}

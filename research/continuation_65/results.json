@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-01",
+  "source_regions": [
+    "I65-8201-ending",
+    "I65-8201-next-chant"
+  ],
+  "reused_regions": [
+    "I49-8201-continuation"
+  ],
+  "local_observation": "The higher-resolution Fr8201 photograph provisionally reads the surviving ending pulchrior sponso superno placuit, followed on the same visible surface by Traditur ergo a patre doctoribus. The beginning of the first chant is not visible here.",
+  "reference_observation": "Cantus indexed navigation for Vienna Cod.1799 f223v lists Specie corporis (204720) immediately before Traditur ergo (204938). The complete indexed first chant includes the ending. No Vienna source image was inspected. The Catherine feast table lists 46 entries for 204720, not exact-text or unique-book counts.",
+  "extraction_correction": "The project's existing printed PDF page displays sponso; the web reader mis-extracts that same word as sponsae. The new photograph supports the printed form; the web-reader text is not a second edition or contrary manuscript evidence.",
+  "interpretation": "The two consecutive chant candidates are already documented together in a different indexed witness. This limits their value as a standalone book identifier; it neither disproves the published adjacent-fragment proposal nor establishes the likelihood of that leaf split. Fr20106 still needs direct examination.",
+  "next_test": "Identify and inspect the exact Fr 20106 / A103 k95 original or an explicitly attributed reproduction; verify its end, side and page context before adjudicating continuity, repeated opening and physical adjacency. A full musical comparison requires independent source-specific transcriptions and matched notation.",
+  "fr20106_image_inspected": false,
+  "vienna_image_inspected": false,
+  "exact_melody_verified": false,
+  "physical_adjacency_proved": false,
+  "published_rejection_overturned": false,
+  "historical_same_codex_proved": false,
+  "new_historical_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 1,
+  "new_download_bytes": 313747,
+  "working_source_images_after": 209,
+  "conservative_planning_total_after": 1676174588
+}

@@ -1,0 +1,103 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-24",
+  "question": "Does the approximately 5.6 mm staff pitch distinguish the existing Codex 1505 grouping from a catalogue-matched different codex?",
+  "selection_protocol": {
+    "status": "Fr 7292 selected from pinned MPO metadata before its image was retrieved; staff systems selected after image inspection, so measurement is not blind.",
+    "metadata_filter": "Quadr notation; four music lines; 11 main-text rows; Antiphonarium; exact Codex 1505 written-area range; a distinct recorded MPO codex group.",
+    "candidate_source": "E21 full-MPO exact-box screen; Fr 1385 was already a documented group comparator and Fr 10096 is a Graduale, so Fr 7292 was the closest different-codex antiphonary control."
+  },
+  "control": {
+    "fragment_id": "mpo-7292",
+    "codex_label": "Codex 1306",
+    "genre": "Antiphonarium",
+    "notation": "Quadr",
+    "staff_lines": "4",
+    "main_text_rows": "#11",
+    "written_area": "35.0 x 22.5",
+    "dating": "15. Jh.",
+    "content_excerpt": "1rv Proprium de tempore: Die VI p. nat. dni.",
+    "metadata_source": "Pinned MPO v1.0.0 CSV; catalogue codex label is not independent adjudication."
+  },
+  "image": {
+    "path": "data/images/mpo-7292-capture-1-1600px.jpg",
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/1600,/0/default.jpg",
+    "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007292_00001/canvas",
+    "sha256": "a864bec13a29a315a7df8e910b23118ef76fc631be8e10f97b60ec3b732285f2",
+    "dimensions_px": [
+      1600,
+      1026
+    ],
+    "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "manifest_path": "research/continuation_22/mpo-7292-manifest.json",
+    "receipt_path": "research/continuation_22/image_receipt.json"
+  },
+  "ruler_calibration": {
+    "axis": "vertical image axis; photographed metric ruler at left edge",
+    "label_span_cm": 20,
+    "endpoint_centers_px": [
+      70,
+      948
+    ],
+    "label_order": [
+      0,
+      20
+    ],
+    "pixels_per_cm": 43.9,
+    "coordinate_origin": "top-left of 1600px JPEG"
+  },
+  "staff_groups": {
+    "system_1": {
+      "line_center_rows_px": [
+        242,
+        263,
+        289,
+        314
+      ],
+      "adjacent_intervals_px": [
+        21,
+        26,
+        25
+      ],
+      "mean_interval_px": 24.0,
+      "approx_pitch_mm": 5.467
+    },
+    "system_2": {
+      "line_center_rows_px": [
+        375,
+        398,
+        424,
+        449
+      ],
+      "adjacent_intervals_px": [
+        23,
+        26,
+        25
+      ],
+      "mean_interval_px": 24.666666666666668,
+      "approx_pitch_mm": 5.619
+    }
+  },
+  "aggregate": {
+    "adjacent_interval_count": 6,
+    "mean_interval_px": 24.333,
+    "approx_pitch_mm": 5.543
+  },
+  "comparison": {
+    "e21_codex1505_fragment_means_mm": [
+      5.617,
+      5.586
+    ],
+    "e21_target_mean_mm": 5.601,
+    "control_minus_target_mean_mm": -0.059,
+    "interpretation": "The matched control's estimated pitch is effectively the same as the two E21 Codex 1505 estimates at this measurement resolution. Staff pitch alone is therefore not unique to the catalogued group."
+  },
+  "limits": [
+    "Only one different-codex leaf was measured; this is not a distribution or classifier test.",
+    "The matching Codex 1306 label and all selection metadata come from MPO, the same cataloguing system used for the Codex 1505 group.",
+    "Fr 7292 is matched on genre, notation, staff count, main-text rows and written-area range, not on hand or workshop.",
+    "Line centers and ruler endpoints are manual; approximately ±1 px per line center and ±2 px per ruler endpoint, before perspective, page curvature, ruling waviness and ruler-to-writing-plane effects.",
+    "The measured image areas were selected after inspection; no blind or independent repeated measurement was made.",
+    "No same-book, same-hand, workshop, provenance or historical attribution follows."
+  ]
+}

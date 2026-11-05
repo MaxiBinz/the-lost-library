@@ -1,0 +1,108 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-27",
+  "annotations": [
+    {
+      "id": "I38-C23-69r-incipit",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The explicitly labelled 69r image contains the candidate incipit itself. Fr 20274 retains only its ending, so its missing incipit is not supplied as a literal target reading.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_38/c23-69r-0139-2200px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=210,450,1320,260"
+        }
+      },
+      "fragment_id": "uub-c23-0139",
+      "source_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+      "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+      "image_dimensions": [
+        2200,
+        2920
+      ],
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "O maria stans sub cruce [...]",
+      "normalized_candidate": "O Maria stans sub cruce [...]",
+      "observer": "Codex AI exploratory source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Literature-assisted AI reading; no independent reader.",
+        "Selected lexical comparison only; no melodic identity, whole-office recension, date, copying direction or same-codex inference."
+      ]
+    },
+    {
+      "id": "I38-C23-69r-ending-a",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The actual replacement page has the differentiating shorter ending, including cum, nobis vite spem porrexit and the Fac nos petition. The target agrees at the selected lexical level; this common version is not a codex fingerprint.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_38/c23-69r-0139-2200px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=210,1040,1320,410"
+        }
+      },
+      "fragment_id": "uub-c23-0139",
+      "source_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+      "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+      "image_dimensions": [
+        2200,
+        2920
+      ],
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[do]lor cessit cū surrexit nobis vite spem porrex / it presi dens in gloria fac nos virgo sue",
+      "normalized_candidate": "Dolor cessit cum surrexit nobis vite spem porrexit presidens in gloria; Fac nos Virgo sue [...]",
+      "observer": "Codex AI exploratory source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Literature-assisted AI reading; no independent reader.",
+        "Selected lexical comparison only; no melodic identity, whole-office recension, date, copying direction or same-codex inference."
+      ]
+    },
+    {
+      "id": "I38-C23-69r-ending-b",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The source ending reads feruere, in agreement with the provisional target reading. Notation is visible, but a verified note-by-note collation and melodic identity have not been established.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_38/c23-69r-0139-2200px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=210,1420,1320,410"
+        }
+      },
+      "fragment_id": "uub-c23-0139",
+      "source_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+      "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+      "image_dimensions": [
+        2200,
+        2920
+      ],
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "mortis et doloris tui for tis feruere me / mo ria alle luya alle luya",
+      "normalized_candidate": "mortis et doloris tui fortis feruere memoria; Alleluia, alleluia",
+      "observer": "Codex AI exploratory source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Literature-assisted AI reading; no independent reader.",
+        "Selected lexical comparison only; no melodic identity, whole-office recension, date, copying direction or same-codex inference."
+      ]
+    }
+  ]
+}

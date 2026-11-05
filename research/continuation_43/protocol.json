@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "previous_goal_turn": "Progress: E42 completed the declared four-pair row/boundary audit, retained uncertainty and wrong-grouping controls, updated the overlay, and verified the extracted archive.",
+  "question": "Does the complete current register distinguish published reconstruction controls from new candidate relationships, and does its current review coverage support completing the research goal?",
+  "design": "Post hoc source/provenance and completion-scope audit. The 43 uncredited Beauvais pairs and other shared catalogue labels were noticed before this protocol; counts and repair rules are diagnostic, not preregistered or independent science.",
+  "population": "All168 lead/question entries, all117 physical-pair leads including170 stored ranking rows, all10 frozen cases and named contextual/pivot questions. Repeated topics and pairings are not independent fragments or findings.",
+  "rules": [
+    "Prove a Beauvais membership through the exact retained working-image service in a canvas of the saved F-4ihz Virtual Reconstruction manifest. A similar title, geographic use or collection name alone is insufficient.",
+    "Credit the source-defined reconstruction membership and retained first-photo/canvas provenance. Do not call the source assertion fresh image examination, an untouched control, independent confirmation or a discovery.",
+    "Preserve computational suggestions as suggestions alongside source assertions. No automatic same-codex closure, score update or model retuning.",
+    "Never automatically promote all shared MPO codex labels: Codex1146/Ant49 includes the published8201\u20138304 rejection. Retain the frozen controls and qualified/contrary claims.",
+    "Audit the full population and report all remaining metadata-only pairs. Do not infer complete primary-image testing from a populated seven-field record or a passing integrity test.",
+    "Keep all frozen/core files byte-identical. Any discovery claims, external dependencies and executable local tests remain separate from this source-join repair."
+  ],
+  "inputs": {
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "research/evidence/F-4ihz_manifest.json": "123607bb0eeaeb4b4a11ea1d55fd3ce99f50b7e478062a4312c91512ec536164",
+    "research/continuation_43/lead_register.before.json": "745a848c4b52e79106fffbd5ac72e6fac1c8ab7aa0a8b4e9c9f1550c19d27d56"
+  },
+  "boundaries": "Existing pinned local sources only. No downloads, original image edits, new candidate family, outreach, uploads or public publication."
+}

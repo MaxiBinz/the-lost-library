@@ -1,0 +1,70 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "version": "1.0.0",
+  "assessment_date": "2026-10-24",
+  "scope": "Exploratory physical-scale observations for two leaves already grouped as Codex 1505; no new attribution.",
+  "annotations": [
+    {
+      "id": "I21-10370-staff-pitch",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10370",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "Two selected four-red-rule music systems are visible. Manual center rows [407,434,462,490] and [566,594,622,650], calibrated with the photographed 20 cm vertical ruler, yield approximate mean line intervals 5.584 mm and 5.651 mm. Arithmetic and exact coordinates are in the E21 result file.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-3-1728px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=350,400,1155,260"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg",
+      "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+      "image_dimensions": [1728, 1233],
+      "observer": "Codex source inspection and manual coordinate selection; arithmetic reproduced by research/continuation_21/ruling_pitch_check.py, 2026-10-24",
+      "evidence_kind": "exploratory physical-scale image measurement",
+      "verification": "Source-linked; no independent repeat measurement or specialist review",
+      "interpretation_limits": [
+        "Approximate scale; ruler endpoints and staff-line centers were selected manually.",
+        "Perspective, page waviness, local parchment deformation and ruling curvature are not corrected.",
+        "The measured pitch is a page-layout observation, not a book, hand or workshop identifier."
+      ]
+    },
+    {
+      "id": "I21-10406-staff-pitch",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10406",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "Three selected four-red-rule music systems are visible. Manual center rows [153,168,184,199], [244,258,274,290] and [337,353,368,383], calibrated with the photographed 20 cm vertical ruler, each yield an approximate mean line interval of 5.586 mm. Arithmetic and exact coordinates are in the E21 result file.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=225,145,650,255"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00004/full/1000,/0/default.jpg",
+      "sha256": "eb77ec83d785842e929432be99d99b579fce102d062d0ecdebe280dbdf9f6677",
+      "image_dimensions": [1000, 647],
+      "observer": "Codex source inspection and manual coordinate selection; arithmetic reproduced by research/continuation_21/ruling_pitch_check.py, 2026-10-24",
+      "evidence_kind": "exploratory physical-scale image measurement",
+      "verification": "Source-linked; no independent repeat measurement or specialist review",
+      "interpretation_limits": [
+        "Approximate scale; ruler endpoints and staff-line centers were selected manually.",
+        "Perspective, page waviness, local parchment deformation and ruling curvature are not corrected.",
+        "The measured pitch is a page-layout observation, not a book, hand or workshop identifier."
+      ]
+    }
+  ]
+}

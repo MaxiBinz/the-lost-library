@@ -1,0 +1,13 @@
+{
+  "date":"2026-11-02",
+  "selection":"After E77/E78 inspection, compare the first four visible noteheads above Hec / est / do- / mus; retrospective, reference-exposed and unblinded.",
+  "coordinate_convention":"Original image pixels; y increases downward. Points are approximate manually selected notehead centres, not automatic transcription.",
+  "items":[
+    {"id":"10437", "path":"research/continuation_54/images/Fr10437-capture-1-native.jpg", "sha256":"75d3c9b2ae0facd754504b1dec68ce8a33a64d3cdaa7a78140c9ab539942224a", "xys":[[887,796],[949,796],[1011,807],[1095,791]], "syllables":["Hec","est","do-","mus"], "red_rule_slope_y_per_x":-0.005, "staff_spacing_px":28, "centres_limit":"Square-note centres and red-to-adjacent-rule spacing are approximate; rule/underlay interpretation requires review."},
+    {"id":"8066", "path":"research/continuation_44/images/Fr8066-capture-3-native.jpg", "sha256":"821743390426bf8f04773219f492268cf1cdf5cbbb96a0e66b3555ddcd42c07c", "xys":[[1163,387],[1227,387],[1290,387],[1358,388]], "syllables":["Hec","est","do-","mus"], "red_rule_slope_y_per_x":0.008, "staff_spacing_px":15, "centres_limit":"Hufnagel noteheads have stems and non-square shapes; centres, local rule spacing and syllable alignment require review."}
+  ],
+  "tolerances_px":[3,4,5],
+  "slope_perturbation_y_per_x":0.005,
+  "staff_spacing_tolerance_px":2,
+  "tolerance_scope":"Illustrative post-inspection sensitivity, not measured uncertainty or a statistical confidence interval. The arithmetic does not validate the selected centres or notation reading."
+}

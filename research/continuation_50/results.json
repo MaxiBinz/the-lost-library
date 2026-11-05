@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "selected_lead": "pair-d3edceeb5829ddeac135",
+  "pair": [
+    "mpo-10349",
+    "mpo-2862"
+  ],
+  "source_regions": [
+    "I50-10349-page",
+    "I50-10349-gutter",
+    "I50-2862-page",
+    "I50-2862-fold",
+    "I50-2863-control",
+    "I50-2864-control",
+    "I50-10349-ruler",
+    "I50-2862-ruler"
+  ],
+  "target_photo_views_inspected": 7,
+  "control_photo_views_inspected": 2,
+  "new_source_files": 6,
+  "confirmed_successful_transfer_bytes": 1542176,
+  "working_source_files_after": 194,
+  "conservative_transfer_plan_after": 1671072950,
+  "network_limit": "A timed-out request can have unmeasured traffic even when no body was saved; existing reserve retained. No claim of exact lifetime transfer accounting.",
+  "direct_result": "The available10349 views show two narrow writing fields;2862 shows one broad music/text field, with rules crossing its reuse crease. The2863/2864 retained controls also have the broad design. This locally supports a layout distinction rather than explaining it solely by a reuse fold.",
+  "interpretation": "The visible two-narrow-field versus one-broad-field designs support a local layout distinction and challenge an unchanged uniform copying layout. Exact original leaf/fold mapping and complete field-width calibration remain qualified. Composite volumes, mixed sections or copying changes can still explain one historical volume; same-codex identity remains unresolved.",
+  "measurement_summary": {
+    "mpo-10349": 7.434343434343434,
+    "mpo-2862": 15.66735112936345
+  },
+  "measurement_limits": "Ruler/field endpoints were selected after full source inspection to explain the layout distinction. These are manual illustrative measurements, not preregistered thresholds, statistical confidence bounds or photogrammetric calibration.",
+  "wider_scale_sensitivity_overlaps": true,
+  "narrow_visible_layout_difference_supported": true,
+  "original_leaf_fold_map_established": false,
+  "historical_same_codex_excluded": false,
+  "uniform_layout_unconditionally_excluded": false,
+  "catalogue_correction_established": false,
+  "primary_pair_test_executed": true,
+  "primary_pair_test_completed": false,
+  "all_planned_target_views_inspected": false,
+  "initial_primary_comparison_recorded": true,
+  "primary_pair_test_scope": "Initial visible-layout comparison executed under partial coverage; the planned all-source-view inspection and historical adjudication remain incomplete.",
+  "decision_state": "unresolved",
+  "primary_pair_tests_still_pending": 30,
+  "missing_sources": [
+    {
+      "object_id": "mpo-2862",
+      "capture_index": 3,
+      "reason": "Native request timed out and was stopped without retry; no retained third-capture view was inspected.",
+      "absence_is_not_counterevidence": true
+    },
+    {
+      "object_id": "mpo-10349",
+      "capture_index": 1,
+      "path": "data/images/mpo-10349.jpg",
+      "reason": "The native URL failed DNS in the network-restricted environment and was not retried. The already retained first-photo thumbnail was inspected."
+    }
+  ],
+  "20106_access": "Exact institutional and linked library record opens failed in the web reader and were stopped. No image/physical crosswalk established; no global blocker.",
+  "next_test": "Retain the layout distinction as scoped evidence. A historical book decision needs secure original leaf/fold mapping and corresponding text/quire or production evidence, with composite/section alternatives. Preserve the one missing2862 view without retry; continue the remaining30 existing primary pair tests.",
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "goal_complete": false,
+  "global_blocker_established": false
+}

@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "previous_goal_turn": "Progress: E43 accounted for all168 entries/117 pairs, credited43 published controls from exact parent-manifest services, retained50 metadata-only pairs, and passed extracted replay.",
+  "question": "Do Fr8066 and Fr9620 show a corresponding Dedication opening/position or different material, and does direct staff construction help test their assigned Ant49 grouping without confusing it with physical codex identity?",
+  "selection": "Existing pair and Ant49 audit target chosen in E43. The metadata hymn reference for9620 may refer only to an item; both records explicitly call the book Antiphonarium. Do not assume different book genres from hy.",
+  "prior_exposure": "Catalogue notes and the published8201\u20138304 rejection are already known. All general gallery images may have been encountered; this is exploratory AI source inspection, not an untouched or blind test.",
+  "primary_targets": [
+    "mpo-8066",
+    "mpo-9620"
+  ],
+  "fixed_local_context_controls": [
+    "mpo-8201",
+    "mpo-8304",
+    "mpo-8072",
+    "mpo-8073"
+  ],
+  "fixed_images": {
+    "data/images/mpo-8066.jpg": "1959b95afb7c65e1d96daccfa8cb11c37c5b17b5c4cbabf1b098e7ab20e0d7b0",
+    "data/images/mpo-9620.jpg": "a9eeac52b46809281e9992286041a6d8efb897926af9947f78c082950210533c",
+    "data/images/mpo-8201.jpg": "56563522480cdb0e6b62d52b159a40d92013ed368a5ec2c0cbfad8ec39614530",
+    "data/images/mpo-8304.jpg": "b0e5a3a3066f0da51a4f6c94fa04ac833b4a0dc8d1488998f4ca6a02432797bb",
+    "data/images/mpo-8072.jpg": "3817cb62fd4b07477c7ee76f6722139dcb92ea0da0f5d3202340d82199f5b493",
+    "data/images/mpo-8073.jpg": "c92298490c972561af51954fbabea1f78a860d15eda873570b62362ec7c3f1d2"
+  },
+  "predictions": [
+    "A duplicate-office argument needs the same complete liturgical position and text, not merely the common feast name. Different items/sections do not by themselves establish either same or different books.",
+    "Count horizontal staff rules in a clear noninitial/nonfold passage and identify red versus black only where the pixels permit; retain uncertainty and do not count text separators or marks on another surface.",
+    "A uniform copying-unit interpretation predicts comparable staff construction. A difference is conditional evidence against that uniform-unit interpretation, not a universal physical same-codex exclusion; mixed sections, multiple hands, modifications and composite volumes remain alternatives.",
+    "The preselected8201/8304 published negative and8072/8073 same-catalogue-label controls test whether any observed ruling difference simply follows the contaminated catalogue unit. These are not independently adjudicated new historical labels."
+  ],
+  "execution_rules": [
+    "Inspect all six retained first-capture originals, with exact crop locators for decisive readings. Record uncertainty before any chant lookup.",
+    "Inspect additional captures only through their actual saved manifests or another new ordinary authoritative source; no guessed endpoint, restricted-route retry or bypass. Audit resources before any acquisition.",
+    "If the initial images do not cover the relevant opening/sequence, say so; do not fill unseen parts or equate capture ordinal with medieval side.",
+    "Retain both proposed supportive and contrary readings, missing sources, source assertions and manual interpretations separately. Do not change frozen queue, reviews, model, thresholds or core records."
+  ],
+  "boundaries": "No outreach, upload, public publication, new candidate family or claim of independent confirmation. Any acquisition stays within300 source files/3GB download limits."
+}

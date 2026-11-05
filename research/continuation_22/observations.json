@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-24",
+  "scope": "Auxiliary source observations for a metadata-matched, catalogue-labelled different-codex staff-pitch control; no new attribution hypothesis.",
+  "annotations": [
+    {
+      "id": "I22-7292-staff-pitch",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fr 7292 image 1 shows two clear systems of four red music rules. On the registered 1600 px derivative, manually selected line-center rows are [242, 263, 289, 314] and [375, 398, 424, 449]. The calculated mean interval is approximately 5.54 mm after ruler calibration; this is a post-inspection manual measurement, not an independent transcription.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-7292-capture-1-1600px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=250,230,1050,235"
+        }
+      },
+      "fragment_id": "mpo-7292",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/1600,/0/default.jpg",
+      "sha256": "a864bec13a29a315a7df8e910b23118ef76fc631be8e10f97b60ec3b732285f2",
+      "observer": "Codex AI visual inspection, 2026-10-24",
+      "evidence_kind": "image observation",
+      "verification": "Manual coordinate selection; not independently checked by a second reader or manuscript specialist",
+      "interpretation_limits": [
+        "Image coordinates use the top-left origin of the 1600 px JPEG derivative.",
+        "The source is catalogued as Codex 1306 in the same MPO metadata system that labels Codex 1505; this is a control label, not independent adjudication.",
+        "No hand, workshop, parchment origin, physical identity or historical relationship is inferred."
+      ],
+      "image_dimensions": [1600, 1026]
+    },
+    {
+      "id": "I22-7292-ruler",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The left photographic metric ruler visibly labels the 0 cm and 20 cm marks. Their manually selected center rows are 70 and 948 px in the same 1600 px JPEG; the line-pitch calculation uses this 878 px span.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-7292-capture-1-1600px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,50,85,910"
+        }
+      },
+      "fragment_id": "mpo-7292",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/1600,/0/default.jpg",
+      "sha256": "a864bec13a29a315a7df8e910b23118ef76fc631be8e10f97b60ec3b732285f2",
+      "observer": "Codex AI visual inspection, 2026-10-24",
+      "evidence_kind": "image observation",
+      "verification": "Manual ruler endpoint selection; not independently checked by a second reader",
+      "interpretation_limits": [
+        "The ruler is at the left edge; no correction is made for perspective, parchment curvature or local distortion.",
+        "Image coordinates use the top-left origin of the 1600 px JPEG derivative."
+      ],
+      "image_dimensions": [1600, 1026]
+    }
+  ]
+}

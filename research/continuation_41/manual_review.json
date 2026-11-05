@@ -1,0 +1,398 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-28",
+  "reviewer": "project AI, manual visual inspection of all four retained raw-patch sheets and E35 original-pixel fold strip",
+  "independent_review": false,
+  "blind": false,
+  "scope": "Local raw-pixel context assessment only; no new fitting, medieval-side assignment or historical book label.",
+  "coordinate_manifest": "research/continuation_41/review_manifest.json",
+  "unit_warning": "Stored descriptor correspondences include repeated orientations/nearby points; counts are not independent observations or accuracy estimates.",
+  "comparisons": {
+    "8994-1-2": [
+      {
+        "index": 0,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Single square note/stem; neighbouring ink differs."
+      },
+      {
+        "index": 1,
+        "ransac_inlier": false,
+        "outcome": "insufficient_context",
+        "observation": "Fold/frame-edge feature; no distinctive shared context identified at this outlier."
+      },
+      {
+        "index": 2,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Fold ridge near the clipped right top edge; broader text lies on different sides of the band."
+      },
+      {
+        "index": 3,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Similar minims in different neighbouring word contexts."
+      },
+      {
+        "index": 4,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Lower/upper fold band; adjacent visible words do not provide a repeated passage."
+      },
+      {
+        "index": 5,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Fold ridge at the clipped right top edge; little common context."
+      },
+      {
+        "index": 6,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Similar small paired notational marks; neighbouring text differs."
+      },
+      {
+        "index": 7,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Notehead/stem resemblance with different neighbouring notes."
+      },
+      {
+        "index": 8,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Narrow ridge/black mark near right frame edge; insufficient shared context."
+      },
+      {
+        "index": 9,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Fold band near right frame edge; no distributed shared writing established."
+      },
+      {
+        "index": 10,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Small note/ligature resemblance; different surrounding notation."
+      },
+      {
+        "index": 11,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Ruling and note-stem vicinity; no distinctive ink sequence."
+      },
+      {
+        "index": 12,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Fold band close to right frame edge; no continuous repeated text."
+      },
+      {
+        "index": 13,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Small fold/ruling context; a common larger patch is not established."
+      },
+      {
+        "index": 14,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Fold ridge close to right frame edge; no continuous repeated text."
+      },
+      {
+        "index": 15,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Fold/ruling context with very limited common vertical coverage."
+      },
+      {
+        "index": 16,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Similar small note/stem; neighbouring word and notes differ."
+      },
+      {
+        "index": 17,
+        "ransac_inlier": false,
+        "outcome": "context_mismatch",
+        "observation": "Left point is in a word; right point is among notes."
+      },
+      {
+        "index": 18,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Isolated notehead/stem with different adjacent notation."
+      },
+      {
+        "index": 19,
+        "ransac_inlier": false,
+        "outcome": "context_mismatch",
+        "observation": "Left decorated initial/penwork is paired with right musical notation."
+      },
+      {
+        "index": 20,
+        "ransac_inlier": true,
+        "outcome": "insufficient_context",
+        "observation": "Fold/ridge near clipped right top edge; adjacent initial is outside any demonstrated shared band."
+      },
+      {
+        "index": 21,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Small note resemblance; the adjacent oblique ligature differs."
+      },
+      {
+        "index": 22,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Similar paired square marks; broader ink sequence not shared."
+      },
+      {
+        "index": 23,
+        "ransac_inlier": false,
+        "outcome": "insufficient_context",
+        "observation": "Fold/frame-edge outlier with no distinctive shared local sequence."
+      },
+      {
+        "index": 24,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Isolated notehead/stem and ruling; neighbours differ."
+      }
+    ],
+    "8994-3-4": [
+      {
+        "index": 0,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Similar oblique ligature, different neighbouring notes."
+      },
+      {
+        "index": 1,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Square note and oblique continuation are common shapes; context differs."
+      },
+      {
+        "index": 2,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Common square/oblique notation with different adjacent events."
+      },
+      {
+        "index": 3,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Minim/letter resemblance within different words."
+      },
+      {
+        "index": 4,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Common square/stem pattern; adjacent oblique shape differs."
+      },
+      {
+        "index": 5,
+        "ransac_inlier": false,
+        "outcome": "context_mismatch",
+        "observation": "Word/minims on left versus musical notation on right."
+      },
+      {
+        "index": 6,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Single square/stem at ruling; different neighbours."
+      },
+      {
+        "index": 7,
+        "ransac_inlier": true,
+        "outcome": "context_mismatch",
+        "observation": "Left word is paired with the right decorated initial/vertical border."
+      },
+      {
+        "index": 8,
+        "ransac_inlier": true,
+        "outcome": "context_mismatch",
+        "observation": "Same location as point 7, another saved orientation: word versus decorated initial."
+      },
+      {
+        "index": 9,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Unmarked ruling vicinity without distinctive shared ink."
+      },
+      {
+        "index": 10,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Common letter/minim shapes, with a decorated initial and different word context on right."
+      },
+      {
+        "index": 11,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Nearby orientation of the previous letter-form resemblance; word context differs."
+      },
+      {
+        "index": 12,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Single square/stem; surrounding notes and words differ."
+      },
+      {
+        "index": 13,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Small minim/letter cluster in differing neighbouring context."
+      },
+      {
+        "index": 14,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Same position as point 13, another saved orientation of the minim resemblance."
+      },
+      {
+        "index": 15,
+        "ransac_inlier": false,
+        "outcome": "context_mismatch",
+        "observation": "Left small word/minims versus right large decorated initial vicinity."
+      },
+      {
+        "index": 16,
+        "ransac_inlier": false,
+        "outcome": "context_mismatch",
+        "observation": "Left small word/minims versus right decorated initial."
+      },
+      {
+        "index": 17,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Single square note/stem; different adjacent notation."
+      },
+      {
+        "index": 18,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Simple paired/square marks with differing adjacent notes."
+      },
+      {
+        "index": 19,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Ruling vicinity below an isolated note; no distinctive common sequence."
+      },
+      {
+        "index": 20,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Ruling and square/stem, different broader context."
+      },
+      {
+        "index": 21,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Simple note/ruling pattern with different neighbours."
+      },
+      {
+        "index": 22,
+        "ransac_inlier": false,
+        "outcome": "context_mismatch",
+        "observation": "Left ruling below a note versus right decorated initial top."
+      },
+      {
+        "index": 23,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Common letter shapes in different neighbouring words."
+      },
+      {
+        "index": 24,
+        "ransac_inlier": false,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Single notehead/stem and ruling, different neighbouring events."
+      }
+    ],
+    "20274-overlap-positive": [
+      {
+        "index": 0,
+        "ransac_inlier": true,
+        "outcome": "distinctive_context_consistent",
+        "observation": "Same initial, nearby pale curved mark and ruling sequence."
+      },
+      {
+        "index": 431,
+        "ransac_inlier": true,
+        "outcome": "distinctive_context_consistent",
+        "observation": "Same multi-letter ink sequence and red ruling."
+      },
+      {
+        "index": 863,
+        "ransac_inlier": true,
+        "outcome": "distinctive_context_consistent",
+        "observation": "Same initial/letter sequence and neighbouring square marks."
+      },
+      {
+        "index": 1294,
+        "ransac_inlier": true,
+        "outcome": "distinctive_context_consistent",
+        "observation": "Same multi-letter sequence, penwork and ruling."
+      },
+      {
+        "index": 1726,
+        "ransac_inlier": true,
+        "outcome": "distinctive_context_consistent",
+        "observation": "Same multi-letter sequence and ink contours."
+      },
+      {
+        "index": 2157,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Mostly blank/ruling context with a small vertical mark; this patch alone is weak."
+      }
+    ],
+    "8994-1-3-nonrepeat": [
+      {
+        "index": 10,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Similar minim strokes in different word context."
+      },
+      {
+        "index": 24,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Single square note/stem; neighbouring events differ."
+      },
+      {
+        "index": 25,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Same positions as previous item; another saved orientation."
+      },
+      {
+        "index": 63,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Similar vertical notation/rule motif, with different neighbouring note groups."
+      },
+      {
+        "index": 64,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Same positions as previous item; another saved orientation."
+      },
+      {
+        "index": 120,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Common vertical two-square motif; adjacent neumes and text differ."
+      },
+      {
+        "index": 121,
+        "ransac_inlier": true,
+        "outcome": "isolated_generic_similarity",
+        "observation": "Same positions as previous item; another saved orientation."
+      }
+    ]
+  }
+}

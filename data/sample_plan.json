@@ -1,0 +1,1042 @@
+{
+  "version": "1.0",
+  "selection_rule": "10 explicit codex groups, first6 numeric IDs with images; target/control IDs; deterministic SHA256 order15c ungrouped musical distractors",
+  "requested_representative_records": 120,
+  "mpo_records": [
+    {
+      "source": "MPO",
+      "identifier": "1114",
+      "id": "mpo-1114",
+      "role": "benchmark",
+      "group_id": "mpo-codex-285",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1854",
+      "id": "mpo-1854",
+      "role": "benchmark",
+      "group_id": "mpo-codex-285",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1862",
+      "id": "mpo-1862",
+      "role": "benchmark",
+      "group_id": "mpo-codex-285",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1863",
+      "id": "mpo-1863",
+      "role": "benchmark",
+      "group_id": "mpo-codex-285",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1864",
+      "id": "mpo-1864",
+      "role": "benchmark",
+      "group_id": "mpo-codex-285",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1915",
+      "id": "mpo-1915",
+      "role": "benchmark",
+      "group_id": "mpo-codex-285",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1664",
+      "id": "mpo-1664",
+      "role": "benchmark",
+      "group_id": "mpo-codex-270",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1756",
+      "id": "mpo-1756",
+      "role": "benchmark",
+      "group_id": "mpo-codex-270",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1761",
+      "id": "mpo-1761",
+      "role": "benchmark",
+      "group_id": "mpo-codex-270",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1762",
+      "id": "mpo-1762",
+      "role": "benchmark",
+      "group_id": "mpo-codex-270",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1763",
+      "id": "mpo-1763",
+      "role": "benchmark",
+      "group_id": "mpo-codex-270",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1774",
+      "id": "mpo-1774",
+      "role": "benchmark",
+      "group_id": "mpo-codex-270",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6359",
+      "id": "mpo-6359",
+      "role": "benchmark",
+      "group_id": "mpo-codex-875",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6360",
+      "id": "mpo-6360",
+      "role": "benchmark",
+      "group_id": "mpo-codex-875",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6362",
+      "id": "mpo-6362",
+      "role": "benchmark",
+      "group_id": "mpo-codex-875",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6425",
+      "id": "mpo-6425",
+      "role": "benchmark",
+      "group_id": "mpo-codex-875",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6426",
+      "id": "mpo-6426",
+      "role": "benchmark",
+      "group_id": "mpo-codex-875",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6427",
+      "id": "mpo-6427",
+      "role": "benchmark",
+      "group_id": "mpo-codex-875",
+      "split": "development"
+    },
+    {
+      "source": "MPO",
+      "identifier": "365",
+      "id": "mpo-365",
+      "role": "benchmark",
+      "group_id": "mpo-codex-1200",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4223",
+      "id": "mpo-4223",
+      "role": "benchmark",
+      "group_id": "mpo-codex-1200",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "8311",
+      "id": "mpo-8311",
+      "role": "benchmark",
+      "group_id": "mpo-codex-1200",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "8455",
+      "id": "mpo-8455",
+      "role": "benchmark",
+      "group_id": "mpo-codex-1200",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "8466",
+      "id": "mpo-8466",
+      "role": "benchmark",
+      "group_id": "mpo-codex-1200",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "8724",
+      "id": "mpo-8724",
+      "role": "benchmark",
+      "group_id": "mpo-codex-1200",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4471",
+      "id": "mpo-4471",
+      "role": "benchmark",
+      "group_id": "mpo-codex-609",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4472",
+      "id": "mpo-4472",
+      "role": "benchmark",
+      "group_id": "mpo-codex-609",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4473",
+      "id": "mpo-4473",
+      "role": "benchmark",
+      "group_id": "mpo-codex-609",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4474",
+      "id": "mpo-4474",
+      "role": "benchmark",
+      "group_id": "mpo-codex-609",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4476",
+      "id": "mpo-4476",
+      "role": "benchmark",
+      "group_id": "mpo-codex-609",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4484",
+      "id": "mpo-4484",
+      "role": "benchmark",
+      "group_id": "mpo-codex-609",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1770",
+      "id": "mpo-1770",
+      "role": "benchmark",
+      "group_id": "mpo-codex-276",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1777",
+      "id": "mpo-1777",
+      "role": "benchmark",
+      "group_id": "mpo-codex-276",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1801",
+      "id": "mpo-1801",
+      "role": "benchmark",
+      "group_id": "mpo-codex-276",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1832",
+      "id": "mpo-1832",
+      "role": "benchmark",
+      "group_id": "mpo-codex-276",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "3759",
+      "id": "mpo-3759",
+      "role": "benchmark",
+      "group_id": "mpo-codex-276",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6883",
+      "id": "mpo-6883",
+      "role": "benchmark",
+      "group_id": "mpo-codex-276",
+      "split": "calibration"
+    },
+    {
+      "source": "MPO",
+      "identifier": "7957",
+      "id": "mpo-7957",
+      "role": "control",
+      "group_id": "mpo-codex-1104",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "7960",
+      "id": "mpo-7960",
+      "role": "control",
+      "group_id": "mpo-codex-1104",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "7961",
+      "id": "mpo-7961",
+      "role": "control",
+      "group_id": "mpo-codex-1104",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "8343",
+      "id": "mpo-8343",
+      "role": "control",
+      "group_id": "mpo-codex-1104",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "8344",
+      "id": "mpo-8344",
+      "role": "control",
+      "group_id": "mpo-codex-1104",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "9242",
+      "id": "mpo-9242",
+      "role": "control",
+      "group_id": "mpo-codex-1104",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "2862",
+      "id": "mpo-2862",
+      "role": "benchmark",
+      "group_id": "mpo-codex-434",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "2863",
+      "id": "mpo-2863",
+      "role": "benchmark",
+      "group_id": "mpo-codex-434",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "2864",
+      "id": "mpo-2864",
+      "role": "benchmark",
+      "group_id": "mpo-codex-434",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "2871",
+      "id": "mpo-2871",
+      "role": "benchmark",
+      "group_id": "mpo-codex-434",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "2872",
+      "id": "mpo-2872",
+      "role": "benchmark",
+      "group_id": "mpo-codex-434",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "2873",
+      "id": "mpo-2873",
+      "role": "benchmark",
+      "group_id": "mpo-codex-434",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4315",
+      "id": "mpo-4315",
+      "role": "benchmark",
+      "group_id": "mpo-codex-920",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6588",
+      "id": "mpo-6588",
+      "role": "benchmark",
+      "group_id": "mpo-codex-920",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6664",
+      "id": "mpo-6664",
+      "role": "benchmark",
+      "group_id": "mpo-codex-920",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6690",
+      "id": "mpo-6690",
+      "role": "benchmark",
+      "group_id": "mpo-codex-920",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6696",
+      "id": "mpo-6696",
+      "role": "benchmark",
+      "group_id": "mpo-codex-920",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "6712",
+      "id": "mpo-6712",
+      "role": "benchmark",
+      "group_id": "mpo-codex-920",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4972",
+      "id": "mpo-4972",
+      "role": "benchmark",
+      "group_id": "mpo-codex-674",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4973",
+      "id": "mpo-4973",
+      "role": "benchmark",
+      "group_id": "mpo-codex-674",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "4983",
+      "id": "mpo-4983",
+      "role": "benchmark",
+      "group_id": "mpo-codex-674",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "5029",
+      "id": "mpo-5029",
+      "role": "benchmark",
+      "group_id": "mpo-codex-674",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "5039",
+      "id": "mpo-5039",
+      "role": "benchmark",
+      "group_id": "mpo-codex-674",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "5070",
+      "id": "mpo-5070",
+      "role": "benchmark",
+      "group_id": "mpo-codex-674",
+      "split": "test"
+    },
+    {
+      "source": "MPO",
+      "identifier": "1385",
+      "id": "mpo-1385",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "20274",
+      "id": "mpo-20274",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8994",
+      "id": "mpo-8994",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "10370",
+      "id": "mpo-10370",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "10406",
+      "id": "mpo-10406",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "10407",
+      "id": "mpo-10407",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "10437",
+      "id": "mpo-10437",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "25592",
+      "id": "mpo-25592",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "10349",
+      "id": "mpo-10349",
+      "role": "target",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8066",
+      "id": "mpo-8066",
+      "role": "control",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8072",
+      "id": "mpo-8072",
+      "role": "control",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8073",
+      "id": "mpo-8073",
+      "role": "control",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8201",
+      "id": "mpo-8201",
+      "role": "control",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8304",
+      "id": "mpo-8304",
+      "role": "control",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "9620",
+      "id": "mpo-9620",
+      "role": "control",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "11167",
+      "id": "mpo-11167",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "29815",
+      "id": "mpo-29815",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "25060",
+      "id": "mpo-25060",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "10084",
+      "id": "mpo-10084",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "20295",
+      "id": "mpo-20295",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "3736",
+      "id": "mpo-3736",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "29763",
+      "id": "mpo-29763",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "25276",
+      "id": "mpo-25276",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "29765",
+      "id": "mpo-29765",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "29733",
+      "id": "mpo-29733",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "29791",
+      "id": "mpo-29791",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "25478",
+      "id": "mpo-25478",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "3872",
+      "id": "mpo-3872",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8370",
+      "id": "mpo-8370",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8461",
+      "id": "mpo-8461",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "25173",
+      "id": "mpo-25173",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "10236",
+      "id": "mpo-10236",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "6779",
+      "id": "mpo-6779",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "9202",
+      "id": "mpo-9202",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "2040",
+      "id": "mpo-2040",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8694",
+      "id": "mpo-8694",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "641",
+      "id": "mpo-641",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "3557",
+      "id": "mpo-3557",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "607",
+      "id": "mpo-607",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "3549",
+      "id": "mpo-3549",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "30003",
+      "id": "mpo-30003",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "7959",
+      "id": "mpo-7959",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "8255",
+      "id": "mpo-8255",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "20437",
+      "id": "mpo-20437",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "11220",
+      "id": "mpo-11220",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "4945",
+      "id": "mpo-4945",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    },
+    {
+      "source": "MPO",
+      "identifier": "2134",
+      "id": "mpo-2134",
+      "role": "distractor",
+      "group_id": null,
+      "split": null
+    }
+  ],
+  "beauvais_requested": 12,
+  "finnish_physical_records": 1,
+  "nonimage_record_ids": [
+    "20106",
+    "28175",
+    "29666",
+    "20340",
+    "20275",
+    "20276",
+    "20277",
+    "20278"
+  ],
+  "groups": [
+    {
+      "id": "mpo-codex-285",
+      "split": "development",
+      "member_ids": [
+        "mpo-1114",
+        "mpo-1854",
+        "mpo-1862",
+        "mpo-1863",
+        "mpo-1864",
+        "mpo-1915"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 285",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-270",
+      "split": "development",
+      "member_ids": [
+        "mpo-1664",
+        "mpo-1756",
+        "mpo-1761",
+        "mpo-1762",
+        "mpo-1763",
+        "mpo-1774"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 270",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-875",
+      "split": "development",
+      "member_ids": [
+        "mpo-6359",
+        "mpo-6360",
+        "mpo-6362",
+        "mpo-6425",
+        "mpo-6426",
+        "mpo-6427"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 875",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-1200",
+      "split": "calibration",
+      "member_ids": [
+        "mpo-365",
+        "mpo-4223",
+        "mpo-8311",
+        "mpo-8455",
+        "mpo-8466",
+        "mpo-8724"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 1200",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-609",
+      "split": "calibration",
+      "member_ids": [
+        "mpo-4471",
+        "mpo-4472",
+        "mpo-4473",
+        "mpo-4474",
+        "mpo-4476",
+        "mpo-4484"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 609",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-276",
+      "split": "calibration",
+      "member_ids": [
+        "mpo-1770",
+        "mpo-1777",
+        "mpo-1801",
+        "mpo-1832",
+        "mpo-3759",
+        "mpo-6883"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 276",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-1104",
+      "split": "test",
+      "member_ids": [
+        "mpo-7957",
+        "mpo-7960",
+        "mpo-7961",
+        "mpo-8343",
+        "mpo-8344",
+        "mpo-9242"
+      ],
+      "label_source": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1610?show=full",
+      "label_strength": "literature/catalogue-backed",
+      "source_label": "Codex 1104",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-434",
+      "split": "test",
+      "member_ids": [
+        "mpo-2862",
+        "mpo-2863",
+        "mpo-2864",
+        "mpo-2871",
+        "mpo-2872",
+        "mpo-2873"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 434",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-920",
+      "split": "test",
+      "member_ids": [
+        "mpo-4315",
+        "mpo-6588",
+        "mpo-6664",
+        "mpo-6690",
+        "mpo-6696",
+        "mpo-6712"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 920",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    },
+    {
+      "id": "mpo-codex-674",
+      "split": "test",
+      "member_ids": [
+        "mpo-4972",
+        "mpo-4973",
+        "mpo-4983",
+        "mpo-5029",
+        "mpo-5039",
+        "mpo-5070"
+      ],
+      "label_source": "https://zenodo.org/records/17287665",
+      "label_strength": "catalogue-derived",
+      "source_label": "Codex 674",
+      "limitations": "A shared institutional codex label is not independent expert adjudication; separate labels may still need reconciliation."
+    }
+  ],
+  "selection_bias": "Access and existing labels drive this small nonrepresentative sample. Unknown distractor relationships are not negative labels.",
+  "budget": {
+    "max_source_images": 300,
+    "max_pipeline_download_bytes": 3000000000
+  }
+}

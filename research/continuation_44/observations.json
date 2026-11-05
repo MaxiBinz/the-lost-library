@@ -1,0 +1,392 @@
+{
+  "version": "1.1.0",
+  "assessment_date": "2026-10-29",
+  "inspection_source": "research/continuation_44/inspection.v2.json",
+  "annotations": [
+    {
+      "id": "I44-8066-rules",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Five horizontal rules can be followed in this music band; four appear dark and one red. Approximate y positions at the sampled right-hand field are334,354,372red,390,409. Rule function and the catalogue counting convention remain separate from literal visible count; no absolute pitch or confirmed catalogue correction.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1160,320,270,150"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00001/full/max/0/default.jpg",
+      "sha256": "0561a81ddfd4e59cc164449b272dae183846549517ea37f3f40ffeb0de4a6979",
+      "image_dimensions": [
+        1727,
+        1129
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-9620-rules",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Five horizontal rules are visible in the selected music band, approximately301,320,337,354red,371 at the sampled right field. Compatible local ruling, not identity evidence.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=800,290,265,140"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00001/full/max/0/default.jpg",
+      "sha256": "73b4e4a8f4b363a41443031fed6a514d1f80428d59fde160b78ee13488d2428a",
+      "image_dimensions": [
+        1210,
+        1634
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-8066-Domus",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "[...] rum [Euouae] [a] Domus mea domus ora | tionis uocabitur [...] Haec est domus Selected words are source-visible; no local Cantus ID or complete service reconstruction is assigned yet.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=420,275,1060,200"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00003/full/max/0/default.jpg",
+      "sha256": "821743390426bf8f04773219f492268cf1cdf5cbbb96a0e66b3555ddcd42c07c",
+      "image_dimensions": [
+        1724,
+        1174
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] rum [Euouae] [a] Domus mea domus ora | tionis uocabitur [...] Haec est domus",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-8066-Domum",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "[...] [lau des?] Domum tu | am domine decet sanctitudo in longitudinem die The following capture begins rum, consistent with a dierum word boundary; this is a candidate reading order, not a confirmed medieval side map.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=290,440,1090,280"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/full/max/0/default.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "image_dimensions": [
+        1709,
+        1138
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] [lau des?] Domum tu | am domine decet sanctitudo in longitudinem die",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-9620-Oquam",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "O [quam?] metuendus est locus iste uere non | est hic aliud nisi domus dei et porta celi The phrase occurs across chant contexts. No unique book, service position or local Cantus ID is established from a concordance alone.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=45,280,1025,255"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00001/full/max/0/default.jpg",
+      "sha256": "73b4e4a8f4b363a41443031fed6a514d1f80428d59fde160b78ee13488d2428a",
+      "image_dimensions": [
+        1210,
+        1634
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "O [quam?] metuendus est locus iste uere non | est hic aliud nisi domus dei et porta celi",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-9620-rubric",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "[hymnus?] Hoc i[n?] templo | Beati qui habitant | ad [...] Provisional short cue reading, revised after reference consultation and raw-image reinspection. Likely Hoc in templo; exact local hymn ID, complete service position and different-book genre remain unestablished.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=320,530,440,145"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00001/full/max/0/default.jpg",
+      "sha256": "73b4e4a8f4b363a41443031fed6a514d1f80428d59fde160b78ee13488d2428a",
+      "image_dimensions": [
+        1210,
+        1634
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[hymnus?] Hoc i[n?] templo | Beati qui habitant | ad [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-9620-Fundata",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fundata est domus domini s[...] | ticem montium et exaltata Right-hand text is outside this image field. Do not silently complete super verticem from a reference.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=325,1015,780,270"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00002/full/max/0/default.jpg",
+      "sha256": "462efb14468d853e2792c3f9768a5bffbdbe13a4d2394d7718bf1096350e3d6f",
+      "image_dimensions": [
+        1107,
+        1671
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Fundata est domus domini s[...] | ticem montium et exaltata",
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-8201-control-rules",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The selected raw music band also presents five horizontal rules. The800px images give weaker colour detail; no absolute pitch or book attribution is certified.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8201.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=175,180,455,60"
+        }
+      },
+      "fragment_id": "mpo-8201",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00001/full/800,/0/default.jpg",
+      "sha256": "56563522480cdb0e6b62d52b159a40d92013ed368a5ec2c0cbfad8ec39614530",
+      "image_dimensions": [
+        800,
+        538
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-8304-control-rules",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The selected raw music band also presents five horizontal rules. The800px images give weaker colour detail; no absolute pitch or book attribution is certified.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8304.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=185,165,460,60"
+        }
+      },
+      "fragment_id": "mpo-8304",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00001/full/800,/0/default.jpg",
+      "sha256": "b0e5a3a3066f0da51a4f6c94fa04ac833b4a0dc8d1488998f4ca6a02432797bb",
+      "image_dimensions": [
+        800,
+        525
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-8072-control-rules",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The selected raw music band also presents five horizontal rules. The800px images give weaker colour detail; no absolute pitch or book attribution is certified.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8072.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=145,180,505,60"
+        }
+      },
+      "fragment_id": "mpo-8072",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008072_00001/full/800,/0/default.jpg",
+      "sha256": "3817cb62fd4b07477c7ee76f6722139dcb92ea0da0f5d3202340d82199f5b493",
+      "image_dimensions": [
+        800,
+        576
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    },
+    {
+      "id": "I44-8073-control-rules",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The selected raw music band also presents five horizontal rules. The800px images give weaker colour detail; no absolute pitch or book attribution is certified.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8073.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=150,160,500,70"
+        }
+      },
+      "fragment_id": "mpo-8073",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008073_00001/full/800,/0/default.jpg",
+      "sha256": "c92298490c972561af51954fbabea1f78a860d15eda873570b62362ec7c3f1d2",
+      "image_dimensions": [
+        800,
+        571
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "observer": "Codex AI exploratory nonblind source reading,2026-10-29",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Visible ruled lines are not independently certified staff-function or absolute-pitch readings.",
+        "No complete same liturgical address, physical join, manuscript-side map, same codex or catalogue correction established.",
+        "Catalogue hymn reference does not classify the whole fragment as a hymn book; incomplete words and reference assistance remain explicit."
+      ]
+    }
+  ]
+}

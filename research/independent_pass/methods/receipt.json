@@ -1,0 +1,10 @@
+{
+  "source_url": "https://www.fragmentology.ms/article/download/4499/4222/8051",
+  "article_url": "https://www.fragmentology.ms/article/view/4499",
+  "fetched_at_utc": "2026-10-22T21:29:57.337305+00:00",
+  "limit_bytes": 8000000,
+  "purpose": "Read published reconstruction method; official journal states CC BY4.0",
+  "bytes_received": 0,
+  "saved": false,
+  "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+}

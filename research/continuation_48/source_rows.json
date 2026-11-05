@@ -1,0 +1,4685 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "combined": {
+    "path": "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx",
+    "sheet": "Sheet1",
+    "sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+    "headers_row": 2,
+    "source_dimensions": [
+      29588,
+      69
+    ],
+    "rows": [
+      {
+        "excel_row": 367,
+        "values": {
+          "Fr_reference": "Fr 365",
+          "BOMPAC-reconstruction": "BOMPAC-258",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 39,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.159",
+          "CCM_signum_BOMPAC": "Ant-39",
+          "Codex_signum_BOMPAC": "Codex-1200",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1401-1500",
+          "Dating_BOMPAC_conflict": null,
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C367",
+          "BOMPAC-reconstruction": "M367",
+          "Row_exclusion": "BO367",
+          "Exclusion_criteria": "BP367",
+          "Database_or_institution": "E367",
+          "Frs_per_unit": "N367",
+          "Fr_in_unit": "O367",
+          "FM_signum_BOMPAC": "U367",
+          "CCM_signum_BOMPAC": "Q367",
+          "Codex_signum_BOMPAC": "S367",
+          "Identification_comment": "K367",
+          "Dating_BOMPAC": "AF367",
+          "Dating_BOMPAC_conflict": "AG367",
+          "Origin_BOMPAC_conflict": "AK367"
+        }
+      },
+      {
+        "excel_row": 1387,
+        "values": {
+          "Fr_reference": "Fr 1385",
+          "BOMPAC-reconstruction": "BOMPAC-912",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 20,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.157",
+          "CCM_signum_BOMPAC": "Ant-99",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1486",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C1387",
+          "BOMPAC-reconstruction": "M1387",
+          "Row_exclusion": "BO1387",
+          "Exclusion_criteria": "BP1387",
+          "Database_or_institution": "E1387",
+          "Frs_per_unit": "N1387",
+          "Fr_in_unit": "O1387",
+          "FM_signum_BOMPAC": "U1387",
+          "CCM_signum_BOMPAC": "Q1387",
+          "Codex_signum_BOMPAC": "S1387",
+          "Identification_comment": "K1387",
+          "Dating_BOMPAC": "AF1387",
+          "Dating_BOMPAC_conflict": "AG1387",
+          "Origin_BOMPAC_conflict": "AK1387"
+        }
+      },
+      {
+        "excel_row": 2864,
+        "values": {
+          "Fr_reference": "Fr 2862",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2864",
+          "BOMPAC-reconstruction": "M2864",
+          "Row_exclusion": "BO2864",
+          "Exclusion_criteria": "BP2864",
+          "Database_or_institution": "E2864",
+          "Frs_per_unit": "N2864",
+          "Fr_in_unit": "O2864",
+          "FM_signum_BOMPAC": "U2864",
+          "CCM_signum_BOMPAC": "Q2864",
+          "Codex_signum_BOMPAC": "S2864",
+          "Identification_comment": "K2864",
+          "Dating_BOMPAC": "AF2864",
+          "Dating_BOMPAC_conflict": "AG2864",
+          "Origin_BOMPAC_conflict": "AK2864"
+        }
+      },
+      {
+        "excel_row": 2865,
+        "values": {
+          "Fr_reference": "Fr 2863",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 2,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2865",
+          "BOMPAC-reconstruction": "M2865",
+          "Row_exclusion": "BO2865",
+          "Exclusion_criteria": "BP2865",
+          "Database_or_institution": "E2865",
+          "Frs_per_unit": "N2865",
+          "Fr_in_unit": "O2865",
+          "FM_signum_BOMPAC": "U2865",
+          "CCM_signum_BOMPAC": "Q2865",
+          "Codex_signum_BOMPAC": "S2865",
+          "Identification_comment": "K2865",
+          "Dating_BOMPAC": "AF2865",
+          "Dating_BOMPAC_conflict": "AG2865",
+          "Origin_BOMPAC_conflict": "AK2865"
+        }
+      },
+      {
+        "excel_row": 2866,
+        "values": {
+          "Fr_reference": "Fr 2864",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 3,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2866",
+          "BOMPAC-reconstruction": "M2866",
+          "Row_exclusion": "BO2866",
+          "Exclusion_criteria": "BP2866",
+          "Database_or_institution": "E2866",
+          "Frs_per_unit": "N2866",
+          "Fr_in_unit": "O2866",
+          "FM_signum_BOMPAC": "U2866",
+          "CCM_signum_BOMPAC": "Q2866",
+          "Codex_signum_BOMPAC": "S2866",
+          "Identification_comment": "K2866",
+          "Dating_BOMPAC": "AF2866",
+          "Dating_BOMPAC_conflict": "AG2866",
+          "Origin_BOMPAC_conflict": "AK2866"
+        }
+      },
+      {
+        "excel_row": 2874,
+        "values": {
+          "Fr_reference": "Fr 2872",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 5,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2874",
+          "BOMPAC-reconstruction": "M2874",
+          "Row_exclusion": "BO2874",
+          "Exclusion_criteria": "BP2874",
+          "Database_or_institution": "E2874",
+          "Frs_per_unit": "N2874",
+          "Fr_in_unit": "O2874",
+          "FM_signum_BOMPAC": "U2874",
+          "CCM_signum_BOMPAC": "Q2874",
+          "Codex_signum_BOMPAC": "S2874",
+          "Identification_comment": "K2874",
+          "Dating_BOMPAC": "AF2874",
+          "Dating_BOMPAC_conflict": "AG2874",
+          "Origin_BOMPAC_conflict": "AK2874"
+        }
+      },
+      {
+        "excel_row": 2875,
+        "values": {
+          "Fr_reference": "Fr 2873",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 6,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2875",
+          "BOMPAC-reconstruction": "M2875",
+          "Row_exclusion": "BO2875",
+          "Exclusion_criteria": "BP2875",
+          "Database_or_institution": "E2875",
+          "Frs_per_unit": "N2875",
+          "Fr_in_unit": "O2875",
+          "FM_signum_BOMPAC": "U2875",
+          "CCM_signum_BOMPAC": "Q2875",
+          "Codex_signum_BOMPAC": "S2875",
+          "Identification_comment": "K2875",
+          "Dating_BOMPAC": "AF2875",
+          "Dating_BOMPAC_conflict": "AG2875",
+          "Origin_BOMPAC_conflict": "AK2875"
+        }
+      },
+      {
+        "excel_row": 8068,
+        "values": {
+          "Fr_reference": "Fr 8066",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8068",
+          "BOMPAC-reconstruction": "M8068",
+          "Row_exclusion": "BO8068",
+          "Exclusion_criteria": "BP8068",
+          "Database_or_institution": "E8068",
+          "Frs_per_unit": "N8068",
+          "Fr_in_unit": "O8068",
+          "FM_signum_BOMPAC": "U8068",
+          "CCM_signum_BOMPAC": "Q8068",
+          "Codex_signum_BOMPAC": "S8068",
+          "Identification_comment": "K8068",
+          "Dating_BOMPAC": "AF8068",
+          "Dating_BOMPAC_conflict": "AG8068",
+          "Origin_BOMPAC_conflict": "AK8068"
+        }
+      },
+      {
+        "excel_row": 8074,
+        "values": {
+          "Fr_reference": "Fr 8072",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 2,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8074",
+          "BOMPAC-reconstruction": "M8074",
+          "Row_exclusion": "BO8074",
+          "Exclusion_criteria": "BP8074",
+          "Database_or_institution": "E8074",
+          "Frs_per_unit": "N8074",
+          "Fr_in_unit": "O8074",
+          "FM_signum_BOMPAC": "U8074",
+          "CCM_signum_BOMPAC": "Q8074",
+          "Codex_signum_BOMPAC": "S8074",
+          "Identification_comment": "K8074",
+          "Dating_BOMPAC": "AF8074",
+          "Dating_BOMPAC_conflict": "AG8074",
+          "Origin_BOMPAC_conflict": "AK8074"
+        }
+      },
+      {
+        "excel_row": 8075,
+        "values": {
+          "Fr_reference": "Fr 8073",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 3,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8075",
+          "BOMPAC-reconstruction": "M8075",
+          "Row_exclusion": "BO8075",
+          "Exclusion_criteria": "BP8075",
+          "Database_or_institution": "E8075",
+          "Frs_per_unit": "N8075",
+          "Fr_in_unit": "O8075",
+          "FM_signum_BOMPAC": "U8075",
+          "CCM_signum_BOMPAC": "Q8075",
+          "Codex_signum_BOMPAC": "S8075",
+          "Identification_comment": "K8075",
+          "Dating_BOMPAC": "AF8075",
+          "Dating_BOMPAC_conflict": "AG8075",
+          "Origin_BOMPAC_conflict": "AK8075"
+        }
+      },
+      {
+        "excel_row": 8203,
+        "values": {
+          "Fr_reference": "Fr 8201",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 4,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8203",
+          "BOMPAC-reconstruction": "M8203",
+          "Row_exclusion": "BO8203",
+          "Exclusion_criteria": "BP8203",
+          "Database_or_institution": "E8203",
+          "Frs_per_unit": "N8203",
+          "Fr_in_unit": "O8203",
+          "FM_signum_BOMPAC": "U8203",
+          "CCM_signum_BOMPAC": "Q8203",
+          "Codex_signum_BOMPAC": "S8203",
+          "Identification_comment": "K8203",
+          "Dating_BOMPAC": "AF8203",
+          "Dating_BOMPAC_conflict": "AG8203",
+          "Origin_BOMPAC_conflict": "AK8203"
+        }
+      },
+      {
+        "excel_row": 8306,
+        "values": {
+          "Fr_reference": "Fr 8304",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 5,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8306",
+          "BOMPAC-reconstruction": "M8306",
+          "Row_exclusion": "BO8306",
+          "Exclusion_criteria": "BP8306",
+          "Database_or_institution": "E8306",
+          "Frs_per_unit": "N8306",
+          "Fr_in_unit": "O8306",
+          "FM_signum_BOMPAC": "U8306",
+          "CCM_signum_BOMPAC": "Q8306",
+          "Codex_signum_BOMPAC": "S8306",
+          "Identification_comment": "K8306",
+          "Dating_BOMPAC": "AF8306",
+          "Dating_BOMPAC_conflict": "AG8306",
+          "Origin_BOMPAC_conflict": "AK8306"
+        }
+      },
+      {
+        "excel_row": 8313,
+        "values": {
+          "Fr_reference": "Fr 8311",
+          "BOMPAC-reconstruction": "BOMPAC-258",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 39,
+          "Fr_in_unit": 3,
+          "FM_signum_BOMPAC": "FM.IV.159",
+          "CCM_signum_BOMPAC": "Ant-39",
+          "Codex_signum_BOMPAC": "Codex-1200",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1401-1500",
+          "Dating_BOMPAC_conflict": null,
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8313",
+          "BOMPAC-reconstruction": "M8313",
+          "Row_exclusion": "BO8313",
+          "Exclusion_criteria": "BP8313",
+          "Database_or_institution": "E8313",
+          "Frs_per_unit": "N8313",
+          "Fr_in_unit": "O8313",
+          "FM_signum_BOMPAC": "U8313",
+          "CCM_signum_BOMPAC": "Q8313",
+          "Codex_signum_BOMPAC": "S8313",
+          "Identification_comment": "K8313",
+          "Dating_BOMPAC": "AF8313",
+          "Dating_BOMPAC_conflict": "AG8313",
+          "Origin_BOMPAC_conflict": "AK8313"
+        }
+      },
+      {
+        "excel_row": 8994,
+        "values": {
+          "Fr_reference": "Fr 8994",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C8994",
+          "BOMPAC-reconstruction": "M8994",
+          "Row_exclusion": "BO8994",
+          "Exclusion_criteria": "BP8994",
+          "Database_or_institution": "E8994",
+          "Frs_per_unit": "N8994",
+          "Fr_in_unit": "O8994",
+          "FM_signum_BOMPAC": "U8994",
+          "CCM_signum_BOMPAC": "Q8994",
+          "Codex_signum_BOMPAC": "S8994",
+          "Identification_comment": "K8994",
+          "Dating_BOMPAC": "AF8994",
+          "Dating_BOMPAC_conflict": "AG8994",
+          "Origin_BOMPAC_conflict": "AK8994"
+        }
+      },
+      {
+        "excel_row": 9620,
+        "values": {
+          "Fr_reference": "Fr 9620",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 6,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C9620",
+          "BOMPAC-reconstruction": "M9620",
+          "Row_exclusion": "BO9620",
+          "Exclusion_criteria": "BP9620",
+          "Database_or_institution": "E9620",
+          "Frs_per_unit": "N9620",
+          "Fr_in_unit": "O9620",
+          "FM_signum_BOMPAC": "U9620",
+          "CCM_signum_BOMPAC": "Q9620",
+          "Codex_signum_BOMPAC": "S9620",
+          "Identification_comment": "K9620",
+          "Dating_BOMPAC": "AF9620",
+          "Dating_BOMPAC_conflict": "AG9620",
+          "Origin_BOMPAC_conflict": "AK9620"
+        }
+      },
+      {
+        "excel_row": 10349,
+        "values": {
+          "Fr_reference": "Fr 10349",
+          "BOMPAC-reconstruction": "BOMPAC-5901",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 2,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-111",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C10349",
+          "BOMPAC-reconstruction": "M10349",
+          "Row_exclusion": "BO10349",
+          "Exclusion_criteria": "BP10349",
+          "Database_or_institution": "E10349",
+          "Frs_per_unit": "N10349",
+          "Fr_in_unit": "O10349",
+          "FM_signum_BOMPAC": "U10349",
+          "CCM_signum_BOMPAC": "Q10349",
+          "Codex_signum_BOMPAC": "S10349",
+          "Identification_comment": "K10349",
+          "Dating_BOMPAC": "AF10349",
+          "Dating_BOMPAC_conflict": "AG10349",
+          "Origin_BOMPAC_conflict": "AK10349"
+        }
+      },
+      {
+        "excel_row": 10370,
+        "values": {
+          "Fr_reference": "Fr 10370",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 2,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C10370",
+          "BOMPAC-reconstruction": "M10370",
+          "Row_exclusion": "BO10370",
+          "Exclusion_criteria": "BP10370",
+          "Database_or_institution": "E10370",
+          "Frs_per_unit": "N10370",
+          "Fr_in_unit": "O10370",
+          "FM_signum_BOMPAC": "U10370",
+          "CCM_signum_BOMPAC": "Q10370",
+          "Codex_signum_BOMPAC": "S10370",
+          "Identification_comment": "K10370",
+          "Dating_BOMPAC": "AF10370",
+          "Dating_BOMPAC_conflict": "AG10370",
+          "Origin_BOMPAC_conflict": "AK10370"
+        }
+      },
+      {
+        "excel_row": 10406,
+        "values": {
+          "Fr_reference": "Fr 10406",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 3,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C10406",
+          "BOMPAC-reconstruction": "M10406",
+          "Row_exclusion": "BO10406",
+          "Exclusion_criteria": "BP10406",
+          "Database_or_institution": "E10406",
+          "Frs_per_unit": "N10406",
+          "Fr_in_unit": "O10406",
+          "FM_signum_BOMPAC": "U10406",
+          "CCM_signum_BOMPAC": "Q10406",
+          "Codex_signum_BOMPAC": "S10406",
+          "Identification_comment": "K10406",
+          "Dating_BOMPAC": "AF10406",
+          "Dating_BOMPAC_conflict": "AG10406",
+          "Origin_BOMPAC_conflict": "AK10406"
+        }
+      },
+      {
+        "excel_row": 10407,
+        "values": {
+          "Fr_reference": "Fr 10407",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 4,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C10407",
+          "BOMPAC-reconstruction": "M10407",
+          "Row_exclusion": "BO10407",
+          "Exclusion_criteria": "BP10407",
+          "Database_or_institution": "E10407",
+          "Frs_per_unit": "N10407",
+          "Fr_in_unit": "O10407",
+          "FM_signum_BOMPAC": "U10407",
+          "CCM_signum_BOMPAC": "Q10407",
+          "Codex_signum_BOMPAC": "S10407",
+          "Identification_comment": "K10407",
+          "Dating_BOMPAC": "AF10407",
+          "Dating_BOMPAC_conflict": "AG10407",
+          "Origin_BOMPAC_conflict": "AK10407"
+        }
+      },
+      {
+        "excel_row": 10437,
+        "values": {
+          "Fr_reference": "Fr 10437",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 5,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C10437",
+          "BOMPAC-reconstruction": "M10437",
+          "Row_exclusion": "BO10437",
+          "Exclusion_criteria": "BP10437",
+          "Database_or_institution": "E10437",
+          "Frs_per_unit": "N10437",
+          "Fr_in_unit": "O10437",
+          "FM_signum_BOMPAC": "U10437",
+          "CCM_signum_BOMPAC": "Q10437",
+          "Codex_signum_BOMPAC": "S10437",
+          "Identification_comment": "K10437",
+          "Dating_BOMPAC": "AF10437",
+          "Dating_BOMPAC_conflict": "AG10437",
+          "Origin_BOMPAC_conflict": "AK10437"
+        }
+      },
+      {
+        "excel_row": 12115,
+        "values": {
+          "Fr_reference": "Fr 20274",
+          "BOMPAC-reconstruction": "BOMPAC-912",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KB",
+          "Frs_per_unit": 20,
+          "Fr_in_unit": 2,
+          "FM_signum_BOMPAC": "FM.IV.157",
+          "CCM_signum_BOMPAC": "Ant-99",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1486",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C12115",
+          "BOMPAC-reconstruction": "M12115",
+          "Row_exclusion": "BO12115",
+          "Exclusion_criteria": "BP12115",
+          "Database_or_institution": "E12115",
+          "Frs_per_unit": "N12115",
+          "Fr_in_unit": "O12115",
+          "FM_signum_BOMPAC": "U12115",
+          "CCM_signum_BOMPAC": "Q12115",
+          "Codex_signum_BOMPAC": "S12115",
+          "Identification_comment": "K12115",
+          "Dating_BOMPAC": "AF12115",
+          "Dating_BOMPAC_conflict": "AG12115",
+          "Origin_BOMPAC_conflict": "AK12115"
+        }
+      },
+      {
+        "excel_row": 17009,
+        "values": {
+          "Fr_reference": "Fr 25173",
+          "BOMPAC-reconstruction": "BOMPAC-9350",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KB",
+          "Frs_per_unit": 3,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Gr-53",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1401-1500",
+          "Dating_BOMPAC_conflict": null,
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C17009",
+          "BOMPAC-reconstruction": "M17009",
+          "Row_exclusion": "BO17009",
+          "Exclusion_criteria": "BP17009",
+          "Database_or_institution": "E17009",
+          "Frs_per_unit": "N17009",
+          "Fr_in_unit": "O17009",
+          "FM_signum_BOMPAC": "U17009",
+          "CCM_signum_BOMPAC": "Q17009",
+          "Codex_signum_BOMPAC": "S17009",
+          "Identification_comment": "K17009",
+          "Dating_BOMPAC": "AF17009",
+          "Dating_BOMPAC_conflict": "AG17009",
+          "Origin_BOMPAC_conflict": "AK17009"
+        }
+      },
+      {
+        "excel_row": 17427,
+        "values": {
+          "Fr_reference": "Fr 25592",
+          "BOMPAC-reconstruction": "BOMPAC-9531",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 3,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.173",
+          "CCM_signum_BOMPAC": "Ant-242 / Hy-49",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1401-1500",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C17427",
+          "BOMPAC-reconstruction": "M17427",
+          "Row_exclusion": "BO17427",
+          "Exclusion_criteria": "BP17427",
+          "Database_or_institution": "E17427",
+          "Frs_per_unit": "N17427",
+          "Fr_in_unit": "O17427",
+          "FM_signum_BOMPAC": "U17427",
+          "CCM_signum_BOMPAC": "Q17427",
+          "Codex_signum_BOMPAC": "S17427",
+          "Identification_comment": "K17427",
+          "Dating_BOMPAC": "AF17427",
+          "Dating_BOMPAC_conflict": "AG17427",
+          "Origin_BOMPAC_conflict": "AK17427"
+        }
+      }
+    ],
+    "target_match_counts": {
+      "Fr 10349": 1,
+      "Fr 10370": 1,
+      "Fr 10406": 1,
+      "Fr 10407": 1,
+      "Fr 10437": 1,
+      "Fr 1385": 1,
+      "Fr 20274": 1,
+      "Fr 25173": 1,
+      "Fr 25592": 1,
+      "Fr 2862": 1,
+      "Fr 2863": 1,
+      "Fr 2864": 1,
+      "Fr 2872": 1,
+      "Fr 2873": 1,
+      "Fr 365": 1,
+      "Fr 8066": 1,
+      "Fr 8072": 1,
+      "Fr 8073": 1,
+      "Fr 8201": 1,
+      "Fr 8304": 1,
+      "Fr 8311": 1,
+      "Fr 8994": 1,
+      "Fr 9620": 1
+    },
+    "units": {
+      "BOMPAC-1703": [
+        {
+          "excel_row": 2864,
+          "identifier": "Fr 2862",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2865,
+          "identifier": "Fr 2863",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2866,
+          "identifier": "Fr 2864",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2873,
+          "identifier": "Fr 2871",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2874,
+          "identifier": "Fr 2872",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2875,
+          "identifier": "Fr 2873",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2878,
+          "identifier": "Fr 2876",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2884,
+          "identifier": "Fr 2882",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2888,
+          "identifier": "Fr 2886",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2890,
+          "identifier": "Fr 2888",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2897,
+          "identifier": "Fr 2895",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2898,
+          "identifier": "Fr 2896",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2899,
+          "identifier": "Fr 2897",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2900,
+          "identifier": "Fr 2898",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8850,
+          "identifier": "Fr 8850",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10380,
+          "identifier": "Fr 10380",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10700,
+          "identifier": "Fr 10700",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25734,
+          "identifier": "F.m.IV.58, fols. 1 & 2",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25735,
+          "identifier": "F.m.IV.59, fols. 1 & 2",
+          "row_exclusion": "Include row"
+        }
+      ],
+      "BOMPAC-258": [
+        {
+          "excel_row": 367,
+          "identifier": "Fr 365",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 4225,
+          "identifier": "Fr 4223",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8313,
+          "identifier": "Fr 8311",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8457,
+          "identifier": "Fr 8455",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8468,
+          "identifier": "Fr 8466",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8726,
+          "identifier": "Fr 8724",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8993,
+          "identifier": "Fr 8993",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9115,
+          "identifier": "Fr 9115",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9116,
+          "identifier": "Fr 9116",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9117,
+          "identifier": "Fr 9117",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9119,
+          "identifier": "Fr 9119",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9726,
+          "identifier": "Fr 9726",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9796,
+          "identifier": "Fr 9796",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9798,
+          "identifier": "Fr 9798",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11913,
+          "identifier": "Fr 20072",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11914,
+          "identifier": "Fr 20073",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11915,
+          "identifier": "Fr 20074",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11916,
+          "identifier": "Fr 20075",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11917,
+          "identifier": "Fr 20076",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11918,
+          "identifier": "Fr 20077",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11919,
+          "identifier": "Fr 20078",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11920,
+          "identifier": "Fr 20079",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11921,
+          "identifier": "Fr 20080",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11922,
+          "identifier": "Fr 20081",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11923,
+          "identifier": "Fr 20082",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11924,
+          "identifier": "Fr 20083",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11925,
+          "identifier": "Fr 20084",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25994,
+          "identifier": "F.m.IV.159, fols. 1 & 3",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25995,
+          "identifier": "F.m.IV.159, fol. 2",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25996,
+          "identifier": "F.m.IV.159, fol. 4",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25997,
+          "identifier": "F.m.IV.159, fols. 5 & 6",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25998,
+          "identifier": "F.m.IV.159, fol. 7",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25999,
+          "identifier": "F.m.IV.159, fol. 8",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 26000,
+          "identifier": "F.m.IV.159, fol. 9",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 26001,
+          "identifier": "F.m.IV.159, fol. 10",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 26002,
+          "identifier": "F.m.IV.159, fol. 11",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 26003,
+          "identifier": "F.m.IV.159, fol. 12",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 26004,
+          "identifier": "F.m.IV.159, fol. 13",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 26005,
+          "identifier": "F.m.IV.159, fol. 14",
+          "row_exclusion": "Include row"
+        }
+      ],
+      "BOMPAC-4861": [
+        {
+          "excel_row": 8068,
+          "identifier": "Fr 8066",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8074,
+          "identifier": "Fr 8072",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8075,
+          "identifier": "Fr 8073",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8203,
+          "identifier": "Fr 8201",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8306,
+          "identifier": "Fr 8304",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9620,
+          "identifier": "Fr 9620",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11947,
+          "identifier": "Fr 20106",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11948,
+          "identifier": "Fr 20107",
+          "row_exclusion": "Include row"
+        }
+      ],
+      "BOMPAC-5324": [
+        {
+          "excel_row": 8994,
+          "identifier": "Fr 8994",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10370,
+          "identifier": "Fr 10370",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10406,
+          "identifier": "Fr 10406",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10407,
+          "identifier": "Fr 10407",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10437,
+          "identifier": "Fr 10437",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25944,
+          "identifier": "F.m.IV.156, fol. 1",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25945,
+          "identifier": "F.m.IV.156, fol. 2",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25946,
+          "identifier": "F.m.IV.156, fol. 3",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25947,
+          "identifier": "F.m.IV.156, fol. 4",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25948,
+          "identifier": "F.m.IV.156, fol. 5",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25949,
+          "identifier": "F.m.IV.156, fol. 6",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25950,
+          "identifier": "F.m.IV.156, fol. 7",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25951,
+          "identifier": "F.m.IV.156, fol. 8",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25952,
+          "identifier": "F.m.IV.156, fol. 9",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25953,
+          "identifier": "F.m.IV.156, fol. 10",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25954,
+          "identifier": "F.m.IV.156, fol. 11",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25955,
+          "identifier": "F.m.IV.156, fol. 12",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25956,
+          "identifier": "F.m.IV.156, fol. 13",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25957,
+          "identifier": "F.m.IV.156, fol. 14",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25958,
+          "identifier": "F.m.IV.156, fol. 15",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25959,
+          "identifier": "F.m.IV.156, fol. 16",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25960,
+          "identifier": "F.m.IV.156, fol. 17",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25961,
+          "identifier": "F.m.IV.156, fol. 18",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25962,
+          "identifier": "F.m.IV.156, fol. 19",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25963,
+          "identifier": "F.m.IV.156, fol. 20",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25964,
+          "identifier": "F.m.IV.156, fol. 21",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25965,
+          "identifier": "F.m.IV.156, fol. 22",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25966,
+          "identifier": "F.m.IV.156, fols. 23 & 24",
+          "row_exclusion": "Include row"
+        }
+      ],
+      "BOMPAC-5901": [
+        {
+          "excel_row": 10349,
+          "identifier": "Fr 10349",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12132,
+          "identifier": "Fr 20291",
+          "row_exclusion": "Include row"
+        }
+      ],
+      "BOMPAC-912": [
+        {
+          "excel_row": 1387,
+          "identifier": "Fr 1385",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12115,
+          "identifier": "Fr 20274",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12116,
+          "identifier": "Fr 20275",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12117,
+          "identifier": "Fr 20276",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12118,
+          "identifier": "Fr 20277",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12119,
+          "identifier": "Fr 20278",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25967,
+          "identifier": "F.m.IV.157, fol. 1",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25968,
+          "identifier": "F.m.IV.157, fol. 2",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25969,
+          "identifier": "F.m.IV.157, fol. 3",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25970,
+          "identifier": "F.m.IV.157, fol. 4",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25971,
+          "identifier": "F.m.IV.157, fol. 5",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25972,
+          "identifier": "F.m.IV.157, fol. 6",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25973,
+          "identifier": "F.m.IV.157, fol. 7",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25974,
+          "identifier": "F.m.IV.157, fol. 8",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25975,
+          "identifier": "F.m.IV.157, fol. 9",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25976,
+          "identifier": "F.m.IV.157, fol. 10",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25977,
+          "identifier": "F.m.IV.157, fol. 11",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25978,
+          "identifier": "F.m.IV.157, fol. 12",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25979,
+          "identifier": "F.m.IV.157, fol. 13",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 25980,
+          "identifier": "F.m.IV.157, fol. 14",
+          "row_exclusion": "Include row"
+        }
+      ],
+      "BOMPAC-9350": [
+        {
+          "excel_row": 17009,
+          "identifier": "Fr 25173",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 17010,
+          "identifier": "Fr 25174",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 17011,
+          "identifier": "Fr 25175",
+          "row_exclusion": "Include row"
+        }
+      ],
+      "BOMPAC-9531": [
+        {
+          "excel_row": 17427,
+          "identifier": "Fr 25592",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 21491,
+          "identifier": "Fr 29666",
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 26058,
+          "identifier": "F.m.IV.173, fol. 1",
+          "row_exclusion": "Include row"
+        }
+      ]
+    }
+  },
+  "raw": {
+    "path": "research/continuation_26/bompac/raw_metadata/MPO_BOMPAC.xlsx",
+    "sheet": "Blad1",
+    "sha256": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9",
+    "headers_row": 2,
+    "source_dimensions": [
+      22915,
+      161
+    ],
+    "rows": [
+      {
+        "excel_row": 367,
+        "values": {
+          "fragment_id": 365,
+          "unit_HK": "C-17",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 27,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Ant-39",
+          "codex_HK": "Codex-1200",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D367",
+          "unit_HK": "F367",
+          "Row_exclusion": "FB367",
+          "Exclusion_criteria": "FC367",
+          "unit_NB_HK": "G367",
+          "frs_per_unit_HK": "H367",
+          "fr_in_unit_IDX_HK": "I367",
+          "ccmsignum_HK": "N367",
+          "codex_HK": "O367",
+          "ccmsignum_HK_ambivalence-MPO": "R367",
+          "codex_HK_ambivalence-MPO": "S367",
+          "ccmsignum_HK_ambivalence-HK": "T367",
+          "codex_HK_ambivalence-HK": "U367",
+          "ccmsignum_HK_correction_log": "V367",
+          "codex_HK_correction_log": "W367",
+          "signum_comments_HK": "X367",
+          "general_notes_HK": "E367"
+        }
+      },
+      {
+        "excel_row": 1387,
+        "values": {
+          "fragment_id": 1385,
+          "unit_HK": "F-1385",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 1,
+          "fr_in_unit_IDX_HK": null,
+          "ccmsignum_HK": null,
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D1387",
+          "unit_HK": "F1387",
+          "Row_exclusion": "FB1387",
+          "Exclusion_criteria": "FC1387",
+          "unit_NB_HK": "G1387",
+          "frs_per_unit_HK": "H1387",
+          "fr_in_unit_IDX_HK": "I1387",
+          "ccmsignum_HK": "N1387",
+          "codex_HK": "O1387",
+          "ccmsignum_HK_ambivalence-MPO": "R1387",
+          "codex_HK_ambivalence-MPO": "S1387",
+          "ccmsignum_HK_ambivalence-HK": "T1387",
+          "codex_HK_ambivalence-HK": "U1387",
+          "ccmsignum_HK_correction_log": "V1387",
+          "codex_HK_correction_log": "W1387",
+          "signum_comments_HK": "X1387",
+          "general_notes_HK": "E1387"
+        }
+      },
+      {
+        "excel_row": 2864,
+        "values": {
+          "fragment_id": 2862,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2864",
+          "unit_HK": "F2864",
+          "Row_exclusion": "FB2864",
+          "Exclusion_criteria": "FC2864",
+          "unit_NB_HK": "G2864",
+          "frs_per_unit_HK": "H2864",
+          "fr_in_unit_IDX_HK": "I2864",
+          "ccmsignum_HK": "N2864",
+          "codex_HK": "O2864",
+          "ccmsignum_HK_ambivalence-MPO": "R2864",
+          "codex_HK_ambivalence-MPO": "S2864",
+          "ccmsignum_HK_ambivalence-HK": "T2864",
+          "codex_HK_ambivalence-HK": "U2864",
+          "ccmsignum_HK_correction_log": "V2864",
+          "codex_HK_correction_log": "W2864",
+          "signum_comments_HK": "X2864",
+          "general_notes_HK": "E2864"
+        }
+      },
+      {
+        "excel_row": 2865,
+        "values": {
+          "fragment_id": 2863,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 2,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2865",
+          "unit_HK": "F2865",
+          "Row_exclusion": "FB2865",
+          "Exclusion_criteria": "FC2865",
+          "unit_NB_HK": "G2865",
+          "frs_per_unit_HK": "H2865",
+          "fr_in_unit_IDX_HK": "I2865",
+          "ccmsignum_HK": "N2865",
+          "codex_HK": "O2865",
+          "ccmsignum_HK_ambivalence-MPO": "R2865",
+          "codex_HK_ambivalence-MPO": "S2865",
+          "ccmsignum_HK_ambivalence-HK": "T2865",
+          "codex_HK_ambivalence-HK": "U2865",
+          "ccmsignum_HK_correction_log": "V2865",
+          "codex_HK_correction_log": "W2865",
+          "signum_comments_HK": "X2865",
+          "general_notes_HK": "E2865"
+        }
+      },
+      {
+        "excel_row": 2866,
+        "values": {
+          "fragment_id": 2864,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 3,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2866",
+          "unit_HK": "F2866",
+          "Row_exclusion": "FB2866",
+          "Exclusion_criteria": "FC2866",
+          "unit_NB_HK": "G2866",
+          "frs_per_unit_HK": "H2866",
+          "fr_in_unit_IDX_HK": "I2866",
+          "ccmsignum_HK": "N2866",
+          "codex_HK": "O2866",
+          "ccmsignum_HK_ambivalence-MPO": "R2866",
+          "codex_HK_ambivalence-MPO": "S2866",
+          "ccmsignum_HK_ambivalence-HK": "T2866",
+          "codex_HK_ambivalence-HK": "U2866",
+          "ccmsignum_HK_correction_log": "V2866",
+          "codex_HK_correction_log": "W2866",
+          "signum_comments_HK": "X2866",
+          "general_notes_HK": "E2866"
+        }
+      },
+      {
+        "excel_row": 2874,
+        "values": {
+          "fragment_id": 2872,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 5,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2874",
+          "unit_HK": "F2874",
+          "Row_exclusion": "FB2874",
+          "Exclusion_criteria": "FC2874",
+          "unit_NB_HK": "G2874",
+          "frs_per_unit_HK": "H2874",
+          "fr_in_unit_IDX_HK": "I2874",
+          "ccmsignum_HK": "N2874",
+          "codex_HK": "O2874",
+          "ccmsignum_HK_ambivalence-MPO": "R2874",
+          "codex_HK_ambivalence-MPO": "S2874",
+          "ccmsignum_HK_ambivalence-HK": "T2874",
+          "codex_HK_ambivalence-HK": "U2874",
+          "ccmsignum_HK_correction_log": "V2874",
+          "codex_HK_correction_log": "W2874",
+          "signum_comments_HK": "X2874",
+          "general_notes_HK": "E2874"
+        }
+      },
+      {
+        "excel_row": 2875,
+        "values": {
+          "fragment_id": 2873,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 6,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2875",
+          "unit_HK": "F2875",
+          "Row_exclusion": "FB2875",
+          "Exclusion_criteria": "FC2875",
+          "unit_NB_HK": "G2875",
+          "frs_per_unit_HK": "H2875",
+          "fr_in_unit_IDX_HK": "I2875",
+          "ccmsignum_HK": "N2875",
+          "codex_HK": "O2875",
+          "ccmsignum_HK_ambivalence-MPO": "R2875",
+          "codex_HK_ambivalence-MPO": "S2875",
+          "ccmsignum_HK_ambivalence-HK": "T2875",
+          "codex_HK_ambivalence-HK": "U2875",
+          "ccmsignum_HK_correction_log": "V2875",
+          "codex_HK_correction_log": "W2875",
+          "signum_comments_HK": "X2875",
+          "general_notes_HK": "E2875"
+        }
+      },
+      {
+        "excel_row": 8068,
+        "values": {
+          "fragment_id": 8066,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8068",
+          "unit_HK": "F8068",
+          "Row_exclusion": "FB8068",
+          "Exclusion_criteria": "FC8068",
+          "unit_NB_HK": "G8068",
+          "frs_per_unit_HK": "H8068",
+          "fr_in_unit_IDX_HK": "I8068",
+          "ccmsignum_HK": "N8068",
+          "codex_HK": "O8068",
+          "ccmsignum_HK_ambivalence-MPO": "R8068",
+          "codex_HK_ambivalence-MPO": "S8068",
+          "ccmsignum_HK_ambivalence-HK": "T8068",
+          "codex_HK_ambivalence-HK": "U8068",
+          "ccmsignum_HK_correction_log": "V8068",
+          "codex_HK_correction_log": "W8068",
+          "signum_comments_HK": "X8068",
+          "general_notes_HK": "E8068"
+        }
+      },
+      {
+        "excel_row": 8074,
+        "values": {
+          "fragment_id": 8072,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 2,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8074",
+          "unit_HK": "F8074",
+          "Row_exclusion": "FB8074",
+          "Exclusion_criteria": "FC8074",
+          "unit_NB_HK": "G8074",
+          "frs_per_unit_HK": "H8074",
+          "fr_in_unit_IDX_HK": "I8074",
+          "ccmsignum_HK": "N8074",
+          "codex_HK": "O8074",
+          "ccmsignum_HK_ambivalence-MPO": "R8074",
+          "codex_HK_ambivalence-MPO": "S8074",
+          "ccmsignum_HK_ambivalence-HK": "T8074",
+          "codex_HK_ambivalence-HK": "U8074",
+          "ccmsignum_HK_correction_log": "V8074",
+          "codex_HK_correction_log": "W8074",
+          "signum_comments_HK": "X8074",
+          "general_notes_HK": "E8074"
+        }
+      },
+      {
+        "excel_row": 8075,
+        "values": {
+          "fragment_id": 8073,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 3,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8075",
+          "unit_HK": "F8075",
+          "Row_exclusion": "FB8075",
+          "Exclusion_criteria": "FC8075",
+          "unit_NB_HK": "G8075",
+          "frs_per_unit_HK": "H8075",
+          "fr_in_unit_IDX_HK": "I8075",
+          "ccmsignum_HK": "N8075",
+          "codex_HK": "O8075",
+          "ccmsignum_HK_ambivalence-MPO": "R8075",
+          "codex_HK_ambivalence-MPO": "S8075",
+          "ccmsignum_HK_ambivalence-HK": "T8075",
+          "codex_HK_ambivalence-HK": "U8075",
+          "ccmsignum_HK_correction_log": "V8075",
+          "codex_HK_correction_log": "W8075",
+          "signum_comments_HK": "X8075",
+          "general_notes_HK": "E8075"
+        }
+      },
+      {
+        "excel_row": 8203,
+        "values": {
+          "fragment_id": 8201,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 4,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8203",
+          "unit_HK": "F8203",
+          "Row_exclusion": "FB8203",
+          "Exclusion_criteria": "FC8203",
+          "unit_NB_HK": "G8203",
+          "frs_per_unit_HK": "H8203",
+          "fr_in_unit_IDX_HK": "I8203",
+          "ccmsignum_HK": "N8203",
+          "codex_HK": "O8203",
+          "ccmsignum_HK_ambivalence-MPO": "R8203",
+          "codex_HK_ambivalence-MPO": "S8203",
+          "ccmsignum_HK_ambivalence-HK": "T8203",
+          "codex_HK_ambivalence-HK": "U8203",
+          "ccmsignum_HK_correction_log": "V8203",
+          "codex_HK_correction_log": "W8203",
+          "signum_comments_HK": "X8203",
+          "general_notes_HK": "E8203"
+        }
+      },
+      {
+        "excel_row": 8306,
+        "values": {
+          "fragment_id": 8304,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 5,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8306",
+          "unit_HK": "F8306",
+          "Row_exclusion": "FB8306",
+          "Exclusion_criteria": "FC8306",
+          "unit_NB_HK": "G8306",
+          "frs_per_unit_HK": "H8306",
+          "fr_in_unit_IDX_HK": "I8306",
+          "ccmsignum_HK": "N8306",
+          "codex_HK": "O8306",
+          "ccmsignum_HK_ambivalence-MPO": "R8306",
+          "codex_HK_ambivalence-MPO": "S8306",
+          "ccmsignum_HK_ambivalence-HK": "T8306",
+          "codex_HK_ambivalence-HK": "U8306",
+          "ccmsignum_HK_correction_log": "V8306",
+          "codex_HK_correction_log": "W8306",
+          "signum_comments_HK": "X8306",
+          "general_notes_HK": "E8306"
+        }
+      },
+      {
+        "excel_row": 8313,
+        "values": {
+          "fragment_id": 8311,
+          "unit_HK": "C-17",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 27,
+          "fr_in_unit_IDX_HK": 3,
+          "ccmsignum_HK": "Ant-39",
+          "codex_HK": "Codex-1200",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8313",
+          "unit_HK": "F8313",
+          "Row_exclusion": "FB8313",
+          "Exclusion_criteria": "FC8313",
+          "unit_NB_HK": "G8313",
+          "frs_per_unit_HK": "H8313",
+          "fr_in_unit_IDX_HK": "I8313",
+          "ccmsignum_HK": "N8313",
+          "codex_HK": "O8313",
+          "ccmsignum_HK_ambivalence-MPO": "R8313",
+          "codex_HK_ambivalence-MPO": "S8313",
+          "ccmsignum_HK_ambivalence-HK": "T8313",
+          "codex_HK_ambivalence-HK": "U8313",
+          "ccmsignum_HK_correction_log": "V8313",
+          "codex_HK_correction_log": "W8313",
+          "signum_comments_HK": "X8313",
+          "general_notes_HK": "E8313"
+        }
+      },
+      {
+        "excel_row": 8994,
+        "values": {
+          "fragment_id": 8994,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8994",
+          "unit_HK": "F8994",
+          "Row_exclusion": "FB8994",
+          "Exclusion_criteria": "FC8994",
+          "unit_NB_HK": "G8994",
+          "frs_per_unit_HK": "H8994",
+          "fr_in_unit_IDX_HK": "I8994",
+          "ccmsignum_HK": "N8994",
+          "codex_HK": "O8994",
+          "ccmsignum_HK_ambivalence-MPO": "R8994",
+          "codex_HK_ambivalence-MPO": "S8994",
+          "ccmsignum_HK_ambivalence-HK": "T8994",
+          "codex_HK_ambivalence-HK": "U8994",
+          "ccmsignum_HK_correction_log": "V8994",
+          "codex_HK_correction_log": "W8994",
+          "signum_comments_HK": "X8994",
+          "general_notes_HK": "E8994"
+        }
+      },
+      {
+        "excel_row": 9620,
+        "values": {
+          "fragment_id": 9620,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 6,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D9620",
+          "unit_HK": "F9620",
+          "Row_exclusion": "FB9620",
+          "Exclusion_criteria": "FC9620",
+          "unit_NB_HK": "G9620",
+          "frs_per_unit_HK": "H9620",
+          "fr_in_unit_IDX_HK": "I9620",
+          "ccmsignum_HK": "N9620",
+          "codex_HK": "O9620",
+          "ccmsignum_HK_ambivalence-MPO": "R9620",
+          "codex_HK_ambivalence-MPO": "S9620",
+          "ccmsignum_HK_ambivalence-HK": "T9620",
+          "codex_HK_ambivalence-HK": "U9620",
+          "ccmsignum_HK_correction_log": "V9620",
+          "codex_HK_correction_log": "W9620",
+          "signum_comments_HK": "X9620",
+          "general_notes_HK": "E9620"
+        }
+      },
+      {
+        "excel_row": 10349,
+        "values": {
+          "fragment_id": 10349,
+          "unit_HK": "C-37",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": "ambivalence-MPO",
+          "frs_per_unit_HK": 2,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Ant-111",
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": "?",
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10349",
+          "unit_HK": "F10349",
+          "Row_exclusion": "FB10349",
+          "Exclusion_criteria": "FC10349",
+          "unit_NB_HK": "G10349",
+          "frs_per_unit_HK": "H10349",
+          "fr_in_unit_IDX_HK": "I10349",
+          "ccmsignum_HK": "N10349",
+          "codex_HK": "O10349",
+          "ccmsignum_HK_ambivalence-MPO": "R10349",
+          "codex_HK_ambivalence-MPO": "S10349",
+          "ccmsignum_HK_ambivalence-HK": "T10349",
+          "codex_HK_ambivalence-HK": "U10349",
+          "ccmsignum_HK_correction_log": "V10349",
+          "codex_HK_correction_log": "W10349",
+          "signum_comments_HK": "X10349",
+          "general_notes_HK": "E10349"
+        }
+      },
+      {
+        "excel_row": 10370,
+        "values": {
+          "fragment_id": 10370,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 2,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10370",
+          "unit_HK": "F10370",
+          "Row_exclusion": "FB10370",
+          "Exclusion_criteria": "FC10370",
+          "unit_NB_HK": "G10370",
+          "frs_per_unit_HK": "H10370",
+          "fr_in_unit_IDX_HK": "I10370",
+          "ccmsignum_HK": "N10370",
+          "codex_HK": "O10370",
+          "ccmsignum_HK_ambivalence-MPO": "R10370",
+          "codex_HK_ambivalence-MPO": "S10370",
+          "ccmsignum_HK_ambivalence-HK": "T10370",
+          "codex_HK_ambivalence-HK": "U10370",
+          "ccmsignum_HK_correction_log": "V10370",
+          "codex_HK_correction_log": "W10370",
+          "signum_comments_HK": "X10370",
+          "general_notes_HK": "E10370"
+        }
+      },
+      {
+        "excel_row": 10406,
+        "values": {
+          "fragment_id": 10406,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 3,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10406",
+          "unit_HK": "F10406",
+          "Row_exclusion": "FB10406",
+          "Exclusion_criteria": "FC10406",
+          "unit_NB_HK": "G10406",
+          "frs_per_unit_HK": "H10406",
+          "fr_in_unit_IDX_HK": "I10406",
+          "ccmsignum_HK": "N10406",
+          "codex_HK": "O10406",
+          "ccmsignum_HK_ambivalence-MPO": "R10406",
+          "codex_HK_ambivalence-MPO": "S10406",
+          "ccmsignum_HK_ambivalence-HK": "T10406",
+          "codex_HK_ambivalence-HK": "U10406",
+          "ccmsignum_HK_correction_log": "V10406",
+          "codex_HK_correction_log": "W10406",
+          "signum_comments_HK": "X10406",
+          "general_notes_HK": "E10406"
+        }
+      },
+      {
+        "excel_row": 10407,
+        "values": {
+          "fragment_id": 10407,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 4,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10407",
+          "unit_HK": "F10407",
+          "Row_exclusion": "FB10407",
+          "Exclusion_criteria": "FC10407",
+          "unit_NB_HK": "G10407",
+          "frs_per_unit_HK": "H10407",
+          "fr_in_unit_IDX_HK": "I10407",
+          "ccmsignum_HK": "N10407",
+          "codex_HK": "O10407",
+          "ccmsignum_HK_ambivalence-MPO": "R10407",
+          "codex_HK_ambivalence-MPO": "S10407",
+          "ccmsignum_HK_ambivalence-HK": "T10407",
+          "codex_HK_ambivalence-HK": "U10407",
+          "ccmsignum_HK_correction_log": "V10407",
+          "codex_HK_correction_log": "W10407",
+          "signum_comments_HK": "X10407",
+          "general_notes_HK": "E10407"
+        }
+      },
+      {
+        "excel_row": 10437,
+        "values": {
+          "fragment_id": 10437,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 5,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10437",
+          "unit_HK": "F10437",
+          "Row_exclusion": "FB10437",
+          "Exclusion_criteria": "FC10437",
+          "unit_NB_HK": "G10437",
+          "frs_per_unit_HK": "H10437",
+          "fr_in_unit_IDX_HK": "I10437",
+          "ccmsignum_HK": "N10437",
+          "codex_HK": "O10437",
+          "ccmsignum_HK_ambivalence-MPO": "R10437",
+          "codex_HK_ambivalence-MPO": "S10437",
+          "ccmsignum_HK_ambivalence-HK": "T10437",
+          "codex_HK_ambivalence-HK": "U10437",
+          "ccmsignum_HK_correction_log": "V10437",
+          "codex_HK_correction_log": "W10437",
+          "signum_comments_HK": "X10437",
+          "general_notes_HK": "E10437"
+        }
+      },
+      {
+        "excel_row": 12115,
+        "values": {
+          "fragment_id": 20274,
+          "unit_HK": "C-35",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Ant-99",
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D12115",
+          "unit_HK": "F12115",
+          "Row_exclusion": "FB12115",
+          "Exclusion_criteria": "FC12115",
+          "unit_NB_HK": "G12115",
+          "frs_per_unit_HK": "H12115",
+          "fr_in_unit_IDX_HK": "I12115",
+          "ccmsignum_HK": "N12115",
+          "codex_HK": "O12115",
+          "ccmsignum_HK_ambivalence-MPO": "R12115",
+          "codex_HK_ambivalence-MPO": "S12115",
+          "ccmsignum_HK_ambivalence-HK": "T12115",
+          "codex_HK_ambivalence-HK": "U12115",
+          "ccmsignum_HK_correction_log": "V12115",
+          "codex_HK_correction_log": "W12115",
+          "signum_comments_HK": "X12115",
+          "general_notes_HK": "E12115"
+        }
+      },
+      {
+        "excel_row": 17009,
+        "values": {
+          "fragment_id": 25173,
+          "unit_HK": "C-730",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 3,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Gr-53",
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D17009",
+          "unit_HK": "F17009",
+          "Row_exclusion": "FB17009",
+          "Exclusion_criteria": "FC17009",
+          "unit_NB_HK": "G17009",
+          "frs_per_unit_HK": "H17009",
+          "fr_in_unit_IDX_HK": "I17009",
+          "ccmsignum_HK": "N17009",
+          "codex_HK": "O17009",
+          "ccmsignum_HK_ambivalence-MPO": "R17009",
+          "codex_HK_ambivalence-MPO": "S17009",
+          "ccmsignum_HK_ambivalence-HK": "T17009",
+          "codex_HK_ambivalence-HK": "U17009",
+          "ccmsignum_HK_correction_log": "V17009",
+          "codex_HK_correction_log": "W17009",
+          "signum_comments_HK": "X17009",
+          "general_notes_HK": "E17009"
+        }
+      },
+      {
+        "excel_row": 17427,
+        "values": {
+          "fragment_id": 25592,
+          "unit_HK": "F-25592",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 1,
+          "fr_in_unit_IDX_HK": null,
+          "ccmsignum_HK": "Hy-49",
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D17427",
+          "unit_HK": "F17427",
+          "Row_exclusion": "FB17427",
+          "Exclusion_criteria": "FC17427",
+          "unit_NB_HK": "G17427",
+          "frs_per_unit_HK": "H17427",
+          "fr_in_unit_IDX_HK": "I17427",
+          "ccmsignum_HK": "N17427",
+          "codex_HK": "O17427",
+          "ccmsignum_HK_ambivalence-MPO": "R17427",
+          "codex_HK_ambivalence-MPO": "S17427",
+          "ccmsignum_HK_ambivalence-HK": "T17427",
+          "codex_HK_ambivalence-HK": "U17427",
+          "ccmsignum_HK_correction_log": "V17427",
+          "codex_HK_correction_log": "W17427",
+          "signum_comments_HK": "X17427",
+          "general_notes_HK": "E17427"
+        }
+      }
+    ],
+    "target_match_counts": {
+      "365": 1,
+      "1385": 1,
+      "2862": 1,
+      "2863": 1,
+      "2864": 1,
+      "2872": 1,
+      "2873": 1,
+      "8066": 1,
+      "8072": 1,
+      "8073": 1,
+      "8201": 1,
+      "8304": 1,
+      "8311": 1,
+      "8994": 1,
+      "9620": 1,
+      "10349": 1,
+      "10370": 1,
+      "10406": 1,
+      "10407": 1,
+      "10437": 1,
+      "20274": 1,
+      "25173": 1,
+      "25592": 1
+    },
+    "units": {
+      "C-17": [
+        {
+          "excel_row": 367,
+          "identifier": 365,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 4225,
+          "identifier": 4223,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8313,
+          "identifier": 8311,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8457,
+          "identifier": 8455,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8468,
+          "identifier": 8466,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8726,
+          "identifier": 8724,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8993,
+          "identifier": 8993,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9115,
+          "identifier": 9115,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9116,
+          "identifier": 9116,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9117,
+          "identifier": 9117,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9119,
+          "identifier": 9119,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9726,
+          "identifier": 9726,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9796,
+          "identifier": 9796,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9798,
+          "identifier": 9798,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11913,
+          "identifier": 20072,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11914,
+          "identifier": 20073,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11915,
+          "identifier": 20074,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11916,
+          "identifier": 20075,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11917,
+          "identifier": 20076,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11918,
+          "identifier": 20077,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11919,
+          "identifier": 20078,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11920,
+          "identifier": 20079,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11921,
+          "identifier": 20080,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11922,
+          "identifier": 20081,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11923,
+          "identifier": 20082,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11924,
+          "identifier": 20083,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11925,
+          "identifier": 20084,
+          "row_exclusion": "Include row"
+        }
+      ],
+      "C-20": [
+        {
+          "excel_row": 8068,
+          "identifier": 8066,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8074,
+          "identifier": 8072,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8075,
+          "identifier": 8073,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8203,
+          "identifier": 8201,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8306,
+          "identifier": 8304,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 9620,
+          "identifier": 9620,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11947,
+          "identifier": 20106,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 11948,
+          "identifier": 20107,
+          "row_exclusion": "Include row"
+        }
+      ],
+      "C-35": [
+        {
+          "excel_row": 12115,
+          "identifier": 20274,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12116,
+          "identifier": 20275,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12117,
+          "identifier": 20276,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12118,
+          "identifier": 20277,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12119,
+          "identifier": 20278,
+          "row_exclusion": "Include row"
+        }
+      ],
+      "C-37": [
+        {
+          "excel_row": 10349,
+          "identifier": 10349,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 12132,
+          "identifier": 20291,
+          "row_exclusion": "Include row"
+        }
+      ],
+      "C-730": [
+        {
+          "excel_row": 17009,
+          "identifier": 25173,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 17010,
+          "identifier": 25174,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 17011,
+          "identifier": 25175,
+          "row_exclusion": "Include row"
+        }
+      ],
+      "F-1385": [
+        {
+          "excel_row": 1387,
+          "identifier": 1385,
+          "row_exclusion": "Include row"
+        }
+      ],
+      "F-25592": [
+        {
+          "excel_row": 17427,
+          "identifier": 25592,
+          "row_exclusion": "Include row"
+        }
+      ],
+      "M-1217": [
+        {
+          "excel_row": 8994,
+          "identifier": 8994,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10370,
+          "identifier": 10370,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10406,
+          "identifier": 10406,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10407,
+          "identifier": 10407,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10437,
+          "identifier": 10437,
+          "row_exclusion": "Include row"
+        }
+      ],
+      "M-374": [
+        {
+          "excel_row": 2864,
+          "identifier": 2862,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2865,
+          "identifier": 2863,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2866,
+          "identifier": 2864,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2873,
+          "identifier": 2871,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2874,
+          "identifier": 2872,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2875,
+          "identifier": 2873,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2878,
+          "identifier": 2876,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2884,
+          "identifier": 2882,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2888,
+          "identifier": 2886,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2890,
+          "identifier": 2888,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2897,
+          "identifier": 2895,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2898,
+          "identifier": 2896,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2899,
+          "identifier": 2897,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 2900,
+          "identifier": 2898,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 8850,
+          "identifier": 8850,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10380,
+          "identifier": 10380,
+          "row_exclusion": "Include row"
+        },
+        {
+          "excel_row": 10700,
+          "identifier": 10700,
+          "row_exclusion": "Include row"
+        }
+      ]
+    }
+  },
+  "memberships": [
+    {
+      "object_id": "mpo-10349",
+      "combined_row": {
+        "excel_row": 10349,
+        "values": {
+          "Fr_reference": "Fr 10349",
+          "BOMPAC-reconstruction": "BOMPAC-5901",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 2,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-111",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C10349",
+          "BOMPAC-reconstruction": "M10349",
+          "Row_exclusion": "BO10349",
+          "Exclusion_criteria": "BP10349",
+          "Database_or_institution": "E10349",
+          "Frs_per_unit": "N10349",
+          "Fr_in_unit": "O10349",
+          "FM_signum_BOMPAC": "U10349",
+          "CCM_signum_BOMPAC": "Q10349",
+          "Codex_signum_BOMPAC": "S10349",
+          "Identification_comment": "K10349",
+          "Dating_BOMPAC": "AF10349",
+          "Dating_BOMPAC_conflict": "AG10349",
+          "Origin_BOMPAC_conflict": "AK10349"
+        }
+      },
+      "raw_row": {
+        "excel_row": 10349,
+        "values": {
+          "fragment_id": 10349,
+          "unit_HK": "C-37",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": "ambivalence-MPO",
+          "frs_per_unit_HK": 2,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Ant-111",
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": "?",
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10349",
+          "unit_HK": "F10349",
+          "Row_exclusion": "FB10349",
+          "Exclusion_criteria": "FC10349",
+          "unit_NB_HK": "G10349",
+          "frs_per_unit_HK": "H10349",
+          "fr_in_unit_IDX_HK": "I10349",
+          "ccmsignum_HK": "N10349",
+          "codex_HK": "O10349",
+          "ccmsignum_HK_ambivalence-MPO": "R10349",
+          "codex_HK_ambivalence-MPO": "S10349",
+          "ccmsignum_HK_ambivalence-HK": "T10349",
+          "codex_HK_ambivalence-HK": "U10349",
+          "ccmsignum_HK_correction_log": "V10349",
+          "codex_HK_correction_log": "W10349",
+          "signum_comments_HK": "X10349",
+          "general_notes_HK": "E10349"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-10370",
+      "combined_row": {
+        "excel_row": 10370,
+        "values": {
+          "Fr_reference": "Fr 10370",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 2,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C10370",
+          "BOMPAC-reconstruction": "M10370",
+          "Row_exclusion": "BO10370",
+          "Exclusion_criteria": "BP10370",
+          "Database_or_institution": "E10370",
+          "Frs_per_unit": "N10370",
+          "Fr_in_unit": "O10370",
+          "FM_signum_BOMPAC": "U10370",
+          "CCM_signum_BOMPAC": "Q10370",
+          "Codex_signum_BOMPAC": "S10370",
+          "Identification_comment": "K10370",
+          "Dating_BOMPAC": "AF10370",
+          "Dating_BOMPAC_conflict": "AG10370",
+          "Origin_BOMPAC_conflict": "AK10370"
+        }
+      },
+      "raw_row": {
+        "excel_row": 10370,
+        "values": {
+          "fragment_id": 10370,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 2,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10370",
+          "unit_HK": "F10370",
+          "Row_exclusion": "FB10370",
+          "Exclusion_criteria": "FC10370",
+          "unit_NB_HK": "G10370",
+          "frs_per_unit_HK": "H10370",
+          "fr_in_unit_IDX_HK": "I10370",
+          "ccmsignum_HK": "N10370",
+          "codex_HK": "O10370",
+          "ccmsignum_HK_ambivalence-MPO": "R10370",
+          "codex_HK_ambivalence-MPO": "S10370",
+          "ccmsignum_HK_ambivalence-HK": "T10370",
+          "codex_HK_ambivalence-HK": "U10370",
+          "ccmsignum_HK_correction_log": "V10370",
+          "codex_HK_correction_log": "W10370",
+          "signum_comments_HK": "X10370",
+          "general_notes_HK": "E10370"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-10406",
+      "combined_row": {
+        "excel_row": 10406,
+        "values": {
+          "Fr_reference": "Fr 10406",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 3,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C10406",
+          "BOMPAC-reconstruction": "M10406",
+          "Row_exclusion": "BO10406",
+          "Exclusion_criteria": "BP10406",
+          "Database_or_institution": "E10406",
+          "Frs_per_unit": "N10406",
+          "Fr_in_unit": "O10406",
+          "FM_signum_BOMPAC": "U10406",
+          "CCM_signum_BOMPAC": "Q10406",
+          "Codex_signum_BOMPAC": "S10406",
+          "Identification_comment": "K10406",
+          "Dating_BOMPAC": "AF10406",
+          "Dating_BOMPAC_conflict": "AG10406",
+          "Origin_BOMPAC_conflict": "AK10406"
+        }
+      },
+      "raw_row": {
+        "excel_row": 10406,
+        "values": {
+          "fragment_id": 10406,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 3,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10406",
+          "unit_HK": "F10406",
+          "Row_exclusion": "FB10406",
+          "Exclusion_criteria": "FC10406",
+          "unit_NB_HK": "G10406",
+          "frs_per_unit_HK": "H10406",
+          "fr_in_unit_IDX_HK": "I10406",
+          "ccmsignum_HK": "N10406",
+          "codex_HK": "O10406",
+          "ccmsignum_HK_ambivalence-MPO": "R10406",
+          "codex_HK_ambivalence-MPO": "S10406",
+          "ccmsignum_HK_ambivalence-HK": "T10406",
+          "codex_HK_ambivalence-HK": "U10406",
+          "ccmsignum_HK_correction_log": "V10406",
+          "codex_HK_correction_log": "W10406",
+          "signum_comments_HK": "X10406",
+          "general_notes_HK": "E10406"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-10407",
+      "combined_row": {
+        "excel_row": 10407,
+        "values": {
+          "Fr_reference": "Fr 10407",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 4,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C10407",
+          "BOMPAC-reconstruction": "M10407",
+          "Row_exclusion": "BO10407",
+          "Exclusion_criteria": "BP10407",
+          "Database_or_institution": "E10407",
+          "Frs_per_unit": "N10407",
+          "Fr_in_unit": "O10407",
+          "FM_signum_BOMPAC": "U10407",
+          "CCM_signum_BOMPAC": "Q10407",
+          "Codex_signum_BOMPAC": "S10407",
+          "Identification_comment": "K10407",
+          "Dating_BOMPAC": "AF10407",
+          "Dating_BOMPAC_conflict": "AG10407",
+          "Origin_BOMPAC_conflict": "AK10407"
+        }
+      },
+      "raw_row": {
+        "excel_row": 10407,
+        "values": {
+          "fragment_id": 10407,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 4,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10407",
+          "unit_HK": "F10407",
+          "Row_exclusion": "FB10407",
+          "Exclusion_criteria": "FC10407",
+          "unit_NB_HK": "G10407",
+          "frs_per_unit_HK": "H10407",
+          "fr_in_unit_IDX_HK": "I10407",
+          "ccmsignum_HK": "N10407",
+          "codex_HK": "O10407",
+          "ccmsignum_HK_ambivalence-MPO": "R10407",
+          "codex_HK_ambivalence-MPO": "S10407",
+          "ccmsignum_HK_ambivalence-HK": "T10407",
+          "codex_HK_ambivalence-HK": "U10407",
+          "ccmsignum_HK_correction_log": "V10407",
+          "codex_HK_correction_log": "W10407",
+          "signum_comments_HK": "X10407",
+          "general_notes_HK": "E10407"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-10437",
+      "combined_row": {
+        "excel_row": 10437,
+        "values": {
+          "Fr_reference": "Fr 10437",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 5,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C10437",
+          "BOMPAC-reconstruction": "M10437",
+          "Row_exclusion": "BO10437",
+          "Exclusion_criteria": "BP10437",
+          "Database_or_institution": "E10437",
+          "Frs_per_unit": "N10437",
+          "Fr_in_unit": "O10437",
+          "FM_signum_BOMPAC": "U10437",
+          "CCM_signum_BOMPAC": "Q10437",
+          "Codex_signum_BOMPAC": "S10437",
+          "Identification_comment": "K10437",
+          "Dating_BOMPAC": "AF10437",
+          "Dating_BOMPAC_conflict": "AG10437",
+          "Origin_BOMPAC_conflict": "AK10437"
+        }
+      },
+      "raw_row": {
+        "excel_row": 10437,
+        "values": {
+          "fragment_id": 10437,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 5,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D10437",
+          "unit_HK": "F10437",
+          "Row_exclusion": "FB10437",
+          "Exclusion_criteria": "FC10437",
+          "unit_NB_HK": "G10437",
+          "frs_per_unit_HK": "H10437",
+          "fr_in_unit_IDX_HK": "I10437",
+          "ccmsignum_HK": "N10437",
+          "codex_HK": "O10437",
+          "ccmsignum_HK_ambivalence-MPO": "R10437",
+          "codex_HK_ambivalence-MPO": "S10437",
+          "ccmsignum_HK_ambivalence-HK": "T10437",
+          "codex_HK_ambivalence-HK": "U10437",
+          "ccmsignum_HK_correction_log": "V10437",
+          "codex_HK_correction_log": "W10437",
+          "signum_comments_HK": "X10437",
+          "general_notes_HK": "E10437"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-1385",
+      "combined_row": {
+        "excel_row": 1387,
+        "values": {
+          "Fr_reference": "Fr 1385",
+          "BOMPAC-reconstruction": "BOMPAC-912",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 20,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.157",
+          "CCM_signum_BOMPAC": "Ant-99",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1486",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C1387",
+          "BOMPAC-reconstruction": "M1387",
+          "Row_exclusion": "BO1387",
+          "Exclusion_criteria": "BP1387",
+          "Database_or_institution": "E1387",
+          "Frs_per_unit": "N1387",
+          "Fr_in_unit": "O1387",
+          "FM_signum_BOMPAC": "U1387",
+          "CCM_signum_BOMPAC": "Q1387",
+          "Codex_signum_BOMPAC": "S1387",
+          "Identification_comment": "K1387",
+          "Dating_BOMPAC": "AF1387",
+          "Dating_BOMPAC_conflict": "AG1387",
+          "Origin_BOMPAC_conflict": "AK1387"
+        }
+      },
+      "raw_row": {
+        "excel_row": 1387,
+        "values": {
+          "fragment_id": 1385,
+          "unit_HK": "F-1385",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 1,
+          "fr_in_unit_IDX_HK": null,
+          "ccmsignum_HK": null,
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D1387",
+          "unit_HK": "F1387",
+          "Row_exclusion": "FB1387",
+          "Exclusion_criteria": "FC1387",
+          "unit_NB_HK": "G1387",
+          "frs_per_unit_HK": "H1387",
+          "fr_in_unit_IDX_HK": "I1387",
+          "ccmsignum_HK": "N1387",
+          "codex_HK": "O1387",
+          "ccmsignum_HK_ambivalence-MPO": "R1387",
+          "codex_HK_ambivalence-MPO": "S1387",
+          "ccmsignum_HK_ambivalence-HK": "T1387",
+          "codex_HK_ambivalence-HK": "U1387",
+          "ccmsignum_HK_correction_log": "V1387",
+          "codex_HK_correction_log": "W1387",
+          "signum_comments_HK": "X1387",
+          "general_notes_HK": "E1387"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-20274",
+      "combined_row": {
+        "excel_row": 12115,
+        "values": {
+          "Fr_reference": "Fr 20274",
+          "BOMPAC-reconstruction": "BOMPAC-912",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KB",
+          "Frs_per_unit": 20,
+          "Fr_in_unit": 2,
+          "FM_signum_BOMPAC": "FM.IV.157",
+          "CCM_signum_BOMPAC": "Ant-99",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1486",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C12115",
+          "BOMPAC-reconstruction": "M12115",
+          "Row_exclusion": "BO12115",
+          "Exclusion_criteria": "BP12115",
+          "Database_or_institution": "E12115",
+          "Frs_per_unit": "N12115",
+          "Fr_in_unit": "O12115",
+          "FM_signum_BOMPAC": "U12115",
+          "CCM_signum_BOMPAC": "Q12115",
+          "Codex_signum_BOMPAC": "S12115",
+          "Identification_comment": "K12115",
+          "Dating_BOMPAC": "AF12115",
+          "Dating_BOMPAC_conflict": "AG12115",
+          "Origin_BOMPAC_conflict": "AK12115"
+        }
+      },
+      "raw_row": {
+        "excel_row": 12115,
+        "values": {
+          "fragment_id": 20274,
+          "unit_HK": "C-35",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Ant-99",
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D12115",
+          "unit_HK": "F12115",
+          "Row_exclusion": "FB12115",
+          "Exclusion_criteria": "FC12115",
+          "unit_NB_HK": "G12115",
+          "frs_per_unit_HK": "H12115",
+          "fr_in_unit_IDX_HK": "I12115",
+          "ccmsignum_HK": "N12115",
+          "codex_HK": "O12115",
+          "ccmsignum_HK_ambivalence-MPO": "R12115",
+          "codex_HK_ambivalence-MPO": "S12115",
+          "ccmsignum_HK_ambivalence-HK": "T12115",
+          "codex_HK_ambivalence-HK": "U12115",
+          "ccmsignum_HK_correction_log": "V12115",
+          "codex_HK_correction_log": "W12115",
+          "signum_comments_HK": "X12115",
+          "general_notes_HK": "E12115"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-25173",
+      "combined_row": {
+        "excel_row": 17009,
+        "values": {
+          "Fr_reference": "Fr 25173",
+          "BOMPAC-reconstruction": "BOMPAC-9350",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KB",
+          "Frs_per_unit": 3,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Gr-53",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1401-1500",
+          "Dating_BOMPAC_conflict": null,
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C17009",
+          "BOMPAC-reconstruction": "M17009",
+          "Row_exclusion": "BO17009",
+          "Exclusion_criteria": "BP17009",
+          "Database_or_institution": "E17009",
+          "Frs_per_unit": "N17009",
+          "Fr_in_unit": "O17009",
+          "FM_signum_BOMPAC": "U17009",
+          "CCM_signum_BOMPAC": "Q17009",
+          "Codex_signum_BOMPAC": "S17009",
+          "Identification_comment": "K17009",
+          "Dating_BOMPAC": "AF17009",
+          "Dating_BOMPAC_conflict": "AG17009",
+          "Origin_BOMPAC_conflict": "AK17009"
+        }
+      },
+      "raw_row": {
+        "excel_row": 17009,
+        "values": {
+          "fragment_id": 25173,
+          "unit_HK": "C-730",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 3,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Gr-53",
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D17009",
+          "unit_HK": "F17009",
+          "Row_exclusion": "FB17009",
+          "Exclusion_criteria": "FC17009",
+          "unit_NB_HK": "G17009",
+          "frs_per_unit_HK": "H17009",
+          "fr_in_unit_IDX_HK": "I17009",
+          "ccmsignum_HK": "N17009",
+          "codex_HK": "O17009",
+          "ccmsignum_HK_ambivalence-MPO": "R17009",
+          "codex_HK_ambivalence-MPO": "S17009",
+          "ccmsignum_HK_ambivalence-HK": "T17009",
+          "codex_HK_ambivalence-HK": "U17009",
+          "ccmsignum_HK_correction_log": "V17009",
+          "codex_HK_correction_log": "W17009",
+          "signum_comments_HK": "X17009",
+          "general_notes_HK": "E17009"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-25592",
+      "combined_row": {
+        "excel_row": 17427,
+        "values": {
+          "Fr_reference": "Fr 25592",
+          "BOMPAC-reconstruction": "BOMPAC-9531",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 3,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.173",
+          "CCM_signum_BOMPAC": "Ant-242 / Hy-49",
+          "Codex_signum_BOMPAC": null,
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1401-1500",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C17427",
+          "BOMPAC-reconstruction": "M17427",
+          "Row_exclusion": "BO17427",
+          "Exclusion_criteria": "BP17427",
+          "Database_or_institution": "E17427",
+          "Frs_per_unit": "N17427",
+          "Fr_in_unit": "O17427",
+          "FM_signum_BOMPAC": "U17427",
+          "CCM_signum_BOMPAC": "Q17427",
+          "Codex_signum_BOMPAC": "S17427",
+          "Identification_comment": "K17427",
+          "Dating_BOMPAC": "AF17427",
+          "Dating_BOMPAC_conflict": "AG17427",
+          "Origin_BOMPAC_conflict": "AK17427"
+        }
+      },
+      "raw_row": {
+        "excel_row": 17427,
+        "values": {
+          "fragment_id": 25592,
+          "unit_HK": "F-25592",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 1,
+          "fr_in_unit_IDX_HK": null,
+          "ccmsignum_HK": "Hy-49",
+          "codex_HK": null,
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D17427",
+          "unit_HK": "F17427",
+          "Row_exclusion": "FB17427",
+          "Exclusion_criteria": "FC17427",
+          "unit_NB_HK": "G17427",
+          "frs_per_unit_HK": "H17427",
+          "fr_in_unit_IDX_HK": "I17427",
+          "ccmsignum_HK": "N17427",
+          "codex_HK": "O17427",
+          "ccmsignum_HK_ambivalence-MPO": "R17427",
+          "codex_HK_ambivalence-MPO": "S17427",
+          "ccmsignum_HK_ambivalence-HK": "T17427",
+          "codex_HK_ambivalence-HK": "U17427",
+          "ccmsignum_HK_correction_log": "V17427",
+          "codex_HK_correction_log": "W17427",
+          "signum_comments_HK": "X17427",
+          "general_notes_HK": "E17427"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-2862",
+      "combined_row": {
+        "excel_row": 2864,
+        "values": {
+          "Fr_reference": "Fr 2862",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2864",
+          "BOMPAC-reconstruction": "M2864",
+          "Row_exclusion": "BO2864",
+          "Exclusion_criteria": "BP2864",
+          "Database_or_institution": "E2864",
+          "Frs_per_unit": "N2864",
+          "Fr_in_unit": "O2864",
+          "FM_signum_BOMPAC": "U2864",
+          "CCM_signum_BOMPAC": "Q2864",
+          "Codex_signum_BOMPAC": "S2864",
+          "Identification_comment": "K2864",
+          "Dating_BOMPAC": "AF2864",
+          "Dating_BOMPAC_conflict": "AG2864",
+          "Origin_BOMPAC_conflict": "AK2864"
+        }
+      },
+      "raw_row": {
+        "excel_row": 2864,
+        "values": {
+          "fragment_id": 2862,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2864",
+          "unit_HK": "F2864",
+          "Row_exclusion": "FB2864",
+          "Exclusion_criteria": "FC2864",
+          "unit_NB_HK": "G2864",
+          "frs_per_unit_HK": "H2864",
+          "fr_in_unit_IDX_HK": "I2864",
+          "ccmsignum_HK": "N2864",
+          "codex_HK": "O2864",
+          "ccmsignum_HK_ambivalence-MPO": "R2864",
+          "codex_HK_ambivalence-MPO": "S2864",
+          "ccmsignum_HK_ambivalence-HK": "T2864",
+          "codex_HK_ambivalence-HK": "U2864",
+          "ccmsignum_HK_correction_log": "V2864",
+          "codex_HK_correction_log": "W2864",
+          "signum_comments_HK": "X2864",
+          "general_notes_HK": "E2864"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-2863",
+      "combined_row": {
+        "excel_row": 2865,
+        "values": {
+          "Fr_reference": "Fr 2863",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 2,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2865",
+          "BOMPAC-reconstruction": "M2865",
+          "Row_exclusion": "BO2865",
+          "Exclusion_criteria": "BP2865",
+          "Database_or_institution": "E2865",
+          "Frs_per_unit": "N2865",
+          "Fr_in_unit": "O2865",
+          "FM_signum_BOMPAC": "U2865",
+          "CCM_signum_BOMPAC": "Q2865",
+          "Codex_signum_BOMPAC": "S2865",
+          "Identification_comment": "K2865",
+          "Dating_BOMPAC": "AF2865",
+          "Dating_BOMPAC_conflict": "AG2865",
+          "Origin_BOMPAC_conflict": "AK2865"
+        }
+      },
+      "raw_row": {
+        "excel_row": 2865,
+        "values": {
+          "fragment_id": 2863,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 2,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2865",
+          "unit_HK": "F2865",
+          "Row_exclusion": "FB2865",
+          "Exclusion_criteria": "FC2865",
+          "unit_NB_HK": "G2865",
+          "frs_per_unit_HK": "H2865",
+          "fr_in_unit_IDX_HK": "I2865",
+          "ccmsignum_HK": "N2865",
+          "codex_HK": "O2865",
+          "ccmsignum_HK_ambivalence-MPO": "R2865",
+          "codex_HK_ambivalence-MPO": "S2865",
+          "ccmsignum_HK_ambivalence-HK": "T2865",
+          "codex_HK_ambivalence-HK": "U2865",
+          "ccmsignum_HK_correction_log": "V2865",
+          "codex_HK_correction_log": "W2865",
+          "signum_comments_HK": "X2865",
+          "general_notes_HK": "E2865"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-2864",
+      "combined_row": {
+        "excel_row": 2866,
+        "values": {
+          "Fr_reference": "Fr 2864",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 3,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2866",
+          "BOMPAC-reconstruction": "M2866",
+          "Row_exclusion": "BO2866",
+          "Exclusion_criteria": "BP2866",
+          "Database_or_institution": "E2866",
+          "Frs_per_unit": "N2866",
+          "Fr_in_unit": "O2866",
+          "FM_signum_BOMPAC": "U2866",
+          "CCM_signum_BOMPAC": "Q2866",
+          "Codex_signum_BOMPAC": "S2866",
+          "Identification_comment": "K2866",
+          "Dating_BOMPAC": "AF2866",
+          "Dating_BOMPAC_conflict": "AG2866",
+          "Origin_BOMPAC_conflict": "AK2866"
+        }
+      },
+      "raw_row": {
+        "excel_row": 2866,
+        "values": {
+          "fragment_id": 2864,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 3,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2866",
+          "unit_HK": "F2866",
+          "Row_exclusion": "FB2866",
+          "Exclusion_criteria": "FC2866",
+          "unit_NB_HK": "G2866",
+          "frs_per_unit_HK": "H2866",
+          "fr_in_unit_IDX_HK": "I2866",
+          "ccmsignum_HK": "N2866",
+          "codex_HK": "O2866",
+          "ccmsignum_HK_ambivalence-MPO": "R2866",
+          "codex_HK_ambivalence-MPO": "S2866",
+          "ccmsignum_HK_ambivalence-HK": "T2866",
+          "codex_HK_ambivalence-HK": "U2866",
+          "ccmsignum_HK_correction_log": "V2866",
+          "codex_HK_correction_log": "W2866",
+          "signum_comments_HK": "X2866",
+          "general_notes_HK": "E2866"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-2872",
+      "combined_row": {
+        "excel_row": 2874,
+        "values": {
+          "Fr_reference": "Fr 2872",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 5,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2874",
+          "BOMPAC-reconstruction": "M2874",
+          "Row_exclusion": "BO2874",
+          "Exclusion_criteria": "BP2874",
+          "Database_or_institution": "E2874",
+          "Frs_per_unit": "N2874",
+          "Fr_in_unit": "O2874",
+          "FM_signum_BOMPAC": "U2874",
+          "CCM_signum_BOMPAC": "Q2874",
+          "Codex_signum_BOMPAC": "S2874",
+          "Identification_comment": "K2874",
+          "Dating_BOMPAC": "AF2874",
+          "Dating_BOMPAC_conflict": "AG2874",
+          "Origin_BOMPAC_conflict": "AK2874"
+        }
+      },
+      "raw_row": {
+        "excel_row": 2874,
+        "values": {
+          "fragment_id": 2872,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 5,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2874",
+          "unit_HK": "F2874",
+          "Row_exclusion": "FB2874",
+          "Exclusion_criteria": "FC2874",
+          "unit_NB_HK": "G2874",
+          "frs_per_unit_HK": "H2874",
+          "fr_in_unit_IDX_HK": "I2874",
+          "ccmsignum_HK": "N2874",
+          "codex_HK": "O2874",
+          "ccmsignum_HK_ambivalence-MPO": "R2874",
+          "codex_HK_ambivalence-MPO": "S2874",
+          "ccmsignum_HK_ambivalence-HK": "T2874",
+          "codex_HK_ambivalence-HK": "U2874",
+          "ccmsignum_HK_correction_log": "V2874",
+          "codex_HK_correction_log": "W2874",
+          "signum_comments_HK": "X2874",
+          "general_notes_HK": "E2874"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-2873",
+      "combined_row": {
+        "excel_row": 2875,
+        "values": {
+          "Fr_reference": "Fr 2873",
+          "BOMPAC-reconstruction": "BOMPAC-1703",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 19,
+          "Fr_in_unit": 6,
+          "FM_signum_BOMPAC": "FM.IV.58",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-434",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C2875",
+          "BOMPAC-reconstruction": "M2875",
+          "Row_exclusion": "BO2875",
+          "Exclusion_criteria": "BP2875",
+          "Database_or_institution": "E2875",
+          "Frs_per_unit": "N2875",
+          "Fr_in_unit": "O2875",
+          "FM_signum_BOMPAC": "U2875",
+          "CCM_signum_BOMPAC": "Q2875",
+          "Codex_signum_BOMPAC": "S2875",
+          "Identification_comment": "K2875",
+          "Dating_BOMPAC": "AF2875",
+          "Dating_BOMPAC_conflict": "AG2875",
+          "Origin_BOMPAC_conflict": "AK2875"
+        }
+      },
+      "raw_row": {
+        "excel_row": 2875,
+        "values": {
+          "fragment_id": 2873,
+          "unit_HK": "M-374",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 17,
+          "fr_in_unit_IDX_HK": 6,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-434",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D2875",
+          "unit_HK": "F2875",
+          "Row_exclusion": "FB2875",
+          "Exclusion_criteria": "FC2875",
+          "unit_NB_HK": "G2875",
+          "frs_per_unit_HK": "H2875",
+          "fr_in_unit_IDX_HK": "I2875",
+          "ccmsignum_HK": "N2875",
+          "codex_HK": "O2875",
+          "ccmsignum_HK_ambivalence-MPO": "R2875",
+          "codex_HK_ambivalence-MPO": "S2875",
+          "ccmsignum_HK_ambivalence-HK": "T2875",
+          "codex_HK_ambivalence-HK": "U2875",
+          "ccmsignum_HK_correction_log": "V2875",
+          "codex_HK_correction_log": "W2875",
+          "signum_comments_HK": "X2875",
+          "general_notes_HK": "E2875"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-365",
+      "combined_row": {
+        "excel_row": 367,
+        "values": {
+          "Fr_reference": "Fr 365",
+          "BOMPAC-reconstruction": "BOMPAC-258",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 39,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.159",
+          "CCM_signum_BOMPAC": "Ant-39",
+          "Codex_signum_BOMPAC": "Codex-1200",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1401-1500",
+          "Dating_BOMPAC_conflict": null,
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C367",
+          "BOMPAC-reconstruction": "M367",
+          "Row_exclusion": "BO367",
+          "Exclusion_criteria": "BP367",
+          "Database_or_institution": "E367",
+          "Frs_per_unit": "N367",
+          "Fr_in_unit": "O367",
+          "FM_signum_BOMPAC": "U367",
+          "CCM_signum_BOMPAC": "Q367",
+          "Codex_signum_BOMPAC": "S367",
+          "Identification_comment": "K367",
+          "Dating_BOMPAC": "AF367",
+          "Dating_BOMPAC_conflict": "AG367",
+          "Origin_BOMPAC_conflict": "AK367"
+        }
+      },
+      "raw_row": {
+        "excel_row": 367,
+        "values": {
+          "fragment_id": 365,
+          "unit_HK": "C-17",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 27,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Ant-39",
+          "codex_HK": "Codex-1200",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D367",
+          "unit_HK": "F367",
+          "Row_exclusion": "FB367",
+          "Exclusion_criteria": "FC367",
+          "unit_NB_HK": "G367",
+          "frs_per_unit_HK": "H367",
+          "fr_in_unit_IDX_HK": "I367",
+          "ccmsignum_HK": "N367",
+          "codex_HK": "O367",
+          "ccmsignum_HK_ambivalence-MPO": "R367",
+          "codex_HK_ambivalence-MPO": "S367",
+          "ccmsignum_HK_ambivalence-HK": "T367",
+          "codex_HK_ambivalence-HK": "U367",
+          "ccmsignum_HK_correction_log": "V367",
+          "codex_HK_correction_log": "W367",
+          "signum_comments_HK": "X367",
+          "general_notes_HK": "E367"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-8066",
+      "combined_row": {
+        "excel_row": 8068,
+        "values": {
+          "Fr_reference": "Fr 8066",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8068",
+          "BOMPAC-reconstruction": "M8068",
+          "Row_exclusion": "BO8068",
+          "Exclusion_criteria": "BP8068",
+          "Database_or_institution": "E8068",
+          "Frs_per_unit": "N8068",
+          "Fr_in_unit": "O8068",
+          "FM_signum_BOMPAC": "U8068",
+          "CCM_signum_BOMPAC": "Q8068",
+          "Codex_signum_BOMPAC": "S8068",
+          "Identification_comment": "K8068",
+          "Dating_BOMPAC": "AF8068",
+          "Dating_BOMPAC_conflict": "AG8068",
+          "Origin_BOMPAC_conflict": "AK8068"
+        }
+      },
+      "raw_row": {
+        "excel_row": 8068,
+        "values": {
+          "fragment_id": 8066,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8068",
+          "unit_HK": "F8068",
+          "Row_exclusion": "FB8068",
+          "Exclusion_criteria": "FC8068",
+          "unit_NB_HK": "G8068",
+          "frs_per_unit_HK": "H8068",
+          "fr_in_unit_IDX_HK": "I8068",
+          "ccmsignum_HK": "N8068",
+          "codex_HK": "O8068",
+          "ccmsignum_HK_ambivalence-MPO": "R8068",
+          "codex_HK_ambivalence-MPO": "S8068",
+          "ccmsignum_HK_ambivalence-HK": "T8068",
+          "codex_HK_ambivalence-HK": "U8068",
+          "ccmsignum_HK_correction_log": "V8068",
+          "codex_HK_correction_log": "W8068",
+          "signum_comments_HK": "X8068",
+          "general_notes_HK": "E8068"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-8072",
+      "combined_row": {
+        "excel_row": 8074,
+        "values": {
+          "Fr_reference": "Fr 8072",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 2,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8074",
+          "BOMPAC-reconstruction": "M8074",
+          "Row_exclusion": "BO8074",
+          "Exclusion_criteria": "BP8074",
+          "Database_or_institution": "E8074",
+          "Frs_per_unit": "N8074",
+          "Fr_in_unit": "O8074",
+          "FM_signum_BOMPAC": "U8074",
+          "CCM_signum_BOMPAC": "Q8074",
+          "Codex_signum_BOMPAC": "S8074",
+          "Identification_comment": "K8074",
+          "Dating_BOMPAC": "AF8074",
+          "Dating_BOMPAC_conflict": "AG8074",
+          "Origin_BOMPAC_conflict": "AK8074"
+        }
+      },
+      "raw_row": {
+        "excel_row": 8074,
+        "values": {
+          "fragment_id": 8072,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 2,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8074",
+          "unit_HK": "F8074",
+          "Row_exclusion": "FB8074",
+          "Exclusion_criteria": "FC8074",
+          "unit_NB_HK": "G8074",
+          "frs_per_unit_HK": "H8074",
+          "fr_in_unit_IDX_HK": "I8074",
+          "ccmsignum_HK": "N8074",
+          "codex_HK": "O8074",
+          "ccmsignum_HK_ambivalence-MPO": "R8074",
+          "codex_HK_ambivalence-MPO": "S8074",
+          "ccmsignum_HK_ambivalence-HK": "T8074",
+          "codex_HK_ambivalence-HK": "U8074",
+          "ccmsignum_HK_correction_log": "V8074",
+          "codex_HK_correction_log": "W8074",
+          "signum_comments_HK": "X8074",
+          "general_notes_HK": "E8074"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-8073",
+      "combined_row": {
+        "excel_row": 8075,
+        "values": {
+          "Fr_reference": "Fr 8073",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 3,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8075",
+          "BOMPAC-reconstruction": "M8075",
+          "Row_exclusion": "BO8075",
+          "Exclusion_criteria": "BP8075",
+          "Database_or_institution": "E8075",
+          "Frs_per_unit": "N8075",
+          "Fr_in_unit": "O8075",
+          "FM_signum_BOMPAC": "U8075",
+          "CCM_signum_BOMPAC": "Q8075",
+          "Codex_signum_BOMPAC": "S8075",
+          "Identification_comment": "K8075",
+          "Dating_BOMPAC": "AF8075",
+          "Dating_BOMPAC_conflict": "AG8075",
+          "Origin_BOMPAC_conflict": "AK8075"
+        }
+      },
+      "raw_row": {
+        "excel_row": 8075,
+        "values": {
+          "fragment_id": 8073,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 3,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8075",
+          "unit_HK": "F8075",
+          "Row_exclusion": "FB8075",
+          "Exclusion_criteria": "FC8075",
+          "unit_NB_HK": "G8075",
+          "frs_per_unit_HK": "H8075",
+          "fr_in_unit_IDX_HK": "I8075",
+          "ccmsignum_HK": "N8075",
+          "codex_HK": "O8075",
+          "ccmsignum_HK_ambivalence-MPO": "R8075",
+          "codex_HK_ambivalence-MPO": "S8075",
+          "ccmsignum_HK_ambivalence-HK": "T8075",
+          "codex_HK_ambivalence-HK": "U8075",
+          "ccmsignum_HK_correction_log": "V8075",
+          "codex_HK_correction_log": "W8075",
+          "signum_comments_HK": "X8075",
+          "general_notes_HK": "E8075"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-8201",
+      "combined_row": {
+        "excel_row": 8203,
+        "values": {
+          "Fr_reference": "Fr 8201",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 4,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8203",
+          "BOMPAC-reconstruction": "M8203",
+          "Row_exclusion": "BO8203",
+          "Exclusion_criteria": "BP8203",
+          "Database_or_institution": "E8203",
+          "Frs_per_unit": "N8203",
+          "Fr_in_unit": "O8203",
+          "FM_signum_BOMPAC": "U8203",
+          "CCM_signum_BOMPAC": "Q8203",
+          "Codex_signum_BOMPAC": "S8203",
+          "Identification_comment": "K8203",
+          "Dating_BOMPAC": "AF8203",
+          "Dating_BOMPAC_conflict": "AG8203",
+          "Origin_BOMPAC_conflict": "AK8203"
+        }
+      },
+      "raw_row": {
+        "excel_row": 8203,
+        "values": {
+          "fragment_id": 8201,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 4,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8203",
+          "unit_HK": "F8203",
+          "Row_exclusion": "FB8203",
+          "Exclusion_criteria": "FC8203",
+          "unit_NB_HK": "G8203",
+          "frs_per_unit_HK": "H8203",
+          "fr_in_unit_IDX_HK": "I8203",
+          "ccmsignum_HK": "N8203",
+          "codex_HK": "O8203",
+          "ccmsignum_HK_ambivalence-MPO": "R8203",
+          "codex_HK_ambivalence-MPO": "S8203",
+          "ccmsignum_HK_ambivalence-HK": "T8203",
+          "codex_HK_ambivalence-HK": "U8203",
+          "ccmsignum_HK_correction_log": "V8203",
+          "codex_HK_correction_log": "W8203",
+          "signum_comments_HK": "X8203",
+          "general_notes_HK": "E8203"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-8304",
+      "combined_row": {
+        "excel_row": 8306,
+        "values": {
+          "Fr_reference": "Fr 8304",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 5,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8306",
+          "BOMPAC-reconstruction": "M8306",
+          "Row_exclusion": "BO8306",
+          "Exclusion_criteria": "BP8306",
+          "Database_or_institution": "E8306",
+          "Frs_per_unit": "N8306",
+          "Fr_in_unit": "O8306",
+          "FM_signum_BOMPAC": "U8306",
+          "CCM_signum_BOMPAC": "Q8306",
+          "Codex_signum_BOMPAC": "S8306",
+          "Identification_comment": "K8306",
+          "Dating_BOMPAC": "AF8306",
+          "Dating_BOMPAC_conflict": "AG8306",
+          "Origin_BOMPAC_conflict": "AK8306"
+        }
+      },
+      "raw_row": {
+        "excel_row": 8306,
+        "values": {
+          "fragment_id": 8304,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 5,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8306",
+          "unit_HK": "F8306",
+          "Row_exclusion": "FB8306",
+          "Exclusion_criteria": "FC8306",
+          "unit_NB_HK": "G8306",
+          "frs_per_unit_HK": "H8306",
+          "fr_in_unit_IDX_HK": "I8306",
+          "ccmsignum_HK": "N8306",
+          "codex_HK": "O8306",
+          "ccmsignum_HK_ambivalence-MPO": "R8306",
+          "codex_HK_ambivalence-MPO": "S8306",
+          "ccmsignum_HK_ambivalence-HK": "T8306",
+          "codex_HK_ambivalence-HK": "U8306",
+          "ccmsignum_HK_correction_log": "V8306",
+          "codex_HK_correction_log": "W8306",
+          "signum_comments_HK": "X8306",
+          "general_notes_HK": "E8306"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-8311",
+      "combined_row": {
+        "excel_row": 8313,
+        "values": {
+          "Fr_reference": "Fr 8311",
+          "BOMPAC-reconstruction": "BOMPAC-258",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 39,
+          "Fr_in_unit": 3,
+          "FM_signum_BOMPAC": "FM.IV.159",
+          "CCM_signum_BOMPAC": "Ant-39",
+          "Codex_signum_BOMPAC": "Codex-1200",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1401-1500",
+          "Dating_BOMPAC_conflict": null,
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C8313",
+          "BOMPAC-reconstruction": "M8313",
+          "Row_exclusion": "BO8313",
+          "Exclusion_criteria": "BP8313",
+          "Database_or_institution": "E8313",
+          "Frs_per_unit": "N8313",
+          "Fr_in_unit": "O8313",
+          "FM_signum_BOMPAC": "U8313",
+          "CCM_signum_BOMPAC": "Q8313",
+          "Codex_signum_BOMPAC": "S8313",
+          "Identification_comment": "K8313",
+          "Dating_BOMPAC": "AF8313",
+          "Dating_BOMPAC_conflict": "AG8313",
+          "Origin_BOMPAC_conflict": "AK8313"
+        }
+      },
+      "raw_row": {
+        "excel_row": 8313,
+        "values": {
+          "fragment_id": 8311,
+          "unit_HK": "C-17",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 27,
+          "fr_in_unit_IDX_HK": 3,
+          "ccmsignum_HK": "Ant-39",
+          "codex_HK": "Codex-1200",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8313",
+          "unit_HK": "F8313",
+          "Row_exclusion": "FB8313",
+          "Exclusion_criteria": "FC8313",
+          "unit_NB_HK": "G8313",
+          "frs_per_unit_HK": "H8313",
+          "fr_in_unit_IDX_HK": "I8313",
+          "ccmsignum_HK": "N8313",
+          "codex_HK": "O8313",
+          "ccmsignum_HK_ambivalence-MPO": "R8313",
+          "codex_HK_ambivalence-MPO": "S8313",
+          "ccmsignum_HK_ambivalence-HK": "T8313",
+          "codex_HK_ambivalence-HK": "U8313",
+          "ccmsignum_HK_correction_log": "V8313",
+          "codex_HK_correction_log": "W8313",
+          "signum_comments_HK": "X8313",
+          "general_notes_HK": "E8313"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-8994",
+      "combined_row": {
+        "excel_row": 8994,
+        "values": {
+          "Fr_reference": "Fr 8994",
+          "BOMPAC-reconstruction": "BOMPAC-5324",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 28,
+          "Fr_in_unit": 1,
+          "FM_signum_BOMPAC": "FM.IV.156",
+          "CCM_signum_BOMPAC": null,
+          "Codex_signum_BOMPAC": "Codex-1505",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1460-1475",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": "Conflict"
+        },
+        "cells": {
+          "Fr_reference": "C8994",
+          "BOMPAC-reconstruction": "M8994",
+          "Row_exclusion": "BO8994",
+          "Exclusion_criteria": "BP8994",
+          "Database_or_institution": "E8994",
+          "Frs_per_unit": "N8994",
+          "Fr_in_unit": "O8994",
+          "FM_signum_BOMPAC": "U8994",
+          "CCM_signum_BOMPAC": "Q8994",
+          "Codex_signum_BOMPAC": "S8994",
+          "Identification_comment": "K8994",
+          "Dating_BOMPAC": "AF8994",
+          "Dating_BOMPAC_conflict": "AG8994",
+          "Origin_BOMPAC_conflict": "AK8994"
+        }
+      },
+      "raw_row": {
+        "excel_row": 8994,
+        "values": {
+          "fragment_id": 8994,
+          "unit_HK": "M-1217",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 5,
+          "fr_in_unit_IDX_HK": 1,
+          "ccmsignum_HK": null,
+          "codex_HK": "Codex-1505",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D8994",
+          "unit_HK": "F8994",
+          "Row_exclusion": "FB8994",
+          "Exclusion_criteria": "FC8994",
+          "unit_NB_HK": "G8994",
+          "frs_per_unit_HK": "H8994",
+          "fr_in_unit_IDX_HK": "I8994",
+          "ccmsignum_HK": "N8994",
+          "codex_HK": "O8994",
+          "ccmsignum_HK_ambivalence-MPO": "R8994",
+          "codex_HK_ambivalence-MPO": "S8994",
+          "ccmsignum_HK_ambivalence-HK": "T8994",
+          "codex_HK_ambivalence-HK": "U8994",
+          "ccmsignum_HK_correction_log": "V8994",
+          "codex_HK_correction_log": "W8994",
+          "signum_comments_HK": "X8994",
+          "general_notes_HK": "E8994"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    },
+    {
+      "object_id": "mpo-9620",
+      "combined_row": {
+        "excel_row": 9620,
+        "values": {
+          "Fr_reference": "Fr 9620",
+          "BOMPAC-reconstruction": "BOMPAC-4861",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "Database_or_institution": "KA",
+          "Frs_per_unit": 8,
+          "Fr_in_unit": 6,
+          "FM_signum_BOMPAC": null,
+          "CCM_signum_BOMPAC": "Ant-49",
+          "Codex_signum_BOMPAC": "Codex-1146",
+          "Identification_comment": null,
+          "Dating_BOMPAC": "1301-1400",
+          "Dating_BOMPAC_conflict": "Conflict",
+          "Origin_BOMPAC_conflict": null
+        },
+        "cells": {
+          "Fr_reference": "C9620",
+          "BOMPAC-reconstruction": "M9620",
+          "Row_exclusion": "BO9620",
+          "Exclusion_criteria": "BP9620",
+          "Database_or_institution": "E9620",
+          "Frs_per_unit": "N9620",
+          "Fr_in_unit": "O9620",
+          "FM_signum_BOMPAC": "U9620",
+          "CCM_signum_BOMPAC": "Q9620",
+          "Codex_signum_BOMPAC": "S9620",
+          "Identification_comment": "K9620",
+          "Dating_BOMPAC": "AF9620",
+          "Dating_BOMPAC_conflict": "AG9620",
+          "Origin_BOMPAC_conflict": "AK9620"
+        }
+      },
+      "raw_row": {
+        "excel_row": 9620,
+        "values": {
+          "fragment_id": 9620,
+          "unit_HK": "C-20",
+          "Row_exclusion": "Include row",
+          "Exclusion_criteria": null,
+          "unit_NB_HK": null,
+          "frs_per_unit_HK": 8,
+          "fr_in_unit_IDX_HK": 6,
+          "ccmsignum_HK": "Ant-49",
+          "codex_HK": "Codex-1146",
+          "ccmsignum_HK_ambivalence-MPO": null,
+          "codex_HK_ambivalence-MPO": null,
+          "ccmsignum_HK_ambivalence-HK": null,
+          "codex_HK_ambivalence-HK": null,
+          "ccmsignum_HK_correction_log": null,
+          "codex_HK_correction_log": null,
+          "signum_comments_HK": null,
+          "general_notes_HK": null
+        },
+        "cells": {
+          "fragment_id": "D9620",
+          "unit_HK": "F9620",
+          "Row_exclusion": "FB9620",
+          "Exclusion_criteria": "FC9620",
+          "unit_NB_HK": "G9620",
+          "frs_per_unit_HK": "H9620",
+          "fr_in_unit_IDX_HK": "I9620",
+          "ccmsignum_HK": "N9620",
+          "codex_HK": "O9620",
+          "ccmsignum_HK_ambivalence-MPO": "R9620",
+          "codex_HK_ambivalence-MPO": "S9620",
+          "ccmsignum_HK_ambivalence-HK": "T9620",
+          "codex_HK_ambivalence-HK": "U9620",
+          "ccmsignum_HK_correction_log": "V9620",
+          "codex_HK_correction_log": "W9620",
+          "signum_comments_HK": "X9620",
+          "general_notes_HK": "E9620"
+        }
+      },
+      "basis": "source_assertion",
+      "independent_confirmation": false
+    }
+  ],
+  "scope": "Exact source rows of23 existing objects. Other unit-member identifiers are source records only, not newly ingested physical objects or images."
+}

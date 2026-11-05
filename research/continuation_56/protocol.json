@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "previous_goal_turn": "Progress: E55 performed a bounded staff-calibration test, retained ambiguities/failures and verified the872-file review archive. No live process remains.",
+  "question": "Can the existing Turku Ms.c alias be linked to a current exact institutional record, and what source-visible evidence can test the already published proposed Helsinki placement?",
+  "selection": "Existing turku-ms-c lead and the pre-existing156/157 neighbourhood; no new candidate family or frozen-queue change.",
+  "discovery_exposure": "Turku City Museum collection description, normal visitor search pergamentti with20 results, exact recordTKM23245:3, and cited CodicesFennici collection19/item249 were read before this protocol. Both reproduce the same Keskiaho description; they are not independent scholarship.",
+  "sources_identified": [
+    {
+      "role": "current museum candidate",
+      "url": "https://museo.disec.fi/Yksa4/id/160988864803200/",
+      "identifier": "TKM23245:3",
+      "old_identifiers": [
+        "TMM23245:3",
+        "TMK23245:3"
+      ],
+      "rights_displayed": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "role": "explicit historical fragment C scholarly description",
+      "url": "https://www.codicesfennici.fi/items/show/249",
+      "tei_export_observed": "https://www.codicesfennici.fi/tei-display/download?id=249",
+      "metadata_rights_displayed": "Creative Commons BY4.0",
+      "image_rights_displayed": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "image_credit": "Mikko Kyynäräinen / Turun Museokeskus"
+    }
+  ],
+  "predictions": [
+    "An exact C label plus matching detailed text, physical description and reuse evidence can support a record crosswalk; ordinal3 alone cannot. Keep the older provincial-archive attribution and extents separate until reconciled.",
+    "Preserve literal F.m.II.157 in both new records; compare against exact primary catalogue/context before proposing IV.157 as the intended referent. No silent emendation or novelty assertion.",
+    "Institutional object count1 is not automatically one folio. Check the explicit2-folio/bifolium description and source photographs; preserve conflicting measurement categories without inventing a correction.",
+    "Record all source rights separately. Do not use CF BY-ND photographs as cropped derivatives. Museum BY4 material may be used only under its own explicit attribution and source receipt.",
+    "Compare actual manuscript pixels before assigning text, holes or original sides. Published sewing-hole/placement and ScribeA assertions remain prior scholarship, not a discovery from this project."
+  ],
+  "resource_bounds": {
+    "working_source_files_before": 208,
+    "conservative_transfer_plan_bytes_before": 1675854139,
+    "maximum_new_source_files": 4,
+    "maximum_new_metadata_files": 2,
+    "maximum_metadata_bytes_per_file": 1000000,
+    "maximum_image_bytes_per_file": 12000000,
+    "maximum_additional_download_bytes": 50000000,
+    "retry_failed_routes": false
+  },
+  "register_before_overlay": {
+    "path": "research/continuation_56/lead_register.before.json",
+    "sha256": "b4275b2faa250e27730867d5de794b1064429d63864f391194bfd2578a822a1c"
+  },
+  "frozen_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09",
+    "research/continuation_39/readings.v1.json": "7a83edc3ad35ccec27199fc957434329ab9e0345fcb9f0d86c2149ce83bf4e74",
+    "research/continuation_39/readings.v2.json": "c3e4bcd4d95c47c119c68a253848924fa41708d88f69a25f2d47c8cbd8449534",
+    "research/continuation_39/readings.v3.json": "01e3e5d23726edbf74b21e3cafa12676a9aa9abb99bb4c895e21e245a255b289",
+    "research/continuation_39/comparison.json": "febdd7b1a466dba410e6a714c02548217f39e868d2fe50301331cfe9876822fd",
+    "research/continuation_39/results.json": "f79461189dc4f82924f5951d2abb1882dd00189a56625ec1f6abb5b42868a0a3"
+  },
+  "actions": {
+    "outreach": false,
+    "external_catalogue_edit": false,
+    "upload": false,
+    "publication": false
+  },
+  "limits": "Current record/alias evidence is not historical same-codex proof, source completeness or scientific novelty.",
+  "acquisition_amendment": {
+    "date": "2026-10-31",
+    "reason": "The live file panel advertises two exact49.4/55.6MB nativeTIFF photographs as well as800pxJPEGs. Native detail is needed for literal text and sewing observations. Acquire the two exact native files and derive two local display JPEGs; no duplicate thumbnail download. Still within300-source-file/3GB original goal limits.",
+    "maximum_new_source_files_including_derivatives": 4,
+    "maximum_image_bytes_per_file": 60000000,
+    "maximum_additional_download_bytes": 121000000,
+    "maximum_requests": 2,
+    "timeout_seconds_per_request": 55,
+    "retry": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version":"1.0.0",
+  "date":"2026-10-27",
+  "question":"Which Magnificat-antiphon ending is actually visible above Fr 20274's matins invitatory?",
+  "selection":"The three upper rows were initially unrecognized on source inspection. Hallqvist PDF51 and Urberg pp.254–257 then suggested the shorter O Maria stans sub cruce ending. This detailed recheck is post-inspection and literature-assisted, not blind. The initial E37 protocol already required mapping scholarly diagnostics to retained target coverage.",
+  "prediction_standard_ending":["Dolor cessit cum/dum surrexit", "nobis vite spem porrexit", "presidens in gloria", "Fac nos Virgo sue mortis", "et doloris tui fortis", "feruere/perfrui memoria"],
+  "prediction_old_C23_ending":["Dolor cessit tam prolixus", "ille dulcis crucifixus", "surrexit in gloria"],
+  "positive_requirement":"Read the differentiating phrases in the target source, not merely the shared words dolor or surrexit/gloria. Preserve exact source regions and uncertain expansions.",
+  "countercheck":"Inspect the already retained actual C23 71v upper rows for its different old ending. Do not confuse that physical page with the added/replacement antiphon on C23 69r, which is not locally imaged.",
+  "variant_checks":"Recheck cum/dum and feruere/perfrui as secondary word candidates. Their appearance in multiple apparatus witnesses cannot identify a unique lineage or book.",
+  "scope_limit":"This tests the selected surviving ending. The incipit is not retained, and no claim about the entire office's recension, date, production site, physical identity or independent confirmation follows. Melody must be read independently from the manuscripts before comparing pitches."
+}

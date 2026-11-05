@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I80-10437-domini",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10437",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first two candidate square noteheads over do-mi of domini appear to descend relative to the local rules; a subsequent compound sign needs separate segmentation.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10437-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1120,715,190,165"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010437_00001/full/max/0/default.jpg",
+      "sha256": "75d3c9b2ae0facd754504b1dec68ce8a33a64d3cdaa7a78140c9ab539942224a",
+      "image_dimensions": [
+        1890,
+        1126
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "domini [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; post-selection, reference-exposed reading, 2026-11-02; exact checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Notehead centres, underlay, local rule and sign grouping are tentative and unreviewed.",
+        "A two-note direction does not establish exact interval, full melodic identity or a common parent book."
+      ]
+    },
+    {
+      "id": "I80-8066-domini",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8066",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first two candidate Hufnagel-style heads over do-mi of domini appear to descend relative to the local red rule; stems and a following joined sign complicate precise reading.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=440,465,185,105"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00003/full/max/0/default.jpg",
+      "sha256": "821743390426bf8f04773219f492268cf1cdf5cbbb96a0e66b3555ddcd42c07c",
+      "image_dimensions": [
+        1724,
+        1174
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "domini [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI; post-selection, reference-exposed reading, 2026-11-02; exact checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Notehead centres, underlay, local rule and sign grouping are tentative and unreviewed.",
+        "A two-note direction does not establish exact interval, full melodic identity or a common parent book."
+      ]
+    }
+  ]
+}

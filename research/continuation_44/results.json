@@ -1,0 +1,85 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-29",
+  "pair": [
+    "mpo-8066",
+    "mpo-9620"
+  ],
+  "primary_sources_inspected": [
+    "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+    "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+    "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+    "research/continuation_44/images/Fr8066-capture-4-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-2-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-3-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+    "research/continuation_44/images/Fr9620-capture-5-native.jpg"
+  ],
+  "control_sources": [
+    "data/images/mpo-8201.jpg",
+    "data/images/mpo-8304.jpg",
+    "data/images/mpo-8072.jpg",
+    "data/images/mpo-8073.jpg"
+  ],
+  "observations": [
+    "I44-8066-rules",
+    "I44-9620-rules",
+    "I44-8066-Domus",
+    "I44-8066-Domum",
+    "I44-9620-Oquam",
+    "I44-9620-rubric",
+    "I44-9620-Fundata",
+    "I44-8201-control-rules",
+    "I44-8304-control-rules",
+    "I44-8072-control-rules",
+    "I44-8073-control-rules"
+  ],
+  "direct_result": "The selected8066 and9620 music bands both show five horizontal rules, apparently four dark and one red. The preselected low-resolution control bands also show five rules. The proposed4-versus5 ruling split is not supported by these inspected pixels.",
+  "text_result": "Both originals show notated chant. The8066 sequence includes Domum tuam, Domus mea and other church-building texts;9620 includes O quam metuendus and Fundata est domus. Selected words/rubrics are retained with uncertainty. No complete duplicated office opening at one verified liturgical address is demonstrated.",
+  "catalogue_note_issue": "8066 and the four selected controls have a source note saying three black and one red line;9620 says four black and one red. All normalized notation fields retain4?. The visible ruled-band count does not follow that proposed split. A counting convention, a separate guide rule or a source-description error remains to be checked; no definitive catalogue correction or first-notice claim.",
+  "correction_to_project_framing": "The9620 hymn reference is a claim about a listed item/incipit; both catalogue records call the material Antiphonarium and both originals show notated chant. The hypothesis that9620 is a different hymn-book genre is not supported by this inspection.",
+  "reference_assisted_revision": {
+    "date": "2026-10-29",
+    "site": "I44-9620-rubric",
+    "previous_literal_candidate": "[hymnus?] Hoc e[st?] illud | Beati qui habitant | ad [...]",
+    "revised_literal_candidate": "[hymnus?] Hoc i[n?] templo | Beati qui habitant | ad [...]",
+    "basis": "Native capture1 and the exact raw region re-inspected after a reference search suggested Hoc in templo. The terminal word is better read as templo; this is a reference-assisted revision, not independent confirmation. No following hymn words or local service position supplied from the reference.",
+    "reference": "https://gams.uni-graz.at/o:cantus.seckau3/sdef:TEI/get?locale=en&mode=view:structure",
+    "limit": "The other witness uses this hymn in multiple positions; it cannot fix the target position or manuscript identity."
+  },
+  "not_established": [
+    "A confirmed catalogue correction or a new scholarly finding",
+    "Different book genres or a uniform copying-unit exclusion",
+    "The same complete liturgical position or duplicated office opening",
+    "Same hand, same codex, physical adjacency, physical join or complete side map",
+    "Improved matching or independent confirmation"
+  ],
+  "pair_state": "unresolved",
+  "four_vs_five_split_supported": false,
+  "different_book_genres_established": false,
+  "duplicated_complete_opening_established": false,
+  "same_codex_established": false,
+  "physical_join_established": false,
+  "catalogue_correction_confirmed": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "new_discovery": false,
+  "new_physical_objects": 0,
+  "new_working_source_files": 9,
+  "new_download_bytes": 2769595,
+  "scope": "Bounded primary-image text/ruling compatibility check, not a complete diplomatic edition, historical attribution or source-note correction.",
+  "next_test": "Map the retained Dedication sequences to source-visible rubric and service positions, keeping the likely Hoc in templo cue and other-witness concordances provisional. Test a duplicated opening only at a verified corresponding position. If no diagnostic overlap survives, record that limit and move to the next existing primary-image pair; do not repeat generic ruling compatibility. Check the outer-rule function/counting convention separately before proposing a catalogue correction.",
+  "unchanged_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "version": "2.0.0",
+  "assessment_date": "2026-10-22",
+  "scope": "Post-review descriptive apparatus-aware source comparison, not a new classifier",
+  "reference": {
+    "path": "research/scholarship/hallqvist2020.pdf",
+    "sha256": "37bb1bf94130bf500cde0c10afccdcf4e21109ffe9999446653f071f1d82c5fa",
+    "url": "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf",
+    "printed_pages": [
+      "v–ix",
+      "5–6",
+      "20"
+    ],
+    "pdf_pages": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      52,
+      53,
+      67
+    ],
+    "checked": "relevant complete pages extracted and visually inspected; C435 original photographs not inspected"
+  },
+  "tests": [
+    {
+      "id": "TC01",
+      "observation_id": "T-20274-invitatory",
+      "question": "Does source agreement with edited C435 identify agreement with the reported unedited witness at the invitatory?",
+      "target": "No separate pium visible under usual christogram expansion.",
+      "edited_C435": "omits pium",
+      "reported_C435_manuscript": "includes pium, apparatus line171 and C23 apparatus line742",
+      "C23_edition": "omits pium",
+      "reference_pdf_pages": [
+        52,
+        67
+      ],
+      "outcome": "Edited-text agreement hides a reported manuscript-state difference. No physical identity or transmission branch established."
+    },
+    {
+      "id": "TC02",
+      "observation_id": "T-20274-order",
+      "question": "Does the visible phrase order distinguish the reported states?",
+      "target": "Matri...condolentes before procida...",
+      "edited_C435": "same standard order",
+      "reported_C435_manuscript": "procidamus congementes precedes matri sue condolentes, as reported in the apparatus",
+      "C23_edition": "Matri...condolentes before procidamus congementes",
+      "reference_pdf_pages": [
+        52,
+        67
+      ],
+      "outcome": "Provisional source order agrees with the standard/edited order, while differing from the reported C435 manuscript state. This is not a distinctive C23 fingerprint."
+    },
+    {
+      "id": "TC03",
+      "observation_id": "T-20274-transition",
+      "question": "Can the edition hymn entry or melody be silently supplied to this source?",
+      "target": "Visible transition from invitatory/psalm to nocturn antiphon without an intervening hymn entry.",
+      "C435_edition": "Rogatus Deus rumpere at this position",
+      "C23_edition": "O rosa fragrantissima at this position",
+      "reference_pdf_pages": [
+        52,
+        53,
+        67
+      ],
+      "outcome": "No. Written contents differ in scope; book function, abbreviations or a hymn supplied elsewhere are alternatives. No liturgical-performance omission inferred."
+    }
+  ],
+  "source_observation_ids": [
+    "T-20274-invitatory",
+    "T-20274-order",
+    "T-20274-transition"
+  ],
+  "new_identity_signal_established": false,
+  "new_discovery": false,
+  "independent_expert_review": false,
+  "limits": [
+    "The reported manuscript readings are editorial assertions, not our inspection of C435/C23 originals.",
+    "Negative apparatus does not license silent reconstruction of every unlisted witness.",
+    "No rarity/frequency, transmission stemma, new manuscript relation or melodic variant established.",
+    "All readings/tests selected after prior review; no new untouched evaluation."
+  ]
+}

@@ -1,0 +1,21 @@
+.knowledge-page main {max-width:1200px;margin:0 auto;padding:3rem 2rem}
+.knowledge-page h1 {font-size:clamp(2.7rem,6vw,5rem);margin:1.5rem 0}
+.knowledge-page h2 {font-size:2rem}
+.knowledge-page section {margin:3rem 0;border-top:1px solid #c9c2b3;padding-top:2rem}
+.knowledge-page label {display:inline-block;margin:0 1rem 1rem 0}
+.knowledge-page input,.knowledge-page select {display:block;max-width:90vw;padding:.6rem;margin-top:.3rem;background:#fffdf7;color:#27271e;border:1px solid #9c9788}
+.knowledge-page select {max-width:100%;width:100%}
+.knowledge-page button {cursor:pointer;text-align:left;background:transparent;border:1px solid #aaa28f;padding:.4rem;color:inherit;font:inherit}
+.knowledge-table {max-height:28rem;overflow:auto;border:1px solid #c9c2b3}
+.knowledge-page table {width:100%;border-collapse:collapse;font-size:.9rem}
+.knowledge-page th,.knowledge-page td {padding:.7rem;text-align:left;vertical-align:top;border-bottom:1px solid #d9d2c3}
+.knowledge-page th {position:sticky;top:0;background:#eee8dc}
+.knowledge-detail {padding:1.5rem;background:#f3eee3;margin-top:1rem;overflow-wrap:anywhere}
+.knowledge-detail h3 {margin-top:1rem}
+.knowledge-detail ul {padding-left:1.3rem}
+.knowledge-detail pre {white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem}
+.region-stage {position:relative;max-width:100%;width:fit-content;margin-top:1rem}
+.region-stage img {display:block;max-width:100%;height:auto}
+.region-box {position:absolute;border:3px solid #b02119;box-shadow:0 0 0 2px #fff9;pointer-events:none;box-sizing:border-box}
+.knowledge-page a {text-decoration:underline}
+@media(max-width:650px){.knowledge-page main{padding:1.5rem 1rem}.knowledge-page th,.knowledge-page td{padding:.4rem}.knowledge-detail{padding:1rem}}

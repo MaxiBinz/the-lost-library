@@ -1,0 +1,52 @@
+{
+  "assessment_date": "2026-10-23",
+  "queue_sha256_unchanged": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+  "question": "Does actual text support an order between the numeral-bearing and k-bearing photographed surfaces?",
+  "comparison": {
+    "candidate_chant": "601029a",
+    "genre": "Matins responsory verse for Mariae Magdalenae",
+    "reference_normalized_text": "Ardore caritatis succensa quem sepultum noverat sublatum credens de sepulcro",
+    "reference_access": "Full text exposed by public web-search indexing of primary Cantus Database records; no direct source-image inspection or direct HTML body claimed.",
+    "references": [
+      {
+        "url": "https://cantusdatabase.org/chant/402240/",
+        "source": "F-Pn Latin12044",
+        "folio": "165r"
+      },
+      {
+        "url": "https://cantusdatabase.org/chant/564421/",
+        "source": "PL-WRu R503",
+        "folio": "163r"
+      },
+      {
+        "url": "https://cantusdatabase.org/chant/204152/",
+        "source": "F-CA38",
+        "folio": "291v"
+      }
+    ],
+    "forward_normalized_sequence_matches": true,
+    "reversed_sequence_matches": false,
+    "prefix_word_count": 5,
+    "suffix_word_count": 8,
+    "uncertain_word": "credens: less secure image reading; normalization supported by reference",
+    "unique_identity_claim": false
+  },
+  "source_based_outcome": "Image2 final written row precedes image3 first written row within a single candidate verse. This supplies intrinsic relative text order rather than ordinal-only inference.",
+  "orientation_implication": "Together with the existing proposed image1/2 association, this supports numeral-bearing surface before k-bearing surface. On the catalogue assertion that this is one original leaf, it is consistent with numeral on medieval recto and k on verso, but co-surface/physical mapping and the meaning of MPO1r/1v still require separate verification.",
+  "new_information": "A named-verse prefix/suffix continuation now supplies evidence where the earlier pass had only complementary initials and uncertain side labels.",
+  "not_established": [
+    "A physical seam or stitched image",
+    "A new same-book attribution",
+    "A previously unknown placement in IV157",
+    "A general MPO recto/verso rule",
+    "A proven catalogue error",
+    "Rare variant, melodic identity or historical provenance",
+    "Scientific originality or independent expert confirmation"
+  ],
+  "observations": [
+    "I20-10370-verse-prefix",
+    "I20-10370-verse-suffix"
+  ],
+  "no_new_source_downloads": true,
+  "independent_expert_review": false
+}

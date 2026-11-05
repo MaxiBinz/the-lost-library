@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-03",
+  "source": "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx",
+  "sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+  "sheet": "Sheet1",
+  "unit": "BOMPAC-4861",
+  "selection": "Existing contested unit; selected after reading the dataset and study; not blind.",
+  "rows": [
+    {
+      "excel_row": 8068,
+      "values": {
+        "Fr_reference": "Fr 8066",
+        "BOMPAC-reconstruction": "BOMPAC-4861",
+        "Row_exclusion": "Include row",
+        "datierung": "15. Jh.",
+        "Dating_start": 1401,
+        "Dating_end": 1500,
+        "Dating_BOMPAC": "1301-1400",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C8068",
+        "BOMPAC-reconstruction": "M8068",
+        "Row_exclusion": "BO8068",
+        "datierung": "BG8068",
+        "Dating_start": "AH8068",
+        "Dating_end": "AI8068",
+        "Dating_BOMPAC": "AF8068",
+        "Dating_BOMPAC_conflict": "AG8068"
+      }
+    },
+    {
+      "excel_row": 8074,
+      "values": {
+        "Fr_reference": "Fr 8072",
+        "BOMPAC-reconstruction": "BOMPAC-4861",
+        "Row_exclusion": "Include row",
+        "datierung": "15. Jh.",
+        "Dating_start": 1401,
+        "Dating_end": 1500,
+        "Dating_BOMPAC": "1301-1400",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C8074",
+        "BOMPAC-reconstruction": "M8074",
+        "Row_exclusion": "BO8074",
+        "datierung": "BG8074",
+        "Dating_start": "AH8074",
+        "Dating_end": "AI8074",
+        "Dating_BOMPAC": "AF8074",
+        "Dating_BOMPAC_conflict": "AG8074"
+      }
+    },
+    {
+      "excel_row": 8075,
+      "values": {
+        "Fr_reference": "Fr 8073",
+        "BOMPAC-reconstruction": "BOMPAC-4861",
+        "Row_exclusion": "Include row",
+        "datierung": "15. Jh.",
+        "Dating_start": 1401,
+        "Dating_end": 1500,
+        "Dating_BOMPAC": "1301-1400",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C8075",
+        "BOMPAC-reconstruction": "M8075",
+        "Row_exclusion": "BO8075",
+        "datierung": "BG8075",
+        "Dating_start": "AH8075",
+        "Dating_end": "AI8075",
+        "Dating_BOMPAC": "AF8075",
+        "Dating_BOMPAC_conflict": "AG8075"
+      }
+    },
+    {
+      "excel_row": 8203,
+      "values": {
+        "Fr_reference": "Fr 8201",
+        "BOMPAC-reconstruction": "BOMPAC-4861",
+        "Row_exclusion": "Include row",
+        "datierung": "15. Jh.",
+        "Dating_start": 1401,
+        "Dating_end": 1500,
+        "Dating_BOMPAC": "1301-1400",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C8203",
+        "BOMPAC-reconstruction": "M8203",
+        "Row_exclusion": "BO8203",
+        "datierung": "BG8203",
+        "Dating_start": "AH8203",
+        "Dating_end": "AI8203",
+        "Dating_BOMPAC": "AF8203",
+        "Dating_BOMPAC_conflict": "AG8203"
+      }
+    },
+    {
+      "excel_row": 8306,
+      "values": {
+        "Fr_reference": "Fr 8304",
+        "BOMPAC-reconstruction": "BOMPAC-4861",
+        "Row_exclusion": "Include row",
+        "datierung": "15. Jh.",
+        "Dating_start": 1401,
+        "Dating_end": 1500,
+        "Dating_BOMPAC": "1301-1400",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C8306",
+        "BOMPAC-reconstruction": "M8306",
+        "Row_exclusion": "BO8306",
+        "datierung": "BG8306",
+        "Dating_start": "AH8306",
+        "Dating_end": "AI8306",
+        "Dating_BOMPAC": "AF8306",
+        "Dating_BOMPAC_conflict": "AG8306"
+      }
+    },
+    {
+      "excel_row": 9620,
+      "values": {
+        "Fr_reference": "Fr 9620",
+        "BOMPAC-reconstruction": "BOMPAC-4861",
+        "Row_exclusion": "Include row",
+        "datierung": "15. Jh.",
+        "Dating_start": 1401,
+        "Dating_end": 1500,
+        "Dating_BOMPAC": "1301-1400",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C9620",
+        "BOMPAC-reconstruction": "M9620",
+        "Row_exclusion": "BO9620",
+        "datierung": "BG9620",
+        "Dating_start": "AH9620",
+        "Dating_end": "AI9620",
+        "Dating_BOMPAC": "AF9620",
+        "Dating_BOMPAC_conflict": "AG9620"
+      }
+    },
+    {
+      "excel_row": 11947,
+      "values": {
+        "Fr_reference": "Fr 20106",
+        "BOMPAC-reconstruction": "BOMPAC-4861",
+        "Row_exclusion": "Include row",
+        "datierung": "14. Jh.",
+        "Dating_start": 1301,
+        "Dating_end": 1400,
+        "Dating_BOMPAC": "1301-1400",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C11947",
+        "BOMPAC-reconstruction": "M11947",
+        "Row_exclusion": "BO11947",
+        "datierung": "BG11947",
+        "Dating_start": "AH11947",
+        "Dating_end": "AI11947",
+        "Dating_BOMPAC": "AF11947",
+        "Dating_BOMPAC_conflict": "AG11947"
+      }
+    },
+    {
+      "excel_row": 11948,
+      "values": {
+        "Fr_reference": "Fr 20107",
+        "BOMPAC-reconstruction": "BOMPAC-4861",
+        "Row_exclusion": "Include row",
+        "datierung": "14. Jh.",
+        "Dating_start": 1301,
+        "Dating_end": 1400,
+        "Dating_BOMPAC": "1301-1400",
+        "Dating_BOMPAC_conflict": "Conflict"
+      },
+      "cells": {
+        "Fr_reference": "C11948",
+        "BOMPAC-reconstruction": "M11948",
+        "Row_exclusion": "BO11948",
+        "datierung": "BG11948",
+        "Dating_start": "AH11948",
+        "Dating_end": "AI11948",
+        "Dating_BOMPAC": "AF11948",
+        "Dating_BOMPAC_conflict": "AG11948"
+      }
+    }
+  ],
+  "scope": "A provenance and source-disagreement audit, not an independent dating or a new manuscript attribution."
+}

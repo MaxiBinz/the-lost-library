@@ -1,0 +1,36 @@
+{
+  "assessment_date": "2026-10-25",
+  "previous_goal_turn": "progress: E29 indexed Fragmenta IV.156/IV.157 entries clarify same-codex versus suggested relation labels; integrated into CTX11",
+  "current_goal_turn": "progress: E30 checksum-verified BOMPAC crosswalk separates H08-H10 model suggestions from Fr1385; integrated into dossier review without queue changes",
+  "consecutive_no_progress_turns": 0,
+  "goal_status": "active, verified by get_goal at turn start",
+  "comparison_source_files_hashes_and_dimensions_checked": [
+    "research/continuation_20/c23/c23-attachment-0144-2200px.jpg",
+    "research/continuation_20/c23/c23-attachment-0144.tiff",
+    "research/continuation_20/c23/c23-attachment-0145-2200px.jpg",
+    "research/continuation_20/c23/c23-attachment-0145.tiff",
+    "data/images/mpo-7292-capture-1-1600px.jpg",
+    "data/images/mpo-7292-capture-1-800px.jpg"
+  ],
+  "evidence_export": {
+    "cases": 10,
+    "regions": 62,
+    "context_checks": 12,
+    "categories": {
+      "E": 2,
+      "C": 7,
+      "D": 1
+    },
+    "new_findings_confirmed": 0,
+    "path": "data/review_bundle.json"
+  },
+  "core_fragments_unchanged": true,
+  "benchmark_results_and_thresholds_unchanged": true,
+  "external_pages_excluded_from_core_gallery_and_frozen_queue": true,
+  "registration_screen_non_decisive": true,
+  "completion_proven": false,
+  "limits": [
+    "Integrity checks do not establish historical truth or originality.",
+    "The source sites were inspected post-review; no blind improved-method test."
+  ]
+}

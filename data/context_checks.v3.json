@@ -1,0 +1,122 @@
+{
+  "version": "3.0.0",
+  "assessment_date": "2026-10-24",
+  "scope": "Supporting source checks; no additional frozen attribution hypotheses.",
+  "checks": [
+    {
+      "id": "CTX01",
+      "title": "Fr10370 text order, marks and previously documented placement",
+      "record_ids": [
+        "mpo-10370"
+      ],
+      "observation_ids": [
+        "V-10370-mark",
+        "V-10370-overlap-upper",
+        "V-10370-overlap-lower",
+        "V-10370-kmark",
+        "V-10370-no-seam-34",
+        "I20-10370-verse-prefix",
+        "I20-10370-verse-suffix"
+      ],
+      "summary": "Image2 ends with candidate Ardore caritatis succensa quem; image3 begins sepultum noverat sublatum cred[ens?] de sepulchro. The concatenation matches candidate Cantus601029a, supporting2→3 relative text order. Visible margin marks and the earlier catalogue placement remain separately recorded. A fixed translation-only screen and a fixed SIFT/mutual-ratio/RANSAC screen then tested the declared 1/2 and 3/4 boundary ROIs against the 2/3 different-surface control.",
+      "outcome": "Intrinsic relative text order is supported. With the proposed1/2 same-surface association and one-leaf catalogue assertion, numeral-surface before k-surface is consistent with the Finnish medieval-side convention. No general MPO rule, physical stitch, new placement or catalogue error is established. Neither proposed boundary passed the predeclared feature-registration screen (1/2: 4 RANSAC inliers from 9 mutual matches; 3/4: 5 from 28; 2/3 control: 5 from 18).",
+      "limits": [
+        "Photograph indices are not medieval page sides.",
+        "Complementary portions in images1/2 suggest continuation, but no pixel registration or shared complete row proves an overlap.",
+        "The MPO meaning of1r/1v has not been established; the side-pattern mismatch remains conditional.",
+        "The older placement and later suggested group assertion have different scope.",
+        "Quem is expanded from an abbreviation and credens is partly uncertain; the normalized reference must not silently replace the literal reading. Cantus text came from public search indexing of primary database records, not inspection of those comparator images.",
+        "Feature matching is a test for repeated photographed detail, not a test of adjacent-but-nonoverlapping page regions. Failed registration cannot prove different faces; low-inlier homographies are not joins."
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/audit.md",
+        "research/independent_pass/crosswalk/side_convention_note.json",
+        "research/independent_pass/visual/findings.md",
+        "research/continuation_20/intrinsic_10370/results.json",
+        "https://cantusdatabase.org/chant/402240/",
+        "research/continuation_20/registration/results.json",
+        "research/continuation_20/registration/feature_results.json"
+      ]
+    },
+    {
+      "id": "CTX02",
+      "title": "Repeated opening address: conditional consistency check",
+      "record_ids": [],
+      "observation_ids": [],
+      "summary": "Indexed institutional descriptions assign hVIII–hIX to IV156f2 and IV157f5 with different feast labels. All16combinations of four explicit consistency premises were evaluated.",
+      "outcome": "Unresolved. Different feast labels alone do not demonstrate mutually incompatible text or different books.",
+      "limits": [
+        "The source readings came from public indexed institutional text with OCR noise; corresponding manuscript images were not verified.",
+        "Unique unrepeated numbering, correct transcription, the same physical position and incompatible text must all be established.",
+        "Reset numbering, composite volumes, side labels and incomplete summaries remain alternatives.",
+        "New indexed IV157 boundary assertions and its proposed interleaving of temporal/sanctoral units caution against an assumed simple global numbering sequence. This is a catalogue interpretation, not verified quire structure."
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/source_constraints.json",
+        "research/continuation_20/helsinki_access/source_assertions.json"
+      ]
+    },
+    {
+      "id": "CTX03",
+      "title": "Published image-scaling formula: possible erratum",
+      "record_ids": [],
+      "observation_ids": [],
+      "summary": "Duba2023 printedp64/PDF66 prose scales width by Smin/Sn; the displayed equation reverses this ratio. Dimensional derivation and three analytic controls preserve physical size with the prose ratio.",
+      "outcome": "Use width × Smin/Sn when rescaling to Smin pixels/mm. This is an implementation correction and possible typographical erratum.",
+      "limits": [
+        "No claim of first notice, originality or new historical finding.",
+        "The checks use synthetic analytic examples, not measured manuscript data.",
+        "No specialist or author confirmation has been received."
+      ],
+      "sources": [
+        "https://www.fragmentology.ms/article/view/4499",
+        "research/independent_pass/methods/methods.md",
+        "research/independent_pass/methods/protocol-results.json"
+      ]
+    },
+    {
+      "id": "CTX04",
+      "title": "Fr20274 against actual C23 pages and the editorial apparatus",
+      "record_ids": [
+        "mpo-20274",
+        "uub-c23-0144",
+        "uub-c23-0145"
+      ],
+      "observation_ids": [
+        "C23-0144-invitatory",
+        "C23-0144-condolentes",
+        "C23-0144-super",
+        "C23-0144-hymn",
+        "C23-0144-patri-parens",
+        "C23-0145-antiphon-opening",
+        "C23-0145-condemnation",
+        "C23-0145-eructavit",
+        "C23-0145-later-corrections",
+        "T-20274-patri-parens",
+        "T-20274-dampnatur",
+        "T-20274-eructavit-rident",
+        "T-20274-invitatory",
+        "T-20274-order",
+        "T-20274-transition"
+      ],
+      "summary": "A declared ten-site comparison uses actual C23 attachments0144/0145, Fr20274 and Hallqvist PDF67. Eight target sites are evaluable at word/cue/structure level; two remain unavailable. Current readings, visible corrections and editorial reports of old states are recorded separately.",
+      "outcome": "Seven current/standard word or cue agreements and one written-scope difference; no distinctive shared uncorrected C23 error established. This does not establish copying direction, a unique transmission branch or physical identity.",
+      "limits": [
+        "Sites were selected after prior target/page review; this is not blind validation or a corpus-frequency test.",
+        "Cancelled C23 wording is only partly legible; full old states are editorial assertions where specified.",
+        "The target lacks the end of the second antiphon; two informative sites are explicitly unevaluable.",
+        "A written hymn cue differs; no performance omission is inferred.",
+        "C435 original images were not inspected. No melodic or correcting-hand/date inference is made."
+      ],
+      "sources": [
+        "research/continuation_20/c23/collation.md",
+        "research/continuation_20/c23/collation.json",
+        "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+        "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=67"
+      ]
+    }
+  ]
+}

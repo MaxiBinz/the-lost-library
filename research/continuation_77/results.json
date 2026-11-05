@@ -1,0 +1,22 @@
+{
+  "date":"2026-11-02",
+  "question":"Do two existing target-family fragments show the same dedication antiphon and the same local following antiphon?",
+  "fr8066":"Capture 2 provisionally ends Domum tuam in longitudine die-; capture 3 begins rum, Euouae and Domus mea domus orationis vocabitur, followed by Hec est domus. The die-/rum order is a prior exploratory inference, not a verified physical seam.",
+  "fr10437":"Capture 1 provisionally contains Domum tuam, a short psalm cue and Hec est domus as the next visible antiphon. Capture 2 contains a separate abbreviated Domus me... cue, of unverified function.",
+  "conditional_difference":"If the 8066 boundary and 10437 reading order refer to comparable occurrences, 8066 has an intervening Domus mea antiphon while 10437's selected field does not. This is an occurrence-level observation, not a demonstrated complete-office difference or book exclusion.",
+  "published_controls":"The directly read Cantus Network Salzburg edition lists the three antiphons in the 8066 order. The search-indexed Cantus inventory for Paris Latin 1085 f.65v also lists that order for Lauds. Comparator manuscript images were not inspected.",
+  "limits":"Readings and selection are reference-exposed, not independent. The 8066 textual boundary and the 10437 small-text layout and service placement need review. The same chant can repeat in another service or section; abbreviations and composite books remain alternatives. MPO's separate reconstructed codex assignments are catalogue assertions, not a verified different-book control. Limited pair searches do not clear novelty.",
+  "next_test":"Independently check both source fields, the 8066 capture boundary and the 10437 cue and rubric; then compare truly corresponding service occurrences and melody against suitable established different-book and same-book controls.",
+  "source_regions":["I77-8066-die", "I77-8066-domus-hec", "I77-10437-order", "I77-10437-later-cue"],
+  "same_service_occurrence_verified":false,
+  "8066_physical_seam_verified":false,
+  "10437_full_office_omission_verified":false,
+  "independent_source_review":false,
+  "melody_compared":false,
+  "different_book_established":false,
+  "new_codex_relationship":false,
+  "novelty_cleared":false,
+  "new_discovery":false,
+  "new_source_images":0,
+  "new_download_bytes":0
+}

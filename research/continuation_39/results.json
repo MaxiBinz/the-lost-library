@@ -1,0 +1,118 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "question": "Does a bounded musical excerpt independently establish the same melody or a distinctive manuscript connection?",
+  "decision": "unresolved",
+  "scope": "Two selected phrase windows, each independently normalized to staff-step zero; no absolute pitches or full melody",
+  "new_result": "Two selected internal windows yield twelve provisional relative staff-position concordances and two unresolved target upper events among fourteen proposed alignment slots. This supports partial compatibility only; no exact excerpt identity, absolute pitches, full melody or unique lineage is established.",
+  "comparison": "research/continuation_39/comparison.json",
+  "readings": "research/continuation_39/readings.v3.json",
+  "observations": [
+    "I39-target-opening-signs",
+    "I39-target-nobis",
+    "I39-C23-nobis",
+    "I39-target-petition",
+    "I39-C23-petition"
+  ],
+  "execution": "Applied the official Cantus guide to separate pitch, underlay, neume grouping, guide signs and uncertain events. Inspected originals/declared derivatives, retained exploratory manual readings and revisions, then compared the declared relative positions without resolving ambiguous alternatives by agreement.",
+  "prior_art": {
+    "witnesses_as_labelled": [
+      "UUB C23 (69r)",
+      "UUB C21 (77r–77v)",
+      "Tammela Antiphoner (89r–89v)",
+      "Gummerus Antiphoner (134r)",
+      "MPO Fragment 10311",
+      "MPO Fragment 23744–23745"
+    ],
+    "statement": "Urberg already prints a six-witness synoptic comparison of the shorter antiphon. The broad internal contours are shared; the last MPO witness has a different note count over spem, so complete uniformity across all six is not claimed. These are edition reports, not six newly inspected originals.",
+    "locator": "Printed pp.600–605 / PDF626–631, especially p.604/PDF630 and p.605/PDF631.",
+    "novelty_implication": "Selected common contour compatibility cannot identify a unique lineage or codex; fragment-level first notice remains uncleared."
+  },
+  "source_revisions": [
+    {
+      "retained_prior_version": "research/continuation_39/readings.v1.json",
+      "change": "The C23 vi upper event is provisionally read as a separate note one diatonic step above its lower note, after checking the published C23 score. The target upper events remain unresolved.",
+      "source": {
+        "url": "https://doi.org/10.6082/uchicago.1751",
+        "pdf": "research/scholarship/urberg2016.pdf",
+        "locator": "Appendix F printed pp.600–605 / PDF626–631; relevant complete score pages visually checked.",
+        "figure_check": "Printed p.257 / PDF283 Example4.4 shows only the opening, not the two selected ending windows. It cannot verify those windows by itself."
+      },
+      "independent_confirmation": false
+    },
+    {
+      "prior": "research/continuation_39/readings.v2.json",
+      "reason": "Inspection of the first overlay found several petition circles beside the intended heads, especially C23 nos upper and target Virgo. Anchors corrected against the source pixels before accepting the figure. No staff-step alternatives, alignment slots or result counts changed.",
+      "kind": "Manual source-anchor correction, not independent reading or automated recognition."
+    }
+  ],
+  "review_issues": [
+    {
+      "id": "Q39-opening-signs",
+      "source": "target",
+      "region": [
+        225,
+        275,
+        340,
+        260
+      ],
+      "issue": "Several opening signs are not securely classified as clefs, guide signs or sounding notes; no complete opening transcription is asserted."
+    },
+    {
+      "id": "Q39-vi-upper",
+      "target_pixel": [
+        1113,
+        291
+      ],
+      "c23_pixel": [
+        1055,
+        1054
+      ],
+      "issue": "Target vertical two-head group needs precise pitch interpretation; C23 upper ink approaches preceding text and its note segmentation needs review. Keep both pitch and optional-note alternatives."
+    },
+    {
+      "id": "Q39-nos-upper",
+      "target_pixel": [
+        853,
+        576
+      ],
+      "c23_pixel": [
+        1111,
+        1337
+      ],
+      "issue": "Target upper head sits between nominal staff positions and its vertical ligature spacing needs review; do not declare a melodic variant from centre arithmetic."
+    }
+  ],
+  "method": {
+    "url": "https://cantusdatabase.org/static/documents/2.%20Volpiano%20Protocols.pdf",
+    "locator": "Printed pp.2,3,5,6 (PDF2,3,5,6) read and visually checked; not all seventeen pages read.",
+    "receipt": "research/continuation_39/method_receipt.json",
+    "scope": "Used basic rules for pitch/underlay, custodes and retaining unknown signs. No Cantus account, external submission or approved Volpiano edition is claimed."
+  },
+  "coverage": [
+    "Dolor cessit opening attempted, but its unclassified signs prevent a secure complete opening/absolute-pitch reading.",
+    "Nobis vite spem: seven proposed slots, six provisional concordances and one unresolved upper event.",
+    "Fac nos Virgo: seven proposed slots, six provisional concordances and one unresolved upper event.",
+    "No other melody passage, rhythm, accidentals, complete mode or entire-office classification is established."
+  ],
+  "limits": [
+    "Single AI reader with prior target/edition exposure; source records are separate but not blind or independent.",
+    "Each phrase is independently normalized to its first note; this loses absolute register and cannot verify whole-melody transposition.",
+    "Two unresolved target upper events are not accepted as matches or established variants.",
+    "C23 vi grouping/pitch was clarified using Urberg after retaining v1; that is editorial assistance, not independent source corroboration.",
+    "Twelve provisional agreements among selected slots are a descriptive comparison, not recognition accuracy, identity probability or a trained-method improvement.",
+    "Urberg already compares six witnesses and includes note-count variants; a common contour is not a unique branch or codex fingerprint.",
+    "No new parent codex, date, place, copying direction, complete melody, scientific novelty or independent confirmation is established."
+  ],
+  "next_test": "Resolve the three explicitly located notation issues against source signs and comparable established notation examples; retain unresolved events if the ink cannot support a secure reading. Prioritize the Finnish paired signature/full-text attribution test and other primary-source leads over repeatedly scoring this common melody.",
+  "working_source_files": 179,
+  "conservative_download_plan_bytes": 1666761179,
+  "new_method_download_bytes": 1083153,
+  "new_manuscript_download_bytes": 0,
+  "full_melody_verified": false,
+  "melodic_identity_established": false,
+  "new_codex_attribution": false,
+  "whole_office_recension_established": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "academy_record": {
+    "url": "https://real-j.mtak.hu/96/",
+    "type": "institutional catalogue, read",
+    "assertion": "The 1850 volume 10 catalogue lists Szilágyi's Sziget wall-paintings article at pages 234–258."
+  },
+  "academy_index": {
+    "url": "https://real-eod.mtak.hu/111/1/KIADV_075.pdf",
+    "type": "institutional index, search-indexed extract read",
+    "assertion": "The author entry lists Szilágyi István, teacher and writer, volume 10 (1850), pages 234–258."
+  },
+  "biographical_entry": {
+    "url": "https://nevpont.hu/index.php/palyakep/szilagyi-istvan-3d129",
+    "type": "biographical reference, read",
+    "assertion": "Szilágyi taught at the Máramarossziget Reformed gymnasium in 1845–1850 and was director from 1850.",
+    "limits": "No claim in this biography identifies the medieval breviary or his access to it. The relationship of the gymnasium to the Lyceum as legal entity was not independently established."
+  },
+  "failed_route": {
+    "url": "https://real-j.mtak.hu/96/1/AkademiaiErtesito_1850.pdf",
+    "method": "web-reader click on institutional repository download",
+    "result": "Failed to fetch; no article text returned. Do not repeat this failed route."
+  },
+  "network_accounting": "No files or manuscript images saved. Search and reader traffic remain unmeasured within the existing reserve."
+}

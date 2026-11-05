@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-03",
+  "question": "Are there discernible marks after the last clearly read word on Fr 8994 capture 4, and do they change what may be inferred from IV.156's indexed beginning?",
+  "exposure": "The word-like marks were noticed before this protocol. The observer had already seen the source image, the earlier project transcription, and the expected concordance and Finnish catalogue wording. This is an exploratory, strongly reference-exposed check, not blind or independent.",
+  "expected_text_context": "The earlier transcription ends at tempus est; the concordance and indexed Finnish description make ut the expected next word. That expectation can bias reading of indistinct strokes.",
+  "alternatives": ["Original writing continuing the same chant", "A reading or binding cue rather than running text", "A later annotation", "Offset or show-through from another surface", "Staining, damage, image artifact, or coincidental marks", "Mixture of these"],
+  "test": "Inspect unaltered source pixels with surrounding text and staff; distinguish clear observations from speculative character readings. Check the indexed Finnish description's stated range and treat it as an assertion, not an inspected page. Do not infer physical succession, repeated text or catchword function without further evidence.",
+  "result_policy": "Modify the scope of the earlier description to last clearly read word; preserve the earlier record. Do not change historical attribution, novelty, or frozen reviews."
+}

@@ -1,0 +1,264 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-22",
+  "scope": "Explicit conditional consistency checks on catalogue assertions; no attribution or independent physical adjudication",
+  "input_provenance": {
+    "audit_json_sha256": "9866116f57d19138097e07a0e26bc68c6ecfc60aca21192ed02a44e100f22f6c",
+    "catalogue_excerpt_manifest_sha256": "0ac009ffbe20545b02fb3808c4252fb029e053889fa694e27272cf30aff651ea",
+    "frozen_queue_sha256_unchanged": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "access_method": "Public search-index rendering of official institutional records; no direct HTML status or browser screenshot claimed",
+    "new_web_requests": 0,
+    "source_images_inspected_in_this_check": 0
+  },
+  "opening_collision": {
+    "source_assertions": [
+      {
+        "record": "Helsinki F.m.IV.156",
+        "folio": "2",
+        "opening_interval": {
+          "letter": "h",
+          "start_roman": "VIII",
+          "end_roman": "IX"
+        },
+        "catalogue_feast": "Peter and Paul",
+        "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "location": "Older additionalInformation, per-folio contents list, folio2",
+        "epistemic_status": "Institutional catalogue assertion read through public index; exact image text not verified"
+      },
+      {
+        "record": "Helsinki F.m.IV.157",
+        "folio": "5",
+        "opening_interval": {
+          "letter": "h",
+          "start_roman": "VIII",
+          "end_roman": "IX"
+        },
+        "catalogue_feast": "John Baptist",
+        "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "location": "Older additionalInformation, per-folio contents list, folio5",
+        "epistemic_status": "Institutional catalogue assertion read through public index; exact image text not verified"
+      }
+    ],
+    "facts_from_source_descriptions": {
+      "identical_catalogued_opening_interval": true,
+      "different_catalogue_feast_labels": true
+    },
+    "joint_premises_required_for_contradiction": [
+      "unique_unrepeated_signature_scheme",
+      "identical_addresses_accurately_transcribed",
+      "addresses_identify_same_physical_position",
+      "text_at_position_mutually_incompatible"
+    ],
+    "actual_premise_status": {
+      "unique_unrepeated_signature_scheme": "unverified across the alleged combined book",
+      "identical_addresses_accurately_transcribed": "unverified against images; indexed text can contain OCR errors",
+      "addresses_identify_same_physical_position": "conditional on common scheme/context; no physical placement verified",
+      "text_at_position_mutually_incompatible": "unverified: only different feast labels used; complete corresponding text not retained here"
+    },
+    "actual_result": "unresolved: necessary premises not established",
+    "conditional_result": "The conjunction of accurate identical addresses, unique unrepeated signatures, same physical position and mutually incompatible text is inconsistent. At least one premise must fail.",
+    "not_a_result": "Does not by itself reject same codex, establish separate scribes or clear originality.",
+    "weakness": "Different feast labels alone do not prove mutually incompatible full text. Partial descriptions, combined offices or different passage boundaries could explain labels.",
+    "minimal_alternatives": [
+      "Repeated or reset numbering, or multiple signature contexts in a composite volume",
+      "Catalogue transcription/OCR error or wrong side/folio assignment",
+      "Different labels are incomplete summaries of compatible contents",
+      "The fragments belong to different books"
+    ],
+    "truth_table_under_catalogue_facts": [
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": false,
+          "identical_addresses_accurately_transcribed": false,
+          "addresses_identify_same_physical_position": false,
+          "text_at_position_mutually_incompatible": false
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": false,
+          "identical_addresses_accurately_transcribed": false,
+          "addresses_identify_same_physical_position": false,
+          "text_at_position_mutually_incompatible": true
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": false,
+          "identical_addresses_accurately_transcribed": false,
+          "addresses_identify_same_physical_position": true,
+          "text_at_position_mutually_incompatible": false
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": false,
+          "identical_addresses_accurately_transcribed": false,
+          "addresses_identify_same_physical_position": true,
+          "text_at_position_mutually_incompatible": true
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": false,
+          "identical_addresses_accurately_transcribed": true,
+          "addresses_identify_same_physical_position": false,
+          "text_at_position_mutually_incompatible": false
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": false,
+          "identical_addresses_accurately_transcribed": true,
+          "addresses_identify_same_physical_position": false,
+          "text_at_position_mutually_incompatible": true
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": false,
+          "identical_addresses_accurately_transcribed": true,
+          "addresses_identify_same_physical_position": true,
+          "text_at_position_mutually_incompatible": false
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": false,
+          "identical_addresses_accurately_transcribed": true,
+          "addresses_identify_same_physical_position": true,
+          "text_at_position_mutually_incompatible": true
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": true,
+          "identical_addresses_accurately_transcribed": false,
+          "addresses_identify_same_physical_position": false,
+          "text_at_position_mutually_incompatible": false
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": true,
+          "identical_addresses_accurately_transcribed": false,
+          "addresses_identify_same_physical_position": false,
+          "text_at_position_mutually_incompatible": true
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": true,
+          "identical_addresses_accurately_transcribed": false,
+          "addresses_identify_same_physical_position": true,
+          "text_at_position_mutually_incompatible": false
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": true,
+          "identical_addresses_accurately_transcribed": false,
+          "addresses_identify_same_physical_position": true,
+          "text_at_position_mutually_incompatible": true
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": true,
+          "identical_addresses_accurately_transcribed": true,
+          "addresses_identify_same_physical_position": false,
+          "text_at_position_mutually_incompatible": false
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": true,
+          "identical_addresses_accurately_transcribed": true,
+          "addresses_identify_same_physical_position": false,
+          "text_at_position_mutually_incompatible": true
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": true,
+          "identical_addresses_accurately_transcribed": true,
+          "addresses_identify_same_physical_position": true,
+          "text_at_position_mutually_incompatible": false
+        },
+        "result": "no contradiction forced by this check; identity not established"
+      },
+      {
+        "premises": {
+          "unique_unrepeated_signature_scheme": true,
+          "identical_addresses_accurately_transcribed": true,
+          "addresses_identify_same_physical_position": true,
+          "text_at_position_mutually_incompatible": true
+        },
+        "result": "conditional contradiction of joint premises"
+      }
+    ],
+    "next_observations": [
+      "Actual signatures on IV156f2 andIV157f5",
+      "Full overlapping chant/text at corresponding sides",
+      "Evidence for or against repeated/reset signature contexts"
+    ]
+  },
+  "fr10370_orientation": {
+    "literal_cc0_mpo_note": "Am oberen Rand alte Foliierung 1r: k; 1v: II",
+    "csv_location": {
+      "path": "research/mpo.csv",
+      "record_ordinal": 10368,
+      "physical_end_line": 10369,
+      "field": "lagenanmerkungen"
+    },
+    "institutional_signature_convention": {
+      "letter_side": "verso",
+      "roman_numeral_side": "recto",
+      "source_urls": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314"
+      ]
+    },
+    "recorded_literal_token_pattern_reversed_relative_to_convention": true,
+    "actual_medieval_side_orientation_verified": false,
+    "actual_result": "unresolved: side and scheme correspondence not established",
+    "conditional_result": "conditional side-label inconsistency; no book-identity verdict",
+    "minimal_alternatives": [
+      "MPO r/v is a different descriptive or capture convention",
+      "Literal signature or side assignment is erroneous",
+      "The signature scheme differs or resets",
+      "The expected convention applies and the record labels require reversal"
+    ],
+    "next_observations": [
+      "Top-margin tokens on both actual surfaces",
+      "Intrinsic direction and sequence of the Latin text",
+      "Whether MPO labels refer to medieval sides or source photographs"
+    ],
+    "not_a_result": "No wrong-book conclusion, final recto/verso assignment or new sequence follows from the label pattern alone."
+  },
+  "independent_expert_review": false,
+  "new_discovery": false,
+  "frozen_queue_changed": false,
+  "checks_passed": [
+    "All16Boolean opening-premise combinations evaluated",
+    "Only the full joint premise set forces contradiction",
+    "Unknown premises remain unresolved",
+    "10370scheme/convention uncertainty remains unresolved",
+    "Source note literal and frozen queue hashes verified"
+  ]
+}

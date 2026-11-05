@@ -1,0 +1,302 @@
+{
+  "assessment_date": "2026-10-23",
+  "method": {
+    "version": "1.0.0",
+    "assessment_date": "2026-10-23",
+    "dependencies": {
+      "cv2": false,
+      "skimage": false,
+      "scipy": false,
+      "numpy": true,
+      "PIL": true
+    },
+    "fixed_before_execution": true,
+    "pairs": [
+      {
+        "id": "capture1_2",
+        "role": "candidate partial views of one surface",
+        "left": [
+          1,
+          [
+            234,
+            1290,
+            1179,
+            127
+          ]
+        ],
+        "right": [
+          2,
+          [
+            232,
+            25,
+            1163,
+            100
+          ]
+        ],
+        "roi_origin": "Both ROIs copied from existing V-10370-overlap-upper/lower annotations."
+      },
+      {
+        "id": "capture3_4",
+        "role": "candidate partial views of one surface",
+        "left": [
+          3,
+          [
+            300,
+            1040,
+            1180,
+            193
+          ]
+        ],
+        "right": [
+          4,
+          [
+            300,
+            0,
+            1180,
+            190
+          ]
+        ],
+        "roi_origin": "Right ROI is existing V-10370-no-seam-34 annotation; left is the native bottom193px band at the same writing-area x range, fixed before correlation."
+      },
+      {
+        "id": "capture2_3_control",
+        "role": "different-surface text-boundary control",
+        "left": [
+          2,
+          [
+            650,
+            490,
+            740,
+            115
+          ]
+        ],
+        "right": [
+          3,
+          [
+            345,
+            330,
+            1155,
+            85
+          ]
+        ],
+        "roi_origin": "Exact existing I20-10370 verse-prefix/suffix text ROIs, not shared pixels by the source presentation."
+      }
+    ],
+    "signal": "Binary dark ink where max(R,G,B)<125. Red ruling and pale parchment do not count as ink.",
+    "transforms": "Translation only; dx=-50..50px; no fitted scale, rotation, affine or perspective search.",
+    "overlap_gate": "At least80% of shorter band height and90% of shorter band width.",
+    "candidate_screen": "Pearson correlation>=0.8 would trigger visual review, not automatically prove same surface.",
+    "positive_evidence_requirement": "A positive overlap claim additionally needs distributed distinctive non-ruler/non-staff photographic correspondences, residuals and visual point overlay. This limited correlation does not supply those.",
+    "no_tuning_or_retry": "ROIs, threshold and transforms are not adjusted after seeing outcomes."
+  },
+  "results": [
+    {
+      "id": "capture1_2",
+      "role": "candidate partial views of one surface",
+      "sources": [
+        {
+          "side": "left",
+          "capture_index_one_based": 1,
+          "path": "data/images/mpo-10370-capture-1-1700px.jpg",
+          "sha256": "07efe2e1f8f87f31156630a7fe5340f78600c78ddc31d7fad930e5ae81f8a409",
+          "roi_xywh": [
+            234,
+            1290,
+            1179,
+            127
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00001/full/1700,/0/default.jpg"
+        },
+        {
+          "side": "right",
+          "capture_index_one_based": 2,
+          "path": "data/images/mpo-10370-capture-2-1739px.jpg",
+          "sha256": "fe8019fd85f078f5f552e9aa4befbae21bee8522506a1f77385d032a0499ee58",
+          "roi_xywh": [
+            232,
+            25,
+            1163,
+            100
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00002/full/1739,/0/default.jpg"
+        }
+      ],
+      "tested_translations": 6868,
+      "best": {
+        "dx": 17,
+        "dy": 21,
+        "pearson_dark_ink": 0.06822530181568517,
+        "overlap_pixels": 116200,
+        "left_ink_pixels": 8729.0,
+        "right_ink_pixels": 12434.0,
+        "roi_overlap": [
+          17,
+          21,
+          1162,
+          100
+        ]
+      },
+      "separate_peak": {
+        "dx": -40,
+        "dy": 17,
+        "pearson_dark_ink": 0.04993393152964054,
+        "overlap_pixels": 112300,
+        "left_ink_pixels": 9232.0,
+        "right_ink_pixels": 11726.0,
+        "roi_overlap": [
+          0,
+          17,
+          1123,
+          100
+        ]
+      },
+      "peak_gap": 0.018291370286044634,
+      "direct_calculation_matches_fft": true,
+      "strong_correlation_screen": false,
+      "accepted_feature_correspondences": [],
+      "inlier_distribution": "Not available: this method does not detect independent features or fit an affine model.",
+      "geometric_residual": null,
+      "outcome": "Unresolved: no accepted distinctive feature correspondences or affine registration."
+    },
+    {
+      "id": "capture3_4",
+      "role": "candidate partial views of one surface",
+      "sources": [
+        {
+          "side": "left",
+          "capture_index_one_based": 3,
+          "path": "data/images/mpo-10370-capture-3-1728px.jpg",
+          "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+          "roi_xywh": [
+            300,
+            1040,
+            1180,
+            193
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg"
+        },
+        {
+          "side": "right",
+          "capture_index_one_based": 4,
+          "path": "data/images/mpo-10370-capture-4-1742px.jpg",
+          "sha256": "2f2d35bf4253989714fda7877403a48bc4cd58bffa2e893469968546a9c1594f",
+          "roi_xywh": [
+            300,
+            0,
+            1180,
+            190
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00004/full/1742,/0/default.jpg"
+        }
+      ],
+      "tested_translations": 8080,
+      "best": {
+        "dx": 42,
+        "dy": -17,
+        "pearson_dark_ink": 0.056673491429184604,
+        "overlap_pixels": 196874,
+        "left_ink_pixels": 23992.0,
+        "right_ink_pixels": 23840.0,
+        "roi_overlap": [
+          42,
+          0,
+          1138,
+          173
+        ]
+      },
+      "separate_peak": {
+        "dx": -39,
+        "dy": -17,
+        "pearson_dark_ink": 0.05479905651028111,
+        "overlap_pixels": 197393,
+        "left_ink_pixels": 23138.0,
+        "right_ink_pixels": 23424.0,
+        "roi_overlap": [
+          0,
+          0,
+          1141,
+          173
+        ]
+      },
+      "peak_gap": 0.0018744349189034962,
+      "direct_calculation_matches_fft": true,
+      "strong_correlation_screen": false,
+      "accepted_feature_correspondences": [],
+      "inlier_distribution": "Not available: this method does not detect independent features or fit an affine model.",
+      "geometric_residual": null,
+      "outcome": "Unresolved: no accepted distinctive feature correspondences or affine registration."
+    },
+    {
+      "id": "capture2_3_control",
+      "role": "different-surface text-boundary control",
+      "sources": [
+        {
+          "side": "left",
+          "capture_index_one_based": 2,
+          "path": "data/images/mpo-10370-capture-2-1739px.jpg",
+          "sha256": "fe8019fd85f078f5f552e9aa4befbae21bee8522506a1f77385d032a0499ee58",
+          "roi_xywh": [
+            650,
+            490,
+            740,
+            115
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00002/full/1739,/0/default.jpg"
+        },
+        {
+          "side": "right",
+          "capture_index_one_based": 3,
+          "path": "data/images/mpo-10370-capture-3-1728px.jpg",
+          "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+          "roi_xywh": [
+            345,
+            330,
+            1155,
+            85
+          ],
+          "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg"
+        }
+      ],
+      "tested_translations": 6565,
+      "best": {
+        "dx": 33,
+        "dy": 46,
+        "pearson_dark_ink": 0.1361172503769472,
+        "overlap_pixels": 48783,
+        "left_ink_pixels": 7239.0,
+        "right_ink_pixels": 6367.0,
+        "roi_overlap": [
+          33,
+          46,
+          707,
+          69
+        ]
+      },
+      "separate_peak": {
+        "dx": 47,
+        "dy": 41,
+        "pearson_dark_ink": 0.1342509835531309,
+        "overlap_pixels": 51282,
+        "left_ink_pixels": 7077.0,
+        "right_ink_pixels": 6500.0,
+        "roi_overlap": [
+          47,
+          41,
+          693,
+          74
+        ]
+      },
+      "peak_gap": 0.0018662668238162983,
+      "direct_calculation_matches_fft": true,
+      "strong_correlation_screen": false,
+      "accepted_feature_correspondences": [],
+      "inlier_distribution": "Not available: this method does not detect independent features or fit an affine model.",
+      "geometric_residual": null,
+      "outcome": "Unresolved: no accepted distinctive feature correspondences or affine registration."
+    }
+  ],
+  "conclusion": "This translation-only check does not establish a shared photographed surface for1/2 or3/4. Failure to match cannot demonstrate different faces.",
+  "source_downloads": 0,
+  "source_mutations": 0,
+  "new_discovery": false
+}

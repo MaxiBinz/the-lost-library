@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-04",
+  "source": {
+    "author": "Hrvoje Beban",
+    "title": "Dominikanski antifonarij Franjevačkoga samostana na otoku Badija kod Korčule: analiza rukopisa",
+    "journal": "Arti musices 41:2 (2010), 167–186",
+    "article_url": "https://hrcak.srce.hr/file/100051",
+    "catalogue_url": "https://hrcak.srce.hr/index.php/clanak/100051",
+    "read_scope": "Publisher-extracted article text on printed pp. 176–177 and 180–181; not a full-article reading or inspection of original manuscript pages.",
+    "translation": "Croatian interpreted with AI assistance; no independent translator has checked the interpretation."
+  },
+  "tradition_control": {
+    "source_location": "p. 181, numbered items 4–5",
+    "reported_james": "Beban names O beate Iacobe omnium corde as a St James Vespers antiphon and O lux et decus Hispaniae as a Magnificat antiphon in a Dominican antiphoner.",
+    "reported_mary_magdalene": "The same study identifies Hec corde compuncte veni in Mary Magdalene Lauds, as the IV.156 catalogue describes for f.8.",
+    "scope": "A separate historical witness described by the author; no original page comparison, exact adjacency, full melody or Swedish/Finnish identity inferred."
+  },
+  "duplicate_office_control": {
+    "source_location": "pp. 176–177, including note 31",
+    "reported": "Beban describes the Annunciation office at the end of Badija X and the beginning of Badija XI, saying the latter office is identical; the two codices are complementary winter and summer parts.",
+    "caution": "The example spans two distinct physical volumes, not two duplicated chant copies proven within a single physical book. It does not show St James is repeated in either Swedish or Finnish material, and does not rule in or out the IV.156/Fr 10406 association."
+  },
+  "conclusion": "The selected chant combination can reflect a broader Dominican liturgical tradition, and duplication across a multi-volume set is documented. Neither point adjudicates the alleged overlapping physical fragments; a source-identified Finnish f.8 image remains necessary.",
+  "independent_expert_review_of_project": false,
+  "new_attribution": false,
+  "new_finnish_image": false
+}

@@ -1,0 +1,2751 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-28",
+  "input": "research/continuation_35/feature_results.json",
+  "input_sha256": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+  "method": "Raw 96px source windows, clamped within the original image; no rotation, warp, rescaling or registration. Circles only locate stored keypoints.",
+  "selections": {
+    "8994-1-2": {
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "items": [
+        {
+          "index": 0,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                496.09104919433594,
+                1091.7280883789062
+              ],
+              "crop_xywh": [
+                448,
+                1044,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                257.37535858154297,
+                141.6676025390625
+              ],
+              "crop_xywh": [
+                209,
+                94,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                654.4359436035156,
+                1240.3140563964844
+              ],
+              "crop_xywh": [
+                606,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                1307.6483154296875,
+                36.93198013305664
+              ],
+              "crop_xywh": [
+                1260,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                745.2588195800781,
+                1212.5567321777344
+              ],
+              "crop_xywh": [
+                697,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                690.9098510742188,
+                7.183050155639648
+              ],
+              "crop_xywh": [
+                643,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                803.9069213867188,
+                1048.4482860565186
+              ],
+              "crop_xywh": [
+                756,
+                1000,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                408.9792938232422,
+                106.5264892578125
+              ],
+              "crop_xywh": [
+                361,
+                59,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                841.0120239257812,
+                1239.5670623779297
+              ],
+              "crop_xywh": [
+                793,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                785.9334716796875,
+                36.542236328125
+              ],
+              "crop_xywh": [
+                738,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                851.4652709960938,
+                1211.4661254882812
+              ],
+              "crop_xywh": [
+                803,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                796.3120727539062,
+                6.372359752655029
+              ],
+              "crop_xywh": [
+                748,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                868.6812744140625,
+                1069.7877578735352
+              ],
+              "crop_xywh": [
+                821,
+                1022,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                577.7470703125,
+                157.3497772216797
+              ],
+              "crop_xywh": [
+                530,
+                109,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                876.6275024414062,
+                1077.3861274719238
+              ],
+              "crop_xywh": [
+                829,
+                1029,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                650.8056335449219,
+                177.28463745117188
+              ],
+              "crop_xywh": [
+                603,
+                129,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                923.3301391601562,
+                1216.040023803711
+              ],
+              "crop_xywh": [
+                875,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                868.3892211914062,
+                10.46426773071289
+              ],
+              "crop_xywh": [
+                820,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                948.2179565429688,
+                1215.7335662841797
+              ],
+              "crop_xywh": [
+                900,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                893.0852661132812,
+                9.876341819763184
+              ],
+              "crop_xywh": [
+                845,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                975.820556640625,
+                1068.656322479248
+              ],
+              "crop_xywh": [
+                928,
+                1021,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                1094.1016845703125,
+                128.87454223632812
+              ],
+              "crop_xywh": [
+                1046,
+                81,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1021.4153442382812,
+                1095.8833847045898
+              ],
+              "crop_xywh": [
+                973,
+                1048,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                519.0762939453125,
+                186.66404724121094
+              ],
+              "crop_xywh": [
+                471,
+                139,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1021.5223999023438,
+                1214.438461303711
+              ],
+              "crop_xywh": [
+                974,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                965.3226318359375,
+                8.637304306030273
+              ],
+              "crop_xywh": [
+                917,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1030.0689086914062,
+                1238.1366729736328
+              ],
+              "crop_xywh": [
+                982,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                973.7911376953125,
+                35.020469665527344
+              ],
+              "crop_xywh": [
+                926,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1030.8778686523438,
+                1214.8461151123047
+              ],
+              "crop_xywh": [
+                983,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                975.2273559570312,
+                9.31322193145752
+              ],
+              "crop_xywh": [
+                927,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1056.2599487304688,
+                1239.4252166748047
+              ],
+              "crop_xywh": [
+                1008,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                999.7803344726562,
+                36.36574172973633
+              ],
+              "crop_xywh": [
+                952,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1153.4443969726562,
+                1059.5888633728027
+              ],
+              "crop_xywh": [
+                1105,
+                1012,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                870.9854736328125,
+                150.4982147216797
+              ],
+              "crop_xywh": [
+                823,
+                102,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1168.7362060546875,
+                1187.7444152832031
+              ],
+              "crop_xywh": [
+                1121,
+                1140,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                736.0838623046875,
+                95.66397857666016
+              ],
+              "crop_xywh": [
+                688,
+                48,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1189.5712890625,
+                1091.1479568481445
+              ],
+              "crop_xywh": [
+                1142,
+                1043,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                581.654541015625,
+                182.4141845703125
+              ],
+              "crop_xywh": [
+                534,
+                134,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1288.5809326171875,
+                1200.0951385498047
+              ],
+              "crop_xywh": [
+                1241,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                680.9115905761719,
+                184.54750061035156
+              ],
+              "crop_xywh": [
+                633,
+                137,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1342.6312255859375,
+                1210.1158599853516
+              ],
+              "crop_xywh": [
+                1295,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                1284.4268798828125,
+                5.506197452545166
+              ],
+              "crop_xywh": [
+                1236,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1416.190673828125,
+                1072.9446716308594
+              ],
+              "crop_xywh": [
+                1368,
+                1025,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                1100.8474731445312,
+                120.95388793945312
+              ],
+              "crop_xywh": [
+                1053,
+                73,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1429.8037109375,
+                1074.1231880187988
+              ],
+              "crop_xywh": [
+                1382,
+                1026,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                478.63397216796875,
+                167.47511291503906
+              ],
+              "crop_xywh": [
+                431,
+                119,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1441.610595703125,
+                1230.5766296386719
+              ],
+              "crop_xywh": [
+                1394,
+                1150,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                1244.2183837890625,
+                33.93341064453125
+              ],
+              "crop_xywh": [
+                1196,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1456.1082763671875,
+                1097.9140701293945
+              ],
+              "crop_xywh": [
+                1408,
+                1050,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+              "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+              "point_xy": [
+                863.5026245117188,
+                159.45787048339844
+              ],
+              "crop_xywh": [
+                816,
+                111,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1180
+              ]
+            }
+          ]
+        }
+      ],
+      "review_figure": "research/continuation_41/8994-1-2-raw-patches.png",
+      "original_screen_passed": false
+    },
+    "8994-3-4": {
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "items": [
+        {
+          "index": 0,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                444.2757034301758,
+                1098.9209022521973
+              ],
+              "crop_xywh": [
+                396,
+                1051,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                682.6731262207031,
+                162.76060485839844
+              ],
+              "crop_xywh": [
+                635,
+                115,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                528.8240509033203,
+                1092.6542854309082
+              ],
+              "crop_xywh": [
+                481,
+                1045,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1264.657958984375,
+                134.67613220214844
+              ],
+              "crop_xywh": [
+                1217,
+                87,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                535.9866485595703,
+                1081.4619102478027
+              ],
+              "crop_xywh": [
+                488,
+                1033,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1274.7077026367188,
+                157.2442169189453
+              ],
+              "crop_xywh": [
+                1227,
+                109,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                711.1579895019531,
+                1203.0916442871094
+              ],
+              "crop_xywh": [
+                663,
+                1141,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                464.4196014404297,
+                104.69572448730469
+              ],
+              "crop_xywh": [
+                416,
+                57,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                748.9207153320312,
+                1124.935417175293
+              ],
+              "crop_xywh": [
+                701,
+                1077,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1329.50390625,
+                137.9290008544922
+              ],
+              "crop_xywh": [
+                1282,
+                90,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                846.4213562011719,
+                1185.4337158203125
+              ],
+              "crop_xywh": [
+                798,
+                1137,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1317.9262084960938,
+                150.5161590576172
+              ],
+              "crop_xywh": [
+                1270,
+                103,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                858.543701171875,
+                1125.5246887207031
+              ],
+              "crop_xywh": [
+                811,
+                1078,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1046.603759765625,
+                163.32423400878906
+              ],
+              "crop_xywh": [
+                999,
+                115,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                942.0121459960938,
+                1201.5697631835938
+              ],
+              "crop_xywh": [
+                894,
+                1141,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1039.4547119140625,
+                52.350555419921875
+              ],
+              "crop_xywh": [
+                991,
+                4,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                942.0121459960938,
+                1201.5697631835938
+              ],
+              "crop_xywh": [
+                894,
+                1141,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1039.4547119140625,
+                52.350555419921875
+              ],
+              "crop_xywh": [
+                991,
+                4,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                978.2236328125,
+                1082.8191146850586
+              ],
+              "crop_xywh": [
+                930,
+                1035,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                435.10645294189453,
+                52.18597412109375
+              ],
+              "crop_xywh": [
+                387,
+                4,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                996.7166748046875,
+                1204.9459228515625
+              ],
+              "crop_xywh": [
+                949,
+                1141,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                850.83251953125,
+                106.45952606201172
+              ],
+              "crop_xywh": [
+                803,
+                58,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1001.5414428710938,
+                1192.7895050048828
+              ],
+              "crop_xywh": [
+                954,
+                1141,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                854.1486206054688,
+                91.54056549072266
+              ],
+              "crop_xywh": [
+                806,
+                44,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1050.0042114257812,
+                1129.8965454101562
+              ],
+              "crop_xywh": [
+                1002,
+                1082,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                663.337646484375,
+                60.51325607299805
+              ],
+              "crop_xywh": [
+                615,
+                13,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1080.6583862304688,
+                1055.289101600647
+              ],
+              "crop_xywh": [
+                1033,
+                1007,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1171.0643310546875,
+                109.23548889160156
+              ],
+              "crop_xywh": [
+                1123,
+                61,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1080.6583862304688,
+                1055.289101600647
+              ],
+              "crop_xywh": [
+                1033,
+                1007,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1171.0643310546875,
+                109.23548889160156
+              ],
+              "crop_xywh": [
+                1123,
+                61,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1083.9645385742188,
+                1071.8078918457031
+              ],
+              "crop_xywh": [
+                1036,
+                1024,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                830.4833679199219,
+                63.41265106201172
+              ],
+              "crop_xywh": [
+                782,
+                15,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1129.390625,
+                1206.0668182373047
+              ],
+              "crop_xywh": [
+                1081,
+                1141,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                825.0802307128906,
+                72.35515594482422
+              ],
+              "crop_xywh": [
+                777,
+                24,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1210.1578369140625,
+                1117.9283065795898
+              ],
+              "crop_xywh": [
+                1162,
+                1070,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1367.4863891601562,
+                157.06610107421875
+              ],
+              "crop_xywh": [
+                1319,
+                109,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1250.3123168945312,
+                1107.5671310424805
+              ],
+              "crop_xywh": [
+                1202,
+                1060,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                768.6279907226562,
+                199.3994903564453
+              ],
+              "crop_xywh": [
+                721,
+                151,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1327.1849975585938,
+                1130.871681213379
+              ],
+              "crop_xywh": [
+                1279,
+                1083,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1241.294921875,
+                63.486019134521484
+              ],
+              "crop_xywh": [
+                1193,
+                15,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1377.8441772460938,
+                1083.3071060180664
+              ],
+              "crop_xywh": [
+                1330,
+                1035,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                1358.5228881835938,
+                187.30307006835938
+              ],
+              "crop_xywh": [
+                1311,
+                139,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1444.54296875,
+                1105.6449813842773
+              ],
+              "crop_xywh": [
+                1397,
+                1058,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                413.70690155029297,
+                196.442626953125
+              ],
+              "crop_xywh": [
+                366,
+                148,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1447.0079345703125,
+                1157.0612106323242
+              ],
+              "crop_xywh": [
+                1399,
+                1109,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                831.0473327636719,
+                60.22565841674805
+              ],
+              "crop_xywh": [
+                783,
+                12,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1509.91357421875,
+                1194.2085418701172
+              ],
+              "crop_xywh": [
+                1462,
+                1141,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                503.51324462890625,
+                92.67130279541016
+              ],
+              "crop_xywh": [
+                456,
+                45,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "ransac_inlier": false,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1516.741455078125,
+                1107.6172637939453
+              ],
+              "crop_xywh": [
+                1469,
+                1060,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+              "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+              "point_xy": [
+                731.5130615234375,
+                41.52946853637695
+              ],
+              "crop_xywh": [
+                684,
+                0,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1808,
+                1147
+              ]
+            }
+          ]
+        }
+      ],
+      "review_figure": "research/continuation_41/8994-3-4-raw-patches.png",
+      "original_screen_passed": false
+    },
+    "20274-overlap-positive": {
+      "indices": [
+        0,
+        431,
+        863,
+        1294,
+        1726,
+        2157
+      ],
+      "items": [
+        {
+          "index": 0,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+              "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+              "point_xy": [
+                243.83846282958984,
+                1349.9407043457031
+              ],
+              "crop_xywh": [
+                196,
+                1302,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1831,
+                1565
+              ]
+            },
+            {
+              "path": "data/images/mpo-20274-capture-2-1835px.jpg",
+              "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+              "point_xy": [
+                120.21439170837402,
+                187.88067626953125
+              ],
+              "crop_xywh": [
+                72,
+                140,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1705
+              ]
+            }
+          ]
+        },
+        {
+          "index": 431,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+              "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+              "point_xy": [
+                603.7908020019531,
+                1315.8111572265625
+              ],
+              "crop_xywh": [
+                556,
+                1268,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1831,
+                1565
+              ]
+            },
+            {
+              "path": "data/images/mpo-20274-capture-2-1835px.jpg",
+              "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+              "point_xy": [
+                482.0838928222656,
+                164.02760314941406
+              ],
+              "crop_xywh": [
+                434,
+                116,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1705
+              ]
+            }
+          ]
+        },
+        {
+          "index": 863,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+              "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+              "point_xy": [
+                903.2771606445312,
+                1306.6497802734375
+              ],
+              "crop_xywh": [
+                855,
+                1259,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1831,
+                1565
+              ]
+            },
+            {
+              "path": "data/images/mpo-20274-capture-2-1835px.jpg",
+              "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+              "point_xy": [
+                781.7211303710938,
+                164.9673614501953
+              ],
+              "crop_xywh": [
+                734,
+                117,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1705
+              ]
+            }
+          ]
+        },
+        {
+          "index": 1294,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+              "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+              "point_xy": [
+                1182.8185424804688,
+                1322.3775024414062
+              ],
+              "crop_xywh": [
+                1135,
+                1274,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1831,
+                1565
+              ]
+            },
+            {
+              "path": "data/images/mpo-20274-capture-2-1835px.jpg",
+              "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+              "point_xy": [
+                1060.5299682617188,
+                189.86585998535156
+              ],
+              "crop_xywh": [
+                1013,
+                142,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1705
+              ]
+            }
+          ]
+        },
+        {
+          "index": 1726,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+              "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+              "point_xy": [
+                1433.912841796875,
+                1318.9576416015625
+              ],
+              "crop_xywh": [
+                1386,
+                1271,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1831,
+                1565
+              ]
+            },
+            {
+              "path": "data/images/mpo-20274-capture-2-1835px.jpg",
+              "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+              "point_xy": [
+                1311.6197509765625,
+                195.21356201171875
+              ],
+              "crop_xywh": [
+                1264,
+                147,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1705
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2157,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+              "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+              "point_xy": [
+                1723.585693359375,
+                1244.1951293945312
+              ],
+              "crop_xywh": [
+                1676,
+                1196,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1831,
+                1565
+              ]
+            },
+            {
+              "path": "data/images/mpo-20274-capture-2-1835px.jpg",
+              "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+              "point_xy": [
+                1603.64453125,
+                130.4766082763672
+              ],
+              "crop_xywh": [
+                1556,
+                82,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1835,
+                1705
+              ]
+            }
+          ]
+        }
+      ],
+      "review_figure": "research/continuation_41/20274-overlap-positive-raw-patches.png",
+      "original_screen_passed": true
+    },
+    "8994-1-3-nonrepeat": {
+      "indices": [
+        10,
+        24,
+        25,
+        63,
+        64,
+        120,
+        121
+      ],
+      "items": [
+        {
+          "index": 10,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                330.92300033569336,
+                559.4721069335938
+              ],
+              "crop_xywh": [
+                283,
+                511,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1397.2606811523438,
+                544.7015075683594
+              ],
+              "crop_xywh": [
+                1349,
+                497,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                480.893310546875,
+                948.2115478515625
+              ],
+              "crop_xywh": [
+                433,
+                900,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1422.03271484375,
+                921.3697509765625
+              ],
+              "crop_xywh": [
+                1374,
+                873,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                480.893310546875,
+                948.2115478515625
+              ],
+              "crop_xywh": [
+                433,
+                900,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                1422.03271484375,
+                921.3697509765625
+              ],
+              "crop_xywh": [
+                1374,
+                873,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            }
+          ]
+        },
+        {
+          "index": 63,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                857.2916259765625,
+                799.8667602539062
+              ],
+              "crop_xywh": [
+                809,
+                752,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                932.139892578125,
+                964.6012573242188
+              ],
+              "crop_xywh": [
+                884,
+                917,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            }
+          ]
+        },
+        {
+          "index": 64,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                857.2916259765625,
+                799.8667602539062
+              ],
+              "crop_xywh": [
+                809,
+                752,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                932.139892578125,
+                964.6012573242188
+              ],
+              "crop_xywh": [
+                884,
+                917,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            }
+          ]
+        },
+        {
+          "index": 120,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1301.90283203125,
+                591.8777160644531
+              ],
+              "crop_xywh": [
+                1254,
+                544,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                912.4361572265625,
+                435.18603515625
+              ],
+              "crop_xywh": [
+                864,
+                387,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            }
+          ]
+        },
+        {
+          "index": 121,
+          "ransac_inlier": true,
+          "sources": [
+            {
+              "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+              "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+              "point_xy": [
+                1301.90283203125,
+                591.8777160644531
+              ],
+              "crop_xywh": [
+                1254,
+                544,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1802,
+                1246
+              ]
+            },
+            {
+              "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+              "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+              "point_xy": [
+                912.4361572265625,
+                435.18603515625
+              ],
+              "crop_xywh": [
+                864,
+                387,
+                96,
+                96
+              ],
+              "image_dimensions": [
+                1793,
+                1237
+              ]
+            }
+          ]
+        }
+      ],
+      "review_figure": "research/continuation_41/8994-1-3-nonrepeat-raw-patches.png",
+      "original_screen_passed": false
+    }
+  },
+  "independent_review": false
+}

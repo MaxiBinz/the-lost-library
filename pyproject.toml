@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "the-lost-library"
+version = "0.1.0"
+description = "Reproducible, source-linked research on fragmented medieval music manuscripts"
+requires-python = ">=3.12"
+dependencies = ["numpy==2.3.5", "Pillow==12.3.0", "torch==2.9.0", "torchvision==0.24.0", "pypdfium2==4.30.0", "openpyxl==3.1.5"]
+
+[project.scripts]
+lost-library = "lost_library.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["lost_library*"]

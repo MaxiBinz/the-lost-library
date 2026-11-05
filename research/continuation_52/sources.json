@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "search_queries": [
+    "\"Regem virginum dominum\" cantus",
+    "\"Felix terra\" \"Anna\" antiphona",
+    "\"Veni sponsa Christi accipe coronam\" \"007828\"",
+    "\"Felix terra\" \"germinis\" \"Anna\"",
+    "\"Veni sponsa Christi\" \"aeternum\" \"005328\""
+  ],
+  "web_sources": [
+    {
+      "url": "https://cantusdatabase.org/chant/603971/",
+      "scope": "Primary database search-index text describes001151 as an invitatory in another source. Direct open Cache miss; stopped, not retried. The local partial Regem cue remains a candidate only."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/257246/",
+      "scope": "Primary database search-index text distinguishes005328 antiphon and007828 responsory sharing the incipit. Direct open Cache miss; stopped, not retried."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/247233/",
+      "scope": "Primary indexed responsory record007828: longer continuation involving blood/martyrdom supports the local second-occurrence candidate. No original witness image or reference melody inspected."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/247223/",
+      "scope": "Primary indexed antiphon record005328: shorter ending supports the local first-occurrence candidate. Other listed witnesses use different positions; none is transferred to8072."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/460369/",
+      "scope": "Primary indexed St Gall391 folio189 lists both antiphon005328 and responsory007828. This is already documented chant practice, not a new relationship or distinct local tradition."
+    }
+  ],
+  "other_search_scope": "The tentative Felix-terra queries did not identify a secure8073 chant. Irrelevant results were not used. No absence, rarity or novelty claim follows.",
+  "prior_art": "E44 source regions already record five ruled lines in all six members; E45-E46 and E49 earlier text conclusions retained. New native images and local two-occurrence/Magnificat observations add source detail, not six new discoveries.",
+  "network_scope": "Only six successful manuscript-file transfers are measured by the ledger. Two timeouts can have unmeasured traffic; historical reserve remains. Web-reader/search traffic unmeasured. No uploads, outreach or publication."
+}

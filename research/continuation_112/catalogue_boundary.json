@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-05",
+  "catalogue_url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299?show=full",
+  "access": "Search-indexed catalogue text; the earlier failed direct catalogue route was not retried.",
+  "folio": "F.m.IV.156 f.8",
+  "indexed_wording_excerpt": "ending intercede]",
+  "caveat": "The isolated closing bracket is unexplained. It could be an OCR artifact, a missing opening bracket, or another editorial mark. Neither the original typographic wording nor the number of letters physically surviving is verified. The index also visibly contains other OCR errors.",
+  "inference": "Do not infer that all of intercede, or necessarily any specific letters of that word, are visible on the Finnish original solely from this indexed text. A reliable catalogue reproduction and a source-identified leaf image are needed.",
+  "finnish_image_inspected": false,
+  "physical_ink_overlap_proved": false,
+  "new_attribution": false,
+  "notation_check_2026_11_05": "A targeted search did not locate an explanation for Taitto’s own bracket convention. A separately catalogued UCLA collection uses square brackets for uncertain transcription (https://oac.cdlib.org/findaid/ark:/13030/kt6b69q574); that different catalogue cannot establish Taitto’s usage. No conclusion about the damaged word follows."
+}

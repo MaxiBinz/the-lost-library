@@ -1,0 +1,474 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "annotations": [
+    {
+      "id": "I54-10407-ix",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red upper-margin sign, compatible with catalogue IX. The disclosed prior reading informs this qualified candidate; its historical numbering function and original side are not established.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10407-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=650,60,450,170"
+        }
+      },
+      "fragment_id": "mpo-10407",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010407_00001/full/max/0/default.jpg",
+      "sha256": "6a873315101fb4a0875cd3d6b3b4c91161a77165b044bffb4656a1194c99fa93",
+      "image_dimensions": [
+        1802,
+        1210
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": "ix-like, flanked by points",
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-10407-i",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red upper-margin single-letter/stroke-like sign, compatible with catalogue i. Photograph ordinal is not medieval recto/verso; no unique compound address is established.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10407-capture-3-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=800,40,400,190"
+        }
+      },
+      "fragment_id": "mpo-10407",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010407_00003/full/max/0/default.jpg",
+      "sha256": "cdb9d314c9667e320ad11cf515680c15839a0278084b6d17f2d00276679534f5",
+      "image_dimensions": [
+        1826,
+        1375
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": "i-like, flanked by points",
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-10437-vj",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red upper-margin sign, compatible with catalogue VI. Literal shape, normalized numeral and historical function remain separate; no original folio or quire number is assigned.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10437-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=650,70,450,190"
+        }
+      },
+      "fragment_id": "mpo-10437",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010437_00001/full/max/0/default.jpg",
+      "sha256": "75d3c9b2ae0facd754504b1dec68ce8a33a64d3cdaa7a78140c9ab539942224a",
+      "image_dimensions": [
+        1890,
+        1126
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": "vj-like, flanked by points",
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-10437-o",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Angular rounded red upper-margin sign, compatible with catalogue O. It is not normalized to a number or assigned a medieval side.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10437-capture-3-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=600,40,500,200"
+        }
+      },
+      "fragment_id": "mpo-10437",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010437_00003/full/max/0/default.jpg",
+      "sha256": "0c1d566dc42584e3e9f592a8e132d0b3638d7d45c07aba3ce8d6edcfea03c037",
+      "image_dimensions": [
+        1546,
+        1120
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": "O-like, flanked by points",
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-1385-first-edge",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red upper-edge strokes are clipped at the source boundary/fold. Catalogue IX is known, but this retained photograph does not independently yield a secure complete literal reading. Missing strokes are not reconstructed.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=180,0,250,70"
+        }
+      },
+      "fragment_id": "mpo-1385",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00001/full/800,/0/default.jpg",
+      "sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+      "image_dimensions": [
+        600,
+        413
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-1385-third-edge",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The red upper-edge mark is partly outside the visible surface. Catalogue D remains an attributed reading; this source does not securely establish the full sign or its function.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=250,0,350,100"
+        }
+      },
+      "fragment_id": "mpo-1385",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00003/full/1000,/0/default.jpg",
+      "sha256": "0b3270a7e5722b81fbbeb503842255c835673b76bfa83986295b4d5bf34f227d",
+      "image_dimensions": [
+        1000,
+        688
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-10407-irregabat",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Large I-initial notated opening and nearby lacrimis wording are visible. The provisional reading is compatible with the source-described Magdalene context; no exact complete chant ID, corresponding variant or new liturgical tradition is asserted.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10407-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=390,390,1220,260"
+        }
+      },
+      "fragment_id": "mpo-10407",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010407_00004/full/max/0/default.jpg",
+      "sha256": "8f5378042349ad1eca0cc9871d54cd634a7877a7a64f5a2d474b97ae0ae7501d",
+      "image_dimensions": [
+        1829,
+        1150
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": "Irregabat [...] lacrimis [...]",
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-10437-reuse",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Two reinforced straps and sewing cross over medieval music/text in the reused binding. These later reuse features do not establish original medieval quire stitching, a physical join to another fragment or an original leaf-side map.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10437-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=80,0,1460,380"
+        }
+      },
+      "fragment_id": "mpo-10437",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010437_00004/full/max/0/default.jpg",
+      "sha256": "47a098686919750ff8adbecf65726aca93641c686cd335232e4066da50e5e2a9",
+      "image_dimensions": [
+        1849,
+        1198
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-10437-domum",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A broad-field notated D-initial opening is compatible with dedication material already reported by the catalogue. Different feast context from another fragment is not a book exclusion.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_54/images/Fr10437-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=230,330,1280,300"
+        }
+      },
+      "fragment_id": "mpo-10437",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1010437_00001/full/max/0/default.jpg",
+      "sha256": "75d3c9b2ae0facd754504b1dec68ce8a33a64d3cdaa7a78140c9ab539942224a",
+      "image_dimensions": [
+        1890,
+        1126
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": "Domum tuam domine [...]",
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-10406-service",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A short red service rubric and notated text occupy one broad writing field. The catalogue describes Magdalene, James and Olav material; the service cue is not independently read as an All-Saints feast or a complete calendar reconstruction.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=100,140,560,245"
+        }
+      },
+      "fragment_id": "mpo-10406",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00001/full/800,/0/default.jpg",
+      "sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": null,
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-8311-adam",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The surviving music/text includes a paradise/Adam passage in one broad writing field. Different visible subject from10406 is compatible with separate sections in one book and also with different related books.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=85,205,560,225"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00001/full/800,/0/default.jpg",
+      "sha256": "d7eebea8a22ecaa05a9ff9d27626acd6fd878b80282611f1ca37fd6b773801e8",
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": "Dum deambularet dominus in paradiso [...] / [...] Adam [...]",
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    },
+    {
+      "id": "I54-365-hisunt",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The one selected thumbnail has a broad-field notated H-initial passage with blood/martyr-related wording. The other three manifest photographs were not selected or inspected in E54; no complete text inventory or absence test is claimed.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-365.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=115,235,565,110"
+        }
+      },
+      "fragment_id": "mpo-365",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1000365_00001/full/800,/0/default.jpg",
+      "sha256": "8d3e819b63e4d59c94d4eb2ae46c64c92bfdc92099c2115590297b6bd8745853",
+      "image_dimensions": [
+        800,
+        526
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet, Sweden; MPO/Fragmentarium source photograph",
+      "literal_candidate": "Hi sunt [...] sanguine [...]",
+      "normalized_candidate": null,
+      "display_rotation_degrees": 0,
+      "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+        "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+        "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+        "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+        "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1001385/manifest",
+    "checked_at_utc": "2026-10-20T21:07:05.738804+00:00",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14763,
+    "sha256": "162b44d16f2907f6af4a7cd98fffaf402d5bc9c77cdcf8b0bc6037b8518f7de0",
+    "saved": "research/evidence/target_1385_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00001/full/600,/0/default.jpg",
+    "checked_at_utc": "2026-10-20T21:07:06.161646+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 44134,
+    "sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+    "saved": "research/evidence/target_1385_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1020274/manifest",
+    "checked_at_utc": "2026-10-20T21:07:06.882913+00:00",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 9129,
+    "sha256": "0659af302356399fa37519b40f0aa767da522a3f12f85e1ebc3105ade4324881",
+    "saved": "research/evidence/target_20274_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/600,/0/default.jpg",
+    "checked_at_utc": "2026-10-20T21:07:07.211024+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 55435,
+    "sha256": "59fd853b430a67e4d1bc6978ce1de41c301dc45ab1c6b10b432d5a764f405272",
+    "saved": "research/evidence/target_20274_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008994/manifest",
+    "checked_at_utc": "2026-10-20T21:07:07.811594+00:00",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14763,
+    "sha256": "02d5a70ed9c4a5993511949de58f6185ec4ede75e4cc010c8150a03f3e6e5368",
+    "saved": "research/evidence/target_8994_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/600,/0/default.jpg",
+    "checked_at_utc": "2026-10-20T21:07:08.054708+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 37467,
+    "sha256": "750440678d2312c73fb6eb7eb522ca68034583affeb60208c8fa549dc0e82517",
+    "saved": "research/evidence/target_8994_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1025592/manifest",
+    "checked_at_utc": "2026-10-20T21:07:08.709574+00:00",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14799,
+    "sha256": "4630daa96c78380b2a5702e2b2d70800c45c9a186f463f39f8db8462b1254ba6",
+    "saved": "research/evidence/target_25592_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1025592_00001/full/600,/0/default.jpg",
+    "checked_at_utc": "2026-10-20T21:07:09.026259+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 25997,
+    "sha256": "08312a14fdaba737712519df355ad4143d893ab7e18a18dac16bf14588e25184",
+    "saved": "research/evidence/target_25592_sample.jpg"
+  }
+]

@@ -1,0 +1,434 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "comparisons": [
+    {
+      "lead_id": "pair-e7dd7d3bdc9a902f2a63",
+      "pair": [
+        "fragmentarium-F-5der",
+        "mpo-25592"
+      ],
+      "comparison_scope": "Initial direct comparison of selected surviving text/service and copying-field context; no full diagnostic variant collation or historical book adjudication.",
+      "contexts": {
+        "fragmentarium-F-5der": {
+          "columns_visible": 2,
+          "context": "Galilei/aspicientes-in-celum passage in a decorated two-field liturgical leaf; published Beauvais membership credited.",
+          "regions": [
+            "I53-5der-viri"
+          ],
+          "full_manifest_photo_coverage": false
+        },
+        "mpo-25592": {
+          "columns_visible": 2,
+          "context": "Notated hymn openings followed by continuous stanzas; A-patre-unigenitus cue and a Jesu-redemptor/verbum-patris candidate distinct from the selected10349 hymn.",
+          "regions": [
+            "I53-25592-jesu",
+            "I53-25592-a-patre",
+            "I53-25592-hymn-blocks"
+          ],
+          "full_manifest_photo_coverage": true
+        }
+      },
+      "source_regions": [
+        "I53-5der-viri",
+        "I53-25592-jesu",
+        "I53-25592-a-patre",
+        "I53-25592-hymn-blocks"
+      ],
+      "visible_field_counts": [
+        2,
+        2
+      ],
+      "local_field_design_difference": false,
+      "unchanged_uniform_template_challenged": false,
+      "complete_source_photo_coverage": false,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "hymn_comparison": null,
+      "complete_corresponding_diagnostic_work_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "Different sections, copying changes and composite volumes remain alternatives. Equal column counts or standard liturgical text are compatibility only. Incomplete photo/text coverage is not evidence of absence.",
+      "next_test": "Seek a securely corresponding text/work sequence or original physical/quire feature. Retain source-photo gaps and section/composite alternatives; generic genre/layout alone cannot adjudicate the book."
+    },
+    {
+      "lead_id": "pair-eafe5048aae6282c0cb8",
+      "pair": [
+        "fragmentarium-F-5uba",
+        "mpo-25592"
+      ],
+      "comparison_scope": "Initial direct comparison of selected surviving text/service and copying-field context; no full diagnostic variant collation or historical book adjudication.",
+      "contexts": {
+        "fragmentarium-F-5uba": {
+          "columns_visible": 2,
+          "context": "Off./Iubilate-deo and Secreta cues with music and prose prayer; published Beauvais Mass context credited.",
+          "regions": [
+            "I53-5uba-mass-rubrics"
+          ],
+          "full_manifest_photo_coverage": false
+        },
+        "mpo-25592": {
+          "columns_visible": 2,
+          "context": "Notated hymn openings followed by continuous stanzas; A-patre-unigenitus cue and a Jesu-redemptor/verbum-patris candidate distinct from the selected10349 hymn.",
+          "regions": [
+            "I53-25592-jesu",
+            "I53-25592-a-patre",
+            "I53-25592-hymn-blocks"
+          ],
+          "full_manifest_photo_coverage": true
+        }
+      },
+      "source_regions": [
+        "I53-5uba-mass-rubrics",
+        "I53-25592-jesu",
+        "I53-25592-a-patre",
+        "I53-25592-hymn-blocks"
+      ],
+      "visible_field_counts": [
+        2,
+        2
+      ],
+      "local_field_design_difference": false,
+      "unchanged_uniform_template_challenged": false,
+      "complete_source_photo_coverage": false,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "hymn_comparison": null,
+      "complete_corresponding_diagnostic_work_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "Different sections, copying changes and composite volumes remain alternatives. Equal column counts or standard liturgical text are compatibility only. Incomplete photo/text coverage is not evidence of absence.",
+      "next_test": "Seek a securely corresponding text/work sequence or original physical/quire feature. Retain source-photo gaps and section/composite alternatives; generic genre/layout alone cannot adjudicate the book."
+    },
+    {
+      "lead_id": "pair-0e5884ee8e7775c2a4ef",
+      "pair": [
+        "mpo-10349",
+        "mpo-25592"
+      ],
+      "comparison_scope": "Initial direct comparison of selected surviving text/service and copying-field context; no full diagnostic variant collation or historical book adjudication.",
+      "contexts": {
+        "mpo-10349": {
+          "columns_visible": 2,
+          "context": "Two narrow fields, with notated office material, prose rubrics and an All-Saints Jesu-salvator/redemptis-ope hymn candidate.",
+          "regions": [
+            "I50-10349-page",
+            "I50-10349-gutter",
+            "I53-10349-jesu"
+          ],
+          "full_manifest_photo_coverage": true
+        },
+        "mpo-25592": {
+          "columns_visible": 2,
+          "context": "Notated hymn openings followed by continuous stanzas; A-patre-unigenitus cue and a Jesu-redemptor/verbum-patris candidate distinct from the selected10349 hymn.",
+          "regions": [
+            "I53-25592-jesu",
+            "I53-25592-a-patre",
+            "I53-25592-hymn-blocks"
+          ],
+          "full_manifest_photo_coverage": true
+        }
+      },
+      "source_regions": [
+        "I50-10349-page",
+        "I50-10349-gutter",
+        "I53-10349-jesu",
+        "I53-25592-jesu",
+        "I53-25592-a-patre",
+        "I53-25592-hymn-blocks"
+      ],
+      "visible_field_counts": [
+        2,
+        2
+      ],
+      "local_field_design_difference": false,
+      "unchanged_uniform_template_challenged": false,
+      "complete_source_photo_coverage": true,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "hymn_comparison": "The selected openings and continuations provisionally fit different known hymn texts rather than a diagnostic same-hymn variant. The first begins salvator/redemptis-ope, whereas the second has redemptor/verbum-patris context and the Tu-fabricator cue. This probable work mismatch defeats the proposed local textual correspondence; it does not exclude different sections in one historical volume.",
+      "complete_corresponding_diagnostic_work_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "Different sections, copying changes and composite volumes remain alternatives. Equal column counts or standard liturgical text are compatibility only. Incomplete photo/text coverage is not evidence of absence.",
+      "next_test": "Establish exact whole-hymn/work identity and a genuinely corresponding diagnostic variant before comparing music. The currently selected openings probably belong to different known works; do not repeat a generic Jesu-word match."
+    },
+    {
+      "lead_id": "pair-968ff6460a409e3f7e76",
+      "pair": [
+        "mpo-10349",
+        "mpo-2863"
+      ],
+      "comparison_scope": "Initial direct comparison of selected surviving text/service and copying-field context; no full diagnostic variant collation or historical book adjudication.",
+      "contexts": {
+        "mpo-10349": {
+          "columns_visible": 2,
+          "context": "Two narrow fields, with notated office material, prose rubrics and an All-Saints Jesu-salvator/redemptis-ope hymn candidate.",
+          "regions": [
+            "I50-10349-page",
+            "I50-10349-gutter",
+            "I53-10349-jesu"
+          ],
+          "full_manifest_photo_coverage": true
+        },
+        "mpo-2863": {
+          "columns_visible": 1,
+          "context": "One broad field with John-related words; previously source-described Codex434 context remains credited.",
+          "regions": [
+            "I50-2863-control"
+          ],
+          "full_manifest_photo_coverage": false
+        }
+      },
+      "source_regions": [
+        "I50-10349-page",
+        "I50-10349-gutter",
+        "I53-10349-jesu",
+        "I50-2863-control"
+      ],
+      "visible_field_counts": [
+        2,
+        1
+      ],
+      "local_field_design_difference": true,
+      "unchanged_uniform_template_challenged": true,
+      "complete_source_photo_coverage": false,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "hymn_comparison": null,
+      "complete_corresponding_diagnostic_work_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "Different sections, copying changes and composite volumes remain alternatives. Equal column counts or standard liturgical text are compatibility only. Incomplete photo/text coverage is not evidence of absence.",
+      "next_test": "Seek a securely corresponding text/work sequence or original physical/quire feature. Retain source-photo gaps and section/composite alternatives; generic genre/layout alone cannot adjudicate the book."
+    },
+    {
+      "lead_id": "pair-e86cd88728212e7aaf52",
+      "pair": [
+        "mpo-10349",
+        "mpo-2864"
+      ],
+      "comparison_scope": "Initial direct comparison of selected surviving text/service and copying-field context; no full diagnostic variant collation or historical book adjudication.",
+      "contexts": {
+        "mpo-10349": {
+          "columns_visible": 2,
+          "context": "Two narrow fields, with notated office material, prose rubrics and an All-Saints Jesu-salvator/redemptis-ope hymn candidate.",
+          "regions": [
+            "I50-10349-page",
+            "I50-10349-gutter",
+            "I53-10349-jesu"
+          ],
+          "full_manifest_photo_coverage": true
+        },
+        "mpo-2864": {
+          "columns_visible": 1,
+          "context": "One broad field with John-related words, distinct from the2863 visible text; no new continuity or physical join.",
+          "regions": [
+            "I50-2864-control"
+          ],
+          "full_manifest_photo_coverage": false
+        }
+      },
+      "source_regions": [
+        "I50-10349-page",
+        "I50-10349-gutter",
+        "I53-10349-jesu",
+        "I50-2864-control"
+      ],
+      "visible_field_counts": [
+        2,
+        1
+      ],
+      "local_field_design_difference": true,
+      "unchanged_uniform_template_challenged": true,
+      "complete_source_photo_coverage": false,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "hymn_comparison": null,
+      "complete_corresponding_diagnostic_work_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "Different sections, copying changes and composite volumes remain alternatives. Equal column counts or standard liturgical text are compatibility only. Incomplete photo/text coverage is not evidence of absence.",
+      "next_test": "Seek a securely corresponding text/work sequence or original physical/quire feature. Retain source-photo gaps and section/composite alternatives; generic genre/layout alone cannot adjudicate the book."
+    },
+    {
+      "lead_id": "pair-6687f9e4a781c8262b00",
+      "pair": [
+        "mpo-10349",
+        "mpo-2872"
+      ],
+      "comparison_scope": "Initial direct comparison of selected surviving text/service and copying-field context; no full diagnostic variant collation or historical book adjudication.",
+      "contexts": {
+        "mpo-10349": {
+          "columns_visible": 2,
+          "context": "Two narrow fields, with notated office material, prose rubrics and an All-Saints Jesu-salvator/redemptis-ope hymn candidate.",
+          "regions": [
+            "I50-10349-page",
+            "I50-10349-gutter",
+            "I53-10349-jesu"
+          ],
+          "full_manifest_photo_coverage": true
+        },
+        "mpo-2872": {
+          "columns_visible": 1,
+          "context": "One broad field with Ecce-veniet-dominus/Advent-like text; source-frame coverage is partial.",
+          "regions": [
+            "I53-2872-field"
+          ],
+          "full_manifest_photo_coverage": false
+        }
+      },
+      "source_regions": [
+        "I50-10349-page",
+        "I50-10349-gutter",
+        "I53-10349-jesu",
+        "I53-2872-field"
+      ],
+      "visible_field_counts": [
+        2,
+        1
+      ],
+      "local_field_design_difference": true,
+      "unchanged_uniform_template_challenged": true,
+      "complete_source_photo_coverage": false,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "hymn_comparison": null,
+      "complete_corresponding_diagnostic_work_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "Different sections, copying changes and composite volumes remain alternatives. Equal column counts or standard liturgical text are compatibility only. Incomplete photo/text coverage is not evidence of absence.",
+      "next_test": "Seek a securely corresponding text/work sequence or original physical/quire feature. Retain source-photo gaps and section/composite alternatives; generic genre/layout alone cannot adjudicate the book."
+    },
+    {
+      "lead_id": "pair-365f99cc96d5359228ae",
+      "pair": [
+        "mpo-10349",
+        "mpo-2873"
+      ],
+      "comparison_scope": "Initial direct comparison of selected surviving text/service and copying-field context; no full diagnostic variant collation or historical book adjudication.",
+      "contexts": {
+        "mpo-10349": {
+          "columns_visible": 2,
+          "context": "Two narrow fields, with notated office material, prose rubrics and an All-Saints Jesu-salvator/redemptis-ope hymn candidate.",
+          "regions": [
+            "I50-10349-page",
+            "I50-10349-gutter",
+            "I53-10349-jesu"
+          ],
+          "full_manifest_photo_coverage": true
+        },
+        "mpo-2873": {
+          "columns_visible": 1,
+          "context": "One broad field with right-edge clipping and Advent-like words; no secure corresponding passage to10349.",
+          "regions": [
+            "I53-2873-field"
+          ],
+          "full_manifest_photo_coverage": false
+        }
+      },
+      "source_regions": [
+        "I50-10349-page",
+        "I50-10349-gutter",
+        "I53-10349-jesu",
+        "I53-2873-field"
+      ],
+      "visible_field_counts": [
+        2,
+        1
+      ],
+      "local_field_design_difference": true,
+      "unchanged_uniform_template_challenged": true,
+      "complete_source_photo_coverage": false,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "hymn_comparison": null,
+      "complete_corresponding_diagnostic_work_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "Different sections, copying changes and composite volumes remain alternatives. Equal column counts or standard liturgical text are compatibility only. Incomplete photo/text coverage is not evidence of absence.",
+      "next_test": "Seek a securely corresponding text/work sequence or original physical/quire feature. Retain source-photo gaps and section/composite alternatives; generic genre/layout alone cannot adjudicate the book."
+    },
+    {
+      "lead_id": "pair-0809cb8978faf1329cbc",
+      "pair": [
+        "mpo-25173",
+        "mpo-25592"
+      ],
+      "comparison_scope": "Initial direct comparison of selected surviving text/service and copying-field context; no full diagnostic variant collation or historical book adjudication.",
+      "contexts": {
+        "mpo-25173": {
+          "columns_visible": 1,
+          "context": "One broad notated field, with an off.-like rubric and Exultabunt-sancti candidate opening; no complete gradual inventory.",
+          "regions": [
+            "I53-25173-offertory"
+          ],
+          "full_manifest_photo_coverage": true
+        },
+        "mpo-25592": {
+          "columns_visible": 2,
+          "context": "Notated hymn openings followed by continuous stanzas; A-patre-unigenitus cue and a Jesu-redemptor/verbum-patris candidate distinct from the selected10349 hymn.",
+          "regions": [
+            "I53-25592-jesu",
+            "I53-25592-a-patre",
+            "I53-25592-hymn-blocks"
+          ],
+          "full_manifest_photo_coverage": true
+        }
+      },
+      "source_regions": [
+        "I53-25173-offertory",
+        "I53-25592-jesu",
+        "I53-25592-a-patre",
+        "I53-25592-hymn-blocks"
+      ],
+      "visible_field_counts": [
+        1,
+        2
+      ],
+      "local_field_design_difference": true,
+      "unchanged_uniform_template_challenged": true,
+      "complete_source_photo_coverage": true,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "hymn_comparison": null,
+      "complete_corresponding_diagnostic_work_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "Different sections, copying changes and composite volumes remain alternatives. Equal column counts or standard liturgical text are compatibility only. Incomplete photo/text coverage is not evidence of absence.",
+      "next_test": "Seek a securely corresponding text/work sequence or original physical/quire feature. Retain source-photo gaps and section/composite alternatives; generic genre/layout alone cannot adjudicate the book."
+    }
+  ],
+  "source_controls": {
+    "published_Beauvais": [
+      "fragmentarium-F-5der",
+      "fragmentarium-F-5uba"
+    ],
+    "source_described_codex434": [
+      "mpo-2863",
+      "mpo-2864"
+    ],
+    "references": [
+      "research/continuation_43/memberships.json",
+      "research/continuation_48/source_rows.json",
+      "research/continuation_50/results.json"
+    ]
+  },
+  "scope": "All eight selected existing edges; controls and source assertions remain attributed separately."
+}

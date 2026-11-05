@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-10-31",
+    "url": "https://museo.disec.fi/Yksa4/download/160988864803200/file/9fb4ab7a-5c70-4aed-8f38-2c44936e2c6d?filename=TMM23245-3_a.tif",
+    "saved": false,
+    "bytes_received": 0,
+    "retry": false,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>; stopped without retry or alternate resolution",
+    "elapsed_seconds": 0.2
+  },
+  {
+    "date": "2026-10-31",
+    "url": "https://museo.disec.fi/Yksa4/download/160988864803200/file/7be66b37-7f26-4934-a235-cc9e786eb8a9?filename=TMM23245-3_b.tif",
+    "saved": false,
+    "bytes_received": 0,
+    "retry": false,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>; stopped without retry or alternate resolution",
+    "elapsed_seconds": 0.133
+  }
+]

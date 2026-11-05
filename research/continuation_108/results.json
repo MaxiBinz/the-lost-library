@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-04",
+  "combined": {
+    "path": "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx",
+    "sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+    "sheet": "Sheet1"
+  },
+  "raw": {
+    "path": "research/continuation_26/bompac/raw_metadata/MPO_BOMPAC.xlsx",
+    "sha256": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9",
+    "sheet": "Blad1"
+  },
+  "scope": "Included MPO rows; exact numeric fragment ID and Fr reference; exactly one raw workbook match; both rows included; raw and combined 1 or 2 for the comparison matrix.",
+  "mpo_leaves_vs_columns": {
+    "included_mpo_rows": 22553,
+    "both_numeric": 22248,
+    "equal": 22248,
+    "different": 0,
+    "at_least_one_nonnumeric_or_blank": 305
+  },
+  "fm_leaves_vs_columns": {
+    "both_numeric": 5289,
+    "equal": 3364,
+    "different": 1925
+  },
+  "raw_columns_vs_combined": {
+    "eligible_rows": 14415,
+    "raw_2_combined_2": 7894,
+    "raw_2_combined_1": 3783,
+    "raw_1_combined_2": 1815,
+    "outside_numeric_1_2_subset": 8138,
+    "raw_1_combined_1": 923
+  },
+  "examples": {
+    "607": {
+      "combined_row": 609,
+      "combined_values": {
+        "Fr_number": 607,
+        "Fr_reference": "Fr 607",
+        "Database": "MPO",
+        "No_of_leaves": 2,
+        "Columns": 2,
+        "Row_exclusion": "Include row"
+      },
+      "combined_cells": {
+        "Fr_number": "B609",
+        "Fr_reference": "C609",
+        "Database": "L609",
+        "No_of_leaves": "H609",
+        "Columns": "AS609",
+        "Row_exclusion": "BO609"
+      },
+      "raw_row": 609,
+      "raw_values": {
+        "fragment_id": 607,
+        "spaltenzahl": 1,
+        "leaves": 2,
+        "Row_exclusion": "Include row"
+      },
+      "raw_cells": {
+        "fragment_id": "D609",
+        "spaltenzahl": "EI609",
+        "leaves": "J609",
+        "Row_exclusion": "FB609"
+      }
+    },
+    "8994": {
+      "combined_row": 8994,
+      "combined_values": {
+        "Fr_number": 8994,
+        "Fr_reference": "Fr 8994",
+        "Database": "MPO",
+        "No_of_leaves": 1,
+        "Columns": 1,
+        "Row_exclusion": "Include row"
+      },
+      "combined_cells": {
+        "Fr_number": "B8994",
+        "Fr_reference": "C8994",
+        "Database": "L8994",
+        "No_of_leaves": "H8994",
+        "Columns": "AS8994",
+        "Row_exclusion": "BO8994"
+      },
+      "raw_row": 8994,
+      "raw_values": {
+        "fragment_id": 8994,
+        "spaltenzahl": 1,
+        "leaves": 1,
+        "Row_exclusion": "Include row"
+      },
+      "raw_cells": {
+        "fragment_id": "D8994",
+        "spaltenzahl": "EI8994",
+        "leaves": "J8994",
+        "Row_exclusion": "FB8994"
+      }
+    },
+    "25592": {
+      "combined_row": 17427,
+      "combined_values": {
+        "Fr_number": 25592,
+        "Fr_reference": "Fr 25592",
+        "Database": "MPO",
+        "No_of_leaves": 1,
+        "Columns": 1,
+        "Row_exclusion": "Include row"
+      },
+      "combined_cells": {
+        "Fr_number": "B17427",
+        "Fr_reference": "C17427",
+        "Database": "L17427",
+        "No_of_leaves": "H17427",
+        "Columns": "AS17427",
+        "Row_exclusion": "BO17427"
+      },
+      "raw_row": 17427,
+      "raw_values": {
+        "fragment_id": 25592,
+        "spaltenzahl": 2,
+        "leaves": 1,
+        "Row_exclusion": "Include row"
+      },
+      "raw_cells": {
+        "fragment_id": "D17427",
+        "spaltenzahl": "EI17427",
+        "leaves": "J17427",
+        "Row_exclusion": "FB17427"
+      }
+    }
+  },
+  "limits": "Field consistency is not physical validation, a confirmed cause, current-release verification, first notice or an assessment of every fragment."
+}

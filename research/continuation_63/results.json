@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-01",
+  "source_regions": ["I63-iv173-dignare", "I63-1385-dabit"],
+  "reused_control_regions": ["C20-D-8201", "C20-D-8304"],
+  "target_observation": "Selected D initials in IV.173 and Fr 1385 show red stems and pale fields; the IV.173 D has visible red interior marks. The Fr 1385 photograph is too small for a reliable comparison of fine detail or exact mark count.",
+  "control_result": "The literature-backed Fr 8201/8304 different-book pair also has D initials combining red stems and pale fields with ornamental marks. This counterexample means these broad features cannot establish one book. It does not prove that the IV.173/Fr 1385 pair are different books.",
+  "positive_control_limitation": "Fr 1385 and Fr 20274 are assigned to the published IV.157/Ant 99 reconstruction. The two retained Fr 20274 views do not supply a comparably decorated D for this test; this is not a claim about the complete manuscript. Fr 29666, the stated IV.173 same-book comparator, has no local image.",
+  "selection_limit": "Unblinded, post-exposure, selected examples; unmatched exact chant roles and image quality; no population prevalence, discriminating accuracy or hand identification estimated.",
+  "same_book_proved": false,
+  "different_book_proved": false,
+  "common_hand_proved": false,
+  "feature_uniqueness_proved": false,
+  "new_historical_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0,
+  "next_test": "Inspect a normally obtainable higher-resolution Fr 1385 image and a role-matched D from source-documented same-book comparators; prioritize original signatures, page succession or another independent physical/textual discriminator. Do not retry the failed request without a genuinely changed access condition."
+}

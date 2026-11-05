@@ -1,0 +1,137 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I58-8311-1-bottom",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The bottom line provisionally reads Vocem tuam audivi in paradiso et; the image cuts off below it.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,300,800,221"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00001/full/800,/0/default.jpg",
+      "sha256": "d7eebea8a22ecaa05a9ff9d27626acd6fd878b80282611f1ca37fd6b773801e8",
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "observer": "Codex AI; unblinded, 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Selected text is provisional and incomplete.",
+        "Text continuity does not prove photographic overlap or medieval surface identity."
+      ]
+    },
+    {
+      "id": "I58-8311-2-top",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The upper line is damaged and partly covered; timui eo quod nudus [essem] is a tentative continuation candidate. No matching ink has been demonstrated across the two photos.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,0,1000,240"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00002/full/1000,/0/default.jpg",
+      "sha256": "e3b1eba2064492294fa6f75ec6087bbacedd6a636572cf6cfe2ce43e561b46c5",
+      "image_dimensions": [
+        1000,
+        639
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "observer": "Codex AI; unblinded, 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Selected text is provisional and incomplete.",
+        "Text continuity does not prove photographic overlap or medieval surface identity."
+      ]
+    },
+    {
+      "id": "I58-8311-3-bottom",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The lower line provisionally ends with the words et dixit ad eum quid fe...; the edge is cropped or occluded.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,430,1000,233"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00003/full/1000,/0/default.jpg",
+      "sha256": "e65493d56b027bfab469905a67eaffeaac32e9231b32f169c51c481e2ffea232",
+      "image_dimensions": [
+        1000,
+        663
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "observer": "Codex AI; unblinded, 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Selected text is provisional and incomplete.",
+        "Text continuity does not prove photographic overlap or medieval surface identity."
+      ]
+    },
+    {
+      "id": "I58-8311-4-top",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The upper writing is partly occluded. Later visible text reads ad me de terra, followed by a decorated Maledicta verse. It is compatible with the earlier Abel passage, but matching ink has not been demonstrated across the photos.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=0,0,1000,240"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00004/full/1000,/0/default.jpg",
+      "sha256": "f95e8acdcd9e812103976bcb84020aca788388d92913c58cce2fa0aed684d818",
+      "image_dimensions": [
+        1000,
+        656
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "observer": "Codex AI; unblinded, 2026-11-01",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Selected text is provisional and incomplete.",
+        "Text continuity does not prove photographic overlap or medieval surface identity."
+      ]
+    }
+  ]
+}

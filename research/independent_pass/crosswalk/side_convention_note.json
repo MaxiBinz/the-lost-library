@@ -1,0 +1,58 @@
+{
+  "assessment_date": "2026-10-22",
+  "question": "Do MPO/CCM1r/1v labels identify the original medieval book sides, or the present detached fragment/wrapper sides?",
+  "official_mpo_ccm_definition_located": false,
+  "bounded_search": {
+    "targeted_queries_used": 2,
+    "queries": [
+      "site:riksarkivet.se \"pergamentomslag\" \"recto\"",
+      "\"Medeltida pergamentomslag\" \"verso\" \"sida\""
+    ],
+    "result": "No authoritative MPO/CCM side-convention definition located in returned results.",
+    "excluded_result": {
+      "url": "https://dokumen.pub/handskriftens-materialitet-studier-i-den-fornsvenska-samlingshandskriften-fru-elins-bok-codex-holmiensis-d-3-9789150626339.html",
+      "reason": "Unofficial mirror concerning another manuscript; not authoritative evidence for MPO cataloguing conventions."
+    },
+    "limit": "This bounded failure does not establish that no official definition exists."
+  },
+  "cached_sources_checked": [
+    "research/sweden_codicum.md",
+    "research/goal_validation_audit.md",
+    "research/metadata_audit.ipynb",
+    "research/mpo_profile.json",
+    "research/independent_pass/methods/methods.md"
+  ],
+  "documented_general_method": {
+    "author": "William Duba",
+    "title": "Finding the Prior Leaf: Manuscript Fragments and Original Codices",
+    "year": 2023,
+    "url": "https://www.fragmentology.ms/article/view/4499",
+    "doi": "10.24446/j9en",
+    "official_full_issue_url": "https://fragmentarium.ms/uploads/descriptions/F-u1fn/62301/Fragmentology_6_FullIssue.pdf",
+    "printed_page": 7,
+    "pdf_page": 9,
+    "cached_pdf_path": "research/independent_pass/methods/fragmentology6-private.pdf",
+    "cached_pdf_sha256": "daa2a0a3ecebfeb40788a64f0313079ad8379612db565889fbb4e5772c7009af",
+    "inspection": "Relevant paragraph extracted and complete page visually inspected in newly rendered local preview; no new PDF download.",
+    "paraphrase": "Fragment numbers and recto/verso can be assigned according to present in-situ or detached-fragment order. Such naming need not reproduce the original codex reading order.",
+    "applicability_limit": "A general explanation of fragment description is not proof of the convention used by MPO, CCM or a particular record."
+  },
+  "observed_source_assertions": {
+    "mpo_fr10370": "The pinned record labels k as1r andII as1v.",
+    "finnish_iv156_157_173": "The indexed institutional descriptions put lowercase opening letters on medieval verso and Roman numerals on recto.",
+    "image_observations_in_this_note": "No new Fr10370 image adjudication; parent separately reported a k-like mark on image3 andII-like mark on image1."
+  },
+  "unresolved_points": [
+    "Whether MPO r/v denotes medieval book orientation, detached-leaf orientation, wrapper orientation, or another descriptive convention.",
+    "Whether convention is uniform across all MPO records and source cataloguing layers.",
+    "Whether the particular Fr10370 record transcribes tokens and assigns its descriptive sides correctly.",
+    "How intrinsic Latin text succession and both real surfaces establish medieval reading orientation."
+  ],
+  "conclusion": "The difference remains a conditional orientation question. No MPO catalogue error, reversed original leaf or wrong-book identity has been established.",
+  "recommended_wording": "The MPO side labels and Finnish medieval-side convention give opposite token patterns if interpreted as the same convention; whether that interpretation is valid remains unresolved.",
+  "next_evidence": "Prefer a specific MPO/CCM cataloguing rule or the actual text succession across both surfaces over assuming provider r/v equals medieval recto/verso.",
+  "new_web_requests_beyond_two_queries": 0,
+  "new_image_or_pdf_downloads": 0,
+  "external_contact": false,
+  "frozen_queue_changed": false
+}

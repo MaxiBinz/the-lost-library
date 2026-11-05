@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "primary": "Nine exact painting-image URLs from saved official Riksarkivet manifests8066/9620 were acquired successfully as JPEGs with matching declared dimensions. PDM rights come from each manifest's Rights metadata. No endpoint was invented and no failed route was retried. See captures.json and download_receipts.json.",
+  "catalogue": "Pinned research/mpo.csv and unchanged data/fragments.json. Both records say Antiphonarium. The9620 hy reference is an item/incipit assertion, not a demonstrated hymn-book genre.",
+  "prior_exposure": "Catalogue notes and H06's published rejection were known before source inspection. All six first-capture originals and nine new native originals were inspected before the new chant-reference query. Literal candidates are exploratory AI readings, not blind or independent evidence.",
+  "references": [
+    {
+      "url": "https://cavet.irht.cnrs.fr/en/cavet/notice/15158",
+      "title": "IRHT/CAVET, In dedicatione templi",
+      "read_scope": "Search-indexed text identifies a responsory and supplies the text/CAO6897 with multiple witnesses. Direct open returned Cache miss; no full page or source manuscript was inspected.",
+      "limit": "Reference context only; no local chant ID, service position or unique witness assignment follows. No retry."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/207352/",
+      "title": "Cantus Database, Terribilis est locus iste non, F-CA Impr. XVI C4,091v",
+      "read_scope": "Search-indexed entry/adjacent chant list includes O quam metuendus as a Matins responsory in that other witness. Direct open returned Cache miss; no source image inspected.",
+      "limit": "The other witness's genre/position is not imported into9620. No local Cantus ID or complete office position is accepted from this reference. No retry."
+    },
+    {
+      "url": "https://doi.org/10.25167/ls.4818",
+      "title": "Grajewski2022, previously read p.293 comparison",
+      "read_scope": "Existing frozen H06/H07 source assessment retained; no new full-article reading or original-object examination in E44.",
+      "limit": "8201/8304 remains the published negative and8201/20106 the literature-supported positive. The missing20106 image is not supplied or inferred."
+    },
+    {
+      "url": "https://cantusdatabase.org/chant/328002/",
+      "title": "Cantus Database, Urbs beata, adjacent Dedication list",
+      "read_scope": "Search-indexed surrounding list includes Hoc in templo as008405:07 in more than one office position and O quam metuendus as004065 in that other witness. Direct open returned Cache miss; no full page or original inspected.",
+      "limit": "Candidate reference only; no retry, local ID or transferred service assignment."
+    },
+    {
+      "url": "https://gams.uni-graz.at/o:cantus.seckau3/sdef:TEI/get?locale=en&mode=view:structure",
+      "title": "Cantus Network, LO Seckau(SE3), structured edition, section125",
+      "read_scope": "Direct web-reader text read at section125.1-125.4 and125.6/125.8-125.9. Distinguishes the short hymn cue and multiple office uses in the edited other witness. No original manuscript image or entire edition read.",
+      "limit": "A comparison of liturgical usage, not proof of a local service position, tradition, codex or new discovery. It assisted the v2 rubric revision; v1 is preserved."
+    }
+  ],
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "revision_provenance": "The v1 source inspection preceded chant-reference search; v2 revises the short rubric to Hoc i[n?] templo after reference exposure and raw-image reinspection. No independent reading is claimed."
+}

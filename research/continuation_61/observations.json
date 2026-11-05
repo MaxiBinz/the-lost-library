@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I61-10370-gloriosa",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Damaged, partially erased lower-field passage, provisionally Gloriosa diei huius sollempnia and later caelos meruit a[...], consistent with responsory 006779. It does not establish the lost end of the writing or original page boundary.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-4-1742px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=290,10,900,690"
+        }
+      },
+      "fragment_id": "mpo-10370",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00004/full/1742,/0/default.jpg",
+      "sha256": "2f2d35bf4253989714fda7877403a48bc4cd58bffa2e893469968546a9c1594f",
+      "image_dimensions": [
+        1742,
+        1219
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "Gloriosa diei [...] sollempnia deuota celebremus [...] qua beata maria [...] celos meruit a[...]",
+      "observer": "Codex AI, unblinded and reference-assisted, 2026-11-01; model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Reading is provisional, selected and incomplete; erasure prevents a complete terminal transcription.",
+        "Capture order does not establish original side, physical adjacency or a complete surface."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+Browser tab: 6, Title: "Alvin - C 23 - Rimofficier", URL: "https://www.alvin-portal.org/alvin/imageViewer.jsf?dsId=ATTACHMENT-0001&pid=alvin-record%3A160517&dswid=7043".
+0 AXWebArea Alvin - C 23 - Rimofficier, URL: alvin-portal.org/alvin/imageViewer.jsf
+	1 container
+		2 container wrapper
+			3 container top_cntrl
+				4 link Description: ALVIN, Value: alvin-portal.org/alvin/home.jsf
+				5 link Description: Ladda ner , Value: alvin-portal.org/alvin/attachment/downl…, ID: download_link
+				6 text Länk till bilden 
+				7 container msg_controls
+					8 link Value: alvin-portal.org/alvin/imageViewer.jsf, ID: j_idt32
+					9 container
+						10 text field (settable) Value: 139, ID: index_input
+						11 text  of 413
+					12 link Value: alvin-portal.org/alvin/imageViewer.jsf, ID: j_idt38
+				13 link Description: Om Alvin , Value: alvin-portal.org/info/sv/start.html, ID: about
+				14 text |
+				15 link Description:  Upphovsrätt, Value: alvin-portal.org/info/sv/upphovsratt.ht…, ID: copyright
+			16 container alvinForm
+				17 container viewer
+					18 button toggler_button
+						19 image
+					20 container
+						21 heading IIPMooViewer, Value: 2
+							22 link iipimage.sourceforge.net/
+							23 text IIPMooViewer
+						24 text IIPImage HTML5 High Resolution Image Viewer - Version 2.0
+						25 content list
+							26 container
+								27 AXListMarker • 
+								28 text To navigate within image: drag image within main window or drag zone within the navigation window or click an area within navigation window
+							29 container
+								30 AXListMarker • 
+								31 text To zoom in: double click or use the mouse scroll wheel or simply press the "+" key
+							32 container
+								33 AXListMarker • 
+								34 text To zoom out: shift double click or use the mouse wheel or press the "-" key
+							35 container
+								36 AXListMarker • 
+								37 text To rotate image clockwise: press the "r" key, anti-clockwise: press shift and "r"
+							38 container
+								39 AXListMarker • 
+								40 text For fullscreen: press the "f" key
+							41 container
+								42 AXListMarker • 
+								43 text To toggle any annotations: press the "a" key
+							44 container
+								45 AXListMarker • 
+								46 text To show/hide navigation window: press "h" key
+						47 text For more information visit 
+						48 link Description: http://iipimage.sourceforge.net, Value: iipimage.sourceforge.net/
+					49 image
+					519 text Folio 69r (C 23 - Rimofficier)
+					51 container
+						52 image Rotate left
+						53 image Rotate right
+						54 image Zoom In
+						55 image Zoom Out
+				56 container alvinForm:tab_view
+					57 tab group
+						58 tab (selectable, collapsed, settable, boolean) Om, Secondary Actions: Expand, Value: 0
+Om
+						59 tab (selected, expanded, settable, boolean) Tumnaglar, Secondary Actions: Collapse, Value: 1
+Tumnaglar
+					60 content list
+						61 container Description: C 23 - Rimofficier, ID: alvinForm:tab_view:j_idt892:0:j_idt893
+							62 button C 23 - Rimofficier
+							63 container alvinForm:tab_view:j_idt892:0:thumbnailsGrid
+								64 container Description: Pagination, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid_paginator_top
+									292 link Description: First Page, Value: alvin-portal.org/alvin/imageViewer.jsf
+									293 link Description: Previous Page, Value: alvin-portal.org/alvin/imageViewer.jsf
+									65 link Description: Next Page, Value: alvin-portal.org/alvin/imageViewer.jsf
+									66 link Description: Last Page, Value: alvin-portal.org/alvin/imageViewer.jsf
+									294 text 101 - 200 av 413
+								295 table
+									296 row
+										297 cell
+											298 link Description: thumbnail Folio 50r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:100:j_idt894
+										299 cell
+											300 link Description: thumbnail Folio 50v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:101:j_idt894
+										301 cell
+											302 link Description: thumbnail Folio 51r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:102:j_idt894
+										303 cell
+											304 link Description: thumbnail Folio 51v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:103:j_idt894
+										305 cell
+											306 link Description: thumbnail Folio 52r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:104:j_idt894
+									307 row
+										308 cell
+											309 link Description: thumbnail Folio 52v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:105:j_idt894
+										310 cell
+											311 link Description: thumbnail Folio 53r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:106:j_idt894
+										312 cell
+											313 link Description: thumbnail Folio 53v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:107:j_idt894
+										314 cell
+											315 link Description: thumbnail Folio 54r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:108:j_idt894
+										316 cell
+											317 link Description: thumbnail Folio 54v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:109:j_idt894
+									318 row
+										319 cell
+											320 link Description: thumbnail Folio 55r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:110:j_idt894
+										321 cell
+											322 link Description: thumbnail Folio 55v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:111:j_idt894
+										323 cell
+											324 link Description: thumbnail Folio 56r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:112:j_idt894
+										325 cell
+											326 link Description: thumbnail Folio 56v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:113:j_idt894
+										327 cell
+											328 link Description: thumbnail Folio 57r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:114:j_idt894
+									329 row
+										330 cell
+											331 link Description: thumbnail Folio 57v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:115:j_idt894
+										332 cell
+											333 link Description: thumbnail Folio 58r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:116:j_idt894
+										334 cell
+											335 link Description: thumbnail Folio 58v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:117:j_idt894
+										336 cell
+											337 link Description: thumbnail Folio 59r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:118:j_idt894
+										338 cell
+											339 link Description: thumbnail Folio 59v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:119:j_idt894
+									340 row
+										341 cell
+											342 link Description: thumbnail Folio 60r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:120:j_idt894
+										343 cell
+											344 link Description: thumbnail Folio 60v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:121:j_idt894
+										345 cell
+											346 link Description: thumbnail Folio 61r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:122:j_idt894
+										347 cell
+											348 link Description: thumbnail Folio 61v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:123:j_idt894
+										349 cell
+											350 link Description: thumbnail Folio 62r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:124:j_idt894
+									351 row
+										352 cell
+											353 link Description: thumbnail Folio 62v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:125:j_idt894
+										354 cell
+											355 link Description: thumbnail Folio 63r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:126:j_idt894
+										356 cell
+											357 link Description: thumbnail Folio 63v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:127:j_idt894
+										358 cell
+											359 link Description: thumbnail Folio 64r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:128:j_idt894
+										360 cell
+											361 link Description: thumbnail Folio 64v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:129:j_idt894
+									362 row
+										363 cell
+											364 link Description: thumbnail Folio 65r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:130:j_idt894
+										365 cell
+											366 link Description: thumbnail Folio 65v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:131:j_idt894
+										367 cell
+											368 link Description: thumbnail Folio 66r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:132:j_idt894
+										369 cell
+											370 link Description: thumbnail Folio 66v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:133:j_idt894
+										371 cell
+											372 link Description: thumbnail Folio 67r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:134:j_idt894
+									373 row
+										374 cell
+											375 link Description: thumbnail Folio 67v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:135:j_idt894
+										376 cell
+											377 link Description: thumbnail Folio 68r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:136:j_idt894
+										378 cell
+											379 link Description: thumbnail Folio 68v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:137:j_idt894
+										380 cell
+											381 link Description: thumbnail Folio 69r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:138:j_idt894
+										382 cell
+											383 link Description: thumbnail Folio 69v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:139:j_idt894
+									384 row
+										385 cell
+											386 link Description: thumbnail Folio 70r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:140:j_idt894
+										387 cell
+											388 link Description: thumbnail Folio 70v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:141:j_idt894
+										389 cell
+											390 link Description: thumbnail Folio 71r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:142:j_idt894
+										391 cell
+											392 link Description: thumbnail Folio 71v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:143:j_idt894
+										393 cell
+											394 link Description: thumbnail Folio 72r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:144:j_idt894
+									395 row
+										396 cell
+											397 link Description: thumbnail Folio 72v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:145:j_idt894
+										398 cell
+											399 link Description: thumbnail Folio 73r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:146:j_idt894
+										400 cell
+											401 link Description: thumbnail Folio 73v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:147:j_idt894
+										402 cell
+											403 link Description: thumbnail Folio 74r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:148:j_idt894
+										404 cell
+											405 link Description: thumbnail Folio 74v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:149:j_idt894
+									406 row
+										407 cell
+											408 link Description: thumbnail Folio 75r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:150:j_idt894
+										409 cell
+											410 link Description: thumbnail Folio 75v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:151:j_idt894
+										411 cell
+											412 link Description: thumbnail Folio 76r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:152:j_idt894
+										413 cell
+											414 link Description: thumbnail Folio 76v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:153:j_idt894
+										415 cell
+											416 link Description: thumbnail Folio 77r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:154:j_idt894
+									417 row
+										418 cell
+											419 link Description: thumbnail Folio 77v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:155:j_idt894
+										420 cell
+											421 link Description: thumbnail Folio 78r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:156:j_idt894
+										422 cell
+											423 link Description: thumbnail Folio 78v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:157:j_idt894
+										424 cell
+											425 link Description: thumbnail Folio 79r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:158:j_idt894
+										426 cell
+											427 link Description: thumbnail Folio 79v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:159:j_idt894
+									428 row
+										429 cell
+											430 link Description: thumbnail Folio 80r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:160:j_idt894
+										431 cell
+											432 link Description: thumbnail Folio 80v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:161:j_idt894
+										433 cell
+											434 link Description: thumbnail Folio 81r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:162:j_idt894
+										435 cell
+											436 link Description: thumbnail Folio 81v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:163:j_idt894
+										437 cell
+											438 link Description: thumbnail Folio 82r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:164:j_idt894
+									439 row
+										440 cell
+											441 link Description: thumbnail Folio 82v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:165:j_idt894
+										442 cell
+											443 link Description: thumbnail Folio 83r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:166:j_idt894
+										444 cell
+											445 link Description: thumbnail Folio 83v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:167:j_idt894
+										446 cell
+											447 link Description: thumbnail Folio 84r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:168:j_idt894
+										448 cell
+											449 link Description: thumbnail Folio 84v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:169:j_idt894
+									450 row
+										451 cell
+											452 link Description: thumbnail Folio 85r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:170:j_idt894
+										453 cell
+											454 link Description: thumbnail Folio 85v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:171:j_idt894
+										455 cell
+											456 link Description: thumbnail Folio 86r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:172:j_idt894
+										457 cell
+											458 link Description: thumbnail Folio 86v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:173:j_idt894
+										459 cell
+											460 link Description: thumbnail Folio 87r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:174:j_idt894
+									461 row
+										462 cell
+											463 link Description: thumbnail Folio 87v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:175:j_idt894
+										464 cell
+											465 link Description: thumbnail Folio 88r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:176:j_idt894
+										466 cell
+											467 link Description: thumbnail Folio 88v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:177:j_idt894
+										468 cell
+											469 link Description: thumbnail Folio 89r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:178:j_idt894
+										470 cell
+											471 link Description: thumbnail Folio 89v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:179:j_idt894
+									472 row
+										473 cell
+											474 link Description: thumbnail Folio 90r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:180:j_idt894
+										475 cell
+											476 link Description: thumbnail Folio 90v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:181:j_idt894
+										477 cell
+											478 link Description: thumbnail Folio 91r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:182:j_idt894
+										479 cell
+											480 link Description: thumbnail Folio 91v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:183:j_idt894
+										481 cell
+											482 link Description: thumbnail Folio 92r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:184:j_idt894
+									483 row
+										484 cell
+											485 link Description: thumbnail Folio 92v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:185:j_idt894
+										486 cell
+											487 link Description: thumbnail Folio 93r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:186:j_idt894
+										488 cell
+											489 link Description: thumbnail Folio 93v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:187:j_idt894
+										490 cell
+											491 link Description: thumbnail Folio 93a_r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:188:j_idt894
+										492 cell
+											493 link Description: thumbnail Folio 93a_v, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:189:j_idt894
+									494 row
+										495 cell
+											496 link Description: thumbnail Folio 94r, Value: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:190:j_idt894
+										497 cell
+											498 link Description: thumbnail Folio 94v, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:191:j_idt894
+										499 cell
+											500 link Description: thumbnail Folio 95r, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:192:j_idt894
+										501 cell
+											502 link Description: thumbnail Folio 95v, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:193:j_idt894
+										503 cell
+											504 link Description: thumbnail Folio 96r, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:194:j_idt894
+									505 row
+										506 cell
+											507 link Description: thumbnail Folio 96v, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:195:j_idt894
+										508 cell
+											509 link Description: thumbnail Folio 97r, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:196:j_idt894
+										510 cell
+											511 link Description: thumbnail Folio 97v, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:197:j_idt894
+										512 cell
+											513 link Description: thumbnail Folio 98r, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:198:j_idt894
+										514 cell
+											515 link Description: thumbnail Folio 98v, Value: …, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:199:j_idt894
+								289 container Description: Pagination, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid_paginator_bottom
+									516 link Description: First Page, Value: …
+									517 link Description: Previous Page, Value: …
+									290 link Description: Next Page, Value: …
+									291 link Description: Last Page, Value: …
+									518 text 101 - 200 av 413
+
+The focused UI element is 381 link Description: thumbnail Folio 69r, URL: alvin-portal.org/alvin/imageViewer.jsf, ID: alvinForm:tab_view:j_idt892:0:thumbnailsGrid:138:j_idt894

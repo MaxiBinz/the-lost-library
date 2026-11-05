@@ -1,0 +1,84 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "selected_existing_leads": [
+    "pair-da6e424935de87380cab",
+    "pair-b9c7f92d84cc017ba48c",
+    "pair-41bdbdc443d5b9b42678",
+    "pair-8f3a072d37ac0a71a565",
+    "pair-00f7a4ed7b39e57ed29e",
+    "pair-89949f510ea367ba8a23",
+    "pair-40a423101854019bb578",
+    "pair-c92d0fefbd71465ce0fb",
+    "pair-920b9d36ad1deef7511a",
+    "pair-7958393ae77f4c1164b7",
+    "pair-f106d472d279f60545ae",
+    "pair-dd801424ce2ad9ecda18",
+    "pair-2bcf84be6d1c5ab3e8b1"
+  ],
+  "pair_comparisons_recorded": 13,
+  "new_source_regions": [
+    "I52-8072-invitatory",
+    "I52-8072-veni",
+    "I52-8073-magnificat-rubric",
+    "I52-8073-unnotated-verses",
+    "I52-8072-veni-response",
+    "I52-8072-native-rules",
+    "I52-8073-native-rules"
+  ],
+  "prior_rule_regions_reused": [
+    "I44-8066-rules",
+    "I44-9620-rules",
+    "I44-8201-control-rules",
+    "I44-8304-control-rules",
+    "I44-8072-control-rules",
+    "I44-8073-control-rules"
+  ],
+  "candidate_chant_identifications": [
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-invitatory",
+      "cantus_id": "001151",
+      "confidence_word": "candidate",
+      "limit": "Only Regem virginum and the invitatory rubric securely read here; full incipit variants and local service position not completely collated."
+    },
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-veni",
+      "cantus_id": "005328",
+      "confidence_word": "candidate",
+      "limit": "The shorter in-eternum ending supports the antiphon candidate; no complete diplomatic/music edition or local precise liturgical position."
+    },
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-veni-response",
+      "cantus_id": "007828",
+      "confidence_word": "candidate",
+      "limit": "Longer pro-cuius-amore/sanguinem continuation supports responsory candidate; no complete pitch transcription or unique tradition attribution."
+    }
+  ],
+  "direct_result": "24 distinct source photo views of the six existing Ant49 objects were inspected. The13 previously source-only group edges now have limited direct context/layout comparisons. Five-rule/broad-field resemblance also occurs in the known wrong pair and cannot assign membership.8072 repeats Veni sponsa with two different continuations/settings;8073 has a Magnificat antiphon rubric alongside continuous verse blocks.",
+  "interpretation": "Neither shared general layout nor different liturgical sections provides a new same-book or different-book result. The two8072 settings provisionally fit known antiphon/responsory works, so matching an incipit is insufficient before function/context is established. All13 historical decisions remain unresolved.",
+  "source_photo_views_inspected": 24,
+  "new_source_files": 6,
+  "confirmed_successful_transfer_bytes": 1896527,
+  "logged_transfer_bytes": 1896527,
+  "working_source_files_after": 200,
+  "conservative_transfer_plan_after": 1673000850,
+  "all_planned_group_photo_views_inspected": false,
+  "primary_group_test_completed": false,
+  "missing_view": "8072 capture3 timed out and remains unseen;8073 capture1 native timed out, but its retained800px thumbnail was inspected. Neither URL was retried.",
+  "primary_pair_tests_still_pending": 16,
+  "initial_primary_comparisons_recorded": 13,
+  "historical_adjudication_complete": false,
+  "full_diplomatic_or_music_collation_completed": false,
+  "new_codex_attribution": false,
+  "new_historical_exclusion": false,
+  "new_catalogue_correction": false,
+  "novelty_cleared": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "goal_complete": false,
+  "global_blocker_established": false,
+  "next_test": "Proceed to the16 existing pairs without an initial direct comparison. For Ant49, stop generic layout comparisons; further discrimination needs exact corresponding work/service or physical/quire evidence. Detailed8073 work identification and the missing20106 source remain separate actionable lines; do not repeat failed image/record routes."
+}

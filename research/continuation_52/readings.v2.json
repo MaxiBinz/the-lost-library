@@ -1,0 +1,111 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-30",
+  "stage": "After initial reference lookup; exact literal source readings retained, two occurrence contexts distinguished",
+  "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+  "new_reading_candidates": [
+    {
+      "id": "I52-8072-invitatory",
+      "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+      "xywh": [
+        520,
+        220,
+        850,
+        170
+      ],
+      "literal": "[Invi]tatorium / Regem virginum [...]",
+      "normalized": null,
+      "body": "A red invitatory rubric and Regem virginum opening are visible near the top of the source. The incomplete remainder is not restored; this is a selected local service/work cue, not a whole-office collation or identity fingerprint."
+    },
+    {
+      "id": "I52-8072-veni",
+      "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+      "xywh": [
+        290,
+        370,
+        1080,
+        300
+      ],
+      "literal": "Veni sponsa [...] accipe coronam quam tibi / dominus preparauit in eternum",
+      "normalized": null,
+      "body": "The visible Veni sponsa phrase leads into accipe coronam quam tibi and dominus preparauit in eternum. The abbreviated Christ-name is not silently expanded in the literal candidate. A common liturgical item cannot identify one book."
+    },
+    {
+      "id": "I52-8073-magnificat-rubric",
+      "path": "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+      "xywh": [
+        830,
+        450,
+        680,
+        110
+      ],
+      "literal": "Super magnificat antiphona",
+      "normalized": null,
+      "body": "A red rubric is provisionally read Super magnificat antiphona above a large red F and notated text. The rubric supplies local antiphon context alongside continuous verse blocks; the whole book is not classified from a single block."
+    },
+    {
+      "id": "I52-8073-unnotated-verses",
+      "path": "research/continuation_52/images/Fr8073-capture-4-native.jpg",
+      "xywh": [
+        365,
+        240,
+        1110,
+        430
+      ],
+      "literal": null,
+      "normalized": null,
+      "body": "Below the notated line, successive verse-like text blocks with coloured initials occupy continuous red text ruling without music staves over each line. The exact complete hymn readings are untranscribed. Mixed notated/unnotated layout does not imply a separate codex or whole-book genre."
+    },
+    {
+      "id": "I52-8072-veni-response",
+      "path": "research/continuation_52/images/Fr8072-capture-2-native.jpg",
+      "xywh": [
+        240,
+        80,
+        1160,
+        500
+      ],
+      "literal": "Veni sponsa [...] accipe coro- / nam quam tibi dominus preparauit pro cui- / us amore sanguinem tuum fudisti. Et / cum angelis [...] in paradysum intro[...]",
+      "normalized": null,
+      "body": "A second Veni sponsa occurrence is visible with a longer pro cuius amore/sanguinem continuation and different notational elaboration from the earlier in-eternum ending. Candidate distinction: antiphon005328 versus responsory007828, reference-assisted and with exact local position/melody unadjudicated. A shared incipit is not automatically the same chant item."
+    }
+  ],
+  "prior_rule_observations_reused": [
+    "I44-8066-rules",
+    "I44-9620-rules",
+    "I44-8201-control-rules",
+    "I44-8304-control-rules",
+    "I44-8072-control-rules",
+    "I44-8073-control-rules"
+  ],
+  "new_rule_scope": "New native8072/8073 views are consistent with the earlier five-rule control observations. This repeats a known feature and is not six new discoveries or a source of independent votes.",
+  "failed_routes": [
+    "https://lbiiif.riksarkivet.se/arkis!R1008072_00003/full/max/0/default.jpg",
+    "https://lbiiif.riksarkivet.se/arkis!R1008073_00001/full/max/0/default.jpg"
+  ],
+  "coverage_limit": "8072 capture3 unseen after timeout;8073 capture1 inspected only from retained800px first photograph. No retry or alternate request for either failed photograph.",
+  "intraobject_observation": "Fr8072 shows two occurrences of Veni sponsa followed by different textual continuations and visibly different notational elaboration. Exact chant/genre IDs remain candidate interpretations. The first/second capture overlap is visible in the preceding boundary phrase; no source-photo ordinal is converted to medieval recto/verso.",
+  "reference_candidates": [
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-invitatory",
+      "cantus_id": "001151",
+      "confidence_word": "candidate",
+      "limit": "Only Regem virginum and the invitatory rubric securely read here; full incipit variants and local service position not completely collated."
+    },
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-veni",
+      "cantus_id": "005328",
+      "confidence_word": "candidate",
+      "limit": "The shorter in-eternum ending supports the antiphon candidate; no complete diplomatic/music edition or local precise liturgical position."
+    },
+    {
+      "object_id": "mpo-8072",
+      "region": "I52-8072-veni-response",
+      "cantus_id": "007828",
+      "confidence_word": "candidate",
+      "limit": "Longer pro-cuius-amore/sanguinem continuation supports responsory candidate; no complete pitch transcription or unique tradition attribution."
+    }
+  ]
+}

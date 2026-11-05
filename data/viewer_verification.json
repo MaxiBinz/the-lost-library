@@ -1,0 +1,110 @@
+{
+  "base_url": "http://127.0.0.1:8765/",
+  "checks": [
+    {
+      "path": "viewer/",
+      "status": 200,
+      "bytes": 12117,
+      "sha256": "507d697c5457b5c210e5e5cf09dc4ee43740d283805d30296dd05131d88a0e25"
+    },
+    {
+      "path": "viewer/app.js",
+      "status": 200,
+      "bytes": 47619,
+      "sha256": "b1c5314ccacdcbcf566b97c22961f72ec06ca7297ec3e4e092995bbbcc26e5af"
+    },
+    {
+      "path": "viewer/style.css",
+      "status": 200,
+      "bytes": 30458,
+      "sha256": "f5162348c9822d5ae7538a575760451cfa0ba8dededbaea4f62d24d690afb95e"
+    },
+    {
+      "path": "data/site.json",
+      "status": 200,
+      "bytes": 2056581,
+      "sha256": "efd8b40ba8ec581b0b30b73003673102db24a2c1b4965bbf39a6f4812051c4b8"
+    },
+    {
+      "path": "data/review_bundle.json",
+      "status": 200,
+      "bytes": 132192,
+      "sha256": "e57ff2b5701812012fe52ecfc3f24f6f138932f981c16c8111e29a800318e9f2"
+    },
+    {
+      "path": "EVIDENCE_DOSSIERS.md",
+      "status": 200,
+      "bytes": 14050,
+      "sha256": "600c2b1ce49b19c4f047807d0e5476367d6c1c7c7db96e21500db043013ab274"
+    },
+    {
+      "path": "FINAL_REPORT.md",
+      "status": 200,
+      "bytes": 9659,
+      "sha256": "e381d999badb50250e84db45d61ecf787e68791719ab647551cbd815ccd9400c"
+    },
+    {
+      "path": "VALIDATION_REPORT.md",
+      "status": 200,
+      "bytes": 7998,
+      "sha256": "a999e33da002f89089579e217d8cb7a9b2b744e31877885e84eb338d84056032"
+    },
+    {
+      "path": "data/images/mpo-20274-capture-2.jpg",
+      "status": 200,
+      "bytes": 140549,
+      "sha256": "3c34578256735768d0a0682b61758255397dc2073f226c9bc8ffd8048f62606d"
+    }
+  ],
+  "python_tests": "35 passed, unittest discover -s tests -v,23October2026",
+  "viewer_javascript_checks": "node --check viewer/app.js and node --test tests/viewer.test.cjs passed,23October2026",
+  "current_full_browser_interaction_verification": "Scoped current browser checks passed; exhaustive workflow, responsive and accessibility verification incomplete.",
+  "historical_partial_browser_check": "21October notes report evidence-region opening; no retained screenshot, not accepted as complete current verification",
+  "limits": [
+    "HTTP success does not prove DOM interactions, responsive layout or accessibility.",
+    "JavaScript checks exercise pure data functions and region bounds, not browser interaction or historical truth."
+  ],
+  "historical_http_receipt_checked_at_utc": "2026-10-22T20:47:12.699902+00:00",
+  "current_browser_checks": {
+    "checked_at_utc": "2026-10-23T07:23:42.097627+00:00",
+    "browser": "Codex in-app browser through cua_repl,hidden tab,localhost only",
+    "observed": [
+      "167image capture statistic,tenfrozenpairdetails,threeseparatecontextchecks rendered",
+      "CTX01expanded and displayed limits/source links",
+      "V-10370-kmark opened exact1728pxcapture,region780,114,155,105and matching source SHA",
+      "zoom changed100%to125%",
+      "capturepicker changed toSourcecapture1,updatedimage/dimensions/sourcehash and removed oldregioncrop,zoomreset100%",
+      "H01expanded,editorial-state distinction rendered;T-20274-invitatory opened exact1831pxcapture and literal/normalized reading",
+      "screenshot visually inspected thekmark and theLatin reading"
+    ],
+    "screenshot": {
+      "path": "research/independent_pass/viewer/latin-region.png",
+      "sha256": "3a46cda9100ac1339b89721ef8524b8a051ee0344e57a9da0e2768adbe744388"
+    },
+    "limits": [
+      "No mobile/responsive viewport test",
+      "No formal accessibility audit or keyboard/focus-trap test",
+      "No exhaustive comparison/search/filter/reconstruction interaction test",
+      "Browser operation verifies software presentation,not manuscript interpretation"
+    ]
+  },
+  "continuation_20_browser_checks": {
+    "checked_at_utc": "2026-10-23T09:23:57.246579+00:00",
+    "result": "passed scoped region inspection",
+    "observed": [
+      "Core gallery remains129records and167coreimages",
+      "Four separate context checks rendered",
+      "CTX04expanded and displayed the actual-source comparison,limits and externalC23region buttons",
+      "C23-0145-condemnation opened correct external page2200x2617,expectedregion250,680,1140,250,matching sourcehashandPDMcredit",
+      "Screenshotvisuallyshowscorrectcrossedtextandreplacement"
+    ],
+    "screenshot": {
+      "path": "research/continuation_20/viewer/c23-comparison.png",
+      "sha256": "05c86d7d8373ceabee9d5a1c013881642ba91996684ee3a0e48c720b3541700c"
+    },
+    "limits": [
+      "No exhaustive mobile/responsive/accessibility check",
+      "No historical truth or originality established by software rendering"
+    ]
+  }
+}

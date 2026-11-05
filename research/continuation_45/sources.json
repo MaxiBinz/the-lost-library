@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://cantusdatabase.org/chant/233459/",
+      "title": "Vidit Jacob in somnis scalam, CH-E611270v",
+      "read_scope": "Search-indexed description identifies this other-witness item as a verse,007763zd. Direct open returned Cache miss; no retry or original inspected.",
+      "use": "Genre/identification caution only; no local ID or melody."
+    },
+    {
+      "url": "https://109www.cantusindex.org/feast/12008000?page=10",
+      "title": "Cantus Index, Dedication feast list",
+      "read_scope": "Indexed list includes related Jacob/scalam texts under introit-verse identifiers. No full page or underlying witnesses inspected.",
+      "use": "Multiple context caution; no local identity/rarity inference."
+    },
+    {
+      "url": "https://doi.org/10.25167/ls.4818",
+      "title": "Grajewski2022, Offices of St.Catherine of Alexandria",
+      "local_private_path": "research/scholarship/grajewski2022.pdf",
+      "sha256": "bce68afeaef0e1bd0c259009f003ee07c683cd6213f3a32cc4d785f9298d2798",
+      "read_scope": "All29PDFpages text-searched for8066/9620/Ant49/8201/8304; no full-article read. Complete printed pp293-294/PDF7-8 visually inspected, with p292/PDF6 text context. Footnote11 and table2 were included.",
+      "finding": "The explicit study scope excludes non-Catherine Ant49 material; its published rejection does not determine this Dedication pair.",
+      "limit": "This is not proof that no other source discusses the pair; the paper and rendered reading pages remain private and excluded from the review archive."
+    }
+  ],
+  "limits": "Other broad search hits were not read as evidence. No new source images or private reading files acquired."
+}

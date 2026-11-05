@@ -1,0 +1,194 @@
+[
+  {
+    "mpo": "7957",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1007957/manifest",
+    "canvases": 4,
+    "catalogue_leaves": "2",
+    "first_canvas_dimensions": [
+      1213,
+      1733
+    ],
+    "image_service_dimensions": [
+      1213,
+      1733
+    ],
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007957_00001/full/800,/0/default.jpg",
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "mpo": "7960",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1007960/manifest",
+    "canvases": 4,
+    "catalogue_leaves": "2",
+    "first_canvas_dimensions": [
+      1102,
+      1760
+    ],
+    "image_service_dimensions": [
+      1102,
+      1760
+    ],
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00001/full/800,/0/default.jpg",
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "mpo": "7961",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1007961/manifest",
+    "canvases": 4,
+    "catalogue_leaves": "2",
+    "first_canvas_dimensions": [
+      1201,
+      1778
+    ],
+    "image_service_dimensions": [
+      1201,
+      1778
+    ],
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00001/full/800,/0/default.jpg",
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "mpo": "8343",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1008343/manifest",
+    "canvases": 4,
+    "catalogue_leaves": "2",
+    "first_canvas_dimensions": [
+      1264,
+      1757
+    ],
+    "image_service_dimensions": [
+      1264,
+      1757
+    ],
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00001/full/800,/0/default.jpg",
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "mpo": "8344",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1008344/manifest",
+    "canvases": 4,
+    "catalogue_leaves": "2",
+    "first_canvas_dimensions": [
+      1189,
+      1775
+    ],
+    "image_service_dimensions": [
+      1189,
+      1775
+    ],
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00001/full/800,/0/default.jpg",
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "mpo": "8201",
+    "manifest": "https://lbiiif.riksarkivet.se/arkis!R1008201/manifest",
+    "canvases": 4,
+    "catalogue_leaves": "1",
+    "first_canvas_dimensions": [
+      1718,
+      1156
+    ],
+    "image_service_dimensions": [
+      1718,
+      1156
+    ],
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00001/full/800,/0/default.jpg",
+    "rights_metadata": [
+      {
+        "label": {
+          "sv": [
+            "Rättigheter för digital reproduktion"
+          ],
+          "en": [
+            "Rights"
+          ]
+        },
+        "value": {
+          "none": [
+            "http://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        }
+      }
+    ]
+  }
+]

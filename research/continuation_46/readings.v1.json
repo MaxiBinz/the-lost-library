@@ -1,0 +1,281 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "observer": "Codex AI exploratory manual source reading; not independent or blind",
+  "prior_exposure": "Original windows and first approximate locator points were viewed before the new typology lookup. Revised centres are manual visual locations, not automatic segmentation or probabilities. The existing indexed verse melody is not used.",
+  "scope_change": "Exact diatonic staff steps/absolute pitches are not assigned: the musical role of every visible horizontal rule and local clefs remain unverified. Record notehead groups and ordinal vertical contour only, preserving uncertain segmentation. Planned complete interval transcription is therefore incomplete.",
+  "sources": {
+    "8066": {
+      "path": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "window_xywh": [
+        480,
+        10,
+        460,
+        150
+      ],
+      "literal_underlay": "celos tangebat et",
+      "secure_word_span": {
+        "celos": [
+          500,
+          640
+        ],
+        "tangebat": [
+          642,
+          860
+        ],
+        "et": [
+          867,
+          930
+        ]
+      },
+      "local_reference_rule": [
+        [
+          500,
+          92
+        ],
+        [
+          900,
+          101
+        ]
+      ],
+      "reference_limit": "A manually followed continuous rule used only to remove local image slope; its musical degree/function is not certified. Endpoints are approximate, not calibrated measurements.",
+      "events": [
+        {
+          "id": "1",
+          "underlay_candidate": "ce",
+          "pixel": [
+            514,
+            71
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "2",
+          "underlay_candidate": "los:1",
+          "pixel": [
+            555,
+            53
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "3",
+          "underlay_candidate": "los:2",
+          "pixel": [
+            575,
+            61
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "4",
+          "underlay_candidate": "los:3",
+          "pixel": [
+            596,
+            72
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "5",
+          "underlay_candidate": "los:4",
+          "pixel": [
+            614,
+            63
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "6",
+          "underlay_candidate": "tan:upper",
+          "pixel": [
+            681,
+            79
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "7",
+          "underlay_candidate": "ge",
+          "pixel": [
+            742,
+            73
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "8",
+          "underlay_candidate": "bat",
+          "pixel": [
+            797,
+            76
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "9",
+          "underlay_candidate": "et",
+          "pixel": [
+            865,
+            78
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        }
+      ],
+      "celos_visible_head_count": 5,
+      "candidate_celos_event_count": 5,
+      "candidate_celos_event_count_limit": "Manual reading of stemmed and lozenge heads in a single fixed word span, not independent notation adjudication. Do not count shafts as extra notes.",
+      "absolute_pitch": null,
+      "diatonic_staff_steps": null,
+      "optional_events": [
+        {
+          "id": "6-lower?",
+          "underlay_candidate": "tan:lower?",
+          "pixel": [
+            668,
+            85
+          ],
+          "centre_tolerance_px": 4,
+          "counted_as_candidate_notehead": false,
+          "interpretation": "The left/down hook of the angular sign might form part of a multi-event neume. Exact segmentation unresolved; not silently discarded or converted into a rest."
+        }
+      ]
+    },
+    "9620": {
+      "path": "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+      "sha256": "053e4da7c3dd9c3cb29a867804bfc8f8f854b085b45960937944bb6744a606b3",
+      "window_xywh": [
+        370,
+        1340,
+        440,
+        175
+      ],
+      "literal_underlay": "celos tangebat et",
+      "secure_word_span": {
+        "celos": [
+          395,
+          513
+        ],
+        "tangebat": [
+          515,
+          709
+        ],
+        "et": [
+          710,
+          786
+        ]
+      },
+      "local_reference_rule": [
+        [
+          520,
+          1431
+        ],
+        [
+          800,
+          1424
+        ]
+      ],
+      "reference_limit": "A manually followed continuous rule used only to remove local image slope; its musical degree/function is not certified. Endpoints are approximate, not calibrated measurements.",
+      "events": [
+        {
+          "id": "1",
+          "underlay_candidate": "ce",
+          "pixel": [
+            413,
+            1411
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "2",
+          "underlay_candidate": "los",
+          "pixel": [
+            475,
+            1385
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "3",
+          "underlay_candidate": "tan",
+          "pixel": [
+            553,
+            1390
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "4",
+          "underlay_candidate": "ge",
+          "pixel": [
+            627,
+            1401
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "5",
+          "underlay_candidate": "bat",
+          "pixel": [
+            692,
+            1403
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        },
+        {
+          "id": "6",
+          "underlay_candidate": "et",
+          "pixel": [
+            769,
+            1420
+          ],
+          "centre_tolerance_px": 3,
+          "counted_as_candidate_notehead": true,
+          "independent_confirmation": false
+        }
+      ],
+      "celos_visible_head_count": 2,
+      "candidate_celos_event_count": 2,
+      "candidate_celos_event_count_limit": "Manual reading of stemmed and lozenge heads in a single fixed word span, not independent notation adjudication. Do not count shafts as extra notes.",
+      "absolute_pitch": null,
+      "diatonic_staff_steps": null,
+      "optional_events": []
+    }
+  },
+  "interpretation": "The fixed celos word span has an elaborate five-head candidate group in8066 against two simple stemmed heads in9620. The tan-to-ge directions also appear different after local slope correction, but tan segmentation and exact interval interpretation remain uncertain. This supports a provisional local notated-setting difference, not a variant of one securely identified chant or a different-book conclusion.",
+  "limits": [
+    "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+    "No exact rhythmic values, chromatic inflections or audio realization.",
+    "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+    "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+  ]
+}

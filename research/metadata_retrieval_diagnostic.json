@@ -1,0 +1,449 @@
+{
+  "purpose": "Retrospective diagnostic of metadata retrieval and complete-case filtering failure; not AI performance validation",
+  "source": "https://zenodo.org/records/17287665",
+  "csv_sha256": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+  "script_sha256": "c92e166e080c94015837e29d40d853fb4eb68dd6648313eed7411e45c80383b3",
+  "feature_whitelist": [
+    "format",
+    "notation",
+    "notenlinien",
+    "sachtitel",
+    "schrift",
+    "schriftraum1",
+    "spaltenzahl",
+    "zeilenzahl1"
+  ],
+  "scoring": "Five exact categorical agreements and four observed-dimension component agreements, each weight1; numeric tolerance0.5cm; all9 required; same genre gallery; no identifier tie-break",
+  "dimension_caution": "Asterisks/questionmarks remain in recorded raw values; numerical comparison of damaged sizes is deliberately weak compatibility evidence, not original-size inference",
+  "complete_case_filter_is_intentionally_tested_not_recommended": true,
+  "results": [
+    {
+      "query": "7960",
+      "candidate": "7961",
+      "relationship": "documented same-codex textual continuity",
+      "source": "https://zenodo.org/records/17287665",
+      "label": "positive",
+      "genre": "Graduale",
+      "query_features": {
+        "type": "Graduale",
+        "categorical": {
+          "schrift": "Textualis",
+          "notation": "Quadr",
+          "notenlinien": "4",
+          "spaltenzahl": "1",
+          "zeilenzahl1": "#10"
+        },
+        "dimensions": {
+          "format": [
+            33.0,
+            23.0
+          ],
+          "schriftraum1": [
+            23.0,
+            16.0
+          ]
+        },
+        "dimension_raw": {
+          "format": "33.0 x 23.0",
+          "schriftraum1": "23.0 x 16.0"
+        }
+      },
+      "candidate_features": {
+        "type": "Graduale",
+        "categorical": {
+          "schrift": "Textualis",
+          "notation": "Quadr",
+          "notenlinien": "4",
+          "spaltenzahl": "1",
+          "zeilenzahl1": "#10"
+        },
+        "dimensions": {
+          "format": [
+            33.0,
+            23.5
+          ],
+          "schriftraum1": [
+            22.5,
+            15.5
+          ]
+        },
+        "dimension_raw": {
+          "format": "33.0 x 23.5",
+          "schriftraum1": "22.5 x 15.5"
+        }
+      },
+      "gallery_before_complete_case_filter": 1321,
+      "gallery_after_complete_case_filter": 792,
+      "candidate_eligible": true,
+      "score_fraction": "1",
+      "score": 1.0,
+      "feature_agreements": [
+        {
+          "field": "schrift",
+          "match": true,
+          "query": "Textualis",
+          "candidate": "Textualis"
+        },
+        {
+          "field": "notation",
+          "match": true,
+          "query": "Quadr",
+          "candidate": "Quadr"
+        },
+        {
+          "field": "notenlinien",
+          "match": true,
+          "query": "4",
+          "candidate": "4"
+        },
+        {
+          "field": "spaltenzahl",
+          "match": true,
+          "query": "1",
+          "candidate": "1"
+        },
+        {
+          "field": "zeilenzahl1",
+          "match": true,
+          "query": "#10",
+          "candidate": "#10"
+        },
+        {
+          "field": "format_height",
+          "match": true,
+          "query": 33.0,
+          "candidate": 33.0
+        },
+        {
+          "field": "format_width",
+          "match": true,
+          "query": 23.0,
+          "candidate": 23.5
+        },
+        {
+          "field": "schriftraum1_height",
+          "match": true,
+          "query": 23.0,
+          "candidate": 22.5
+        },
+        {
+          "field": "schriftraum1_width",
+          "match": true,
+          "query": 16.0,
+          "candidate": 15.5
+        }
+      ],
+      "best_possible_tie_rank": 1,
+      "worst_possible_tie_rank": 4,
+      "tied_candidates": 4
+    },
+    {
+      "query": "8343",
+      "candidate": "8344",
+      "relationship": "documented same-codex textual continuity",
+      "source": "https://zenodo.org/records/17287665",
+      "label": "positive",
+      "genre": "Graduale",
+      "query_features": {
+        "type": "Graduale",
+        "categorical": {
+          "schrift": "Textualis",
+          "notation": "Quadr",
+          "notenlinien": "4",
+          "spaltenzahl": "1",
+          "zeilenzahl1": "#10"
+        },
+        "dimensions": {
+          "format": [
+            33.0,
+            23.5
+          ],
+          "schriftraum1": [
+            23.0,
+            15.5
+          ]
+        },
+        "dimension_raw": {
+          "format": "33.0 x 23.5",
+          "schriftraum1": "23.0 x 15.5"
+        }
+      },
+      "candidate_features": {
+        "type": "Graduale",
+        "categorical": {
+          "schrift": "Textualis",
+          "notation": "Quadr",
+          "notenlinien": "4",
+          "spaltenzahl": "1",
+          "zeilenzahl1": "#10"
+        },
+        "dimensions": {
+          "format": [
+            33.0,
+            23.5
+          ],
+          "schriftraum1": [
+            23.0,
+            15.0
+          ]
+        },
+        "dimension_raw": {
+          "format": "*33.0 x 23.5",
+          "schriftraum1": "23.0 x 15.0"
+        }
+      },
+      "gallery_before_complete_case_filter": 1321,
+      "gallery_after_complete_case_filter": 792,
+      "candidate_eligible": true,
+      "score_fraction": "1",
+      "score": 1.0,
+      "feature_agreements": [
+        {
+          "field": "schrift",
+          "match": true,
+          "query": "Textualis",
+          "candidate": "Textualis"
+        },
+        {
+          "field": "notation",
+          "match": true,
+          "query": "Quadr",
+          "candidate": "Quadr"
+        },
+        {
+          "field": "notenlinien",
+          "match": true,
+          "query": "4",
+          "candidate": "4"
+        },
+        {
+          "field": "spaltenzahl",
+          "match": true,
+          "query": "1",
+          "candidate": "1"
+        },
+        {
+          "field": "zeilenzahl1",
+          "match": true,
+          "query": "#10",
+          "candidate": "#10"
+        },
+        {
+          "field": "format_height",
+          "match": true,
+          "query": 33.0,
+          "candidate": 33.0
+        },
+        {
+          "field": "format_width",
+          "match": true,
+          "query": 23.5,
+          "candidate": 23.5
+        },
+        {
+          "field": "schriftraum1_height",
+          "match": true,
+          "query": 23.0,
+          "candidate": 23.0
+        },
+        {
+          "field": "schriftraum1_width",
+          "match": true,
+          "query": 15.5,
+          "candidate": 15.0
+        }
+      ],
+      "best_possible_tie_rank": 1,
+      "worst_possible_tie_rank": 7,
+      "tied_candidates": 7
+    },
+    {
+      "query": "8201",
+      "candidate": "20106",
+      "relationship": "published same-codex text continuity",
+      "source": "https://doi.org/10.25167/ls.4818",
+      "page": 293,
+      "label": "positive",
+      "genre": "Antiphonarium",
+      "query_features": {
+        "type": "Antiphonarium",
+        "categorical": {
+          "schrift": "Textualis",
+          "notation": "Got",
+          "notenlinien": "4?",
+          "spaltenzahl": "1",
+          "zeilenzahl1": "#12"
+        },
+        "dimensions": {
+          "format": [
+            42.5,
+            31.5
+          ],
+          "schriftraum1": [
+            32.0,
+            21.0
+          ]
+        },
+        "dimension_raw": {
+          "format": "42.5 x 31.5",
+          "schriftraum1": "32.0 x 21.0"
+        }
+      },
+      "candidate_features": {
+        "type": "Antiphonarium",
+        "categorical": {
+          "schrift": "",
+          "notation": "Got",
+          "notenlinien": "4",
+          "spaltenzahl": "",
+          "zeilenzahl1": "12"
+        },
+        "dimensions": {
+          "format": null,
+          "schriftraum1": null
+        },
+        "dimension_raw": {
+          "format": "",
+          "schriftraum1": ""
+        }
+      },
+      "gallery_before_complete_case_filter": 2099,
+      "gallery_after_complete_case_filter": 1221,
+      "candidate_eligible": false,
+      "missing_candidate_fields": [
+        "schrift",
+        "spaltenzahl",
+        "format",
+        "schriftraum1"
+      ]
+    },
+    {
+      "query": "8201",
+      "candidate": "8304",
+      "relationship": "published same-hand, different-book comparison",
+      "source": "https://doi.org/10.25167/ls.4818",
+      "page": 293,
+      "label": "negative",
+      "genre": "Antiphonarium",
+      "query_features": {
+        "type": "Antiphonarium",
+        "categorical": {
+          "schrift": "Textualis",
+          "notation": "Got",
+          "notenlinien": "4?",
+          "spaltenzahl": "1",
+          "zeilenzahl1": "#12"
+        },
+        "dimensions": {
+          "format": [
+            42.5,
+            31.5
+          ],
+          "schriftraum1": [
+            32.0,
+            21.0
+          ]
+        },
+        "dimension_raw": {
+          "format": "42.5 x 31.5",
+          "schriftraum1": "32.0 x 21.0"
+        }
+      },
+      "candidate_features": {
+        "type": "Antiphonarium",
+        "categorical": {
+          "schrift": "Textualis",
+          "notation": "Got",
+          "notenlinien": "4?",
+          "spaltenzahl": "1",
+          "zeilenzahl1": "#12"
+        },
+        "dimensions": {
+          "format": [
+            43.0,
+            31.5
+          ],
+          "schriftraum1": [
+            32.0,
+            21.0
+          ]
+        },
+        "dimension_raw": {
+          "format": "*43.0 x 31.5",
+          "schriftraum1": "32.0 x 21.0"
+        }
+      },
+      "gallery_before_complete_case_filter": 2099,
+      "gallery_after_complete_case_filter": 1221,
+      "candidate_eligible": true,
+      "score_fraction": "1",
+      "score": 1.0,
+      "feature_agreements": [
+        {
+          "field": "schrift",
+          "match": true,
+          "query": "Textualis",
+          "candidate": "Textualis"
+        },
+        {
+          "field": "notation",
+          "match": true,
+          "query": "Got",
+          "candidate": "Got"
+        },
+        {
+          "field": "notenlinien",
+          "match": true,
+          "query": "4?",
+          "candidate": "4?"
+        },
+        {
+          "field": "spaltenzahl",
+          "match": true,
+          "query": "1",
+          "candidate": "1"
+        },
+        {
+          "field": "zeilenzahl1",
+          "match": true,
+          "query": "#12",
+          "candidate": "#12"
+        },
+        {
+          "field": "format_height",
+          "match": true,
+          "query": 42.5,
+          "candidate": 43.0
+        },
+        {
+          "field": "format_width",
+          "match": true,
+          "query": 31.5,
+          "candidate": 31.5
+        },
+        {
+          "field": "schriftraum1_height",
+          "match": true,
+          "query": 32.0,
+          "candidate": 32.0
+        },
+        {
+          "field": "schriftraum1_width",
+          "match": true,
+          "query": 21.0,
+          "candidate": 21.0
+        }
+      ],
+      "best_possible_tie_rank": 1,
+      "worst_possible_tie_rank": 1,
+      "tied_candidates": 1
+    }
+  ],
+  "claims_not_supported": [
+    "population precision or recall",
+    "image or AI performance",
+    "book-independent generalization",
+    "new fragment identity",
+    "calibrated confidence"
+  ]
+}

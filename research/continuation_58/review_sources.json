@@ -1,0 +1,58 @@
+[
+  {
+    "source": "data/images/mpo-8311.jpg",
+    "sha256": "d7eebea8a22ecaa05a9ff9d27626acd6fd878b80282611f1ca37fd6b773801e8",
+    "source_size": [
+      800,
+      521
+    ],
+    "crop_xyxy": [
+      0,
+      300,
+      800,
+      521
+    ]
+  },
+  {
+    "source": "data/images/mpo-8311-capture-2.jpg",
+    "sha256": "e3b1eba2064492294fa6f75ec6087bbacedd6a636572cf6cfe2ce43e561b46c5",
+    "source_size": [
+      1000,
+      639
+    ],
+    "crop_xyxy": [
+      0,
+      0,
+      1000,
+      240
+    ]
+  },
+  {
+    "source": "data/images/mpo-8311-capture-3.jpg",
+    "sha256": "e65493d56b027bfab469905a67eaffeaac32e9231b32f169c51c481e2ffea232",
+    "source_size": [
+      1000,
+      663
+    ],
+    "crop_xyxy": [
+      0,
+      430,
+      1000,
+      663
+    ]
+  },
+  {
+    "source": "data/images/mpo-8311-capture-4.jpg",
+    "sha256": "f95e8acdcd9e812103976bcb84020aca788388d92913c58cce2fa0aed684d818",
+    "source_size": [
+      1000,
+      656
+    ],
+    "crop_xyxy": [
+      0,
+      0,
+      1000,
+      240
+    ]
+  }
+]

@@ -1,0 +1,413 @@
+{
+  "version": "1.0.0",
+  "frozen_date": "2026-10-21",
+  "selection_rule": "Seven explicit controls/previous suggestions plus the first three unestablished suggestions in the saved Fr1385 ranking. Exploratory, not blind selection.",
+  "matches_sha256": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+  "hypotheses": [
+    {
+      "left_id": "mpo-1385",
+      "right_id": "mpo-20274",
+      "prior_status": "accepted",
+      "classification": "E",
+      "question": "Known same-codex target-transfer control; low retrieval rank is a failure to explain.",
+      "falsification_test": "Catalogue contents concern different liturgical occasions: do not demand literal text identity.",
+      "source": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300?show=full",
+      "id": "H01",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "mpo-1385",
+          "physical_object_id": "mpo-1385",
+          "image_path": "data/images/mpo-1385.jpg",
+          "image_sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+          "catalogue_contents_literal": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-20274",
+          "physical_object_id": "mpo-20274",
+          "image_path": "data/images/mpo-20274.jpg",
+          "image_sha256": "59fd853b430a67e4d1bc6978ce1de41c301dc45ab1c6b10b432d5a764f405272",
+          "catalogue_contents_literal": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "mpo-1385",
+      "right_id": "mpo-10406",
+      "prior_status": "suggested",
+      "classification": "C",
+      "question": "Same book versus shared production in the already published comparison.",
+      "falsification_test": "Compare distinctive script/ruling and chant positions; apparent resemblance is already known.",
+      "source": "https://zenodo.org/records/17287665",
+      "id": "H02",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "mpo-1385",
+          "physical_object_id": "mpo-1385",
+          "image_path": "data/images/mpo-1385.jpg",
+          "image_sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+          "catalogue_contents_literal": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-10406",
+          "physical_object_id": "mpo-10406",
+          "image_path": "data/images/mpo-10406.jpg",
+          "image_sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+          "catalogue_contents_literal": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "mpo-20274",
+      "right_id": "mpo-8994",
+      "prior_status": "suggested",
+      "classification": "C",
+      "question": "Ant 99 versus Codex 1505: test book identity rather than regional liturgical overlap.",
+      "falsification_test": "Check source sides and contradictions; sharing regional chant tradition is insufficient.",
+      "source": "https://zenodo.org/records/17287665",
+      "id": "H03",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "mpo-20274",
+          "physical_object_id": "mpo-20274",
+          "image_path": "data/images/mpo-20274.jpg",
+          "image_sha256": "59fd853b430a67e4d1bc6978ce1de41c301dc45ab1c6b10b432d5a764f405272",
+          "catalogue_contents_literal": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-8994",
+          "physical_object_id": "mpo-8994",
+          "image_path": "data/images/mpo-8994.jpg",
+          "image_sha256": "750440678d2312c73fb6eb7eb522ca68034583affeb60208c8fa549dc0e82517",
+          "catalogue_contents_literal": "1rv Proprium de sanctis: Olavi.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "finn-iv173",
+      "right_id": "mpo-1385",
+      "prior_status": "suggested",
+      "classification": "C",
+      "question": "Does the terminal IV.173 leaf fit the already suggested IV.157 family?",
+      "falsification_test": "Require independent codicological evidence; terminal Te Deum is not a distinctive identity signal.",
+      "source": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314?show=full",
+      "id": "H04",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "finn-iv173",
+          "physical_object_id": "finn-iv173",
+          "image_path": "data/images/fm-IV173-1.jpg",
+          "image_sha256": "b5c5e39ec47dcd20b3c536cc91feef4bcccd5aad2df8997839609bff2f671c64",
+          "catalogue_contents_literal": "Terminal Te Deum leaf (catalogue description)",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-1385",
+          "physical_object_id": "mpo-1385",
+          "image_path": "data/images/mpo-1385.jpg",
+          "image_sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+          "catalogue_contents_literal": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "finn-iv173",
+      "right_id": "mpo-25592",
+      "prior_status": "suggested",
+      "classification": "C",
+      "question": "Test the Hy 49 alias against the different observed layout and catalogue date.",
+      "falsification_test": "Resolve alias/date/composite-book alternatives before declaring physical incompatibility.",
+      "source": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314?show=full",
+      "id": "H05",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "finn-iv173",
+          "physical_object_id": "finn-iv173",
+          "image_path": "data/images/fm-IV173-1.jpg",
+          "image_sha256": "b5c5e39ec47dcd20b3c536cc91feef4bcccd5aad2df8997839609bff2f671c64",
+          "catalogue_contents_literal": "Terminal Te Deum leaf (catalogue description)",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-25592",
+          "physical_object_id": "mpo-25592",
+          "image_path": "data/images/mpo-25592.jpg",
+          "image_sha256": "08312a14fdaba737712519df355ad4143d893ab7e18a18dac16bf14588e25184",
+          "catalogue_contents_literal": "Nat. Stephani prothom.: Hymnum canamus domini (mit Notation); Stephano primo martiri (mit Notation); Sancte dei preciose (mit Notation); Iohannis ev.: De patre verbum prodiens (mit Notation); Sancte Iohannes optime = Divis. zu: De patre verbum prodiens (mit Notation); Sollempnis dies advenit (mit Notation); Epiphania: Hostis Herodes impie (mit Notation); Hic refulsit omnium (mit Notation); Infra oct. epiph.: A patre unigenitus (mit Notaiton); In sabbatis p. oct. epiph.: Deus creator omnium (mit Notation); Iesu redemptor seculi (mit Notation)",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "mpo-8201",
+      "right_id": "mpo-8304",
+      "prior_status": "rejected",
+      "classification": "D",
+      "question": "Published same-hand/different-book falsification control.",
+      "falsification_test": "Reproduce rejection from scholarly/textual evidence, not a score adjusted to this known label.",
+      "source": "https://doi.org/10.25167/ls.4818",
+      "id": "H06",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "mpo-8201",
+          "physical_object_id": "mpo-8201",
+          "image_path": "data/images/mpo-8201.jpg",
+          "image_sha256": "56563522480cdb0e6b62d52b159a40d92013ed368a5ec2c0cbfad8ec39614530",
+          "catalogue_contents_literal": "1rv Proprium de sanctis: Katharinae ro AH 26, Nr. 69.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-8304",
+          "physical_object_id": "mpo-8304",
+          "image_path": "data/images/mpo-8304.jpg",
+          "image_sha256": "b0e5a3a3066f0da51a4f6c94fa04ac833b4a0dc8d1488998f4ca6a02432797bb",
+          "catalogue_contents_literal": "1rv Proprium de sanctis: Clementis; Katharinae.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "mpo-8201",
+      "right_id": "mpo-20106",
+      "prior_status": "accepted",
+      "classification": "E",
+      "question": "Published positive control whose second image is unavailable.",
+      "falsification_test": "No visual conclusion without the missing image; assess legitimate textual source evidence.",
+      "source": "https://doi.org/10.25167/ls.4818",
+      "id": "H07",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "mpo-8201",
+          "physical_object_id": "mpo-8201",
+          "image_path": "data/images/mpo-8201.jpg",
+          "image_sha256": "56563522480cdb0e6b62d52b159a40d92013ed368a5ec2c0cbfad8ec39614530",
+          "catalogue_contents_literal": "1rv Proprium de sanctis: Katharinae ro AH 26, Nr. 69.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-20106",
+          "physical_object_id": "mpo-20106",
+          "image_path": null,
+          "image_sha256": null,
+          "catalogue_contents_literal": "Clementis; Katharinae; Barbarae; hy: Novo decurrens lumine lascivit sol in virgine---",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "mpo-1385",
+      "right_id": "mpo-4223",
+      "prior_status": "unestablished model suggestion; novelty not cleared",
+      "classification": "C",
+      "question": "Can independent evidence support this model suggestion?",
+      "falsification_test": "Inspect source notes, chant positions, script and ruling; test different-book alternatives.",
+      "source": "data/matches.json",
+      "initial_rank_interval": [
+        1,
+        1
+      ],
+      "initial_score": 0.943176275486705,
+      "id": "H08",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "mpo-1385",
+          "physical_object_id": "mpo-1385",
+          "image_path": "data/images/mpo-1385.jpg",
+          "image_sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+          "catalogue_contents_literal": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-4223",
+          "physical_object_id": "mpo-4223",
+          "image_path": "data/images/mpo-4223.jpg",
+          "image_sha256": "96ba47f174b1bc2a25d9ae088dc17ac336bd294da2e357ec0f6dca3acc85a73f",
+          "catalogue_contents_literal": "1rv Proprium de sanctis: Mariae conceptio.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "mpo-1385",
+      "right_id": "mpo-8311",
+      "prior_status": "unestablished model suggestion; novelty not cleared",
+      "classification": "C",
+      "question": "Can independent evidence support this model suggestion?",
+      "falsification_test": "Inspect source notes, chant positions, script and ruling; test different-book alternatives.",
+      "source": "data/matches.json",
+      "initial_rank_interval": [
+        2,
+        2
+      ],
+      "initial_score": 0.9415798493488359,
+      "id": "H09",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "mpo-1385",
+          "physical_object_id": "mpo-1385",
+          "image_path": "data/images/mpo-1385.jpg",
+          "image_sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+          "catalogue_contents_literal": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-8311",
+          "physical_object_id": "mpo-8311",
+          "image_path": "data/images/mpo-8311.jpg",
+          "image_sha256": "d7eebea8a22ecaa05a9ff9d27626acd6fd878b80282611f1ca37fd6b773801e8",
+          "catalogue_contents_literal": "1rv Proprium de tempore: Dom. in LXX.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    },
+    {
+      "left_id": "mpo-1385",
+      "right_id": "mpo-8455",
+      "prior_status": "unestablished model suggestion; novelty not cleared",
+      "classification": "C",
+      "question": "Can independent evidence support this model suggestion?",
+      "falsification_test": "Inspect source notes, chant positions, script and ruling; test different-book alternatives.",
+      "source": "data/matches.json",
+      "initial_rank_interval": [
+        3,
+        3
+      ],
+      "initial_score": 0.9363906436045375,
+      "id": "H10",
+      "review_state": "pending source/region investigation",
+      "originality": "not independently cleared",
+      "independent_expert_review": false,
+      "observations": [],
+      "alternatives": [
+        "same codex",
+        "different books sharing production or liturgy",
+        "catalogue/capture identity error"
+      ],
+      "objects": [
+        {
+          "id": "mpo-1385",
+          "physical_object_id": "mpo-1385",
+          "image_path": "data/images/mpo-1385.jpg",
+          "image_sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+          "catalogue_contents_literal": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        },
+        {
+          "id": "mpo-8455",
+          "physical_object_id": "mpo-8455",
+          "image_path": "data/images/mpo-8455.jpg",
+          "image_sha256": "7a54fb8d4945bf53979b01aba5dd63a7e03fe55f433f792806c61fbb3975ff70",
+          "catalogue_contents_literal": "1rv Proprium de tempore: Epiphania.",
+          "reading_status": "catalogue assertion; not an image transcription",
+          "side_mapping": "unverified source capture; no folio-side inferred"
+        }
+      ]
+    }
+  ]
+}

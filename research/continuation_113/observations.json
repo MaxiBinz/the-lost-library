@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-04",
+  "annotations": [
+    {
+      "id": "I113-10406-date-mark",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10406",
+      "body": {
+        "type": "TextualBody",
+        "language": "en",
+        "value": "A date-like 1608 is visible in the margin after clockwise rotation; its author, date of inscription, exact function and relation to the reuse account have not been independently established."
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-3.jpg",
+        "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=875,250,105,215"}
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00003/full/1000,/0/default.jpg",
+      "sha256": "ad15525ab9eaeb67b603ade9120886e2c5c8caecb5ebfbebef9bd478a09bfbb9",
+      "image_dimensions": [1000, 659],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "1608",
+      "observer": "Codex AI, reference-exposed, 2026-11-04",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Not an independently verified reuse inscription or medieval date.",
+        "The Finnish f.8 heading is catalogue OCR, not direct image inspection.",
+        "Different account descriptions do not exclude repeated reuse, separated portions, or catalogue errors."
+      ]
+    }
+  ]
+}

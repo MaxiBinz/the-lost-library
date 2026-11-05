@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0",
+  "checked_at_utc": "2026-10-23T08:54:30Z",
+  "source": {
+    "shelfmark": "Helsinki F.m.IV.157",
+    "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+    "urn": "URN:NBN:fi-fd2011-fra0852",
+    "access_method": "Public search-index rendering of the official institutional record; corresponding original manuscript images and printed catalogue not inspected in this step",
+    "index_crawl_age_label": "3weeks",
+    "http_source_body_hash_available": false
+  },
+  "scope": "Selected medieval incipits and factual catalogue assertions only, not a complete catalogue transcription.",
+  "assertions": [
+    {
+      "id": "FIN157-f5",
+      "leaf": "5",
+      "opening_address_literal": "[h] uiij' - h [ix]'",
+      "feast": "John Baptist",
+      "beginning_fragment": "[gen]cium ut",
+      "beginning_chant": "Formans me",
+      "beginning_position": "III nocturn, antiphon2",
+      "end_fragment": "bibet et",
+      "end_chant": "Johannes est nomen",
+      "end_position": "Lauds, antiphon3",
+      "status": "Catalogue assertion with OCR noise; not direct image transcription"
+    },
+    {
+      "id": "FIN157-f6-7",
+      "leaf": "6–7",
+      "opening_address_literal": "[h x]'- h [ij]\"",
+      "opening_address_parsed": null,
+      "address_limit": "OCR string doubtful; do not infer a normalized endpoint or reset",
+      "feast": "Peter and Paul",
+      "beginning_fragment": "obumbraret",
+      "beginning_chant": "In plateis ponebantur",
+      "beginning_position": "I nocturn, antiphon1",
+      "end_fragment": "Tu",
+      "end_chant": "Tu es pastor",
+      "end_position": "II nocturn, responsory2",
+      "status": "Catalogue assertion with OCR noise; not direct image transcription"
+    },
+    {
+      "id": "FIN157-f8",
+      "leaf": "8",
+      "opening_address_literal": "[k] iiij'- k [v]\"",
+      "feast": "Olaf",
+      "beginning_fragment": "illicprecones",
+      "beginning_chant": "Regnante illustrissimo",
+      "beginning_position": "I nocturn, antiphon1",
+      "end_fragment": "Offe[rebaf]",
+      "end_chant": "Iustus vero",
+      "end_position": "I nocturn, responsory3 verse",
+      "status": "Catalogue assertion with OCR noise; normalized chant title separated from literal damaged end token"
+    },
+    {
+      "id": "FIN157-foliation-interpretation",
+      "kind": "Catalogue interpretation of opening-signature sequence",
+      "paraphrase": "The description suggests some temporale and sanctorale units overlap/interleave.",
+      "limits": "This neither proves repeated addresses nor supplies an image-verified quire structure. It cautions against a simple untested global sequence."
+    }
+  ],
+  "result": "Exact catalogue-level chant boundaries can guide Fr10370/10406 comparisons, but do not resolve intrinsic sides or prove incompatible IV156/IV157 text. NoIV156correspondingwords obtained.",
+  "new_historical_finding": false,
+  "limits": [
+    "No Helsinki manuscript photograph or PDF acquired.",
+    "No medieval side assigned from photograph ordinal.",
+    "No actual text contradiction, new adjacency or same-book attribution established.",
+    "The official browser record was hidden by a security check; no challenge bypass or refresh performed."
+  ]
+}

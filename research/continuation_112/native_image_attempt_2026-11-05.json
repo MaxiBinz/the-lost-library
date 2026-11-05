@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-05",
+  "question": "Can the wording on Fr 10406 image 1 be read more confidently using the archive's native-size reproduction?",
+  "manifest": "data/manifests/10406.json",
+  "canvas": "https://lbiiif.riksarkivet.se/arkis!R1010406_00001/canvas",
+  "advertised_dimensions": [1793, 1168],
+  "manifest_image_body": "https://lbiiif.riksarkivet.se/arkis!R1010406_00001/full/max/0/default.jpg",
+  "attempt": "One ordinary in-app browser open of the exact manifest image body returned net::ERR_BLOCKED_BY_CLIENT. No body was displayed or saved. Do not retry that exact URL or use another client to work around the failure.",
+  "source_images_added": 0,
+  "result": "The retained 800-pixel image remains the source for the unreviewed reading; the failed request neither confirms nor refutes the wording or proves the image unavailable to other researchers."
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-02",
+  "question": "Does the disputed word-initial on Turku fragment C resemble nearby d or r forms?",
+  "source": "https://www.codicesfennici.fi/items/show/249",
+  "viewer_image": "TMMA.FragC_0002_v.jpg",
+  "physical_location": "Left writing field; the catalogue calls it folio 1v. Select second viewer image manually, because deep links reset in this session.",
+  "protocol": "research/continuation_86/protocol.json",
+  "exposure": "Same AI had already seen target, 2017 TEI and external dedisti concordance. Controls chosen after that exposure; this is not an independent, blind or preregistered palaeographic assessment.",
+  "regions": [
+    {"name": "word-initial positive controls", "observed_viewer_xywh": [940, 552, 1901, 1324], "location": "Upper part of left field, line containing candidate dominum deum nostrum", "observation": "The candidate word-initial d forms have a bowl with a tall oblique ascender, broadly similar to the disputed initial. The surrounding words and expansion of their abbreviated forms are reference-assisted."},
+    {"name": "neighboring d and r controls and target", "observed_viewer_xywh": [839, 2539, 1901, 1324], "location": "Lower left field, adjacent lines containing candidate benedictus fructus ventris tui and Sicut mirra electa odorem ...", "observation": "The disputed initial, the d in odorem and the d in candidate benedictus appear to share a bowl and tall oblique ascender. The r forms in candidate fructus and ventris look shorter, without the same obvious ascender. The last strokes of the disputed word remain faded."}
+  ],
+  "caveats": ["The comparison reuses the same viewer image and AI reader; it is not a new manuscript witness or independent confirmation.", "Word position, adjacent letters, abbreviation and script variants can affect letter shape; the selected r controls are not exact position-matched initial r controls.", "No quantitative glyph classification or blinded selection was performed.", "A concordance supports dedisti as a familiar chant wording but cannot supply any illegible Turku letters.", "The page's transcription policy and first notice of a possible error remain unknown."],
+  "conclusion": "The local d/r controls strengthen the provisional reading d as the word's first character. The catalogue's redisti is a plausible transcription error and dedisti a plausible proposed reading; keep the ending and correction unconfirmed pending independent review.",
+  "classification": "B: plausible, unreviewed modern transcription correction",
+  "new_codex_attribution": false,
+  "independent_confirmation": false,
+  "catalogue_correction_confirmed": false,
+  "originality_established": false,
+  "frozen_decisions_changed": false,
+  "saved_image_files": 0,
+  "browser_image_transfer": "Displayed institutional tiles; byte count unmeasured. No source or cropped derivative saved."
+}

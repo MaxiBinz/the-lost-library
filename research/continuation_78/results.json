@@ -1,0 +1,21 @@
+{
+  "date":"2026-11-02",
+  "question":"Does the abbreviated Fr 10437 Domus mea cue establish that no complete Domus mea antiphon occurs in its service?",
+  "local_observation":"Fr 10437 capture 2 provisionally reads the end of Lapides pretiosi, an abbreviated Domus me... / Domus or... cue, then an Ad bened... ant... rubric and Mane surgens. The cue and markers are unreviewed.",
+  "candidate_interpretation":"The small cue may represent the verse-and-response work Cantus 008036, but the abbreviations and markers do not independently confirm the expansion or work ID.",
+  "published_control":"Cantus index for Krakow Carmelite Ms.3 f.80r lists Lauds antiphons Domum tuam, Hec est domus, Domus mea, Bene fundata, Lapides; then a hymn, Domus mea verse 008036 and Mane surgens. An Utrecht Ms.406 index also places the full Domus mea antiphon and a later verse in the same Lauds service, but places the antiphon before Hec est domus.",
+  "consequence":"A verse cue does not prove omission of the full antiphon, and a Domum–Hec opening can coexist with Domus later. Both are concrete published alternatives; neither inventory establishes the missing folded Swedish text or book identity.",
+  "limits":"Reference-exposed AI image reading; source markers and exact spelling require independent checking. Krakow and Utrecht inventories accessed through indexed search text, not original manuscript images. There is intervening hymn material in Krakow; no exact full-sequence identity, transmission, prevalence or originality is established. Capture 1-to-2 physical continuity remains unverified.",
+  "next_test":"Compare a securely corresponding notated antiphon across existing candidates and controls with explicit pitch and text underlay uncertainty, or inspect an authenticated source view exposing the folded section without retrying failed URLs.",
+  "source_regions":["I78-10437-lapides-verse-mane", "I77-10437-order", "I77-8066-domus-hec"],
+  "008036_locally_confirmed":false,
+  "original_comparators_inspected":false,
+  "10437_full_antiphon_omission_proven":false,
+  "exact_complete_sequence_matched":false,
+  "physical_side_map_verified":false,
+  "historical_book_relationship_established":false,
+  "independent_confirmation":false,
+  "new_discovery":false,
+  "new_source_images":0,
+  "new_download_bytes":0
+}

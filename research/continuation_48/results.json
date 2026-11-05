@@ -1,0 +1,815 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "completed_date": "2026-10-30",
+  "pair_audit": [
+    {
+      "lead_id": "pair-e7dd7d3bdc9a902f2a63",
+      "objects": [
+        "fragmentarium-F-5der",
+        "mpo-25592"
+      ],
+      "combined_units": [
+        null,
+        "BOMPAC-9531"
+      ],
+      "raw_units": [
+        null,
+        "F-25592"
+      ],
+      "category": "outside_workbook_crosswalk",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-eafe5048aae6282c0cb8",
+      "objects": [
+        "fragmentarium-F-5uba",
+        "mpo-25592"
+      ],
+      "combined_units": [
+        null,
+        "BOMPAC-9531"
+      ],
+      "raw_units": [
+        null,
+        "F-25592"
+      ],
+      "category": "outside_workbook_crosswalk",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-0e5884ee8e7775c2a4ef",
+      "objects": [
+        "mpo-10349",
+        "mpo-25592"
+      ],
+      "combined_units": [
+        "BOMPAC-5901",
+        "BOMPAC-9531"
+      ],
+      "raw_units": [
+        "C-37",
+        "F-25592"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-d3edceeb5829ddeac135",
+      "objects": [
+        "mpo-10349",
+        "mpo-2862"
+      ],
+      "combined_units": [
+        "BOMPAC-5901",
+        "BOMPAC-1703"
+      ],
+      "raw_units": [
+        "C-37",
+        "M-374"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-968ff6460a409e3f7e76",
+      "objects": [
+        "mpo-10349",
+        "mpo-2863"
+      ],
+      "combined_units": [
+        "BOMPAC-5901",
+        "BOMPAC-1703"
+      ],
+      "raw_units": [
+        "C-37",
+        "M-374"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-e86cd88728212e7aaf52",
+      "objects": [
+        "mpo-10349",
+        "mpo-2864"
+      ],
+      "combined_units": [
+        "BOMPAC-5901",
+        "BOMPAC-1703"
+      ],
+      "raw_units": [
+        "C-37",
+        "M-374"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-6687f9e4a781c8262b00",
+      "objects": [
+        "mpo-10349",
+        "mpo-2872"
+      ],
+      "combined_units": [
+        "BOMPAC-5901",
+        "BOMPAC-1703"
+      ],
+      "raw_units": [
+        "C-37",
+        "M-374"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-365f99cc96d5359228ae",
+      "objects": [
+        "mpo-10349",
+        "mpo-2873"
+      ],
+      "combined_units": [
+        "BOMPAC-5901",
+        "BOMPAC-1703"
+      ],
+      "raw_units": [
+        "C-37",
+        "M-374"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-d964f842625525837cb2",
+      "objects": [
+        "mpo-10370",
+        "mpo-20274"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-912"
+      ],
+      "raw_units": [
+        "M-1217",
+        "C-35"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-09cc19512c9ba72d3890",
+      "objects": [
+        "mpo-10406",
+        "mpo-10437"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-5324"
+      ],
+      "raw_units": [
+        "M-1217",
+        "M-1217"
+      ],
+      "category": "documented_shared_unit",
+      "source_credit_repair": true,
+      "decision_state": "previously_documented",
+      "primary_pair_test_pending": false,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-12922d2331e23ae279c7",
+      "objects": [
+        "mpo-10406",
+        "mpo-20274"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-912"
+      ],
+      "raw_units": [
+        "M-1217",
+        "C-35"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-56874b459d36d113b063",
+      "objects": [
+        "mpo-10406",
+        "mpo-8311"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-258"
+      ],
+      "raw_units": [
+        "M-1217",
+        "C-17"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-101db9134a41cb468657",
+      "objects": [
+        "mpo-10406",
+        "mpo-8994"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-5324"
+      ],
+      "raw_units": [
+        "M-1217",
+        "M-1217"
+      ],
+      "category": "documented_shared_unit",
+      "source_credit_repair": true,
+      "decision_state": "previously_documented",
+      "primary_pair_test_pending": false,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-b962aeb0080f381ef047",
+      "objects": [
+        "mpo-10407",
+        "mpo-10437"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-5324"
+      ],
+      "raw_units": [
+        "M-1217",
+        "M-1217"
+      ],
+      "category": "documented_shared_unit",
+      "source_credit_repair": true,
+      "decision_state": "previously_documented",
+      "primary_pair_test_pending": false,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-f283a0b0ac763b5bfb06",
+      "objects": [
+        "mpo-10407",
+        "mpo-1385"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-912"
+      ],
+      "raw_units": [
+        "M-1217",
+        "F-1385"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-6a754492c040fc412408",
+      "objects": [
+        "mpo-10407",
+        "mpo-20274"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-912"
+      ],
+      "raw_units": [
+        "M-1217",
+        "C-35"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-36e1e13fd0d21847cd97",
+      "objects": [
+        "mpo-10407",
+        "mpo-8994"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-5324"
+      ],
+      "raw_units": [
+        "M-1217",
+        "M-1217"
+      ],
+      "category": "documented_shared_unit",
+      "source_credit_repair": true,
+      "decision_state": "previously_documented",
+      "primary_pair_test_pending": false,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-4773bf552c2b6e6a497c",
+      "objects": [
+        "mpo-10437",
+        "mpo-1385"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-912"
+      ],
+      "raw_units": [
+        "M-1217",
+        "F-1385"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-913f792004fbccb24bad",
+      "objects": [
+        "mpo-10437",
+        "mpo-20274"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-912"
+      ],
+      "raw_units": [
+        "M-1217",
+        "C-35"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-a1618c08d7e6c514e564",
+      "objects": [
+        "mpo-10437",
+        "mpo-8994"
+      ],
+      "combined_units": [
+        "BOMPAC-5324",
+        "BOMPAC-5324"
+      ],
+      "raw_units": [
+        "M-1217",
+        "M-1217"
+      ],
+      "category": "documented_shared_unit",
+      "source_credit_repair": true,
+      "decision_state": "previously_documented",
+      "primary_pair_test_pending": false,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-43ea5533d834862d7057",
+      "objects": [
+        "mpo-1385",
+        "mpo-365"
+      ],
+      "combined_units": [
+        "BOMPAC-912",
+        "BOMPAC-258"
+      ],
+      "raw_units": [
+        "F-1385",
+        "C-17"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-1ed7d480c307658eaecd",
+      "objects": [
+        "mpo-1385",
+        "mpo-8994"
+      ],
+      "combined_units": [
+        "BOMPAC-912",
+        "BOMPAC-5324"
+      ],
+      "raw_units": [
+        "F-1385",
+        "M-1217"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-0809cb8978faf1329cbc",
+      "objects": [
+        "mpo-25173",
+        "mpo-25592"
+      ],
+      "combined_units": [
+        "BOMPAC-9350",
+        "BOMPAC-9531"
+      ],
+      "raw_units": [
+        "C-730",
+        "F-25592"
+      ],
+      "category": "different_units",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-da6e424935de87380cab",
+      "objects": [
+        "mpo-8066",
+        "mpo-8072"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-b9c7f92d84cc017ba48c",
+      "objects": [
+        "mpo-8066",
+        "mpo-8073"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-41bdbdc443d5b9b42678",
+      "objects": [
+        "mpo-8066",
+        "mpo-8201"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-8f3a072d37ac0a71a565",
+      "objects": [
+        "mpo-8066",
+        "mpo-8304"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-00f7a4ed7b39e57ed29e",
+      "objects": [
+        "mpo-8072",
+        "mpo-8073"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-89949f510ea367ba8a23",
+      "objects": [
+        "mpo-8072",
+        "mpo-8201"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-40a423101854019bb578",
+      "objects": [
+        "mpo-8072",
+        "mpo-8304"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-c92d0fefbd71465ce0fb",
+      "objects": [
+        "mpo-8072",
+        "mpo-9620"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-920b9d36ad1deef7511a",
+      "objects": [
+        "mpo-8073",
+        "mpo-8201"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-7958393ae77f4c1164b7",
+      "objects": [
+        "mpo-8073",
+        "mpo-8304"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-f106d472d279f60545ae",
+      "objects": [
+        "mpo-8073",
+        "mpo-9620"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-dd801424ce2ad9ecda18",
+      "objects": [
+        "mpo-8201",
+        "mpo-9620"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    },
+    {
+      "lead_id": "pair-2bcf84be6d1c5ab3e8b1",
+      "objects": [
+        "mpo-8304",
+        "mpo-9620"
+      ],
+      "combined_units": [
+        "BOMPAC-4861",
+        "BOMPAC-4861"
+      ],
+      "raw_units": [
+        "C-20",
+        "C-20"
+      ],
+      "category": "contested_shared_unit",
+      "source_credit_repair": false,
+      "decision_state": "unresolved",
+      "primary_pair_test_pending": true,
+      "scope": "Source assignment audit only; no new primary pair reading or physical identity proof."
+    }
+  ],
+  "totals": {
+    "audited_pair_leads": 36,
+    "source_objects": 23,
+    "outside_crosswalk_objects": 2,
+    "source_credit_repairs": 5,
+    "primary_pair_tests_pending": 31,
+    "categories": {
+      "outside_workbook_crosswalk": 2,
+      "different_units": 16,
+      "documented_shared_unit": 5,
+      "contested_shared_unit": 13
+    }
+  },
+  "repair_leads": [
+    "pair-09cc19512c9ba72d3890",
+    "pair-101db9134a41cb468657",
+    "pair-b962aeb0080f381ef047",
+    "pair-36e1e13fd0d21847cd97",
+    "pair-a1618c08d7e6c514e564"
+  ],
+  "pending_primary_leads": [
+    "pair-e7dd7d3bdc9a902f2a63",
+    "pair-eafe5048aae6282c0cb8",
+    "pair-0e5884ee8e7775c2a4ef",
+    "pair-d3edceeb5829ddeac135",
+    "pair-968ff6460a409e3f7e76",
+    "pair-e86cd88728212e7aaf52",
+    "pair-6687f9e4a781c8262b00",
+    "pair-365f99cc96d5359228ae",
+    "pair-d964f842625525837cb2",
+    "pair-12922d2331e23ae279c7",
+    "pair-56874b459d36d113b063",
+    "pair-f283a0b0ac763b5bfb06",
+    "pair-6a754492c040fc412408",
+    "pair-4773bf552c2b6e6a497c",
+    "pair-913f792004fbccb24bad",
+    "pair-43ea5533d834862d7057",
+    "pair-1ed7d480c307658eaecd",
+    "pair-0809cb8978faf1329cbc",
+    "pair-da6e424935de87380cab",
+    "pair-b9c7f92d84cc017ba48c",
+    "pair-41bdbdc443d5b9b42678",
+    "pair-8f3a072d37ac0a71a565",
+    "pair-00f7a4ed7b39e57ed29e",
+    "pair-89949f510ea367ba8a23",
+    "pair-40a423101854019bb578",
+    "pair-c92d0fefbd71465ce0fb",
+    "pair-920b9d36ad1deef7511a",
+    "pair-7958393ae77f4c1164b7",
+    "pair-f106d472d279f60545ae",
+    "pair-dd801424ce2ad9ecda18",
+    "pair-2bcf84be6d1c5ab3e8b1"
+  ],
+  "unit_conflict": {
+    "unit": "BOMPAC-4861",
+    "raw_unit": "C-20",
+    "objects": [
+      "mpo-8201",
+      "mpo-8304"
+    ],
+    "combined_excel_rows": [
+      8203,
+      8306
+    ],
+    "published_rejection": "https://doi.org/10.25167/ls.4818",
+    "published_rejection_locator": "Grajewski2022 p293, paragraph beside Table2; previously frozen H06, re-read from retained source page.",
+    "result": "The pinned combined dataset places8201 and8304 in one reconstruction unit; the published study places8304 in a different manuscript despite the same hand. These are competing source assertions.",
+    "scope": "Source/data reconciliation issue, not a newly discovered historical exclusion, a proved global dataset error or a cleared novelty claim.",
+    "interpretation_scope": "Literal co-assignment is a source assertion. Its implied same-codex meaning is recorded as a separate unresolved project interpretation of the published unit definition, not a direct pair-level argument by the dataset authors.",
+    "novelty_cleared": false,
+    "independent_confirmation": false
+  },
+  "next_test": {
+    "pair": [
+      "mpo-8201",
+      "mpo-8304"
+    ],
+    "question": "Do the actual retained captures independently show both office-opening rubrics and their exact positions, as required by the published different-book argument? Preserve uncertain readings and composite/repeated-office alternatives.",
+    "selection": "Existing frozen negative control and unit conflict, not a new target. Use all four retained captures per fragment; no invented missing positive-control image.",
+    "dependency": "Fr20106 is catalogued at KB A103 but its retained MPO record has neither viewer nor IIIF pointer. Its missing image remains a separate explicit dependency."
+  },
+  "independent_confirmation": false,
+  "new_discovery": false,
+  "goal_complete": false,
+  "global_blocker_established": false,
+  "new_source_image_files": 0,
+  "retained_file_acquisition_bytes": 0,
+  "web_reader_traffic": "Unmeasured; covered by existing planning reserve."
+}

@@ -1,0 +1,264 @@
+{
+  "assessment_date": "2026-10-22",
+  "experiment": "post-review gross ruling-scale incompatibility check on H02",
+  "observer": "Codex AI source inspection; no independent expert adjudication",
+  "method": "Four visually selected four-line staffs per capture. Row mean(R-G); greedy four strongest peaks separated by >=10 pixels, visually checked by the AI observer against the displayed source. Normalize to approximate ruler numeral positions.",
+  "results": [
+    {
+      "fragment_id": "mpo-1385",
+      "path": "data/images/mpo-1385-capture-2.jpg",
+      "sha256": "0a3f4c6bd4b94d8616b081feebbb8e41d2460b26d3a62ecedb76218912f35f1f",
+      "windows": [
+        [
+          470,
+          65,
+          260,
+          65
+        ],
+        [
+          470,
+          158,
+          260,
+          63
+        ],
+        [
+          470,
+          249,
+          260,
+          66
+        ],
+        [
+          470,
+          338,
+          260,
+          66
+        ]
+      ],
+      "approx_ruler_anchor_rows": {
+        "0": 632,
+        "10": 345
+      },
+      "staves": [
+        {
+          "region_xywh": [
+            470,
+            65,
+            260,
+            65
+          ],
+          "line_peak_rows": [
+            74,
+            89,
+            105,
+            121
+          ],
+          "interline_pixels": [
+            15,
+            16,
+            16
+          ],
+          "staff_pitch_pixels": 15.666666666666666
+        },
+        {
+          "region_xywh": [
+            470,
+            158,
+            260,
+            63
+          ],
+          "line_peak_rows": [
+            166,
+            181,
+            196,
+            213
+          ],
+          "interline_pixels": [
+            15,
+            15,
+            17
+          ],
+          "staff_pitch_pixels": 15.666666666666666
+        },
+        {
+          "region_xywh": [
+            470,
+            249,
+            260,
+            66
+          ],
+          "line_peak_rows": [
+            257,
+            272,
+            288,
+            304
+          ],
+          "interline_pixels": [
+            15,
+            16,
+            16
+          ],
+          "staff_pitch_pixels": 15.666666666666666
+        },
+        {
+          "region_xywh": [
+            470,
+            338,
+            260,
+            66
+          ],
+          "line_peak_rows": [
+            347,
+            363,
+            379,
+            395
+          ],
+          "interline_pixels": [
+            16,
+            16,
+            16
+          ],
+          "staff_pitch_pixels": 16.0
+        }
+      ],
+      "mean_staff_pitch_pixels": 15.75,
+      "approx_pixels_per_numbered_ruler_interval": 28.7,
+      "staff_pitch_per_numbered_ruler_interval": 0.5487804878048781,
+      "endpoint_sensitivity_range": [
+        0.5112994350282486,
+        0.5884109916367981
+      ]
+    },
+    {
+      "fragment_id": "mpo-10406",
+      "path": "data/images/mpo-10406-capture-2.jpg",
+      "sha256": "817ae2d3e4d65c91bae80c6d56ff009bd669252a039c63e7e9488afc9b3440eb",
+      "windows": [
+        [
+          470,
+          45,
+          260,
+          64
+        ],
+        [
+          470,
+          140,
+          260,
+          65
+        ],
+        [
+          470,
+          228,
+          260,
+          65
+        ],
+        [
+          470,
+          320,
+          260,
+          65
+        ]
+      ],
+      "approx_ruler_anchor_rows": {
+        "0": 594,
+        "10": 316
+      },
+      "staves": [
+        {
+          "region_xywh": [
+            470,
+            45,
+            260,
+            64
+          ],
+          "line_peak_rows": [
+            54,
+            70,
+            85,
+            101
+          ],
+          "interline_pixels": [
+            16,
+            15,
+            16
+          ],
+          "staff_pitch_pixels": 15.666666666666666
+        },
+        {
+          "region_xywh": [
+            470,
+            140,
+            260,
+            65
+          ],
+          "line_peak_rows": [
+            148,
+            164,
+            179,
+            194
+          ],
+          "interline_pixels": [
+            16,
+            15,
+            15
+          ],
+          "staff_pitch_pixels": 15.333333333333334
+        },
+        {
+          "region_xywh": [
+            470,
+            228,
+            260,
+            65
+          ],
+          "line_peak_rows": [
+            236,
+            251,
+            267,
+            283
+          ],
+          "interline_pixels": [
+            15,
+            16,
+            16
+          ],
+          "staff_pitch_pixels": 15.666666666666666
+        },
+        {
+          "region_xywh": [
+            470,
+            320,
+            260,
+            65
+          ],
+          "line_peak_rows": [
+            329,
+            344,
+            360,
+            375
+          ],
+          "interline_pixels": [
+            15,
+            16,
+            15
+          ],
+          "staff_pitch_pixels": 15.333333333333334
+        }
+      ],
+      "mean_staff_pitch_pixels": 15.5,
+      "approx_pixels_per_numbered_ruler_interval": 27.8,
+      "staff_pitch_per_numbered_ruler_interval": 0.5575539568345323,
+      "endpoint_sensitivity_range": [
+        0.5186480186480187,
+        0.5987654320987654
+      ]
+    }
+  ],
+  "outcome": "No gross ruling-scale incompatibility detected in these samples; similar spacing is non-identifying.",
+  "limits": [
+    "Selected windows and approximate ruler anchors were chosen after inspecting both sources; not blind or preregistered.",
+    "Numbered ruler intervals are not certified physical units. Source perspective, surface warping and lighting are not corrected.",
+    "Sensitivity ranges are deterministic endpoint perturbations, not statistical confidence intervals.",
+    "Comparable ruling does not prove same book, same hand, shared workshop, date or provenance.",
+    "No threshold or benchmark predictor was modified; this is a descriptive case check."
+  ]
+}

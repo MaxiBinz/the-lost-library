@@ -1,0 +1,471 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "comparisons": [
+    {
+      "lead_id": "pair-12922d2331e23ae279c7",
+      "pair": [
+        "mpo-10406",
+        "mpo-20274"
+      ],
+      "contexts": {
+        "mpo-10406": {
+          "context": "One broad notated field with red service cues; catalogue Magdalene, James and Olav material is attributed rather than silently expanded from the rubric. Four source photographs inspected.",
+          "regions": [
+            "I54-10406-service"
+          ],
+          "marks": [],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        },
+        "mpo-20274": {
+          "context": "One broad notated field with Marian material already investigated. Its two retained photographs overlap one page area; they are not independent leaves. Upper red sign remains f/4-like and unnormalized; pencil KB/A103k/CXVIII is later library identification.",
+          "regions": [
+            "I51-20274-upper-sign",
+            "I51-20274-library-label"
+          ],
+          "marks": [
+            "f/4-like, uncertain"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        }
+      },
+      "source_regions": [
+        "I54-10406-service",
+        "I51-20274-upper-sign",
+        "I51-20274-library-label"
+      ],
+      "comparison_scope": "Initial selected-source mark, service-context and writing-field comparison; incomplete historical identity test.",
+      "equal_ix_catalogue_suggestion_tested": false,
+      "equal_ix_source_result": null,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "complete_source_photo_coverage": true,
+      "complete_corresponding_diagnostic_work_established": false,
+      "unique_shared_original_address_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "One broad field and different service/calendar material are compatibility only. Original mark function, resets, section copying and composite volumes remain alternatives. Reused bindings do not establish original quire structure.",
+      "next_test": "Identify a securely corresponding text/work or original physical feature; first establish source-photo/original-side mapping. Do not repeat a generic common-layout or different-feast screen."
+    },
+    {
+      "lead_id": "pair-56874b459d36d113b063",
+      "pair": [
+        "mpo-10406",
+        "mpo-8311"
+      ],
+      "contexts": {
+        "mpo-10406": {
+          "context": "One broad notated field with red service cues; catalogue Magdalene, James and Olav material is attributed rather than silently expanded from the rubric. Four source photographs inspected.",
+          "regions": [
+            "I54-10406-service"
+          ],
+          "marks": [],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        },
+        "mpo-8311": {
+          "context": "One broad notated field with Dum-deambularet/paradiso/Adam wording. Four source photographs inspected; rotated later account writing does not supply an original address.",
+          "regions": [
+            "I54-8311-adam"
+          ],
+          "marks": [],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        }
+      },
+      "source_regions": [
+        "I54-10406-service",
+        "I54-8311-adam"
+      ],
+      "comparison_scope": "Initial selected-source mark, service-context and writing-field comparison; incomplete historical identity test.",
+      "equal_ix_catalogue_suggestion_tested": false,
+      "equal_ix_source_result": null,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "complete_source_photo_coverage": true,
+      "complete_corresponding_diagnostic_work_established": false,
+      "unique_shared_original_address_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "One broad field and different service/calendar material are compatibility only. Original mark function, resets, section copying and composite volumes remain alternatives. Reused bindings do not establish original quire structure.",
+      "next_test": "Identify a securely corresponding text/work or original physical feature; first establish source-photo/original-side mapping. Do not repeat a generic common-layout or different-feast screen."
+    },
+    {
+      "lead_id": "pair-f283a0b0ac763b5bfb06",
+      "pair": [
+        "mpo-10407",
+        "mpo-1385"
+      ],
+      "contexts": {
+        "mpo-10407": {
+          "context": "One broad notated field; ix-like and i-like upper marks, plus provisional Irregabat/lacrimis context compatible with the already described Magdalene material.",
+          "regions": [
+            "I54-10407-ix",
+            "I54-10407-i",
+            "I54-10407-irregabat"
+          ],
+          "marks": [
+            "ix-like",
+            "i-like"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        },
+        "mpo-1385": {
+          "context": "One broad notated field with service rubrics; catalogue Holy-Thursday context is credited. The two catalogue IX/D marks are clipped in retained first/third views; no secure fresh complete reading.",
+          "regions": [
+            "I54-1385-first-edge",
+            "I54-1385-third-edge"
+          ],
+          "marks": [
+            "unread: first clipped",
+            "unread: third clipped"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        }
+      },
+      "source_regions": [
+        "I54-10407-ix",
+        "I54-10407-i",
+        "I54-10407-irregabat",
+        "I54-1385-first-edge",
+        "I54-1385-third-edge"
+      ],
+      "comparison_scope": "Initial selected-source mark, service-context and writing-field comparison; incomplete historical identity test.",
+      "equal_ix_catalogue_suggestion_tested": true,
+      "equal_ix_source_result": "10407 ix-like sign is visible;1385 catalogue IX is clipped/unread in retained source. No securely shared unique address.",
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "complete_source_photo_coverage": true,
+      "complete_corresponding_diagnostic_work_established": false,
+      "unique_shared_original_address_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "One broad field and different service/calendar material are compatibility only. Original mark function, resets, section copying and composite volumes remain alternatives. Reused bindings do not establish original quire structure.",
+      "next_test": "Obtain a genuinely new source view of the clipped1385 marks, if an exact lawful pointer is available, and establish the numeral/letter convention before an address argument. Otherwise this particular mark test remains access-limited."
+    },
+    {
+      "lead_id": "pair-6a754492c040fc412408",
+      "pair": [
+        "mpo-10407",
+        "mpo-20274"
+      ],
+      "contexts": {
+        "mpo-10407": {
+          "context": "One broad notated field; ix-like and i-like upper marks, plus provisional Irregabat/lacrimis context compatible with the already described Magdalene material.",
+          "regions": [
+            "I54-10407-ix",
+            "I54-10407-i",
+            "I54-10407-irregabat"
+          ],
+          "marks": [
+            "ix-like",
+            "i-like"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        },
+        "mpo-20274": {
+          "context": "One broad notated field with Marian material already investigated. Its two retained photographs overlap one page area; they are not independent leaves. Upper red sign remains f/4-like and unnormalized; pencil KB/A103k/CXVIII is later library identification.",
+          "regions": [
+            "I51-20274-upper-sign",
+            "I51-20274-library-label"
+          ],
+          "marks": [
+            "f/4-like, uncertain"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        }
+      },
+      "source_regions": [
+        "I54-10407-ix",
+        "I54-10407-i",
+        "I54-10407-irregabat",
+        "I51-20274-upper-sign",
+        "I51-20274-library-label"
+      ],
+      "comparison_scope": "Initial selected-source mark, service-context and writing-field comparison; incomplete historical identity test.",
+      "equal_ix_catalogue_suggestion_tested": false,
+      "equal_ix_source_result": null,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "complete_source_photo_coverage": true,
+      "complete_corresponding_diagnostic_work_established": false,
+      "unique_shared_original_address_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "One broad field and different service/calendar material are compatibility only. Original mark function, resets, section copying and composite volumes remain alternatives. Reused bindings do not establish original quire structure.",
+      "next_test": "Identify a securely corresponding text/work or original physical feature; first establish source-photo/original-side mapping. Do not repeat a generic common-layout or different-feast screen."
+    },
+    {
+      "lead_id": "pair-4773bf552c2b6e6a497c",
+      "pair": [
+        "mpo-10437",
+        "mpo-1385"
+      ],
+      "contexts": {
+        "mpo-10437": {
+          "context": "One broad notated field; vj-like and O-like upper signs and Domum-tuam dedication context. Later binding straps over text are reuse evidence.",
+          "regions": [
+            "I54-10437-vj",
+            "I54-10437-o",
+            "I54-10437-domum",
+            "I54-10437-reuse"
+          ],
+          "marks": [
+            "vj-like",
+            "O-like"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        },
+        "mpo-1385": {
+          "context": "One broad notated field with service rubrics; catalogue Holy-Thursday context is credited. The two catalogue IX/D marks are clipped in retained first/third views; no secure fresh complete reading.",
+          "regions": [
+            "I54-1385-first-edge",
+            "I54-1385-third-edge"
+          ],
+          "marks": [
+            "unread: first clipped",
+            "unread: third clipped"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        }
+      },
+      "source_regions": [
+        "I54-10437-vj",
+        "I54-10437-o",
+        "I54-10437-domum",
+        "I54-10437-reuse",
+        "I54-1385-first-edge",
+        "I54-1385-third-edge"
+      ],
+      "comparison_scope": "Initial selected-source mark, service-context and writing-field comparison; incomplete historical identity test.",
+      "equal_ix_catalogue_suggestion_tested": false,
+      "equal_ix_source_result": null,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "complete_source_photo_coverage": true,
+      "complete_corresponding_diagnostic_work_established": false,
+      "unique_shared_original_address_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "One broad field and different service/calendar material are compatibility only. Original mark function, resets, section copying and composite volumes remain alternatives. Reused bindings do not establish original quire structure.",
+      "next_test": "Obtain a genuinely new source view of the clipped1385 marks, if an exact lawful pointer is available, and establish the numeral/letter convention before an address argument. Otherwise this particular mark test remains access-limited."
+    },
+    {
+      "lead_id": "pair-913f792004fbccb24bad",
+      "pair": [
+        "mpo-10437",
+        "mpo-20274"
+      ],
+      "contexts": {
+        "mpo-10437": {
+          "context": "One broad notated field; vj-like and O-like upper signs and Domum-tuam dedication context. Later binding straps over text are reuse evidence.",
+          "regions": [
+            "I54-10437-vj",
+            "I54-10437-o",
+            "I54-10437-domum",
+            "I54-10437-reuse"
+          ],
+          "marks": [
+            "vj-like",
+            "O-like"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        },
+        "mpo-20274": {
+          "context": "One broad notated field with Marian material already investigated. Its two retained photographs overlap one page area; they are not independent leaves. Upper red sign remains f/4-like and unnormalized; pencil KB/A103k/CXVIII is later library identification.",
+          "regions": [
+            "I51-20274-upper-sign",
+            "I51-20274-library-label"
+          ],
+          "marks": [
+            "f/4-like, uncertain"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        }
+      },
+      "source_regions": [
+        "I54-10437-vj",
+        "I54-10437-o",
+        "I54-10437-domum",
+        "I54-10437-reuse",
+        "I51-20274-upper-sign",
+        "I51-20274-library-label"
+      ],
+      "comparison_scope": "Initial selected-source mark, service-context and writing-field comparison; incomplete historical identity test.",
+      "equal_ix_catalogue_suggestion_tested": false,
+      "equal_ix_source_result": null,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "complete_source_photo_coverage": true,
+      "complete_corresponding_diagnostic_work_established": false,
+      "unique_shared_original_address_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "One broad field and different service/calendar material are compatibility only. Original mark function, resets, section copying and composite volumes remain alternatives. Reused bindings do not establish original quire structure.",
+      "next_test": "Identify a securely corresponding text/work or original physical feature; first establish source-photo/original-side mapping. Do not repeat a generic common-layout or different-feast screen."
+    },
+    {
+      "lead_id": "pair-43ea5533d834862d7057",
+      "pair": [
+        "mpo-1385",
+        "mpo-365"
+      ],
+      "contexts": {
+        "mpo-1385": {
+          "context": "One broad notated field with service rubrics; catalogue Holy-Thursday context is credited. The two catalogue IX/D marks are clipped in retained first/third views; no secure fresh complete reading.",
+          "regions": [
+            "I54-1385-first-edge",
+            "I54-1385-third-edge"
+          ],
+          "marks": [
+            "unread: first clipped",
+            "unread: third clipped"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        },
+        "mpo-365": {
+          "context": "One selected broad-field thumbnail has a Hi-sunt/sanguine passage. Three other manifest photographs remain outside this phase; no secure original address from the selected view.",
+          "regions": [
+            "I54-365-hisunt"
+          ],
+          "marks": [],
+          "full_manifest_photo_coverage": false,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        }
+      },
+      "source_regions": [
+        "I54-1385-first-edge",
+        "I54-1385-third-edge",
+        "I54-365-hisunt"
+      ],
+      "comparison_scope": "Initial selected-source mark, service-context and writing-field comparison; incomplete historical identity test.",
+      "equal_ix_catalogue_suggestion_tested": false,
+      "equal_ix_source_result": null,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "complete_source_photo_coverage": false,
+      "complete_corresponding_diagnostic_work_established": false,
+      "unique_shared_original_address_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "One broad field and different service/calendar material are compatibility only. Original mark function, resets, section copying and composite volumes remain alternatives. Reused bindings do not establish original quire structure.",
+      "next_test": "Obtain a genuinely new source view of the clipped1385 marks, if an exact lawful pointer is available, and establish the numeral/letter convention before an address argument. Otherwise this particular mark test remains access-limited."
+    },
+    {
+      "lead_id": "pair-1ed7d480c307658eaecd",
+      "pair": [
+        "mpo-1385",
+        "mpo-8994"
+      ],
+      "contexts": {
+        "mpo-1385": {
+          "context": "One broad notated field with service rubrics; catalogue Holy-Thursday context is credited. The two catalogue IX/D marks are clipped in retained first/third views; no secure fresh complete reading.",
+          "regions": [
+            "I54-1385-first-edge",
+            "I54-1385-third-edge"
+          ],
+          "marks": [
+            "unread: first clipped",
+            "unread: third clipped"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        },
+        "mpo-8994": {
+          "context": "One broad notated field with already studied Stephen material. Previously recorded IIII-like and k-like red signs recur; no new side map or physical join.",
+          "regions": [
+            "I33-8994-roman",
+            "I33-8994-k",
+            "I33-8994-third-nocturn",
+            "I40-8994-contemplatur"
+          ],
+          "marks": [
+            "IIII-like",
+            "k-like"
+          ],
+          "full_manifest_photo_coverage": true,
+          "columns_visible": 1,
+          "original_address_function_established": false,
+          "medieval_side": null
+        }
+      },
+      "source_regions": [
+        "I54-1385-first-edge",
+        "I54-1385-third-edge",
+        "I33-8994-roman",
+        "I33-8994-k",
+        "I33-8994-third-nocturn",
+        "I40-8994-contemplatur"
+      ],
+      "comparison_scope": "Initial selected-source mark, service-context and writing-field comparison; incomplete historical identity test.",
+      "equal_ix_catalogue_suggestion_tested": false,
+      "equal_ix_source_result": null,
+      "selected_view_inspection_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "complete_source_photo_coverage": true,
+      "complete_corresponding_diagnostic_work_established": false,
+      "unique_shared_original_address_established": false,
+      "historical_same_codex_excluded": false,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "limits": "One broad field and different service/calendar material are compatibility only. Original mark function, resets, section copying and composite volumes remain alternatives. Reused bindings do not establish original quire structure.",
+      "next_test": "Obtain a genuinely new source view of the clipped1385 marks, if an exact lawful pointer is available, and establish the numeral/letter convention before an address argument. Otherwise this particular mark test remains access-limited."
+    }
+  ]
+}

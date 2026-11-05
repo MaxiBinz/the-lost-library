@@ -1,0 +1,93 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "O-mpo-20274",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The inspected capture shows a broad single column of black square-shaped music signs and text on red ruling.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=70,90,500,200"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/800,/0/default.jpg",
+      "sha256": "59fd853b430a67e4d1bc6978ce1de41c301dc45ab1c6b10b432d5a764f405272",
+      "observer": "AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Not independently checked by a manuscript specialist",
+      "interpretation_limits": [
+        "Pixel regions identify inspected areas, not original dimensions.",
+        "No folio-side, date, scribe or manuscript identity established.",
+        "No note-level transcription attempted."
+      ]
+    },
+    {
+      "id": "O-mpo-1385",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The inspected capture shows music and text in a broad single column with red ruling; a folded/damaged lower area restricts the photographed surface.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=65,75,440,300"
+        }
+      },
+      "fragment_id": "mpo-1385",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00001/full/800,/0/default.jpg",
+      "sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+      "observer": "AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Not independently checked by a manuscript specialist",
+      "interpretation_limits": [
+        "Pixel regions identify inspected areas, not original dimensions.",
+        "No folio-side, date, scribe or manuscript identity established.",
+        "No note-level transcription attempted."
+      ]
+    },
+    {
+      "id": "O-mpo-25592",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The inspected capture shows two columns containing text interspersed with notation, with red and blue decorated initials.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-25592.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=85,100,360,235"
+        }
+      },
+      "fragment_id": "mpo-25592",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1025592_00001/full/800,/0/default.jpg",
+      "sha256": "08312a14fdaba737712519df355ad4143d893ab7e18a18dac16bf14588e25184",
+      "observer": "AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Not independently checked by a manuscript specialist",
+      "interpretation_limits": [
+        "Pixel regions identify inspected areas, not original dimensions.",
+        "No folio-side, date, scribe or manuscript identity established.",
+        "No note-level transcription attempted."
+      ]
+    }
+  ]
+}

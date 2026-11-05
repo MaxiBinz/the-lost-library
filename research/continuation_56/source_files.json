@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "recorded_by": "Codex AI from the visible public AINA file panel; manual structured receipt, not a raw institutional API export",
+  "file_panel_url": "https://museo.disec.fi/Yksa4/id/160988864803200/#tab/files",
+  "sources": [
+    {
+      "physical_object_id": "turku-fragc",
+      "source_photo_id": "TMM23245-3_a",
+      "source_capture_index": 0,
+      "url": "https://museo.disec.fi/Yksa4/download/160988864803200/file/9fb4ab7a-5c70-4aed-8f38-2c44936e2c6d?filename=TMM23245-3_a.tif",
+      "path": "research/continuation_56/images/TMM23245-3_a.tif",
+      "display_derivative_path": "research/continuation_56/images/TMM23245-3_a-2200px.jpg",
+      "width": 6974,
+      "height": 4703,
+      "advertised_size_MB": 49.4,
+      "rights_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Alkuperäinen kuva: Mikko Kyynäräinen / Turun museokeskus",
+      "source_record_url": "https://museo.disec.fi/Yksa4/id/160988864803200/",
+      "source_field": "Public file panel, TMM23245-3_a.tif",
+      "medieval_side": null
+    },
+    {
+      "physical_object_id": "turku-fragc",
+      "source_photo_id": "TMM23245-3_b",
+      "source_capture_index": 1,
+      "url": "https://museo.disec.fi/Yksa4/download/160988864803200/file/7be66b37-7f26-4934-a235-cc9e786eb8a9?filename=TMM23245-3_b.tif",
+      "path": "research/continuation_56/images/TMM23245-3_b.tif",
+      "display_derivative_path": "research/continuation_56/images/TMM23245-3_b-2200px.jpg",
+      "width": 6985,
+      "height": 4740,
+      "advertised_size_MB": 55.6,
+      "rights_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Alkuperäinen kuva: Mikko Kyynäräinen / Turun museokeskus",
+      "source_record_url": "https://museo.disec.fi/Yksa4/id/160988864803200/",
+      "source_field": "Public file panel, TMM23245-3_b.tif",
+      "medieval_side": null
+    }
+  ],
+  "other_files_not_requested": [
+    {
+      "filename": "TMM23245-3_a.jpg",
+      "width": 800,
+      "height": 539,
+      "advertised_kB": 288.1
+    },
+    {
+      "filename": "TMM23245-3_b.jpg",
+      "width": 800,
+      "height": 543,
+      "advertised_kB": 258.3
+    }
+  ],
+  "rights_scope": "The museum record publication section displays CC BY4.0 and requires photographer/organisation attribution. The same credited photographer is explicitly named for each selected public TIFF. CF image copies have a separate BY-ND notice and are not downloaded."
+}

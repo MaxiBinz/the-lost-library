@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-01",
+  "claim": "Assess whether selected D-initial construction distinguishes candidate IV.173/Fr 1385 from shared-style different-book controls.",
+  "prior_exposure": "All candidate and control photographs have been inspected before this protocol; exploratory, not blind or preregistered.",
+  "selection": "Compare the D beginning Dignare in IV.173 PDF page 2 with the D beginning Dabit in Fr 1385 image 1; reuse E20 D examples in the published different-book pair Fr 8201/8304. Contexts and roles differ. Fr 20274 is an accepted Fr 1385 same-book comparator, but the retained images show no suitable decorated D; that is a control limitation, not a claim about the whole book.",
+  "alternatives": [
+    "shared artistic vocabulary or production across books",
+    "same book with variation between initials or sections",
+    "different decorators, visual damage, or unequal resolution",
+    "errors in letter or function identification",
+    "composite manuscript or incorrect published association"
+  ],
+  "decision_rule": "Do not infer same book, exclusion, hand, or feature rarity from a small selected comparison. Stronger discrimination requires role-matched D samples from confirmed same-book and different-book material.",
+  "acquisition": {
+    "manifest": "data/manifests/1385.json",
+    "manifest_sha256": "162b44d16f2907f6af4a7cd98fffaf402d5bc9c77cdcf8b0bc6037b8518f7de0",
+    "locator": "items/0/items/0/items/0/body/id",
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1001385_00001/full/max/0/default.jpg",
+    "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1001385_00001/canvas",
+    "width": 1727,
+    "height": 1189,
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "max_bytes": 8000000,
+    "path": "research/continuation_63/images/Fr1385-capture-1-native.jpg",
+    "maximum_requests": 1,
+    "retry": false
+  },
+  "resource_assumption": "208 working source files and conservative 1675860841-byte transfer plan including 1GB reserve before this request; exact historic traffic unmeasured."
+}

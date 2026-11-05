@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-03",
+  "source_sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+  "source_regions": [
+    "I92-10370-text-span",
+    "I92-10370-ruler"
+  ],
+  "ruler_px_per_cm": 49.1,
+  "interior_glyph_span_px": 1000,
+  "apparent_span_cm": 20.367,
+  "illustrative_min_span_cm": 19.394,
+  "catalogue_ii64_width_cm": 18.5,
+  "interpretation": "The selected Swedish glyph positions span about 20.4 cm in the image. A conservative chosen point/ruler perturbation remains about 19.4 cm. This is conditional on the ruler scale applying to the text plane; the Finnish value is catalogue metadata, not an image measurement.",
+  "not_established": [
+    "full Swedish written-area width",
+    "Finnish physical measurement",
+    "same or different medieval book",
+    "same or different account",
+    "physical exclusion",
+    "novel discovery",
+    "independent confirmation"
+  ]
+}

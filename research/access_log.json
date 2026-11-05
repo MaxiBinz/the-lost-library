@@ -1,0 +1,253 @@
+[
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1007957/manifest",
+    "checked_at_utc": "2026-10-19T20:19:51.236285+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1007957/manifest",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14763,
+    "sha256": "4b6191960f12b566226d40d86bf03debae331514d3ee6a6f0c074e05572757c7",
+    "saved": "research/evidence/mpo_7957_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007957_00001/info.json",
+    "checked_at_utc": "2026-10-19T20:19:51.438802+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007957_00001/info.json",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 609,
+    "sha256": "6c614cb087c0cd85ca719d02b3354cf1fa5d05c6fe22a33f8f9995221dd3f4e2",
+    "saved": "research/evidence/mpo_7957_info.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007957_00001/full/800,/0/default.jpg",
+    "checked_at_utc": "2026-10-19T20:19:51.742316+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007957_00001/full/800,/0/default.jpg",
+    "content_type": "image/jpeg",
+    "bytes": 120068,
+    "sha256": "0c9f041974c91aaa13dd2439fdcd2611ab1e52566a464d9c04f8098d911456c8",
+    "jpeg_dimensions": [
+      800,
+      1143
+    ],
+    "saved": "research/evidence/mpo_7957_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1007957_00001/full/max/0/default.jpg",
+    "checked_at_utc": "2026-10-19T20:19:52.335303+00:00",
+    "status": null,
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1007960/manifest",
+    "checked_at_utc": "2026-10-19T20:20:27.346275+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1007960/manifest",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14763,
+    "sha256": "c2e4cdc80161c008c68590206a75247ffb7df60ea404b299bc866594754e8a04",
+    "saved": "research/evidence/mpo_7960_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00001/info.json",
+    "checked_at_utc": "2026-10-19T20:20:27.568356+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00001/info.json",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 609,
+    "sha256": "15109db65e7f96a064abb3b5973c20a92f6a4b7331a7f4dfe52dfd839b405731",
+    "saved": "research/evidence/mpo_7960_info.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00001/full/800,/0/default.jpg",
+    "checked_at_utc": "2026-10-19T20:20:27.807348+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007960_00001/full/800,/0/default.jpg",
+    "content_type": "image/jpeg",
+    "bytes": 138550,
+    "sha256": "17a6ee87a3aa967b85ccce30e1512eebe1de779f2d46e05df3bada0b31eb2538",
+    "jpeg_dimensions": [
+      800,
+      1278
+    ],
+    "saved": "research/evidence/mpo_7960_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1007961/manifest",
+    "checked_at_utc": "2026-10-19T20:20:28.479064+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1007961/manifest",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14763,
+    "sha256": "862f7fc5947b22823195825f7b0fac8e9bd01026e1c7b938cd74494a6d92bb48",
+    "saved": "research/evidence/mpo_7961_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00001/info.json",
+    "checked_at_utc": "2026-10-19T20:20:28.688415+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00001/info.json",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 609,
+    "sha256": "eade40d7ab3c196f751d951f1b4eaaabab89aade1af4b07966204bc94e1a8caf",
+    "saved": "research/evidence/mpo_7961_info.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00001/full/800,/0/default.jpg",
+    "checked_at_utc": "2026-10-19T20:20:29.009695+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007961_00001/full/800,/0/default.jpg",
+    "content_type": "image/jpeg",
+    "bytes": 139539,
+    "sha256": "0ce3650d26aabb22cab41c6e7c53ed351ab8bd1f7255c31646626adbaa43d8f2",
+    "jpeg_dimensions": [
+      800,
+      1184
+    ],
+    "saved": "research/evidence/mpo_7961_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008343/manifest",
+    "checked_at_utc": "2026-10-19T20:20:29.641619+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008343/manifest",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14763,
+    "sha256": "2276524445c9e96a003633a6cf26ab716fe42c8379785b1aa6053613721530de",
+    "saved": "research/evidence/mpo_8343_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00001/info.json",
+    "checked_at_utc": "2026-10-19T20:20:29.889296+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00001/info.json",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 609,
+    "sha256": "63cec0d99314594e8bcfd109b38df993192543d9ff17f2e721f2ccbfddc57166",
+    "saved": "research/evidence/mpo_8343_info.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00001/full/800,/0/default.jpg",
+    "checked_at_utc": "2026-10-19T20:20:30.095009+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008343_00001/full/800,/0/default.jpg",
+    "content_type": "image/jpeg",
+    "bytes": 117811,
+    "sha256": "6e3890120762d10676e5c1a6552930c6831c3ed2fc1d796565ff8698315c9d07",
+    "jpeg_dimensions": [
+      800,
+      1112
+    ],
+    "saved": "research/evidence/mpo_8343_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008344/manifest",
+    "checked_at_utc": "2026-10-19T20:20:30.720223+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008344/manifest",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14763,
+    "sha256": "59ce5475bd335fe9f2c1039ff67611840804e9c082b07673eabba7043d41a22b",
+    "saved": "research/evidence/mpo_8344_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00001/info.json",
+    "checked_at_utc": "2026-10-19T20:20:30.938909+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00001/info.json",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 609,
+    "sha256": "0891447027b0ce2ce39b5856e772ff2831331fd70583be2c7e139ffe42d0987a",
+    "saved": "research/evidence/mpo_8344_info.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00001/full/800,/0/default.jpg",
+    "checked_at_utc": "2026-10-19T20:20:31.231857+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008344_00001/full/800,/0/default.jpg",
+    "content_type": "image/jpeg",
+    "bytes": 142946,
+    "sha256": "89e01071ff60162235653789ddcfaf41a7bfbd2f41b5c5254079431bfb879b22",
+    "jpeg_dimensions": [
+      800,
+      1194
+    ],
+    "saved": "research/evidence/mpo_8344_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008201/manifest",
+    "checked_at_utc": "2026-10-19T20:20:31.884909+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/arkis!R1008201/manifest",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 14763,
+    "sha256": "0b0e55cb37292833fe123e224a457f0c5753266ca49e380a1569b077395bdf78",
+    "saved": "research/evidence/mpo_8201_manifest.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00001/info.json",
+    "checked_at_utc": "2026-10-19T20:20:32.109764+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00001/info.json",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 609,
+    "sha256": "30e304a341d50cfb1d8d4addffa5d5112678c3280c9331dabc0a6931462e5d46",
+    "saved": "research/evidence/mpo_8201_info.json"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00001/full/800,/0/default.jpg",
+    "checked_at_utc": "2026-10-19T20:20:32.386258+00:00",
+    "status": 200,
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00001/full/800,/0/default.jpg",
+    "content_type": "image/jpeg",
+    "bytes": 61322,
+    "sha256": "56563522480cdb0e6b62d52b159a40d92013ed368a5ec2c0cbfad8ec39614530",
+    "jpeg_dimensions": [
+      800,
+      538
+    ],
+    "saved": "research/evidence/mpo_8201_sample.jpg"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008304/manifest",
+    "checked_at_utc": "2026-10-19T20:20:33.042130+00:00",
+    "status": null,
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "url": "https://fragmenta.kansalliskirjasto.fi/",
+    "checked_at_utc": "2026-10-19T20:21:08.045241+00:00",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1610",
+    "checked_at_utc": "2026-10-19T20:21:08.174844+00:00",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://api.finna.fi/v1/search?lookfor=F.m.II.44&limit=1",
+    "checked_at_utc": "2026-10-19T20:21:08.254069+00:00",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007957_00001/full/max/0/default.jpg",
+    "checked_at_utc": "2026-10-19T20:21:38.962188+00:00",
+    "note": "single targeted retry; explicit v3 image service for native-size image",
+    "status": null,
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "url": "https://lbiiif.riksarkivet.se/arkis!R1008304/manifest",
+    "checked_at_utc": "2026-10-19T20:21:58.976403+00:00",
+    "note": "single targeted retry; explicit v3 image service for native-size image",
+    "status": 200,
+    "bytes": 14763,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "a1f7458e829ad9e0b6569fb19c2bb2b0d9eb9893e257db3c6592ac65e5ea4030",
+    "saved": "research/evidence/mpo_8304_manifest.json"
+  }
+]

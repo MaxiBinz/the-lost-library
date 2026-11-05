@@ -1,0 +1,436 @@
+{
+  "assessment_date": "2026-10-22",
+  "scope": "Pinned-source identity, assertion modality and falsifiable orientation/sequence audit; no new attribution",
+  "csv": {
+    "path": "research/mpo.csv",
+    "sha256": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "records": 22909,
+    "licence": "CC0 deposit; images separately licensed"
+  },
+  "normalized_input_sha256": "1243131507c1f72652cbb36507d2c9f0f6a24ea99fe9cfafd7c4387d33864080",
+  "frozen_queue_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+  "checks": {
+    "selected_raw_fields_match_pinned_csv": true,
+    "alias_mappings_unique_in_pinned_csv": true,
+    "same_codex_1505_member_list_exact": true,
+    "no_queue_mutation": true
+  },
+  "alias_to_fragment_ids": {
+    "Hy 49": [
+      "25592"
+    ],
+    "Ant 99": [
+      "20274",
+      "20275",
+      "20276",
+      "20277",
+      "20278"
+    ],
+    "Ant 242": [
+      "29666"
+    ]
+  },
+  "codex_1505": {
+    "fragment_ids": [
+      "8994",
+      "10370",
+      "10406",
+      "10407",
+      "10437"
+    ],
+    "catalogued_leaves": 5,
+    "interpretation": "A catalogue grouping, not an independently demonstrated codex identity."
+  },
+  "raw_records": [
+    {
+      "data_record_ordinal": 1385,
+      "csv_physical_end_line": 1386,
+      "fields": {
+        "signatur": "1385",
+        "ccmsignum": "",
+        "codex": "",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "*43.5 x 32.0",
+        "schriftraum1": "34.0 x 23.0",
+        "spaltenzahl": "1",
+        "zeilenzahl1": "#11",
+        "notation": "Quadr",
+        "lagenanmerkungen": "Am oberen Rand alte Foliierung 1r: IX; 1v: D",
+        "anmerkungen": "Dieselbe Hs wie TAITTO 2001, Ant 157. Zu dominikanischer Provenenienz und Entstehungsort, siehe ibidem.",
+        "inhalt": "1rv Proprium de sanctis et de tempore: Mariae annuntiatio (vgl. Guerrini, S. 87); Fer.V in cena dni.",
+        "bestandsbezeichnung": "Västergötlands handlingar",
+        "bestandssignatur": "1584:9:1",
+        "iiif_manifest": "https://lbiiif.riksarkivet.se/arkis!R1001385/manifest"
+      }
+    },
+    {
+      "data_record_ordinal": 8992,
+      "csv_physical_end_line": 8993,
+      "fields": {
+        "signatur": "8994",
+        "ccmsignum": "",
+        "codex": "Codex 1505",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "49.0 x 34.5",
+        "schriftraum1": "35.5 x 22.5",
+        "spaltenzahl": "1",
+        "zeilenzahl1": "#11",
+        "notation": "Quadr",
+        "lagenanmerkungen": "Alte Foliierung oben am Rand: 1r IIII; 1v k.",
+        "anmerkungen": "Gliederungsstriche und Kustoden in der Notation. Enstehungsort \"Schweden\" auf Grund des Formulars von Fr 10407: Mariae visitatio. Sehr ähnlich CCM Ant 99 und HUB Ant 156 und 157, vgl. Taitto 2001, S. 161-168. Vgl. auch Fr 1385.",
+        "inhalt": "1rv Proprium de sanctis: Olavi.",
+        "bestandsbezeichnung": "Beställningsregister",
+        "bestandssignatur": "3:1 1594",
+        "iiif_manifest": "https://lbiiif.riksarkivet.se/arkis!R1008994/manifest"
+      }
+    },
+    {
+      "data_record_ordinal": 10368,
+      "csv_physical_end_line": 10369,
+      "fields": {
+        "signatur": "10370",
+        "ccmsignum": "",
+        "codex": "Codex 1505",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "49.0 x 32.5",
+        "schriftraum1": "36.0 x 23.0",
+        "spaltenzahl": "1",
+        "zeilenzahl1": "#11",
+        "notation": "Quadr",
+        "lagenanmerkungen": "Am oberen Rand alte Foliierung 1r: k; 1v: II",
+        "anmerkungen": "Gliederungsstriche und Kustoden in der Notation. Entstehungsort \"Schweden\" auf Grund des Formulars von Fr 10407: Mariae visitatio. Sehr ähnlich CCM Ant 99 und HUB Ant 156 und 157, vgl. Taitto 2001, S. 161-168. Vgl. auch Fr 1385.",
+        "inhalt": "1rv Proprium de sanctis: Mariae Magdalenae.",
+        "bestandsbezeichnung": "Finska cameralia",
+        "bestandssignatur": "48:7 1610",
+        "iiif_manifest": "https://lbiiif.riksarkivet.se/arkis!R1010370/manifest"
+      }
+    },
+    {
+      "data_record_ordinal": 10404,
+      "csv_physical_end_line": 10405,
+      "fields": {
+        "signatur": "10406",
+        "ccmsignum": "",
+        "codex": "Codex 1505",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "43.0 x 34.0",
+        "schriftraum1": "35.5 x 23.0",
+        "spaltenzahl": "1",
+        "zeilenzahl1": "#11",
+        "notation": "Quadr",
+        "lagenanmerkungen": "",
+        "anmerkungen": "Gliederungsstriche und Kustoden in der Notation. Entstehungsort \"Schweden\" auf Grund des Formulars von Fr 10407: Mariae visitatio. Sehr ähnlich CCM Ant 99 und HUB Ant 156 und 157, vgl. Taitto 2001, S. 161-168. Vgl. auch Fr 1385.",
+        "inhalt": "1rv Proprium de sanctis: Mariae Magdalenae; Iacobi; Olavi.",
+        "bestandsbezeichnung": "Finska cameralia",
+        "bestandssignatur": "71:2 1608",
+        "iiif_manifest": "https://lbiiif.riksarkivet.se/arkis!R1010406/manifest"
+      }
+    },
+    {
+      "data_record_ordinal": 10405,
+      "csv_physical_end_line": 10406,
+      "fields": {
+        "signatur": "10407",
+        "ccmsignum": "",
+        "codex": "Codex 1505",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "48.0 x 34.5",
+        "schriftraum1": "35.0 x 23.0",
+        "spaltenzahl": "1",
+        "zeilenzahl1": "#11",
+        "notation": "Quadr",
+        "lagenanmerkungen": "Am oberen Rand alte Foliierung 1r: IX; 1v: i",
+        "anmerkungen": "Gliederungsstriche und Kustoden in der Notation. Entstehungsort \"Schweden\" auf Grund des Reimoffiziums für Mariae visitatio. Sehr ähnlich CCM Ant 99 und HUB Ant 156 und 157, vgl. TAITTO 2001, S. 161-168. Vgl. auch Fr 1385.",
+        "inhalt": "1rv Proprium de sanctis: Mariae visitatio ro AH 24, Nr. 36; Mariae Magdalenae.",
+        "bestandsbezeichnung": "Finska cameralia",
+        "bestandssignatur": "71:3 1612",
+        "iiif_manifest": "https://lbiiif.riksarkivet.se/arkis!R1010407/manifest"
+      }
+    },
+    {
+      "data_record_ordinal": 10435,
+      "csv_physical_end_line": 10436,
+      "fields": {
+        "signatur": "10437",
+        "ccmsignum": "",
+        "codex": "Codex 1505",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "48.0 x 34.0",
+        "schriftraum1": "34.0 x 22.5",
+        "spaltenzahl": "1",
+        "zeilenzahl1": "#11",
+        "notation": "Quadr",
+        "lagenanmerkungen": "Alte Foliierung oben am Rand: 1r VI; 1v O.",
+        "anmerkungen": "Kustoden und Gliederungsstriche in der Notation. Enstehungsort \"Schweden\" auf Grund des Formulars von Fr 10407: Mariae visitatio. Sehr ähnlich CCM Ant 99 und HUB Ant 156 und 157, vgl. Taitto 2001, S. 161-168. Vgl. auch Fr 1385.",
+        "inhalt": "1rv Dedicatio: Dedicatio ecclesiae.",
+        "bestandsbezeichnung": "Grev- och friherreskap",
+        "bestandssignatur": "4 Kajana 1650",
+        "iiif_manifest": "https://lbiiif.riksarkivet.se/arkis!R1010437/manifest"
+      }
+    },
+    {
+      "data_record_ordinal": 12113,
+      "csv_physical_end_line": 12114,
+      "fields": {
+        "signatur": "20274",
+        "ccmsignum": "Ant 99",
+        "codex": "",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "",
+        "schriftraum1": "36.0 x 22.5",
+        "spaltenzahl": "",
+        "zeilenzahl1": "11 (33)",
+        "notation": "Quadr",
+        "lagenanmerkungen": "",
+        "anmerkungen": "",
+        "inhalt": "Mariae compassio; De Maria v.; off. rhythm.: Stabat virgo dolorosa mater Christi generosa---",
+        "bestandsbezeichnung": "A 103",
+        "bestandssignatur": "k 118 /",
+        "iiif_manifest": "https://lbiiif.riksarkivet.se/arkis!R1020274/manifest"
+      }
+    },
+    {
+      "data_record_ordinal": 12114,
+      "csv_physical_end_line": 12115,
+      "fields": {
+        "signatur": "20275",
+        "ccmsignum": "Ant 99",
+        "codex": "",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "",
+        "schriftraum1": "",
+        "spaltenzahl": "",
+        "zeilenzahl1": "11 (33)",
+        "notation": "Quadr",
+        "lagenanmerkungen": "",
+        "anmerkungen": "",
+        "inhalt": "Laurentii",
+        "bestandsbezeichnung": "Finska cameralia",
+        "bestandssignatur": "88:2:5 / Kvittenser 1610",
+        "iiif_manifest": ""
+      }
+    },
+    {
+      "data_record_ordinal": 12115,
+      "csv_physical_end_line": 12116,
+      "fields": {
+        "signatur": "20276",
+        "ccmsignum": "Ant 99",
+        "codex": "",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "",
+        "schriftraum1": "",
+        "spaltenzahl": "",
+        "zeilenzahl1": "11 (33)",
+        "notation": "Quadr",
+        "lagenanmerkungen": "Alte Foliierung: h IX",
+        "anmerkungen": "",
+        "inhalt": "Petri et Pauli",
+        "bestandsbezeichnung": "Finska cameralia",
+        "bestandssignatur": "84:1:5 / Mats Bertilssons tullräk för Viborg 1608",
+        "iiif_manifest": ""
+      }
+    },
+    {
+      "data_record_ordinal": 12116,
+      "csv_physical_end_line": 12117,
+      "fields": {
+        "signatur": "20277",
+        "ccmsignum": "Ant 99",
+        "codex": "",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "",
+        "schriftraum1": "",
+        "spaltenzahl": "",
+        "zeilenzahl1": "11 (33)",
+        "notation": "Quadr",
+        "lagenanmerkungen": "",
+        "anmerkungen": "",
+        "inhalt": "Corpus Christi",
+        "bestandsbezeichnung": "Finska cameralia",
+        "bestandssignatur": "84:1:6 / Tullängd för Viborg 1605",
+        "iiif_manifest": ""
+      }
+    },
+    {
+      "data_record_ordinal": 12117,
+      "csv_physical_end_line": 12118,
+      "fields": {
+        "signatur": "20278",
+        "ccmsignum": "Ant 99",
+        "codex": "",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "",
+        "schriftraum1": "",
+        "spaltenzahl": "",
+        "zeilenzahl1": "11 (33)",
+        "notation": "Quadr",
+        "lagenanmerkungen": "",
+        "anmerkungen": "",
+        "inhalt": "Olavi r. m.; Laurentii",
+        "bestandsbezeichnung": "Obestämd arkivalisk proveniens",
+        "bestandssignatur": "182 / Christiern Philipssons räk för tull i Åbo 1611",
+        "iiif_manifest": ""
+      }
+    },
+    {
+      "data_record_ordinal": 17425,
+      "csv_physical_end_line": 17426,
+      "fields": {
+        "signatur": "25592",
+        "ccmsignum": "Hy 49",
+        "codex": "",
+        "datierung": "12.-13. Jh.",
+        "blattzahl": "1",
+        "format": "",
+        "schriftraum1": "",
+        "spaltenzahl": "2",
+        "zeilenzahl1": "35",
+        "notation": "Quadr",
+        "lagenanmerkungen": "",
+        "anmerkungen": "",
+        "inhalt": "Nat. Stephani prothom.: Hymnum canamus domini (mit Notation); Stephano primo martiri (mit Notation); Sancte dei preciose (mit Notation); Iohannis ev.: De patre verbum prodiens (mit Notation); Sancte Iohannes optime = Divis. zu: De patre verbum prodiens (mit Notation); Sollempnis dies advenit (mit Notation); Epiphania: Hostis Herodes impie (mit Notation); Hic refulsit omnium (mit Notation); Infra oct. epiph.: A patre unigenitus (mit Notaiton); In sabbatis p. oct. epiph.: Deus creator omnium (mit Notation); Iesu redemptor seculi (mit Notation)",
+        "bestandsbezeichnung": "Östergötlands handlingar",
+        "bestandssignatur": "1572:5:3 Längd på avkortning 1571",
+        "iiif_manifest": "https://lbiiif.riksarkivet.se/arkis!R1025592/manifest"
+      }
+    },
+    {
+      "data_record_ordinal": 21489,
+      "csv_physical_end_line": 21490,
+      "fields": {
+        "signatur": "29666",
+        "ccmsignum": "Ant 242",
+        "codex": "",
+        "datierung": "15. Jh.",
+        "blattzahl": "1",
+        "format": "",
+        "schriftraum1": "",
+        "spaltenzahl": "",
+        "zeilenzahl1": "#9?",
+        "notation": "Got",
+        "lagenanmerkungen": "",
+        "anmerkungen": "Vgl. Hy 49. Derselbe Codex wie HUB Ant 173 (Taitto 2001 s. 185).",
+        "inhalt": "Fer. V adv. [3].",
+        "bestandsbezeichnung": "Baltiska fogderäkenskaper",
+        "bestandssignatur": "111:4 F 390 / Vackenlängd för Pernau 1605-1606 (avt, folio)",
+        "iiif_manifest": ""
+      }
+    }
+  ],
+  "findings": [
+    {
+      "id": "X01",
+      "status": "verified identifier crosswalk",
+      "claim": "Hy49 identifies Fr25592 uniquely in this version of MPO; Ant242 identifies29666; Ant99 has five records.",
+      "consequence": "The Hy49/25592 identifier mapping is not an outstanding ambiguity within the pinned export. Accuracy of the historical association is a different question."
+    },
+    {
+      "id": "X02",
+      "status": "verified source assertion modality",
+      "claim": "Fr29666 gives an explicit same-codex link to HelsinkiAnt173, while its Hy49 mention requests comparison only. The indexed Finnish updated note explicitly distinguishes accepted Ant242 from suggested Hy49 and Ant99.",
+      "consequence": "H05 cannot be used as a known positive. Date/layout conflict challenges a previously suggested association; it does not overturn a proven positive or establish physical exclusion."
+    },
+    {
+      "id": "X03",
+      "status": "previously published specific placement recovered; not a discovery",
+      "claim": "Older IV157 descriptive prose places a FinskaCameralia48/ChristiernPhilipssons1610 MaryMagdalene leaf between its ff7and8. Fr10370 is the exact matching account48:7/1610 leaf; the newer note itself supplies that full identifier under suggested Codex1505.",
+      "consequence": "Preserve a specific testable insertion and the later qualified group assertion, instead of flattening both into generic resemblance. Neither chronology nor actual placement has been verified from both manuscripts."
+    },
+    {
+      "id": "X04",
+      "status": "conditional side-label difference, not resolved physical orientation",
+      "claim": "Finnish IV156/157/173 descriptions place letter signatures on medieval verso and Roman numerals on recto. Fr10370 MPO note instead labels k as1r andII as1v.",
+      "consequence": "No MPO-specific r/v convention is established. Do not transfer provider r/v or capture ordinals directly into a medieval sequence. Inspect actual top-margin tokens and text succession; different source-side convention, reversal or transcription error are alternatives. See side_convention_note.json."
+    },
+    {
+      "id": "X05",
+      "status": "conditional falsification from explicit catalogue positions",
+      "claim": "IV156f2 andIV157f5 have the same catalogued opening interval hVIII–hIX but different feast contents: Peter/Paul versus JohnBaptist.",
+      "consequence": "They cannot occupy one unrepeated opening address in a single uniform numbering system if both transcriptions are accurate. Repeated/reset numbering, composite structure or catalogue error remain alternatives. This is not an independent image-based exclusion."
+    },
+    {
+      "id": "X06",
+      "status": "exact comparator test identified",
+      "claim": "IV156f8 is catalogued at kII–kIII and changes from MaryMagdalene toJames. Fr10370 contains MaryMagdalene and its k/II signatures need orientation resolution.",
+      "consequence": "After orientation, compare overlapping text positions against IV156f8 and the documented IV157gap. Match precise chants and words, not merely feast names. Source descriptions alone do not settle it."
+    },
+    {
+      "id": "X07",
+      "status": "measurement semantics unresolved",
+      "claim": "Finnish prose gives IV15722–23by33.5–35.5cm and IV15622.5–23by32–36cm; the indexed metadata does not identify these as leaf versus written-space fields. MPO distinguishes format from schriftraum1.",
+      "consequence": "A direct dimension exclusion is unjustified. Transposition and measurement category must be established before comparing these values. The old dimensional caution remains valid."
+    },
+    {
+      "id": "X08",
+      "status": "catalogue assertion tension retained",
+      "claim": "IV156 updated notes qualify Codex1505 as suggested in one passage but later equate it with IV157 in the same field.",
+      "consequence": "This is evidence of heterogeneous catalogue assertion levels, not proof that the three catalogue units form one manuscript or that the historical question remains unresolved today."
+    },
+    {
+      "id": "X09",
+      "status": "provenance qualification",
+      "claim": "The local Finnish record raw object holds a manually compiled association summary rather than the original catalogue text; normalize_mpo preserves the Swedish row verbatim.",
+      "consequence": "Cite the indexed institutional wording and its access status directly. Do not present the hardcoded Finnish summary as a raw institutional API response."
+    }
+  ],
+  "catalogue_access": {
+    "method": "Official institutional pages read through search-index full metadata; not direct HTML/PDF retrieval or a current browser screenshot",
+    "direct_html_http_status": "not tested in this subtask",
+    "screenshot_obtained": false,
+    "source_urls": [
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+      "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314"
+    ],
+    "limits": "Indexed text has OCR/typographic corruption. Exact image readings, source edition chronology and the later Keskiaho chapter remain unverified."
+  },
+  "next_source_images": [
+    {
+      "test": "Medieval-side orientation of Fr10370",
+      "available_local": [
+        "data/images/mpo-10370.jpg"
+      ],
+      "source_manifest": "https://lbiiif.riksarkivet.se/arkis!R1010370/manifest",
+      "manifest_canvas_count": 4,
+      "needed": "Top-margin views of both actual surfaces; source canvas ordinals must not be assumed to identify recto/verso."
+    },
+    {
+      "test": "Signature collision image check",
+      "needed": [
+        "IV156 folio2 recto and verso",
+        "IV157 folio5 recto and verso"
+      ],
+      "record_urls": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300"
+      ],
+      "condition": "Map source PDF/canvases to these actual folios before reading; do not infer PDFpage=2*folio."
+    },
+    {
+      "test": "10370 competing placement",
+      "needed": [
+        "IV156 folio8 recto and verso",
+        "IV157 folio7 verso",
+        "IV157 folio8 recto",
+        "Both medieval surfaces ofFr10370"
+      ],
+      "condition": "Compare exact words and chant positions after intrinsic orientation; no direct boundary join inferred from an insertion between surviving leaves."
+    }
+  ],
+  "new_discovery": false,
+  "independent_expert_review": false,
+  "source_images_or_pdfs_downloaded": 0,
+  "external_messages_sent": 0
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0144.tiff",
+  "purpose": "One exact C23 comparison image; folio identification initially unverified",
+  "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "rights_source": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+  "requested_at_utc": "2026-10-23T09:01:57.161881+00:00",
+  "cap_bytes": 40000000,
+  "bytes_received": 19818764,
+  "saved": true,
+  "status": 200,
+  "final_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0144.tiff",
+  "content_type": "image/tiff",
+  "local_path": "research/continuation_20/c23/c23-attachment-0144.tiff",
+  "sha256": "7cb8bb43f5366a5934be7e4a81e1b9aee4bc6b315bfa081c3baaa8aae1a7fedd",
+  "dimensions": [
+    2826,
+    3832
+  ],
+  "derivative": {
+    "path": "research/continuation_20/c23/c23-attachment-0144-2200px.jpg",
+    "sha256": "0f83a3289e8ee7d0f9bcf05dbe3f89bc4acb5138024f8eb64a44970e59e44b53",
+    "dimensions": [
+      2200,
+      2983
+    ],
+    "bytes": 1688449,
+    "transformation": "RGB conversion, resize to at most2200px width, JPEG quality92; no generated detail."
+  }
+}

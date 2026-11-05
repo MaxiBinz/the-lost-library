@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-03",
+  "annotations": [
+    {
+      "id": "I97-8994-faint-after-est",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pale ochre marks appear to the right of the clearly read tempus est. They resemble possible letter strokes, but their character, origin, and relation to the written text are uncertain. A reference-exposed candidate ut is not a verified reading.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-4-1808px.jpg",
+        "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=1375,685,145,110"}
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1808,/0/default.jpg",
+      "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+      "image_dimensions": [1808, 1147],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[faint ochre letter-like marks; unread]",
+      "reading_candidate": "ut? (prompted by known expected continuation; unverified)",
+      "observer": "Codex AI, source- and concordance-exposed, 2026-11-03",
+      "independent_confirmation": false,
+      "interpretation_limits": ["No independent reader has established that the marks are writing or identified their ink layer.", "No Finnish f.9 image or original page boundary has been inspected.", "Identifying a catchword, running text, offset, or physical relationship would require further evidence."]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "question": "Does the actual Fr8994 visible ending sharpen a Finnish placement test?",
+  "decision": "unresolved",
+  "local_observation_state": "supported",
+  "new_result": "Capture4’s last visible row ends dicentem. Veni care meus tempus est. Its expected next words ut laborum coincide with the reported opening of IV156 ff9–11. This creates a precise conditional textual-continuation test, not verified physical adjacency.",
+  "scope": "Observed Swedish terminal words compared with an indexed Finnish catalogue boundary and known chant text",
+  "observations": [
+    "I40-8994-nocte",
+    "I40-8994-passion",
+    "I40-8994-contemplatur",
+    "I40-8994-tempus-est",
+    "I40-8994-exultabat"
+  ],
+  "visible_span": "The retained upper view includes the Exultabat verse of Florebat fides; the observed sequence then includes the third nocturn and reaches Egregius through tempus est. Capture/medieval-side mapping remains unresolved.",
+  "test_logic": {
+    "terminal_words": "tempus est",
+    "expected_following_words": "ut laborum",
+    "catalogue_opening": "ut laborum",
+    "literal_boundary_test": "expected phrase continuation only",
+    "physical_adjacency_established": false,
+    "complete_leaf_edge_verified": false,
+    "signature_successor_verified": false
+  },
+  "comparators": "research/continuation_40/sources.json",
+  "changed_next_action": "Compare the exact opening text, music, signature and physical edge of IV156 f9 with Fr8994 capture4; inspect the complete side/capture map. Keep the IV157 f8 address conflict separate.",
+  "already_published": "The Codex1505/IV156 link is already suggested in the catalogue and assigned in BOMPAC-5324. The present phrase-level observation is new to the local record, but first notice of this placement is uncleared.",
+  "limits": [
+    "Swedish source pixels, Finnish catalogue assertions, known-office concordances and new interpretation are separate evidence bases.",
+    "The terminal row is the last visible row of capture4, not an independently verified complete medieval-side ending; folds, hidden text and capture mapping remain unresolved.",
+    "No IV156 f9 original image, complete leading signature or physical join is verified. The uncertain numeral is not silently read as V.",
+    "Ordinary common chant text can recur in different books; the fit is more precise than shared feast identity but cannot establish one codex.",
+    "IV157 ff9–10 supplies overlapping Egregius content, not the same proposed terminal-to-opening boundary; E33’s f8 conflict remains conditional on its original premises.",
+    "No exact Fr20278 image was found; missing access is not negative historical evidence.",
+    "Relevant Taitto/Keskiaho passages remain unread; a missing shelfmark in another text search does not clear novelty.",
+    "Single AI exploratory reading, not independent expert confirmation. No frozen ambiguous case is resolved."
+  ],
+  "next_test": "Inspect IV156 f9’s exact original opening, signature and music against the retained terminal row, and establish the Swedish surface map. Without those inputs, retain the placement as a conditional textual fit and pursue other available source tests.",
+  "new_source_image_downloads": 0,
+  "new_saved_download_bytes": 0,
+  "working_source_files": 179,
+  "conservative_download_plan_bytes": 1666761179,
+  "physical_join_established": false,
+  "physical_adjacency_established": false,
+  "new_codex_attribution": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "signature_prediction": {
+    "predicted_next_recto_numeral": "V",
+    "status": "conditional prediction, not an observed or normalized catalogue reading",
+    "premises": [
+      "Fr8994 is one correctly mapped leaf with IIII on its recto and the k-bearing later view on its verso.",
+      "The two sources use the same uninterrupted opening-signature series in this section.",
+      "The capture4 terminal row is the actual end of that verso."
+    ],
+    "explanation": "Under the documented opening-signature convention, that verso would form the next opening with a V-bearing recto. The uncertain Finnish OCR is not evidence that this prediction is met.",
+    "prediction_verified": false
+  }
+}

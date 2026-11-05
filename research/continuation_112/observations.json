@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-04",
+  "method": "Exploratory AI inspection after prior catalogue and feast-order exposure. Reference-assisted identification, not a blind or independent reading. Image coordinates are original pixels; no medieval page or side assignment is implied.",
+  "annotations": [
+    {
+      "id": "I112-10406-iacobi",
+      "fragment_id": "mpo-10406",
+      "path": "data/images/mpo-10406.jpg",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00001/full/800,/0/default.jpg",
+      "sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+      "dimensions": [
+        800,
+        521
+      ],
+      "xywh": [
+        105,
+        185,
+        525,
+        320
+      ],
+      "literal_candidate": "O beate iacobe ... intercede pro nobis ad dominum",
+      "observation": "A James rubric accompanies the O beate iacobe passage; after the apparent intercede continuation and the psalm-ending cue a second large initial begins O lux et decus. The final line appears to end inter a-. Abbreviations and reading are provisional.",
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A James rubric accompanies the O beate iacobe passage; after the apparent intercede continuation and the psalm-ending cue a second large initial begins O lux et decus. The final line appears to end inter a-. Abbreviations and reading are provisional.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=105,185,525,320"
+        }
+      },
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "observer": "Codex AI, reference-exposed, 2026-11-04",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "A provisional image reading, not independent confirmation.",
+        "Finnish IV.156 f.8 was not inspected; book identity, physical overlap and absence of repeated chants remain unproven."
+      ]
+    },
+    {
+      "id": "I112-10406-postolos",
+      "fragment_id": "mpo-10406",
+      "path": "data/images/mpo-10406-capture-2.jpg",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00002/full/1000,/0/default.jpg",
+      "sha256": "817ae2d3e4d65c91bae80c6d56ff009bd669252a039c63e7e9488afc9b3440eb",
+      "dimensions": [
+        1000,
+        630
+      ],
+      "xywh": [
+        105,
+        0,
+        675,
+        90
+      ],
+      "literal_candidate": "postolos ...",
+      "observation": "The first line appears to continue the final a- in the preceding photograph as apostolos. This is textual order, not a physical seam or independently verified side map.",
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first line appears to continue the final a- in the preceding photograph as apostolos. This is textual order, not a physical seam or independently verified side map.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=105,0,675,90"
+        }
+      },
+      "image_dimensions": [
+        1000,
+        630
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "observer": "Codex AI, reference-exposed, 2026-11-04",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "A provisional image reading, not independent confirmation.",
+        "Finnish IV.156 f.8 was not inspected; book identity, physical overlap and absence of repeated chants remain unproven."
+      ]
+    },
+    {
+      "id": "I112-10406-final-om",
+      "fragment_id": "mpo-10406",
+      "path": "data/images/mpo-10406-capture-2.jpg",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00002/full/1000,/0/default.jpg",
+      "sha256": "817ae2d3e4d65c91bae80c6d56ff009bd669252a039c63e7e9488afc9b3440eb",
+      "dimensions": [
+        1000,
+        630
+      ],
+      "xywh": [
+        115,
+        335,
+        675,
+        90
+      ],
+      "literal_candidate": "... intercede pro nostra salute om-",
+      "observation": "The last visible text line appears to end om, consistent with the next candidate photographed text; photograph boundary is not proven to be a physical edge.",
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The last visible text line appears to end om, consistent with the next candidate photographed text; photograph boundary is not proven to be a physical edge.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=115,335,675,90"
+        }
+      },
+      "image_dimensions": [
+        1000,
+        630
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "observer": "Codex AI, reference-exposed, 2026-11-04",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "A provisional image reading, not independent confirmation.",
+        "Finnish IV.156 f.8 was not inspected; book identity, physical overlap and absence of repeated chants remain unproven."
+      ]
+    },
+    {
+      "id": "I112-10406-niumpopulorum",
+      "fragment_id": "mpo-10406",
+      "path": "data/images/mpo-10406-capture-3.jpg",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00003/full/1000,/0/default.jpg",
+      "sha256": "ad15525ab9eaeb67b603ade9120886e2c5c8caecb5ebfbebef9bd478a09bfbb9",
+      "dimensions": [
+        1000,
+        659
+      ],
+      "xywh": [
+        245,
+        35,
+        635,
+        135
+      ],
+      "literal_candidate": "nium[que?] populorum",
+      "observation": "The first visible line appears to continue the previous om-; an Olaf heading is visible to the right. Small letters and the exact surface sequence require independent checking.",
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first visible line appears to continue the previous om-; an Olaf heading is visible to the right. Small letters and the exact surface sequence require independent checking.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=245,35,635,135"
+        }
+      },
+      "image_dimensions": [
+        1000,
+        659
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "observer": "Codex AI, reference-exposed, 2026-11-04",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "A provisional image reading, not independent confirmation.",
+        "Finnish IV.156 f.8 was not inspected; book identity, physical overlap and absence of repeated chants remain unproven."
+      ]
+    },
+    {
+      "id": "I112-10406-laudande",
+      "fragment_id": "mpo-10406",
+      "path": "data/images/mpo-10406.jpg",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00001/full/800,/0/default.jpg",
+      "sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+      "dimensions": [
+        800,
+        521
+      ],
+      "xywh": [
+        110,
+        300,
+        210,
+        50
+      ],
+      "literal_candidate": "corde ore laudande",
+      "observation": "In the St James antiphon the line provisionally reads corde ore laudande; the small image, ligatures and word spacing leave the reading unreviewed.",
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "In the St James antiphon the line provisionally reads corde ore laudande; the small image, ligatures and word spacing leave the reading unreviewed.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=110,300,210,50"
+        }
+      },
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "observer": "Codex AI, reference-exposed, 2026-11-05",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Reading made after seeing comparative wording and is not independent.",
+        "The Finnish leaf was not inspected; matching a common text cannot establish book identity."
+      ]
+    }
+  ],
+  "independent_confirmation": false
+}

@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I65-8201-ending",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8201",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first retained photograph begins within the surviving phrase, provisionally pulchrior sponso superno placuit, followed by a red cue. The visible final letter of sponso is o-like; the reading is reference-exposed. The missing beginning is not supplied from the comparator as a local reading.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_65/images/Fr8201-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=350,245,760,155"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/full/max/0/default.jpg",
+      "sha256": "6716356b5a3fc1776afc9d6ccd75fc9ba2bbecb6f541e6444b800c9335dc4ec2",
+      "image_dimensions": [
+        1718,
+        1156
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "pulchrior sponso superno placuit",
+      "normalized_candidate": "pulchrior sponso superno placuit",
+      "observer": "Codex AI, prior reference exposure; 2026-11-01, exact model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "One fragmentary ending, not the beginning or the Fr20106 original.",
+        "No independently verified note-by-note transcription, page adjacency, or original side assignment."
+      ]
+    },
+    {
+      "id": "I65-8201-next-chant",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8201",
+      "body": {
+        "type": "TextualBody",
+        "value": "The decorated initial and following text provisionally read Traditur ergo a patre doctoribus, after the surviving pulchrior ending on the same photographed surface. The selection and identification follow exposure to the published study and indexed Vienna sequence.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_65/images/Fr8201-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=325,385,1085,260"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/full/max/0/default.jpg",
+      "sha256": "6716356b5a3fc1776afc9d6ccd75fc9ba2bbecb6f541e6444b800c9335dc4ec2",
+      "image_dimensions": [
+        1718,
+        1156
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "literal_candidate": "Traditur ergo a patre doctoribus",
+      "normalized_candidate": "Traditur ergo a patre doctoribus",
+      "observer": "Codex AI, prior reference exposure; 2026-11-01, exact model checkpoint unavailable",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Selected after source and reference exposure; no blind reading.",
+        "A shared two-chant sequence does not establish book identity, exact melody, or physical adjacency to Fr20106."
+      ]
+    }
+  ]
+}

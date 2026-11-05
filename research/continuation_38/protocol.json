@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "previous_goal_turn": "Progress: E37 reads relevant prior scholarship, identifies the target ending, retains four source regions, and passes 51 Python tests plus both viewer test files.",
+  "question": "Does the actual C23 replacement page 69r independently support the selected shorter ending and permit a direct melodic comparison with Fr 20274?",
+  "prior_exposure": "The target ending, older C23 71v and published Hallqvist/Urberg explanations have already been inspected. No actual replacement 69r image has yet been seen. Exploratory, literature-assisted, not blind.",
+  "source_route": "Existing public Alvin C23 record 160517 loaded normally on 27 October; it labels the work Public Domain Mark 1.0. This is a different object route from the stopped C435 search. Follow only exact visible page links. Stop at any challenge.",
+  "planned_tests": [
+    "Select the explicitly labelled Folio 69r in the public viewer, without assigning folio from attachment ordinal.",
+    "Read all relevant text, including competing word forms and any local corrections, before asserting agreement. Preserve exact source regions, literal/normalized readings and uncertainties.",
+    "Inspect clefs, staff lines and note alignment in the target and comparator. If absolute or relative pitches cannot be read securely, retain that limitation instead of asserting melodic identity.",
+    "Compare a diagnostic phrase, not shared generic words alone. Test differences and alternate explanations explicitly; shared standard text or melody cannot identify a codex, date or copying direction."
+  ],
+  "resource_bound": {
+    "before_working_source_files": 177,
+    "source_file_limit": 300,
+    "before_conservative_download_plan_bytes": 1640851781,
+    "download_limit_bytes": 3000000000,
+    "new_original_limit_bytes": 50000000,
+    "maximum_new_manuscript_pages": 1
+  },
+  "boundaries": "No outreach, upload, public publication, new target family, frozen queue mutation or access-control bypass."
+}

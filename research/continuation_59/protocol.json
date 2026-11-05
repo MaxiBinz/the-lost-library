@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-01",
+  "previous_turn": "E58 made progress: recorded two text-edge checks and two indexed six-identifier counterexamples; package replay finished successfully.",
+  "question": "What prior published primary-source study bears on IV.156's possible production and use, and does it resolve the proposed Fr 8994 boundary?",
+  "exposure": "The 2025 chapter, image captions and selected statements were encountered before this protocol. This is a post-discovery, unblinded source audit, not preregistration or an independent manuscript reading.",
+  "rules": ["Separate source authors' views of book use from their account of previous production hypotheses.", "Do not propagate a use-place hypothesis to other fragments before their book identity is established.", "Treat the published picture of f.21r as a distinct page, not as the required original f.9 boundary.", "No finding follows from inability to search or inspect a source image; retain prior scholarship limitations."],
+  "resource_limit": {"new_source_images": 0, "new_download_bytes": 0, "outreach": false, "upload": false, "publication": false}
+}

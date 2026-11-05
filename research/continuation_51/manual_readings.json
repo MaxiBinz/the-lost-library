@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "observer": "Codex AI source-image inspection; explicitly unblinded and without independent adjudication",
+  "coverage": [
+    {"object_id":"mpo-10370","source_capture_index":0,"full_photo_viewed":true,"medieval_side":null,"result":"Red two-stroke upper-margin sign with a descending final stroke; candidate ij, compatible with catalogue II. This repeats the previously recorded V-10370-mark observation, not a new discovery."},
+    {"object_id":"mpo-10370","source_capture_index":1,"full_photo_viewed":true,"medieval_side":null,"result":"Lower music/text field and largely blank lower margin; a narrow text-bearing strip is visible at the right edge. No original address was securely identified in this view. The strip's attachment and textual function remain unadjudicated."},
+    {"object_id":"mpo-10370","source_capture_index":2,"full_photo_viewed":true,"medieval_side":null,"result":"Red k-like upper-margin mark, already recorded as V-10370-kmark. Resemblance to the selected8994 k control does not establish a unique shared address or one book."},
+    {"object_id":"mpo-10370","source_capture_index":3,"full_photo_viewed":true,"medieval_side":null,"result":"Large account/reuse heading and smaller annotations run at right angles to the medieval music/text. These later annotations are excluded from medieval foliation. No exact date transcription or complete original surface map is claimed."},
+    {"object_id":"mpo-20274","source_capture_index":0,"full_photo_viewed":true,"medieval_side":null,"result":"Red angular upper-margin glyph flanked by red punctuation; f-like/4-like candidate shape. A secure diplomatic reading, numeric value and original addressing convention remain unresolved. The service headings belong to the office text and are not folio numbers."},
+    {"object_id":"mpo-20274","source_capture_index":1,"full_photo_viewed":true,"medieval_side":null,"result":"Pencil library reference below the medieval text reads provisionally KB / A 103 k / CXVIII. Its components correspond to the source catalogue's KB / A103 / k118 reference. This is a later identifying label, not medieval folio118."}
+  ],
+  "controls_reviewed": ["I33-8994-roman","I33-8994-k"],
+  "reused_observations": ["V-10370-mark","V-10370-kmark"],
+  "regions": [
+    {"id":"I51-20274-upper-sign","path":"data/images/mpo-20274-capture-1-1831px.jpg","xywh":[900,120,180,155],"literal":"f? / 4?","normalized":null,"body":"A red angular glyph with flanking red punctuation is visible above the medieval text. Candidate shape f-like/4-like only; diplomatic reading, numeric value, function and medieval side are unresolved. It cannot supply a secure common folio/quire address with10370."},
+    {"id":"I51-20274-library-label","path":"data/images/mpo-20274-capture-2-1835px.jpg","xywh":[1100,1440,330,165],"literal":"KB / A 103 k / CXVIII","normalized":null,"body":"A later pencil library reference below the medieval text is provisionally read KB / A 103 k / CXVIII. The components correspond to the pinned MPO reference institution KB, collection A103, item k118. CXVIII here is part of that later identifier; no medieval folio118, shared codex or20106 image crosswalk follows."},
+    {"id":"I51-10370-reuse-heading","path":"data/images/mpo-10370-capture-4-1742px.jpg","xywh":[1220,210,440,900],"literal":null,"normalized":null,"body":"A large reuse/account heading and smaller annotations run at right angles to the medieval music/text. These are excluded from original folio/quire addressing. No complete transcription, exact year or original recto/verso is assigned."},
+    {"id":"I51-10370-edge-strip","path":"data/images/mpo-10370-capture-2-1739px.jpg","xywh":[1570,365,85,355],"literal":null,"normalized":null,"body":"A narrow text-bearing strip is visible at the photographed right edge, alongside the medieval writing field. Its material attachment, age and complete text are unadjudicated; no folio/quire address or physical join is inferred."}
+  ],
+  "direct_result": "All six retained target photographs and two selected8994 mark controls were inspected.10370's already recorded ij/II and k-like marks are visible again.20274 has a red upper-margin glyph whose reading/function remain uncertain, and a later pencil identifier corresponding to its catalogue reference. No secure comparable original address was recovered across this pair.",
+  "interpretation": "The available images do not establish a shared original folio/quire address or a conflicting address. Similar red ink, punctuation and k-like shape within the wider group are compatible with several books using a shared convention. An unread sign, different addresses and later identifiers cannot decide same-codex identity. The historical relationship stays unresolved.",
+  "limits": [
+    "The inspection is unblinded; two10370 and two8994 mark observations were already recorded. These are re-used evidence, not four new observations or independent votes.",
+    "Six target photographs are views of two catalogue objects. Cropped views, reused folds and unknown medieval sides prevent automatic conversion to six leaves or a complete surface map.",
+    "No secure normalization of the20274 red sign is made. A visual candidate is not an original-address assignment; missing/uncertain evidence is not counterevidence to one book.",
+    "The20274 pencil identifier supports this particular catalogue reference. It does not identify20106, establish a relationship to the A103 psalter record or supply a new image pointer.",
+    "No new attribution, exclusion, catalogue correction, novelty clearance, independent confirmation or matcher improvement is established."
+  ],
+  "next_test": "Continue a different existing source-only pair with a discriminating textual or physical test. Revisit10370/20274 addressing only with securely readable original marks, an explicit addressing convention and original surface/context mapping; do not repeat generic glyph resemblance. Keep the unread Finnish scholarship and original comparator images as claim-specific dependencies."
+}

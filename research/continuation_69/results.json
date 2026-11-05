@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-02",
+  "prior_exposure": "This source and the image were identified and reviewed before the test was written. The reading and counterexample are reference-exposed, exploratory and not independently adjudicated.",
+  "transcription_correction": "The retained Fr 8304 capture 4 appears to read sollempni[a?] followed by suscipiat alacriter pia ma[...], rather than the E49 sollempnitas. This is an AI-assisted, reference-exposed correction from a 1000-pixel image; the final letter and cropped continuation remain qualified.",
+  "published_counterexample": "Grajewski 2025 p.78 note 11 reports that Vatican Pal. lat. 527, a compilatory breviary, contains two Catherine offices, Ave virgo speciosa and Inclita sanctae virginis, both opening with the same shortened Inclita antiphon.",
+  "interpretation": "The attributed case challenges a general assumption that a second Catherine office or repeated opening chant cannot occur in one medieval book. It does not match the full 2022 Ant49 argument unless the same explicit service rubric and original target passages are verified. The article describes different office variants; it does not establish that both are the same office in every detail.",
+  "limits": "Pal. lat. 527 was not examined directly and no duplicate rubric was verified. Fr 20106 remains uninspected. A compilatory breviary is not necessarily structurally equivalent to the target antiphonary. The example is published prior art, not a newly discovered counterexample or an exclusion of the published Fr 8304 finding. The provenance or extent of the manuscript's distinct hands and sections have not been resolved.",
+  "next_test": "Use a legitimate labelled reproduction or description of Vatican Pal. lat. 527 f.125v and the other Catherine opening to check rubrics, positions and physical context; separately locate Fr 20106 and verify its side and heading, and confirm the Fr 8304 reading independently.",
+  "source_regions": ["I69-8304-opening-corrected"],
+  "corrected_region": "I49-8304-opening",
+  "target_fr20106_inspected": false,
+  "vatican_manuscript_inspected": false,
+  "same_explicit_rubric_verified": false,
+  "published_exclusion_refuted": false,
+  "target_same_codex_proved": false,
+  "new_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

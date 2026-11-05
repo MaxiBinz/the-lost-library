@@ -1,0 +1,106 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "I20-10370-verse-prefix",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10370",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "The final written row of this photograph begins the verse: candidate Ardore caritatis succensa que with an abbreviation bar. Quem is an explicit proposed expansion. The decorated initial begins at the left edge of the selected region.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-2-1739px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=650,490,740,115"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00002/full/1739,/0/default.jpg",
+      "sha256": "fe8019fd85f078f5f552e9aa4befbae21bee8522506a1f77385d032a0499ee58",
+      "image_dimensions": [
+        1739,
+        1132
+      ],
+      "observer": "Codex AI source inspection, 2026-10-23; exact model/checkpoint not exposed",
+      "evidence_kind": "provisional image reading and external text concordance",
+      "verification": "Provisional AI source reading; no independent expert adjudication",
+      "reading": {
+        "literal_candidate": "[A]rdore caritatis succensa quē",
+        "normalized_search_text": "Ardore caritatis succensa quem",
+        "certainty": "provisional; abbreviation expansion and uncertain credens are explicit",
+        "cantus_candidate": {
+          "id": "601029a",
+          "status": "candidate verse identification, not manuscript identity"
+        },
+        "external_references": [
+          "https://cantusdatabase.org/chant/402240/",
+          "https://cantusdatabase.org/chant/564421/",
+          "https://cantusdatabase.org/chant/204152/"
+        ]
+      },
+      "interpretation_limits": [
+        "Long text continuation supports relative reading order, not original codex identity.",
+        "No registered pixel overlap, physical stitch or direct seam is established.",
+        "Roman/letter marks and relative order do not define the MPO catalogue side convention.",
+        "Repeated chants or unrecognized photographic rearrangement remain alternatives.",
+        "Agreement between AI readings is not independent expert corroboration."
+      ]
+    },
+    {
+      "id": "I20-10370-verse-suffix",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10370",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "The first written row of the k-marked photograph continues with candidate sepultum nouerat sublatum cred[ens?] de se pul chro. The word credens is less securely read than the surrounding words; the Cantus parallel informs its proposed normalization.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-3-1728px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=345,330,1155,85"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg",
+      "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+      "image_dimensions": [
+        1728,
+        1233
+      ],
+      "observer": "Codex AI source inspection, 2026-10-23; exact model/checkpoint not exposed",
+      "evidence_kind": "provisional image reading and external text concordance",
+      "verification": "Provisional AI source reading; no independent expert adjudication",
+      "reading": {
+        "literal_candidate": "sepultum nouerat sublatum cred[ens?] de se pul chro",
+        "normalized_search_text": "sepultum noverat sublatum credens de sepulchro",
+        "certainty": "provisional; abbreviation expansion and uncertain credens are explicit",
+        "cantus_candidate": {
+          "id": "601029a",
+          "status": "candidate verse identification, not manuscript identity"
+        },
+        "external_references": [
+          "https://cantusdatabase.org/chant/402240/",
+          "https://cantusdatabase.org/chant/564421/",
+          "https://cantusdatabase.org/chant/204152/"
+        ]
+      },
+      "interpretation_limits": [
+        "Long text continuation supports relative reading order, not original codex identity.",
+        "No registered pixel overlap, physical stitch or direct seam is established.",
+        "Roman/letter marks and relative order do not define the MPO catalogue side convention.",
+        "Repeated chants or unrecognized photographic rearrangement remain alternatives.",
+        "Agreement between AI readings is not independent expert corroboration."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "fragment_id": "7292",
+  "physical_object_id": "mpo-7292",
+  "source": "Swedish National Archives, MPO IIIF",
+  "requested_at_utc": "2026-10-24T20:58:21.299173+00:00",
+  "manifest_url": "https://lbiiif.riksarkivet.se/arkis!R1007292/manifest",
+  "manifest_path": "research/continuation_22/mpo-7292-manifest.json",
+  "manifest_sha256": "1a7eebe4ac470c5ba65fcdb7f043a02cff59dc96af21d74b4fd8b2ab78536aef",
+  "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007292_00001/canvas",
+  "canvas_label": {
+    "sv": [
+      "Bild 1"
+    ],
+    "en": [
+      "Image 1"
+    ]
+  },
+  "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/800,/0/default.jpg",
+  "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/800,/0/default.jpg",
+  "status": 200,
+  "content_type": "image/jpeg",
+  "bytes_received": 59389,
+  "dimensions_px": [
+    800,
+    513
+  ],
+  "sha256": "f4dfb5af68a16a0c0d6886cd7697c7973dc43f2b60ee14a633bdafe3294f5546",
+  "saved_path": "data/images/mpo-7292-capture-1-800px.jpg",
+  "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "purpose": "One 800px source derivative for a catalogue-matched different-codex staff-spacing control; no new fragment or relationship hypothesis.",
+  "higher_resolution_derivative": {
+    "image_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/1600,/0/default.jpg",
+    "final_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/1600,/0/default.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes_received": 195053,
+    "dimensions_px": [
+      1600,
+      1026
+    ],
+    "sha256": "a864bec13a29a315a7df8e910b23118ef76fc631be8e10f97b60ec3b732285f2",
+    "saved_path": "data/images/mpo-7292-capture-1-1600px.jpg",
+    "requested_at_utc": "2026-10-24T20:59:42.331167+00:00",
+    "purpose": "Higher-resolution derivative of the same capture for manual staff-line and ruler coordinate selection; not a new physical source."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-02",
+  "question": "Which Helsinki shelfmark is more plausible as the intended referent of Codices Fennici's literal F.m. II.157, and does the content test establish a correction?",
+  "status": "unresolved",
+  "sources": [
+    {
+      "id": "turku-c",
+      "path": "research/continuation_56/TMMA_fragC.xml",
+      "sha256": "5eb6f4be514296d034ae3342a56bf35c59c50af9833fb24614657e67fda50cdd",
+      "scope": "Retained 2017 cataloguer-attributed TEI description, not a fresh manuscript reading."
+    },
+    {
+      "id": "iv156",
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299?show=full",
+      "scope": "Search-indexed institutional metadata and catalogue description; original leaf images not inspected."
+    },
+    {
+      "id": "iv157",
+      "url": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+      "scope": "Search-indexed institutional description; original leaf images not inspected."
+    },
+    {
+      "id": "henry-office",
+      "url": "https://hlub.dyndns.org/projekten/webplek/CANTUS/cgi-bin/LMLO/LMLO.cgi?X=%5BHE61%5D",
+      "scope": "Search-indexed edition-derived office text and service order, AH 26 no. 32; not an independent transcription of the target leaves."
+    },
+    {
+      "id": "earlier-audit",
+      "path": "research/independent_pass/crosswalk/audit.md",
+      "scope": "Prior project audit explicitly identified the IV.156 metadata's heterogeneous Codex 1505 wording."
+    }
+  ],
+  "observations": [
+    "Turku fragment C's description reports the ending of a Henry text followed by Purification material and literally names F.m. II.157 twice; its claim about sewing holes and possible placement between folios 2 and 3 is attributed to the catalogue.",
+    "The IV.157 indexed description places the fifth Lauds antiphon of Henry on its folio 2 and Good Friday on folio 3. An edition-derived Henry office contains a second-Vespers gospel antiphon consistent with the Turku Henry ending after Lauds. These are compatible at a broad service/feast-sequence level with placing the described Turku material in that interval, but no exact textual or physical join is shown.",
+    "The IV.156 indexed description places Peter and Paul on folio 2 and the Visitation of Mary on folios 3–4, not Henry and Purification. Conventional feast order therefore makes an IV.156 folio-2/3 placement less straightforward, conditional on calendar and manuscript arrangement; this does not exclude an unusual order, a divided bifolium, different numbering, or a different intended shelfmark.",
+    "The later IV.156 metadata identifies an archive Ms. c as same-codex and IV.157 suggests an archive Ms. c. Its holder and one-folio extent do not fully match the museum's two-folio fragment C description. A physical identity must not be assumed.",
+    "The IV.156 metadata contains both a suggested Codex 1505 relation and a later equality-style reference to IV.157. This was already recorded in research/independent_pass/crosswalk/audit.md; the two passages should be retained in context, not represented as a new discovery."
+  ],
+  "conclusion": "IV.157 is a more specifically supported candidate than IV.156 for the stated folio-2/3 placement, under the stated liturgical assumptions, but an II-to-IV emendation is not confirmed, and the object identity and original evidence remain unresolved.",
+  "limits": [
+    "No claim that F.m. II.157 does not exist: search indexing and a blocked browse page are not an exhaustive shelfmark inventory.",
+    "The Henry-office edition is a comparator, not evidence of the exact order or text in the Helsinki and Turku originals.",
+    "The project did not newly inspect manuscript images, sewing holes, complete surface order, or the underlying printed scholarship.",
+    "First notice of the content comparison and the suspected typo remains unknown."
+  ],
+  "access_receipt": "Three simultaneous web-reader find operations targeted the same complete shelfmark browse URL and all returned HTTP 403; this was an inadvertent repeated request inconsistent with the project's no-retry rule. No further request to that URL or access-control bypass followed. Search-indexed text is not direct page inspection.",
+  "new_source_images": 0,
+  "new_download_bytes": 0,
+  "frozen_decisions_changed": false,
+  "catalogue_correction_confirmed": false,
+  "novel_historical_attribution_confirmed": false,
+  "independent_review": false
+}

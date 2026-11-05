@@ -1,0 +1,71 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-22",
+  "scope": "Supporting checks, not additional frozen attribution hypotheses or independent expert decisions.",
+  "checks": [
+    {
+      "id": "CTX01",
+      "title": "Fr10370 marks and previously documented placement",
+      "record_ids": [
+        "mpo-10370"
+      ],
+      "observation_ids": [
+        "V-10370-mark",
+        "V-10370-overlap-upper",
+        "V-10370-overlap-lower",
+        "V-10370-kmark",
+        "V-10370-no-seam-34"
+      ],
+      "summary": "Higher-resolution source regions show II/ij-like and k-like top-margin signs. A unique source-account crosswalk identifies the leaf already placed between IV157 ff7and8 by an older catalogue description.",
+      "outcome": "Sign inventory is source-supported provisionally; placement is previously documented. No new adjacency or catalogue error established.",
+      "limits": [
+        "Photograph indices are not medieval page sides.",
+        "Complementary portions in images1/2 suggest continuation, but no pixel registration or shared complete row proves an overlap.",
+        "The MPO meaning of1r/1v has not been established; the side-pattern mismatch remains conditional.",
+        "The older placement and later suggested group assertion have different scope."
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/audit.md",
+        "research/independent_pass/crosswalk/side_convention_note.json",
+        "research/independent_pass/visual/findings.md"
+      ]
+    },
+    {
+      "id": "CTX02",
+      "title": "Repeated opening address: conditional consistency check",
+      "record_ids": [],
+      "observation_ids": [],
+      "summary": "Indexed institutional descriptions assign hVIII–hIX to IV156f2 and IV157f5 with different feast labels. All16combinations of four explicit consistency premises were evaluated.",
+      "outcome": "Unresolved. Different feast labels alone do not demonstrate mutually incompatible text or different books.",
+      "limits": [
+        "The source readings came from public indexed institutional text with OCR noise; corresponding manuscript images were not verified.",
+        "Unique unrepeated numbering, correct transcription, the same physical position and incompatible text must all be established.",
+        "Reset numbering, composite volumes, side labels and incomplete summaries remain alternatives."
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/source_constraints.json"
+      ]
+    },
+    {
+      "id": "CTX03",
+      "title": "Published image-scaling formula: possible erratum",
+      "record_ids": [],
+      "observation_ids": [],
+      "summary": "Duba2023 printedp64/PDF66 prose scales width by Smin/Sn; the displayed equation reverses this ratio. Dimensional derivation and three analytic controls preserve physical size with the prose ratio.",
+      "outcome": "Use width × Smin/Sn when rescaling to Smin pixels/mm. This is an implementation correction and possible typographical erratum.",
+      "limits": [
+        "No claim of first notice, originality or new historical finding.",
+        "The checks use synthetic analytic examples, not measured manuscript data.",
+        "No specialist or author confirmation has been received."
+      ],
+      "sources": [
+        "https://www.fragmentology.ms/article/view/4499",
+        "research/independent_pass/methods/methods.md",
+        "research/independent_pass/methods/protocol-results.json"
+      ]
+    }
+  ]
+}

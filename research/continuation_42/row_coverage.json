@@ -1,0 +1,274 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-28",
+  "method": "Manual AI count of visible medieval text-body bands in all four originals; modern wrapper annotations excluded. Row y-ranges are approximate locators, not calibrated measurements.",
+  "catalogue_rows_literal": "#11",
+  "catalogue_source": "research/mpo.csv, signatur8994; inherited source assertion, not an independent count",
+  "captures": [
+    {
+      "capture": 1,
+      "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+      "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+      "dimensions": [
+        1802,
+        1246
+      ],
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/1802,/0/default.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008994_00001/canvas",
+      "visible_medieval_text_rows": 6,
+      "rows": [
+        {
+          "row": 1,
+          "y_range": [
+            350,
+            410
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 2,
+          "y_range": [
+            510,
+            575
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 3,
+          "y_range": [
+            675,
+            735
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 4,
+          "y_range": [
+            835,
+            900
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 5,
+          "y_range": [
+            995,
+            1065
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 6,
+          "y_range": [
+            1155,
+            1225
+          ],
+          "visibility": "fold-shadow",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        }
+      ],
+      "music_limit": "Captures2/4 have a partially framed upper staff; text-row counts do not establish complete musical coverage.",
+      "complete_medieval_surface_verified": false
+    },
+    {
+      "capture": 2,
+      "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+      "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+      "dimensions": [
+        1835,
+        1180
+      ],
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00002/full/1835,/0/default.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008994_00002/canvas",
+      "visible_medieval_text_rows": 5,
+      "rows": [
+        {
+          "row": 1,
+          "y_range": [
+            60,
+            115
+          ],
+          "visibility": "fold-shadow",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 2,
+          "y_range": [
+            225,
+            280
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 3,
+          "y_range": [
+            390,
+            450
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 4,
+          "y_range": [
+            550,
+            615
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 5,
+          "y_range": [
+            715,
+            775
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        }
+      ],
+      "music_limit": "Captures2/4 have a partially framed upper staff; text-row counts do not establish complete musical coverage.",
+      "complete_medieval_surface_verified": false
+    },
+    {
+      "capture": 3,
+      "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+      "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+      "dimensions": [
+        1793,
+        1237
+      ],
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00003/full/1793,/0/default.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008994_00003/canvas",
+      "visible_medieval_text_rows": 6,
+      "rows": [
+        {
+          "row": 1,
+          "y_range": [
+            345,
+            420
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 2,
+          "y_range": [
+            510,
+            580
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 3,
+          "y_range": [
+            675,
+            740
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 4,
+          "y_range": [
+            835,
+            900
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 5,
+          "y_range": [
+            1000,
+            1070
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 6,
+          "y_range": [
+            1160,
+            1235
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        }
+      ],
+      "music_limit": "Captures2/4 have a partially framed upper staff; text-row counts do not establish complete musical coverage.",
+      "complete_medieval_surface_verified": false
+    },
+    {
+      "capture": 4,
+      "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+      "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+      "dimensions": [
+        1808,
+        1147
+      ],
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1808,/0/default.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008994_00004/canvas",
+      "visible_medieval_text_rows": 5,
+      "rows": [
+        {
+          "row": 1,
+          "y_range": [
+            65,
+            120
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 2,
+          "y_range": [
+            230,
+            295
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 3,
+          "y_range": [
+            390,
+            455
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 4,
+          "y_range": [
+            545,
+            620
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        },
+        {
+          "row": 5,
+          "y_range": [
+            715,
+            780
+          ],
+          "visibility": "visible",
+          "scope": "Approximate text-body band, not a measured musical system or complete chant."
+        }
+      ],
+      "music_limit": "Captures2/4 have a partially framed upper staff; text-row counts do not establish complete musical coverage.",
+      "complete_medieval_surface_verified": false
+    }
+  ],
+  "duplicated_complete_text_row_identified": false,
+  "duplicate_row_limit": "No complete duplicated text row was demonstrated at the proposed boundaries; this is not proof that none exists in obscured material.",
+  "independent_confirmation": false
+}

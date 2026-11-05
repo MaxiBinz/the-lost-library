@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-02",
+  "question": "Does an earlier attributed handlist identify Turku museum fragment C with IV.156 or IV.157?",
+  "source": {
+    "title": "Codices Fennici. Kartoitus Suomessa ennen vuotta 1600 valmistetuista tai käytetyistä käsikirjoituksista",
+    "attributed_author": "Jesse Keskiaho",
+    "accessed_reproduction": "https://abcdocz.com/doc/3451205/jesse-keskiaho-codices-fennici.-kartoitus-suomessa-ennen-...",
+    "locator": "Liturgical manuscripts, item 19, and note 87; web-reader lines 448–450 and 468–471",
+    "original_publisher_route": "http://www.finlit.fi/sites/default/files/mediafiles/tutkimus/codices_handlist_0.pdf",
+    "original_route_result": "One web-reader open reported URL inaccessible; stopped without retry.",
+    "date_evidence": "A University of Turku thesis cites a Keskiaho handlist under this title as 2014, with a publisher URL accessed by February 2015: https://www.utupub.fi/server/api/core/bitstreams/d93fc5c8-bf5e-4670-9fef-c8c4eb414d14/content . The exact date/version and fidelity of this third-party reproduction are not independently authenticated.",
+    "limitations": "Third-party HTML reproduction rather than an authenticated publisher PDF. Its item cites Keskiaho 2008b p.326; that article page has not been read. AI-assisted Finnish interpretation has not been independently translated.",
+    "second_indexed_copy_2026_11_04": {
+      "url": "https://abcdocz.com/doc/3468619/jesse-keskiaho-codices-fennici.-kartoitus-suomessa-ennen-...",
+      "scope": "Search-indexed item 19 repeats the IV.156 association and has footnote number 83; previously read reproduction has number 87. Their editorial relationship, dating and fidelity to original are unknown. They are both attributed to the same author and hosted on the same third-party site, so they are not independent historical evidence.",
+      "access": "Four simultaneous web-reader find requests inadvertently fetched this same URL, each returning Cache miss. This repeated a failed route against the no-retry rule; do not repeat it. The cited 2008 article and publisher handlist remain unread."
+    },
+    "2013_bibliographic_clue_2026_11_04": {
+      "source": "https://www.utupub.fi/server/api/core/bitstreams/610e2dee-fa30-4a62-b6b9-8feb2a89e031/content",
+      "scope": "Bibliography cites the handlist title as Keskiaho 2013 at the older publisher URL. The 2015 thesis cites the same title as 2014 at a different publisher path. Neither citation shows the actual text or establishes that the versions differ.",
+      "cited_url": "http://www.finlit.fi/tutkimus/codices_handlist.pdf",
+      "redirected_url": "https://www.finlit.fi/tutkimus/codices_handlist.pdf",
+      "access": "One web-reader request to the cited URL redirected and returned inaccessible; neither exact URL should be retried.",
+      "publisher_file_read": false
+    }
+  },
+  "literal_key_phrase": "samasta kirjasta kuin Helsinki, Kansalliskirjasto, F.m. IV.156",
+  "working_translation": "from the same book as Helsinki, National Library, F.m. IV.156",
+  "object_correspondence": "The handlist describes museum choral-book fragment C, two folios, antiphonary, with Henry and Purification content. These details align strongly with the 2017 TEI description of museum fragment C; this is a record crosswalk, not a new physical examination.",
+  "source_relation": "The attributed handlist explicitly states an IV.156 same-book attribution. This is a published source assertion, not independent project confirmation; it refers to Keskiaho 2008b p.326 and may share evidence with the 2017 description.",
+  "consequence": "This is substantial contrary evidence to treating IV.157 as the preferred intended correction of the 2017 TEI's literal II.157. Keep IV.156 and IV.157 as competing candidates; do not silently emend, and do not assume the handlist proves that the later TEI intended the same attribution. Withdrawal of E81's ranking does not decide the actual codex or refute E82's bounded shelfmark inventory.",
+  "alternatives": [
+    "An unrecognized third-party reproduction or transcription error",
+    "A genuine change in the cataloguer's view or object attribution between versions",
+    "A conflation of distinct physical objects with similar C identifiers",
+    "An error in the TEI shelfmark, folio placement, or both",
+    "A different or obsolete shelfmark convention"
+  ],
+  "missing_evidence": [
+    "Authenticated publisher copy and dated version of the handlist",
+    "Keskiaho 2008b p.326",
+    "The basis and referent of the TEI sewing-hole and folio-2/3 claims",
+    "Direct source imagery or original-object comparison",
+    "A confirmed archive Ms. c / museum C crosswalk and independent Finnish translation"
+  ],
+  "codex_attribution_proven": false,
+  "intended_emendation_confirmed": false,
+  "historical_decisions_changed": false,
+  "independent_confirmation": false,
+  "original_finding_confirmed": false,
+  "new_source_images": 0,
+  "new_files_downloaded": 0
+}

@@ -1,0 +1,47 @@
+{
+  "source_sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+  "rows": [
+    {
+      "Fr_reference": "Fr 10370",
+      "BOMPAC-reconstruction": "BOMPAC-5324",
+      "FM_signum": null,
+      "Area": "Finland",
+      "Province": null,
+      "Bailiwick": null,
+      "Account year": 1610,
+      "Archival_series": "Finska handlingar",
+      "Archival_collection_accounts": "Finska cameralia",
+      "bestandsbezeichnung": "Finska cameralia",
+      "bestandssignatur": "48:7 1610",
+      "Row_exclusion": "Include row"
+    },
+    {
+      "Fr_reference": "Fr 20278",
+      "BOMPAC-reconstruction": "BOMPAC-912",
+      "FM_signum": null,
+      "Area": null,
+      "Province": null,
+      "Bailiwick": null,
+      "Account year": 1611,
+      "Archival_series": null,
+      "Archival_collection_accounts": null,
+      "bestandsbezeichnung": "Obestämd arkivalisk proveniens",
+      "bestandssignatur": "182 / Christiern Philipssons räk för tull i Åbo 1611",
+      "Row_exclusion": "Include row"
+    },
+    {
+      "Fr_reference": "F.m.II.64, fols. 6 & 7",
+      "BOMPAC-reconstruction": "BOMPAC-11814",
+      "FM_signum": "F.m.II.64",
+      "Area": "Finland",
+      "Province": null,
+      "Bailiwick": null,
+      "Account year": 1611,
+      "Archival_series": null,
+      "Archival_collection_accounts": null,
+      "bestandsbezeichnung": null,
+      "bestandssignatur": null,
+      "Row_exclusion": "Include row"
+    }
+  ]
+}

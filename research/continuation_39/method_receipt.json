@@ -1,0 +1,13 @@
+{
+  "url": "https://cantusdatabase.org/static/documents/2.%20Volpiano%20Protocols.pdf",
+  "requested_at_utc": "2026-10-27T08:26:30.556189+00:00",
+  "cap_bytes": 3000000,
+  "bytes_received": 1083153,
+  "saved": true,
+  "role": "Private method reading copy, not a working manuscript image",
+  "status": 200,
+  "content_type": "application/pdf",
+  "final_url": "https://cantusdatabase.org/static/documents/2.%20Volpiano%20Protocols.pdf",
+  "path": "research/continuation_39/private-volpiano-protocols.pdf",
+  "sha256": "19b983640a7247ccb0d826c4215142ff4e9f02598ac9a5651c99ff73d014c963"
+}

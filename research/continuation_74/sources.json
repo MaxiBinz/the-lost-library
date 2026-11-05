@@ -1,0 +1,12 @@
+{
+  "date":"2026-11-02",
+  "sources":[
+    {"id":"fr8073", "path":"research/continuation_52/captures.json", "locator":"native captures 2 and 3, right end and left start of text", "access":"Visually inspected existing PDM source images and temporary crops; no medieval original handled. Earlier thumbnail and manifest metadata were also reviewed."},
+    {"id":"ah52-101", "url":"https://de.scribd.com/doc/66837361/Dreves-Analecta-Hymnica-Medii-Aevi-1886-Volume-LII", "locator":"Analecta Hymnica 52 (1909), no.101, pp.97–98", "access":"Web-reader OCR; columns may interleave. The printed page image and exemplars were not inspected."},
+    {"id":"zutphen", "url":"https://cantusdatabase.org/chant/533829/", "locator":"source navigation, NL-ZUa 6 f.246r sequence 1–6", "access":"Search-indexed source navigation only; no manuscript image inspected and no melodic equivalence asserted."},
+    {"id":"tolnai", "url":"https://mez.egyhazzene.hu/pdf/11/11_23_229236.pdf", "locator":"Áron Kelemen, Tolnai Máté breviáriuma, Magyar Egyházzene XI (2003/2004), final text excerpt", "access":"Web-reader extracted text and title page; not an inspection of the early printed original or a medieval manuscript."},
+    {"id":"mpo", "path":"research/mpo.csv", "locator":"Fr 8073 row", "access":"Existing catalogue export lists one leaf and AH 52 no.101 and 104."}
+  ],
+  "failed_routes":[{"url":"https://cantusdatabase.org/id/201813", "outcome":"Following a link from an accessible feast page resulted in a cache miss; do not retry. This does not show absence of concordances."}],
+  "network_accounting":"No new source image or file saved; search-reader traffic unmeasured within existing reserve. Temporary crops were made from retained source images for review."
+}

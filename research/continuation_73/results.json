@@ -1,0 +1,18 @@
+{
+  "date":"2026-11-02",
+  "local_antiphon":"Fr 8073 capture 3 has a Magnificat antiphon rubric and provisionally reads Felix terra pariens ... fons divinitatis ... reos a peccatis solvens duc ad patriam summae claritatis, matching the text indexed as Cantus 201813. The reading is reference-assisted and provisional.",
+  "local_hymn":"Fr 8073 capture 4 provisionally reads Annam filiam Abrahe que fulsit ex Aaron stirpe, identifying the second stanza of De stella sol oriturus, already catalogued as AH 52 no.104.",
+  "comparison":"AH 52 no.104's OCR base text gives quae ex Aaron stirpe fulsit; Piwoński 1985 p.305 prints quae fulsit ex Aaron stirpe, agreeing with the provisional local reading. The two edited texts and Swedish photograph have not been independently checked against their underlying original witnesses.",
+  "interpretation":"The antiphon work can now be compared at a specific position; the hymn word order is not unique to this fragment. Neither parallel establishes a codex identity, different-book exclusion, geography, musical identity, transmission direction, or previously unknown medieval text.",
+  "limits":"Source readings are unblinded, reference-exposed and not independently reviewed. Source capture 1 lacks native resolution. We did not establish the medieval side sequence, inspect an external medieval exemplar, locate the printed baseline images, or identify the specific exemplar behind Piwoński's edited line. Prior notice of the antiphon in Fr 8073 remains unverified.",
+  "next_test":"Compare the exact Felix terra and De stella passages with authenticated corresponding works on existing Ant 49 candidates or an appropriate named control, retaining literal readings, physical layout and variants. Establish side mapping and source independence before a book attribution.",
+  "source_regions":["I73-8073-felix-terra","I73-8073-annam-hymn"],
+  "independent_confirmation":false,
+  "source_side_mapping_established":false,
+  "external_medieval_original_inspected":false,
+  "novel_wording_established":false,
+  "historical_book_decision":false,
+  "new_discovery":false,
+  "new_source_images":0,
+  "new_download_bytes":0
+}

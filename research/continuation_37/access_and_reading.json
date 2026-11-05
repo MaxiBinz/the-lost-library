@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "C435": {
+    "historical_source": {
+      "path": "research/scholarship/hallqvist2020.pdf",
+      "pdf_page": 15,
+      "printed_page": "x",
+      "statement": "The author reports C435 was not digitized in 2020 and that she held commissioned digital photographs of this office."
+    },
+    "current_catalogue_check": {
+      "home_url": "https://www.alvin-portal.org/alvin/home.jsf",
+      "submitted_query": "\"C 435\"",
+      "result_url": "https://www.alvin-portal.org/alvin/resultList.jsf?faces-redirect=true&includeViewParams=true&query=%22C%20435%22&searchType=EXTENDED&dswid=-8647",
+      "observed": "Anubis browser-verification page after ordinary catalogue search; no search results or C435 images read. Tab closed without interacting with challenge.",
+      "conclusion": "Current digitization status unresolved. This route did not supply a scan; no assertion of universal inaccessibility."
+    }
+  },
+  "Urberg": {
+    "record_url": "https://knowledge.uchicago.edu/records/ejwkr-nxd77",
+    "download": "Successful ordinary repository download; published MD5 verified; receipts retained. Initial default-sandbox DNS failure and a local MIME-check rejection of legitimate application/octet-stream preceded the actual download; neither was an archive denial.",
+    "read_scope": "Printed pp.247-267 (PDF273-293) plus surrounding context in pp.241-246 and 268-270; this is not a full reading of all 996 PDF pages.",
+    "visual_checks": "Hallqvist PDF15/51/52/66 and Urberg PDF280/282/283 visually checked; source-image crops are separate from scholarly illustrations."
+  },
+  "searches": [
+    {
+      "q": "\"O Maria stans sub cruce\" \"20274\"",
+      "outcome": "No primary result establishing the exact fragment-level novelty claim was obtained."
+    },
+    {
+      "q": "\"O Maria stans sub cruce\" site:cantusindex.org",
+      "outcome": "No usable Cantus ID established in this bounded query. Database absence not inferred."
+    },
+    {
+      "q": "\"Dolor cessit\" \"nobis vite\" manuscript",
+      "outcome": "A separate published Scottish inventory transcription was surfaced, but not source-verified or used as a comparator. No rarity claim or new target follows."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-25",
+  "question": "Can source-visible overlap or text sequence establish which Fr 8994 partial photographs share a surface, without assuming photograph ordinals are medieval sides?",
+  "prior_inspection": "E33 has already inspected incipits in photos 1,3,4; this follow-up is exploratory and not blind. Protocol precedes the new overlap inspection.",
+  "inputs": [
+    "data/images/mpo-8994-capture-1-1802px.jpg",
+    "data/images/mpo-8994-capture-2-1835px.jpg",
+    "data/images/mpo-8994-capture-3-1793px.jpg",
+    "data/images/mpo-8994-capture-4-1808px.jpg"
+  ],
+  "hypothesis": "Photo pairs 1/2 and 3/4 show complementary parts of two surfaces. This is a hypothesis, not an assigned side map.",
+  "alternatives": [
+    "Nonoverlapping portions of the same surface",
+    "Parts from opposite surfaces or more than one leaf",
+    "Repeated chant text without identical photographed detail",
+    "Order/signature convention differs from presumed side order"
+  ],
+  "predictions": {
+    "repeated_photographed_detail": "Overlapping writing strokes, damage and ruling can establish shared photographed material. Text identity alone is weaker.",
+    "text_only": "Consecutive text can support relative reading order but cannot prove same surface or a physical join.",
+    "absence": "No overlap or failed registration cannot establish different surfaces."
+  },
+  "test": "Inspect all four originals; record exact regions/literal candidates before consulting further concordances. If an overlap is visible, test fixed image correspondences against another-pair control; otherwise report incomplete mapping.",
+  "constraints": "No new downloads, editing, automatic side assignment or alteration of frozen reviews."
+}

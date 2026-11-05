@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "official_metadata_documentation": [
+    {"url":"https://developers.zenodo.org/","scope":"Official Records/List public metadata search documentation; no authentication used."},
+    {"url":"https://support.zenodo.org/help/en-gb/1-upload-deposit/97-what-is-doi-versioning","scope":"Official distinction between a version-specific DOI and concept DOI; latest status checked using returned API version links, not inferred from record-number magnitude."}
+  ],
+  "shelfmark_followup": {
+    "question":"Does the full reference A103 k identify the missing20106 source or distinguish it from the previously found A103 psalter?",
+    "queries":["\"A 103 k\" fragment","\"A 103\" \"pergamentsfragment\""],
+    "earlier_queries_not_used_as_evidence":["\"A 103 k\" \"95\"","\"A 103 k\" site:kb.se","\"A 103 k\" \"20106\""],
+    "earlier_query_limit":"The previous tool response was truncated before its results could be inspected. No positive or negative result is claimed for those queries, and they were not repeated.",
+    "indexed_primary_result":{"url":"https://www2.musik.uu.se/hystorie/noter/Sigfrid%20Sources.pdf","read_scope":"Search-indexed source-list excerpt only; gives a different fragment20227/Ant73 the reference A103 kI. It supplies no20106/k95 image pointer or physical crosswalk.","direct_open":"Web reader Cache miss; stopped without retry, alternate-client request or bypass."},
+    "result":"The20274 image and its pinned record establish that its full reference contains the k item series. Neither that comparison nor the limited indexed source list establishes what physical catalogue object20106/k95 denotes. The A103 psalter candidate remains unmerged; no new20106 pointer is verified.",
+    "new_20106_image_pointer":false,
+    "physical_crosswalk_established":false,
+    "novelty_cleared":false
+  },
+  "network_scope":"Only three saved public API metadata responses add logged transfer bytes. Search/web-reader traffic is not measured and remains covered by the existing historical planning reserve. No workbook or image acquisition, authentication, outreach, upload or publication."
+}

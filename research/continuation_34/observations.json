@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-25",
+  "annotations": [
+    {
+      "id": "I34-8994-novo",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The top visible text includes a candidate uo rerum ... sequence. With the terminal decorated initial in photograph 1 and the retained concordance, this is consistent with Novo rerum ordine. The exact boundary is partly obscured; no shared photographed row was established.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-2-1835px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=225,30,1240,100"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00002/full/1835,/0/default.jpg",
+      "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+      "image_dimensions": [
+        1835,
+        1180
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[... ]uo rerum [... ] ordine [... ]",
+      "normalized_candidate": "Novo rerum ordine (identification candidate; boundary uncertain)",
+      "observer": "Codex AI source inspection, 2026-10-25",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Exploratory; text identification is not an overlapping seam, side assignment or codex identity.",
+        "Modern concordance text does not replace partially illegible source words."
+      ]
+    },
+    {
+      "id": "I34-8994-predicacionis",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A decorated P and following text provisionally read Predicacionis gra[...]. This identifies another third-nocturn antiphon; it does not establish a unique textual variant or physical surface assignment.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-2-1835px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=750,275,680,190"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00002/full/1835,/0/default.jpg",
+      "sha256": "1b5c10f46affafc0ffbdbdd49bd473c85501dd1b507ccb6851b5dfae50d67e8c",
+      "image_dimensions": [
+        1835,
+        1180
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Predicacionis gra[... ]",
+      "normalized_candidate": "Predicacionis gracia (identification candidate)",
+      "observer": "Codex AI source inspection, 2026-10-25",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Exploratory; text identification is not an overlapping seam, side assignment or codex identity.",
+        "Modern concordance text does not replace partially illegible source words."
+      ]
+    }
+  ]
+}

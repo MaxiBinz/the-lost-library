@@ -1,0 +1,7 @@
+{
+ "barcelona":{"url":"https://musicahispanica.eu/source/20244?antibot_key=&page=9&sort_by=title&sort_order=ASC","source":"Barcelona Biblioteca de Catalunya Ms.2322 f.097v","scope":"Search-indexed rows list Gloriosa 006779/verse, Optimam partem versicle, Laudibus excelsis and Haec corde compuncta at lauds. Direct opening returned Cache miss; no reference manuscript image was inspected. Repertoire order belongs to this witness, not Fr10370 or IV156."},
+ "cantus_index":{"url":"https://cantusindex.org/feast/14072200?cid=&field_full_text_value=&genre=All&order=title&page=8&sort=desc&string=","scope":"Search-indexed reference supplies 006779 identification and wording. Not a reading of Fr10370, or an estimate of frequency."},
+ "iv156":{"url":"https://fragmenta.kansalliskirjasto.fi/handle/10024/1299","scope":"Previously indexed catalogue reports f8 opening within Haec corde compuncta; direct page had met access restriction, not retried. No original image obtained."},
+ "local_source":"Public Domain Mark Riksarkivet Fr10370 capture4; all images already seen before protocol. Prior observations and catalogue assertions are not independent measurements.",
+ "network":"One new exact Barcelona page open failed; no retry, alternate-client bypass, file acquisition, outreach, upload or publication. Search-reader traffic unmeasured under existing reserve."
+}

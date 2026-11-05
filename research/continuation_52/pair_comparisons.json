@@ -1,0 +1,721 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "comparisons": [
+    {
+      "lead_id": "pair-da6e424935de87380cab",
+      "pair": [
+        "mpo-8066",
+        "mpo-8072"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8066": {
+          "context": "Visible Laudes/Orantibus block and Dedication passages; earlier Jacob verse candidate retained.",
+          "regions": [
+            "I45-8066-laudes",
+            "I46-8066-verse-end"
+          ],
+          "limits": "Known earlier readings reused; no new complete same-work collation.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8072": {
+          "context": "Invitatory Regem virginum cue and two Veni sponsa occurrences with short in-eternum versus longer pro-cuius-amore continuations.",
+          "regions": [
+            "I52-8072-invitatory",
+            "I52-8072-veni",
+            "I52-8072-veni-response",
+            "I52-8072-native-rules"
+          ],
+          "limits": "Third source photograph unseen after timeout; work IDs provisional and local service positions incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I45-8066-laudes",
+        "I46-8066-verse-end",
+        "I52-8072-invitatory",
+        "I52-8072-veni",
+        "I52-8072-veni-response",
+        "I52-8072-native-rules"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": false,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-b9c7f92d84cc017ba48c",
+      "pair": [
+        "mpo-8066",
+        "mpo-8073"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8066": {
+          "context": "Visible Laudes/Orantibus block and Dedication passages; earlier Jacob verse candidate retained.",
+          "regions": [
+            "I45-8066-laudes",
+            "I46-8066-verse-end"
+          ],
+          "limits": "Known earlier readings reused; no new complete same-work collation.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8073": {
+          "context": "Explicit Super magnificat antiphona rubric and blocks of continuous verse-like text alongside notated passages.",
+          "regions": [
+            "I52-8073-magnificat-rubric",
+            "I52-8073-unnotated-verses",
+            "I52-8073-native-rules"
+          ],
+          "limits": "First photograph uses retained800px thumbnail; exact complete hymn/antiphon identifications and local positions remain incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I45-8066-laudes",
+        "I46-8066-verse-end",
+        "I52-8073-magnificat-rubric",
+        "I52-8073-unnotated-verses",
+        "I52-8073-native-rules"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": true,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-41bdbdc443d5b9b42678",
+      "pair": [
+        "mpo-8066",
+        "mpo-8201"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8066": {
+          "context": "Visible Laudes/Orantibus block and Dedication passages; earlier Jacob verse candidate retained.",
+          "regions": [
+            "I45-8066-laudes",
+            "I46-8066-verse-end"
+          ],
+          "limits": "Known earlier readings reused; no new complete same-work collation.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8201": {
+          "context": "Later Catherine-office material and the published continuation phrase; no second complete local opening established.",
+          "regions": [
+            "I49-8201-continuation"
+          ],
+          "limits": "Published opening argument also needs20106; E49 reading reused, not independently confirmed.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I45-8066-laudes",
+        "I46-8066-verse-end",
+        "I49-8201-continuation"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": true,
+      "requested_native_coverage_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-8f3a072d37ac0a71a565",
+      "pair": [
+        "mpo-8066",
+        "mpo-8304"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8066": {
+          "context": "Visible Laudes/Orantibus block and Dedication passages; earlier Jacob verse candidate retained.",
+          "regions": [
+            "I45-8066-laudes",
+            "I46-8066-verse-end"
+          ],
+          "limits": "Known earlier readings reused; no new complete same-work collation.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8304": {
+          "context": "Catherine rubric and Inclita opening; published different-book control to8201.",
+          "regions": [
+            "I49-8304-rubric",
+            "I49-8304-opening"
+          ],
+          "limits": "Published rejection credited, not independently re-proved by general layout resemblance.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I45-8066-laudes",
+        "I46-8066-verse-end",
+        "I49-8304-rubric",
+        "I49-8304-opening"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": true,
+      "requested_native_coverage_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-00f7a4ed7b39e57ed29e",
+      "pair": [
+        "mpo-8072",
+        "mpo-8073"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8072": {
+          "context": "Invitatory Regem virginum cue and two Veni sponsa occurrences with short in-eternum versus longer pro-cuius-amore continuations.",
+          "regions": [
+            "I52-8072-invitatory",
+            "I52-8072-veni",
+            "I52-8072-veni-response",
+            "I52-8072-native-rules"
+          ],
+          "limits": "Third source photograph unseen after timeout; work IDs provisional and local service positions incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8073": {
+          "context": "Explicit Super magnificat antiphona rubric and blocks of continuous verse-like text alongside notated passages.",
+          "regions": [
+            "I52-8073-magnificat-rubric",
+            "I52-8073-unnotated-verses",
+            "I52-8073-native-rules"
+          ],
+          "limits": "First photograph uses retained800px thumbnail; exact complete hymn/antiphon identifications and local positions remain incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I52-8072-invitatory",
+        "I52-8072-veni",
+        "I52-8072-veni-response",
+        "I52-8072-native-rules",
+        "I52-8073-magnificat-rubric",
+        "I52-8073-unnotated-verses",
+        "I52-8073-native-rules"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": false,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-89949f510ea367ba8a23",
+      "pair": [
+        "mpo-8072",
+        "mpo-8201"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8072": {
+          "context": "Invitatory Regem virginum cue and two Veni sponsa occurrences with short in-eternum versus longer pro-cuius-amore continuations.",
+          "regions": [
+            "I52-8072-invitatory",
+            "I52-8072-veni",
+            "I52-8072-veni-response",
+            "I52-8072-native-rules"
+          ],
+          "limits": "Third source photograph unseen after timeout; work IDs provisional and local service positions incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8201": {
+          "context": "Later Catherine-office material and the published continuation phrase; no second complete local opening established.",
+          "regions": [
+            "I49-8201-continuation"
+          ],
+          "limits": "Published opening argument also needs20106; E49 reading reused, not independently confirmed.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I52-8072-invitatory",
+        "I52-8072-veni",
+        "I52-8072-veni-response",
+        "I52-8072-native-rules",
+        "I49-8201-continuation"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": false,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-40a423101854019bb578",
+      "pair": [
+        "mpo-8072",
+        "mpo-8304"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8072": {
+          "context": "Invitatory Regem virginum cue and two Veni sponsa occurrences with short in-eternum versus longer pro-cuius-amore continuations.",
+          "regions": [
+            "I52-8072-invitatory",
+            "I52-8072-veni",
+            "I52-8072-veni-response",
+            "I52-8072-native-rules"
+          ],
+          "limits": "Third source photograph unseen after timeout; work IDs provisional and local service positions incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8304": {
+          "context": "Catherine rubric and Inclita opening; published different-book control to8201.",
+          "regions": [
+            "I49-8304-rubric",
+            "I49-8304-opening"
+          ],
+          "limits": "Published rejection credited, not independently re-proved by general layout resemblance.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I52-8072-invitatory",
+        "I52-8072-veni",
+        "I52-8072-veni-response",
+        "I52-8072-native-rules",
+        "I49-8304-rubric",
+        "I49-8304-opening"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": false,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-c92d0fefbd71465ce0fb",
+      "pair": [
+        "mpo-8072",
+        "mpo-9620"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8072": {
+          "context": "Invitatory Regem virginum cue and two Veni sponsa occurrences with short in-eternum versus longer pro-cuius-amore continuations.",
+          "regions": [
+            "I52-8072-invitatory",
+            "I52-8072-veni",
+            "I52-8072-veni-response",
+            "I52-8072-native-rules"
+          ],
+          "limits": "Third source photograph unseen after timeout; work IDs provisional and local service positions incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-9620": {
+          "context": "Invitatory heading and Jacob passage with dixit/vere/locus-iste context; earlier antiphon candidate retained.",
+          "regions": [
+            "I45-9620-invitatory",
+            "I46-9620-ending"
+          ],
+          "limits": "Folds/cropping and distinct probable work/genre limit the8066 textual comparison; no same-chant variant established.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I52-8072-invitatory",
+        "I52-8072-veni",
+        "I52-8072-veni-response",
+        "I52-8072-native-rules",
+        "I45-9620-invitatory",
+        "I46-9620-ending"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": false,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-920b9d36ad1deef7511a",
+      "pair": [
+        "mpo-8073",
+        "mpo-8201"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8073": {
+          "context": "Explicit Super magnificat antiphona rubric and blocks of continuous verse-like text alongside notated passages.",
+          "regions": [
+            "I52-8073-magnificat-rubric",
+            "I52-8073-unnotated-verses",
+            "I52-8073-native-rules"
+          ],
+          "limits": "First photograph uses retained800px thumbnail; exact complete hymn/antiphon identifications and local positions remain incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8201": {
+          "context": "Later Catherine-office material and the published continuation phrase; no second complete local opening established.",
+          "regions": [
+            "I49-8201-continuation"
+          ],
+          "limits": "Published opening argument also needs20106; E49 reading reused, not independently confirmed.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I52-8073-magnificat-rubric",
+        "I52-8073-unnotated-verses",
+        "I52-8073-native-rules",
+        "I49-8201-continuation"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": true,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-7958393ae77f4c1164b7",
+      "pair": [
+        "mpo-8073",
+        "mpo-8304"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8073": {
+          "context": "Explicit Super magnificat antiphona rubric and blocks of continuous verse-like text alongside notated passages.",
+          "regions": [
+            "I52-8073-magnificat-rubric",
+            "I52-8073-unnotated-verses",
+            "I52-8073-native-rules"
+          ],
+          "limits": "First photograph uses retained800px thumbnail; exact complete hymn/antiphon identifications and local positions remain incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-8304": {
+          "context": "Catherine rubric and Inclita opening; published different-book control to8201.",
+          "regions": [
+            "I49-8304-rubric",
+            "I49-8304-opening"
+          ],
+          "limits": "Published rejection credited, not independently re-proved by general layout resemblance.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I52-8073-magnificat-rubric",
+        "I52-8073-unnotated-verses",
+        "I52-8073-native-rules",
+        "I49-8304-rubric",
+        "I49-8304-opening"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": true,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-f106d472d279f60545ae",
+      "pair": [
+        "mpo-8073",
+        "mpo-9620"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8073": {
+          "context": "Explicit Super magnificat antiphona rubric and blocks of continuous verse-like text alongside notated passages.",
+          "regions": [
+            "I52-8073-magnificat-rubric",
+            "I52-8073-unnotated-verses",
+            "I52-8073-native-rules"
+          ],
+          "limits": "First photograph uses retained800px thumbnail; exact complete hymn/antiphon identifications and local positions remain incomplete.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-9620": {
+          "context": "Invitatory heading and Jacob passage with dixit/vere/locus-iste context; earlier antiphon candidate retained.",
+          "regions": [
+            "I45-9620-invitatory",
+            "I46-9620-ending"
+          ],
+          "limits": "Folds/cropping and distinct probable work/genre limit the8066 textual comparison; no same-chant variant established.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I52-8073-magnificat-rubric",
+        "I52-8073-unnotated-verses",
+        "I52-8073-native-rules",
+        "I45-9620-invitatory",
+        "I46-9620-ending"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": true,
+      "requested_native_coverage_complete": false,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-dd801424ce2ad9ecda18",
+      "pair": [
+        "mpo-8201",
+        "mpo-9620"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8201": {
+          "context": "Later Catherine-office material and the published continuation phrase; no second complete local opening established.",
+          "regions": [
+            "I49-8201-continuation"
+          ],
+          "limits": "Published opening argument also needs20106; E49 reading reused, not independently confirmed.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-9620": {
+          "context": "Invitatory heading and Jacob passage with dixit/vere/locus-iste context; earlier antiphon candidate retained.",
+          "regions": [
+            "I45-9620-invitatory",
+            "I46-9620-ending"
+          ],
+          "limits": "Folds/cropping and distinct probable work/genre limit the8066 textual comparison; no same-chant variant established.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I49-8201-continuation",
+        "I45-9620-invitatory",
+        "I46-9620-ending"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": true,
+      "requested_native_coverage_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    },
+    {
+      "lead_id": "pair-2bcf84be6d1c5ab3e8b1",
+      "pair": [
+        "mpo-8304",
+        "mpo-9620"
+      ],
+      "comparison_scope": "First direct group-context comparison: actual surviving text/rubrics and copying layout; not a complete same-position text/music collation or historical adjudication.",
+      "contexts": {
+        "mpo-8304": {
+          "context": "Catherine rubric and Inclita opening; published different-book control to8201.",
+          "regions": [
+            "I49-8304-rubric",
+            "I49-8304-opening"
+          ],
+          "limits": "Published rejection credited, not independently re-proved by general layout resemblance.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        },
+        "mpo-9620": {
+          "context": "Invitatory heading and Jacob passage with dixit/vere/locus-iste context; earlier antiphon candidate retained.",
+          "regions": [
+            "I45-9620-invitatory",
+            "I46-9620-ending"
+          ],
+          "limits": "Folds/cropping and distinct probable work/genre limit the8066 textual comparison; no same-chant variant established.",
+          "sampled_staff_rules": 5,
+          "one_broad_writing_field_visible": true
+        }
+      },
+      "primary_regions": [
+        "I49-8304-rubric",
+        "I49-8304-opening",
+        "I45-9620-invitatory",
+        "I46-9620-ending"
+      ],
+      "sampled_rule_counts": [
+        5,
+        5
+      ],
+      "known_wrong_control_also_shares_sampled_layout": true,
+      "layout_discriminates_book_identity": false,
+      "complete_corresponding_diagnostic_passage_established": false,
+      "secure_join_or_original_address_established": false,
+      "text_result": "The selected surviving contexts do not establish a complete corresponding diagnostic passage. Different feasts/genres and shared generic cues do not exclude one book. This is not an exhaustive chant census or a claim of no possible correspondence.",
+      "all_planned_photo_views_inspected": true,
+      "requested_native_coverage_complete": true,
+      "initial_primary_comparison_recorded": true,
+      "historical_adjudication_complete": false,
+      "decision_state": "unresolved",
+      "independent_confirmation": false,
+      "next_test": "Establish the exact chant/work/service correspondence before comparing distinctive text/music; alternatively obtain secure physical/quire evidence. Generic layout is exhausted as a discriminant in this group. The missing8072 view remains a documented gap, not counterevidence."
+    }
+  ],
+  "fixed_controls": [
+    {
+      "pair": [
+        "mpo-8201",
+        "mpo-8304"
+      ],
+      "scope": "Published same-hand/different-book control; five rules and broad copying field are shared. Published rejection is retained, not independently re-proved."
+    },
+    {
+      "pair": [
+        "mpo-8066",
+        "mpo-9620"
+      ],
+      "scope": "Earlier unresolved direct comparison; similar Jacob wording probably represents different related items. E44-E46 result retained without promotion."
+    }
+  ],
+  "scope": "All13 previously source-only pair edges in the fixed six-object group are reported, plus both previously studied control edges. No cherry-picked survivor or new candidate."
+}

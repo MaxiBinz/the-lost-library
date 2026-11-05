@@ -1,0 +1,6 @@
+{
+  "target_contains_differentiating_phrase": true,
+  "older_source_has_other_phrase": true,
+  "shared_sur_rexit_not_used_alone": true,
+  "regions": 4
+}

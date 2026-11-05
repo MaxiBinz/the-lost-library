@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "captures": [
+    {
+      "physical_object_id": "mpo-8201",
+      "path": "research/continuation_65/images/Fr8201-capture-1-native.jpg",
+      "url": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/full/max/0/default.jpg",
+      "sha256": "6716356b5a3fc1776afc9d6ccd75fc9ba2bbecb6f541e6444b800c9335dc4ec2",
+      "width": 1718,
+      "height": 1156,
+      "bytes": 313747,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008201_00001/canvas",
+      "manifest": "data/manifests/8201.json",
+      "manifest_locator": "items/0/items/0/items/0/body/id",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Riksarkivet; National Archives of Sweden",
+      "side_assignment": null,
+      "role": "Native-size resolution of the existing first photograph, not a new side, witness or physical fragment"
+    }
+  ]
+}

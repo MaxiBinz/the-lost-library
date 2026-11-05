@@ -1,0 +1,94 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-29",
+  "previous_goal_turn": "Progress: E44 completed nine-photo text/ruling inspection, corrected its genre framing, retained an unresolved pair and verified the extracted review archive. No live research process remains to wait for.",
+  "claim": "Do the retained Fr8066 and Fr9620 sequences duplicate the same Dedication service position, or can source-visible rubrics place them at different positions?",
+  "selection": "Existing Ant49 pair; follow-up of E44, not a new target family or an added frozen hypothesis.",
+  "prior_exposure": "All nine photographs and E44 chant references have already been inspected. This is nonblind exploratory source analysis; do not call it independent or untouched.",
+  "fixed_sources": [
+    {
+      "path": "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+      "sha256": "0561a81ddfd4e59cc164449b272dae183846549517ea37f3f40ffeb0de4a6979",
+      "width": 1727,
+      "height": 1129,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008066_00001/canvas"
+    },
+    {
+      "path": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "width": 1709,
+      "height": 1138,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/canvas"
+    },
+    {
+      "path": "research/continuation_44/images/Fr8066-capture-3-native.jpg",
+      "sha256": "821743390426bf8f04773219f492268cf1cdf5cbbb96a0e66b3555ddcd42c07c",
+      "width": 1724,
+      "height": 1174,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008066_00003/canvas"
+    },
+    {
+      "path": "research/continuation_44/images/Fr8066-capture-4-native.jpg",
+      "sha256": "50fd8b8c609086c20d22da54b904af482e382534e382fb51387be81d36c17b5f",
+      "width": 1715,
+      "height": 1150,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1008066_00004/canvas"
+    },
+    {
+      "path": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+      "sha256": "73b4e4a8f4b363a41443031fed6a514d1f80428d59fde160b78ee13488d2428a",
+      "width": 1210,
+      "height": 1634,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1009620_00001/canvas"
+    },
+    {
+      "path": "research/continuation_44/images/Fr9620-capture-2-native.jpg",
+      "sha256": "462efb14468d853e2792c3f9768a5bffbdbe13a4d2394d7718bf1096350e3d6f",
+      "width": 1107,
+      "height": 1671,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1009620_00002/canvas"
+    },
+    {
+      "path": "research/continuation_44/images/Fr9620-capture-3-native.jpg",
+      "sha256": "17d7f92594702b7a8c0f57c5b510eb2340badc8bd48b779e79f4b55024108462",
+      "width": 489,
+      "height": 1652,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1009620_00003/canvas"
+    },
+    {
+      "path": "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+      "sha256": "053e4da7c3dd9c3cb29a867804bfc8f8f854b085b45960937944bb6744a606b3",
+      "width": 949,
+      "height": 1718,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1009620_00004/canvas"
+    },
+    {
+      "path": "research/continuation_44/images/Fr9620-capture-5-native.jpg",
+      "sha256": "51f99866f355f68b0bc328c870cfa44947c9c4186996c6d68a84443e0a28fa67",
+      "width": 838,
+      "height": 1730,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1009620_00005/canvas"
+    }
+  ],
+  "predictions": [
+    "An explicit service rubric plus surrounding music/text is stronger than assigning service from a common incipit. Expand abbreviations only with disclosure.",
+    "A same-position duplication needs both source-visible corresponding sequences, not the feast name, another witness's order or a single shared incipit.",
+    "Fr8066 Domum/Domus and candidate Laudes material may be later than Fr9620 O quam/Hoc in templo/In dedicatione; verify against all retained captures and record disconfirming duplicate material.",
+    "A differing service position is compatible with one book and with separate books. It cannot settle same-codex identity. A complete duplicate could challenge a simple uniform copying-unit model but composite/alternative sections must be considered."
+  ],
+  "controls": "Published8201/8304 negative and E36 exact-continuation controls remain unchanged. No matcher improvement or identity validation follows from service mapping.",
+  "stop_rule": "Read all retained captures for explicit rubrics and target passage coverage. If no securely corresponding duplicate is visible, close this particular duplicated-opening test as unestablished and advance a specified existing metadata-only pair with potentially discriminating text; do not repeat generic compatibility or require experts as a blanket gate.",
+  "new_acquisition_planned": false,
+  "frozen_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  }
+}

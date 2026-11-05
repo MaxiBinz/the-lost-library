@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-01",
+  "question": "Do Fr 10370's number-bearing photograph and the indexed IV.156 folio 8 description support the same original k-II page?",
+  "prior_exposure": "The fragment, red marks, institutional catalogue description, first source line and candidate chant were already seen before this protocol. This is a post-exposure test, not a blinded or independent reading.",
+  "candidate_premises": ["The Swedish II-like sign and the Finnish indexed ij refer to the same unique k-II address.", "The numeric-sign photograph shows the opening of the same original recto as the described Finnish folio 8 opening.", "The catalogue's indexed opening words and the provisional Swedish reading faithfully describe the underlying pages."],
+  "predictions": "If the premises are all correct and both observations concern the same opening, the top-of-page text should agree. If it differs, at least one premise or the same-page hypothesis needs revision; a source-description error, damaged/cropped text, repeat or reset numbering, side convention, or composite structure is an alternative.",
+  "fixed_inputs": ["data/images/mpo-10370-capture-1-1700px.jpg", "data/images/mpo-10370-capture-3-1728px.jpg", "research/independent_pass/crosswalk/audit.json", "research/continuation_20/intrinsic_10370/results.md"],
+  "scope": "Do not promote an indexed Finnish text to an inspected original. Do not equate an open-book signature with an automatically unique leaf ID, or transfer a conditional f.8 conflict to the separate Fr8994 f.9 boundary or whole Codex1505 group.",
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

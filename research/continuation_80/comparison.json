@@ -1,0 +1,118 @@
+{
+  "scope": "do- to mi- of domini; movement relative to local rule",
+  "items": [
+    {
+      "id": "10437",
+      "nominal_y_down_px": 24.2,
+      "sensitivity": [
+        {
+          "centre_tolerance_px": 3,
+          "range_y_down_px": [
+            17.6,
+            30.8
+          ],
+          "range_staff_spacings": [
+            0.5867,
+            1.1846
+          ],
+          "direction": "lower_on_page"
+        },
+        {
+          "centre_tolerance_px": 4,
+          "range_y_down_px": [
+            15.6,
+            32.8
+          ],
+          "range_staff_spacings": [
+            0.52,
+            1.2615
+          ],
+          "direction": "lower_on_page"
+        },
+        {
+          "centre_tolerance_px": 5,
+          "range_y_down_px": [
+            13.6,
+            34.8
+          ],
+          "range_staff_spacings": [
+            0.4533,
+            1.3385
+          ],
+          "direction": "lower_on_page"
+        }
+      ]
+    },
+    {
+      "id": "8066",
+      "nominal_y_down_px": 8.65,
+      "sensitivity": [
+        {
+          "centre_tolerance_px": 3,
+          "range_y_down_px": [
+            2.0,
+            15.3
+          ],
+          "range_staff_spacings": [
+            0.1176,
+            1.1769
+          ],
+          "direction": "lower_on_page"
+        },
+        {
+          "centre_tolerance_px": 4,
+          "range_y_down_px": [
+            0.0,
+            17.3
+          ],
+          "range_staff_spacings": [
+            0.0,
+            1.3308
+          ],
+          "direction": "unresolved"
+        },
+        {
+          "centre_tolerance_px": 5,
+          "range_y_down_px": [
+            -2.0,
+            19.3
+          ],
+          "range_staff_spacings": [
+            -0.1538,
+            1.4846
+          ],
+          "direction": "unresolved"
+        }
+      ]
+    }
+  ],
+  "between_source_difference_ranges": [
+    {
+      "centre_tolerance_px": 3,
+      "range_staff_spacings": [
+        -0.5902,
+        1.067
+      ],
+      "excludes_zero": false
+    },
+    {
+      "centre_tolerance_px": 4,
+      "range_staff_spacings": [
+        -0.8108,
+        1.2615
+      ],
+      "excludes_zero": false
+    },
+    {
+      "centre_tolerance_px": 5,
+      "range_staff_spacings": [
+        -1.0313,
+        1.4923
+      ],
+      "excludes_zero": false
+    }
+  ],
+  "same_exact_interval_established": false,
+  "absolute_pitch_transcribed": false,
+  "independent_review": false
+}

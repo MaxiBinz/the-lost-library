@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-04",
+  "data_rows": 29586,
+  "compared_fields": [
+    "Index",
+    "Fr_number",
+    "Fr_reference",
+    "Database",
+    "Row_exclusion",
+    "No_of_leaves",
+    "Columns"
+  ],
+  "comparison": "row-order and unique Index matched; blank/None normalized; numeric XLSX cells stringified; values stripped of surrounding whitespace",
+  "csv_sha256": "4d7ba58bb422ed5c331518284919c42ceba2648412ecf5576f0bea09874db304",
+  "xlsx_sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+  "different_values_by_field": {},
+  "first_difference_per_field": {},
+  "included_mpo": 22553,
+  "included_mpo_integer_counts": 22248,
+  "included_mpo_integer_counts_equal": 22248,
+  "limits": "Only listed fields compared; integer test is narrower than any general numeric test; neither source correctness, cause, prior notice nor a historical manuscript conclusion is established."
+}

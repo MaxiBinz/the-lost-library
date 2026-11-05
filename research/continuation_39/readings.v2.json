@@ -1,0 +1,460 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-27",
+  "normalization": "Each phrase independently starts at relative staff-step zero. Values are diatonic staff positions, not semitones, absolute pitch names, rhythm or a normalized full melody.",
+  "observer": "Single Codex AI exploratory reading, no independent confirmation.",
+  "prior_exposure": "Both sources viewed together while finding text alignment. Separate source records are serialized here before programmatic comparison; this is not blinded reading.",
+  "scope_change": "The planned Dolor cessit opening contains unresolved signs near x245, x305 and x520 in the target. No absolute pitch is assigned. Nobis vite spem and Fac nos Virgo are selected as internal windows; this post-inspection change and all candidate notes are retained.",
+  "sources": {
+    "target": {
+      "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+      "phrases": {
+        "nobis-vite-spem": [
+          {
+            "slot": 1,
+            "pixel": [
+              955,
+              357
+            ],
+            "underlay": "no",
+            "relative_staff_steps": [
+              0
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 2,
+            "pixel": [
+              1040,
+              320
+            ],
+            "underlay": "bis",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 3,
+            "pixel": [
+              1113,
+              320
+            ],
+            "underlay": "vi:lower",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 4,
+            "pixel": [
+              1113,
+              291
+            ],
+            "underlay": "vi:upper",
+            "relative_staff_steps": [
+              3,
+              4
+            ],
+            "state": "candidate",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 5,
+            "pixel": [
+              1168,
+              354
+            ],
+            "underlay": "te",
+            "relative_staff_steps": [
+              0
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 6,
+            "pixel": [
+              1248,
+              319
+            ],
+            "underlay": "spem:1",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 7,
+            "pixel": [
+              1270,
+              319
+            ],
+            "underlay": "spem:2",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          }
+        ],
+        "fac-nos-virgo": [
+          {
+            "slot": 1,
+            "pixel": [
+              756,
+              645
+            ],
+            "underlay": "Fac",
+            "relative_staff_steps": [
+              0
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 2,
+            "pixel": [
+              835,
+              627
+            ],
+            "underlay": "nos:1",
+            "relative_staff_steps": [
+              1
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 3,
+            "pixel": [
+              852,
+              603
+            ],
+            "underlay": "nos:2",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 4,
+            "pixel": [
+              853,
+              576
+            ],
+            "underlay": "nos:3",
+            "relative_staff_steps": [
+              3,
+              4
+            ],
+            "state": "candidate",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 5,
+            "pixel": [
+              927,
+              584
+            ],
+            "underlay": "vir",
+            "relative_staff_steps": [
+              3
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 6,
+            "pixel": [
+              993,
+              621
+            ],
+            "underlay": "go:1",
+            "relative_staff_steps": [
+              1
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 7,
+            "pixel": [
+              1015,
+              643
+            ],
+            "underlay": "go:2",
+            "relative_staff_steps": [
+              0
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          }
+        ]
+      },
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a"
+    },
+    "c23": {
+      "path": "research/continuation_38/c23-69r-0139-2200px.jpg",
+      "phrases": {
+        "nobis-vite-spem": [
+          {
+            "slot": 1,
+            "pixel": [
+              860,
+              1117
+            ],
+            "underlay": "no",
+            "relative_staff_steps": [
+              0
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 2,
+            "pixel": [
+              955,
+              1076
+            ],
+            "underlay": "bis",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 3,
+            "pixel": [
+              1037,
+              1076
+            ],
+            "underlay": "vi:lower",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 4,
+            "pixel": [
+              1055,
+              1054
+            ],
+            "underlay": "vi:upper",
+            "relative_staff_steps": [
+              3
+            ],
+            "state": "literature_assisted_clear",
+            "limit": "C23 pitch/segmentation interpreted with post hoc help from Urberg printed p.604 / PDF630. Source pixels are retained; this is not an independent reading."
+          },
+          {
+            "slot": 5,
+            "pixel": [
+              1110,
+              1117
+            ],
+            "underlay": "te",
+            "relative_staff_steps": [
+              0
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 6,
+            "pixel": [
+              1173,
+              1078
+            ],
+            "underlay": "spem:1",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 7,
+            "pixel": [
+              1213,
+              1078
+            ],
+            "underlay": "spem:2",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          }
+        ],
+        "fac-nos-virgo": [
+          {
+            "slot": 1,
+            "pixel": [
+              967,
+              1392
+            ],
+            "underlay": "Fac",
+            "relative_staff_steps": [
+              0
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 2,
+            "pixel": [
+              1036,
+              1380
+            ],
+            "underlay": "nos:1",
+            "relative_staff_steps": [
+              1
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 3,
+            "pixel": [
+              1071,
+              1358
+            ],
+            "underlay": "nos:2",
+            "relative_staff_steps": [
+              2
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 4,
+            "pixel": [
+              1111,
+              1337
+            ],
+            "underlay": "nos:3",
+            "relative_staff_steps": [
+              3
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 5,
+            "pixel": [
+              1153,
+              1337
+            ],
+            "underlay": "vir",
+            "relative_staff_steps": [
+              3
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 6,
+            "pixel": [
+              1255,
+              1378
+            ],
+            "underlay": "go:1",
+            "relative_staff_steps": [
+              1
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          },
+          {
+            "slot": 7,
+            "pixel": [
+              1288,
+              1398
+            ],
+            "underlay": "go:2",
+            "relative_staff_steps": [
+              0
+            ],
+            "state": "provisional_clear",
+            "limit": "Nominal manually located ink centre; no automatic segmentation or independently checked pitch."
+          }
+        ]
+      },
+      "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747"
+    }
+  },
+  "review_issues": [
+    {
+      "id": "Q39-opening-signs",
+      "source": "target",
+      "region": [
+        225,
+        275,
+        340,
+        260
+      ],
+      "issue": "Several opening signs are not securely classified as clefs, guide signs or sounding notes; no complete opening transcription is asserted."
+    },
+    {
+      "id": "Q39-vi-upper",
+      "target_pixel": [
+        1113,
+        291
+      ],
+      "c23_pixel": [
+        1055,
+        1054
+      ],
+      "issue": "Target vertical two-head group needs precise pitch interpretation; C23 upper ink approaches preceding text and its note segmentation needs review. Keep both pitch and optional-note alternatives."
+    },
+    {
+      "id": "Q39-nos-upper",
+      "target_pixel": [
+        853,
+        576
+      ],
+      "c23_pixel": [
+        1111,
+        1337
+      ],
+      "issue": "Target upper head sits between nominal staff positions and its vertical ligature spacing needs review; do not declare a melodic variant from centre arithmetic."
+    }
+  ],
+  "absolute_pitch_verified": false,
+  "whole_melody_verified": false,
+  "melodic_identity_established": false,
+  "revision_from_v1": {
+    "retained_prior_version": "research/continuation_39/readings.v1.json",
+    "change": "The C23 vi upper event is provisionally read as a separate note one diatonic step above its lower note, after checking the published C23 score. The target upper events remain unresolved.",
+    "source": {
+      "url": "https://doi.org/10.6082/uchicago.1751",
+      "pdf": "research/scholarship/urberg2016.pdf",
+      "locator": "Appendix F printed pp.600–605 / PDF626–631; relevant complete score pages visually checked.",
+      "figure_check": "Printed p.257 / PDF283 Example4.4 shows only the opening, not the two selected ending windows. It cannot verify those windows by itself."
+    },
+    "independent_confirmation": false
+  },
+  "published_comparison": {
+    "witnesses_as_labelled": [
+      "UUB C23 (69r)",
+      "UUB C21 (77r–77v)",
+      "Tammela Antiphoner (89r–89v)",
+      "Gummerus Antiphoner (134r)",
+      "MPO Fragment 10311",
+      "MPO Fragment 23744–23745"
+    ],
+    "statement": "Urberg already prints a six-witness synoptic comparison of the shorter antiphon. The broad internal contours are shared; the last MPO witness has a different note count over spem, so complete uniformity across all six is not claimed. These are edition reports, not six newly inspected originals.",
+    "locator": "Printed pp.600–605 / PDF626–631, especially p.604/PDF630 and p.605/PDF631.",
+    "novelty_implication": "Selected common contour compatibility cannot identify a unique lineage or codex; fragment-level first notice remains uncleared."
+  }
+}

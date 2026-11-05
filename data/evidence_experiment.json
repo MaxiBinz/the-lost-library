@@ -1,0 +1,134 @@
+{
+  "version": "1.0.0",
+  "queue_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+  "scope": "Post-review descriptive case study; source-supported abstention, not a blind improved-method evaluation.",
+  "baseline_method": "unchanged metadata score and existing calibration threshold",
+  "threshold": 0.7758108807437886,
+  "cases": [
+    {
+      "id": "H01",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-20274",
+      "image_evaluable": true,
+      "metadata_score": 0.761819677147291,
+      "baseline_threshold_accepts": false,
+      "evidence_screen_decision": "reference-supported acceptance",
+      "classification": "E",
+      "new_discovery": false
+    },
+    {
+      "id": "H02",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-10406",
+      "image_evaluable": true,
+      "metadata_score": 0.9340964771844011,
+      "baseline_threshold_accepts": true,
+      "evidence_screen_decision": "abstain: insufficient evidence",
+      "classification": "C",
+      "new_discovery": false
+    },
+    {
+      "id": "H03",
+      "left_id": "mpo-20274",
+      "right_id": "mpo-8994",
+      "image_evaluable": true,
+      "metadata_score": 0.7968268921166736,
+      "baseline_threshold_accepts": true,
+      "evidence_screen_decision": "abstain: insufficient evidence",
+      "classification": "C",
+      "new_discovery": false
+    },
+    {
+      "id": "H04",
+      "left_id": "finn-iv173",
+      "right_id": "mpo-1385",
+      "image_evaluable": true,
+      "metadata_score": 0.6666666666666666,
+      "baseline_threshold_accepts": false,
+      "evidence_screen_decision": "abstain: insufficient evidence",
+      "classification": "C",
+      "new_discovery": false
+    },
+    {
+      "id": "H05",
+      "left_id": "finn-iv173",
+      "right_id": "mpo-25592",
+      "image_evaluable": true,
+      "metadata_score": 0.5011616654421877,
+      "baseline_threshold_accepts": false,
+      "evidence_screen_decision": "abstain: insufficient evidence",
+      "classification": "C",
+      "new_discovery": false
+    },
+    {
+      "id": "H06",
+      "left_id": "mpo-8201",
+      "right_id": "mpo-8304",
+      "image_evaluable": true,
+      "metadata_score": 0.9926686738986257,
+      "baseline_threshold_accepts": true,
+      "evidence_screen_decision": "published rejection",
+      "classification": "D",
+      "new_discovery": false
+    },
+    {
+      "id": "H07",
+      "left_id": "mpo-8201",
+      "right_id": "mpo-20106",
+      "image_evaluable": false,
+      "metadata_score": null,
+      "baseline_threshold_accepts": null,
+      "evidence_screen_decision": "reference-supported acceptance",
+      "classification": "E",
+      "new_discovery": false
+    },
+    {
+      "id": "H08",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-4223",
+      "image_evaluable": true,
+      "metadata_score": 0.943176275486705,
+      "baseline_threshold_accepts": true,
+      "evidence_screen_decision": "abstain: insufficient evidence",
+      "classification": "C",
+      "new_discovery": false
+    },
+    {
+      "id": "H09",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-8311",
+      "image_evaluable": true,
+      "metadata_score": 0.9415798493488359,
+      "baseline_threshold_accepts": true,
+      "evidence_screen_decision": "abstain: insufficient evidence",
+      "classification": "C",
+      "new_discovery": false
+    },
+    {
+      "id": "H10",
+      "left_id": "mpo-1385",
+      "right_id": "mpo-8455",
+      "image_evaluable": true,
+      "metadata_score": 0.9363906436045375,
+      "baseline_threshold_accepts": true,
+      "evidence_screen_decision": "abstain: insufficient evidence",
+      "classification": "C",
+      "new_discovery": false
+    }
+  ],
+  "categories": {
+    "E": 2,
+    "C": 7,
+    "D": 1
+  },
+  "known_reference_acceptances": 2,
+  "published_rejections": 1,
+  "unresolved": 7,
+  "new_findings_confirmed": 0,
+  "limits": [
+    "Prior scholarly decisions are inputs to the screen, so agreement is not independent accuracy.",
+    "Fr1385 lookalikes belong to one catalogue group: cases are correlated.",
+    "Chant identifications are provisional AI readings with external concordances, not expert validation.",
+    "No population precision, recall, calibrated identity probability or advanced-method gain inferred."
+  ]
+}

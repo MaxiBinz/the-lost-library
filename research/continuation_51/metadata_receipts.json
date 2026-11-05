@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-10-30",
+    "url": "https://zenodo.org/api/records/?q=doi%3A%2210.5281%2Fzenodo.17511106%22+OR+doi%3A%2210.5281%2Fzenodo.17701360%22&all_versions=true&size=25",
+    "saved": true,
+    "bytes_received": 15070,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://zenodo.org/api/records?q=doi:%2210.5281/zenodo.17511106%22+OR+doi:%2210.5281/zenodo.17701360%22&all_versions=true&size=25",
+    "content_type": "application/json",
+    "file": "records-query.json",
+    "sha256": "1aaa3389576b61d4dbe0aa70ae2195269762b07f74d19e3682fc8985d1198edf"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://zenodo.org/api/records/17511106/versions/latest",
+    "saved": true,
+    "bytes_received": 6254,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://zenodo.org/api/records/19046496",
+    "content_type": "application/json",
+    "file": "combined-latest.json",
+    "sha256": "7bc92017cc911498321e22b8b646a8971a94955425133edbd192fd7bad256536"
+  },
+  {
+    "date": "2026-10-30",
+    "url": "https://zenodo.org/api/records/17701360/versions/latest",
+    "saved": true,
+    "bytes_received": 10049,
+    "retry": false,
+    "status": 200,
+    "final_url": "https://zenodo.org/api/records/19047125",
+    "content_type": "application/json",
+    "file": "raw-latest.json",
+    "sha256": "8cf263a148d500f89b5778e5d12d2ddeca313d57506aaa3247d34ac9d4658893"
+  }
+]

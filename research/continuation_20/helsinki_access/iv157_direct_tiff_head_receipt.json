@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-10-24T20:39:56Z",
+  "purpose": "One legitimate access check of the officially listed IV.157 TIFF endpoint needed for direct textual comparison.",
+  "url": "https://fragmenta.kansalliskirjasto.fi/bitstream/handle/10024/1300/F_m_IV_157-0001.tif?sequence=1&isAllowed=y",
+  "method": "HTTP HEAD only; no body or image bytes requested",
+  "result": {"status": 403, "server": "cloudflare", "cf_mitigated": "challenge", "content_length": 5714},
+  "interpretation": "The public, officially listed direct file route is presently challenge-protected from this environment. This is an access observation, not evidence that the source is unavailable generally.",
+  "actions_not_taken": ["No challenge interaction", "No refresh or repeated request", "No header or user-agent evasion", "No alternate-host or guessed-file request", "No manuscript-image download"]
+}

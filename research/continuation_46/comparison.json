@@ -1,0 +1,98 @@
+{
+  "version": "1.0.0",
+  "input": "research/continuation_46/readings.v2.json",
+  "scope": "Fixed three-word windows: visible head groups and exploratory deskewed direction only.",
+  "candidate_celos_head_counts": {
+    "8066": 5,
+    "9620": 2
+  },
+  "celos_head_count_difference": true,
+  "candidate_primary_centres": 15,
+  "optional_uncertain_centres": 1,
+  "tan_to_ge_directions": [
+    {
+      "source": "8066",
+      "nominal_height_change_px": 7.372,
+      "sensitivity": [
+        {
+          "centre_tolerance_px": 3,
+          "slope_perturbation_px_per_px": 0.02,
+          "range_px": [
+            0.152,
+            14.592
+          ],
+          "direction": "rise"
+        },
+        {
+          "centre_tolerance_px": 4,
+          "slope_perturbation_px_per_px": 0.02,
+          "range_px": [
+            -1.848,
+            16.592
+          ],
+          "direction": "unresolved"
+        },
+        {
+          "centre_tolerance_px": 5,
+          "slope_perturbation_px_per_px": 0.02,
+          "range_px": [
+            -3.848,
+            18.592
+          ],
+          "direction": "unresolved"
+        }
+      ],
+      "exact_diatonic_interval": null
+    },
+    {
+      "source": "9620",
+      "nominal_height_change_px": -12.85,
+      "sensitivity": [
+        {
+          "centre_tolerance_px": 3,
+          "slope_perturbation_px_per_px": 0.02,
+          "range_px": [
+            -20.33,
+            -5.37
+          ],
+          "direction": "fall"
+        },
+        {
+          "centre_tolerance_px": 4,
+          "slope_perturbation_px_per_px": 0.02,
+          "range_px": [
+            -22.33,
+            -3.37
+          ],
+          "direction": "fall"
+        },
+        {
+          "centre_tolerance_px": 5,
+          "slope_perturbation_px_per_px": 0.02,
+          "range_px": [
+            -24.33,
+            -1.37
+          ],
+          "direction": "fall"
+        }
+      ],
+      "exact_diatonic_interval": null
+    }
+  ],
+  "robust_direction_contrast": false,
+  "direction_limit": "The8066 direction becomes unresolved at wider tolerance; optional tan segmentation remains. No certified interval contrast.",
+  "same_complete_chant_identification_established": false,
+  "diagnostic_melodic_variant_established": false,
+  "melodic_identity_established": false,
+  "same_codex_established": false,
+  "different_codex_established": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "interpretation": "The same selected words have visibly different notehead groups: five candidate heads over celos in8066 and two in9620. The apparent tan-to-ge direction contrast is not robust at wider coordinate tolerance, and tan segmentation remains uncertain. Reference-assisted context points to different related chant items, so this is not a securely identified same-chant melodic variant or a different-book result.",
+  "limits": [
+    "No full corresponding work ID, local service position, complete melody or absolute pitch.",
+    "No exact rhythmic values, chromatic inflections or audio realization.",
+    "Ordinary ornament, differing verse/work context, section alternatives, multiple hands and composite books remain possible.",
+    "No new matching score, threshold, performance metric, independent confirmation or novelty clearance."
+  ]
+}

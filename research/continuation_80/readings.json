@@ -1,0 +1,11 @@
+{
+  "date":"2026-11-02",
+  "scope":"After E79, inspect first two candidate noteheads over do-mi of domini in the Hec est domus antiphon. Source images and published versions already exposed; selection is retrospective and not independent.",
+  "convention":"Original image pixels, y increases downward; manually selected approximate notehead centres.",
+  "items":[
+    {"id":"10437", "path":"research/continuation_54/images/Fr10437-capture-1-native.jpg", "sha256":"75d3c9b2ae0facd754504b1dec68ce8a33a64d3cdaa7a78140c9ab539942224a", "syllables":["do-","mi-"], "points":[[1168,766],[1228,789]], "rule_slope":-0.02, "staff_spacing_px":28, "limit":"Square-head centres and syllabic alignment need verification; surrounding red rule is curved."},
+    {"id":"8066", "path":"research/continuation_44/images/Fr8066-capture-3-native.jpg", "sha256":"821743390426bf8f04773219f492268cf1cdf5cbbb96a0e66b3555ddcd42c07c", "syllables":["do-","mi-"], "points":[[475,498],[540,506]], "rule_slope":-0.01, "staff_spacing_px":15, "limit":"Irregular Hufnagel heads and stems make centres and underlay uncertain; visually apparent head location is not independently adjudicated."}
+  ],
+  "centre_tolerances_px":[3,4,5], "slope_perturbation_px_per_px":0.01, "spacing_tolerance_px":2,
+  "uncertainty_scope":"Post-selection illustrative sensitivity, not measured error, fitted threshold or confidence interval. Assumptions do not verify the notes or rule."
+}

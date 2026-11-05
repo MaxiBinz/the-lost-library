@@ -1,0 +1,281 @@
+[
+  {
+    "id": "uub-c23-0144",
+    "physical_object_id": "uub-c23",
+    "shelfmark": "Uppsala C23 · 71v (attachment0144)",
+    "institution": "Uppsala University Library",
+    "attribution": "Uppsala universitetsbibliotek",
+    "collection": "External comparison witness",
+    "role": "external comparator, excluded from benchmark and frozen attribution queue",
+    "image_path": "research/continuation_20/c23/c23-attachment-0144-2200px.jpg",
+    "image": {
+      "path": "research/continuation_20/c23/c23-attachment-0144-2200px.jpg",
+      "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0144.tiff",
+      "sha256": "0f83a3289e8ee7d0f9bcf05dbe3f89bc4acb5138024f8eb64a44970e59e44b53",
+      "width": 2200,
+      "height": 2983,
+      "bytes": 1688449,
+      "label": "C23 attachment0144, comparison page 71v",
+      "transformation": "RGB conversion, resize to at most2200px width, JPEG quality92; no generated detail.",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "captures": [
+      {
+        "path": "research/continuation_20/c23/c23-attachment-0144-2200px.jpg",
+        "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0144.tiff",
+        "sha256": "0f83a3289e8ee7d0f9bcf05dbe3f89bc4acb5138024f8eb64a44970e59e44b53",
+        "width": 2200,
+        "height": 2983,
+        "bytes": 1688449,
+        "label": "C23 attachment0144, comparison page 71v",
+        "transformation": "RGB conversion, resize to at most2200px width, JPEG quality92; no generated detail.",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+      }
+    ],
+    "original_source": {
+      "path": "research/continuation_20/c23/c23-attachment-0144.tiff",
+      "sha256": "7cb8bb43f5366a5934be7e4a81e1b9aee4bc6b315bfa081c3baaa8aae1a7fedd",
+      "width": 2826,
+      "height": 3832,
+      "bytes": 19818764,
+      "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0144.tiff"
+    },
+    "source_url": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+    "manifest_url": null,
+    "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "rights_label": "Public Domain Mark, institutional record",
+    "normalized": {
+      "type": "Rhymed office manuscript",
+      "date_text": "15th century (institutional record)",
+      "material": "paper",
+      "contents": "Compassio Mariae, comparison with Fr20274; no proposed physical identity",
+      "notation": "Square notation",
+      "origin": "Vadstena/Linköping (catalogue attribution)"
+    },
+    "warnings": [
+      "External comparison page; does not enter matching, core collection statistics or the ten frozen relationships.",
+      "Folio71v identified through text correspondence with Hallqvist2020; attachment ordinal alone does not establish foliation.",
+      "The JPEG is a declared derivative of the retained TIFF, not another manuscript witness."
+    ],
+    "raw": {
+      "record_id": "alvin-record:160517",
+      "attachment": "0144",
+      "access_method": "Live institutional catalogue read in browser; exact original TIFF linked by normal viewer controls",
+      "image_viewer_result": "Blank image panel with JavaScript errors; direct linked TIFF returned200; no restriction bypass",
+      "datierung": "15th century (institutional catalogue)"
+    }
+  },
+  {
+    "id": "uub-c23-0145",
+    "physical_object_id": "uub-c23",
+    "shelfmark": "Uppsala C23 · 72r (attachment0145)",
+    "institution": "Uppsala University Library",
+    "attribution": "Uppsala universitetsbibliotek",
+    "collection": "External comparison witness",
+    "role": "external comparator, excluded from benchmark and frozen attribution queue",
+    "image_path": "research/continuation_20/c23/c23-attachment-0145-2200px.jpg",
+    "image": {
+      "path": "research/continuation_20/c23/c23-attachment-0145-2200px.jpg",
+      "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0145.tiff",
+      "sha256": "03e69d1f4f9b2d757c0895ce5ce1c2ed13fa9f6a6619f9efb38cf8aa158e9f5d",
+      "width": 2200,
+      "height": 2617,
+      "bytes": 1621558,
+      "label": "C23 attachment0145, comparison page 72r",
+      "transformation": "RGB conversion, resize to at most2200px width, JPEG quality92; no generated detail.",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "captures": [
+      {
+        "path": "research/continuation_20/c23/c23-attachment-0145-2200px.jpg",
+        "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0145.tiff",
+        "sha256": "03e69d1f4f9b2d757c0895ce5ce1c2ed13fa9f6a6619f9efb38cf8aa158e9f5d",
+        "width": 2200,
+        "height": 2617,
+        "bytes": 1621558,
+        "label": "C23 attachment0145, comparison page 72r",
+        "transformation": "RGB conversion, resize to at most2200px width, JPEG quality92; no generated detail.",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+      }
+    ],
+    "original_source": {
+      "path": "research/continuation_20/c23/c23-attachment-0145.tiff",
+      "sha256": "d52d6d3817ddee07fb4e91d3ee1885e730ceba3654424e54a7025ac352020f49",
+      "width": 3303,
+      "height": 3929,
+      "bytes": 25067016,
+      "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0145.tiff"
+    },
+    "source_url": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+    "manifest_url": null,
+    "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "rights_label": "Public Domain Mark, institutional record",
+    "normalized": {
+      "type": "Rhymed office manuscript",
+      "date_text": "15th century (institutional record)",
+      "material": "paper",
+      "contents": "Compassio Mariae, comparison with Fr20274; no proposed physical identity",
+      "notation": "Square notation",
+      "origin": "Vadstena/Linköping (catalogue attribution)"
+    },
+    "warnings": [
+      "External comparison page; does not enter matching, core collection statistics or the ten frozen relationships.",
+      "Folio72r identified through text correspondence with Hallqvist2020; attachment ordinal alone does not establish foliation.",
+      "The JPEG is a declared derivative of the retained TIFF, not another manuscript witness."
+    ],
+    "raw": {
+      "record_id": "alvin-record:160517",
+      "attachment": "0145",
+      "access_method": "Live institutional catalogue read in browser; exact original TIFF linked by normal viewer controls",
+      "image_viewer_result": "Blank image panel with JavaScript errors; direct linked TIFF returned200; no restriction bypass",
+      "datierung": "15th century (institutional catalogue)"
+    }
+  },
+  {
+    "id": "mpo-7292",
+    "physical_object_id": "mpo-7292",
+    "shelfmark": "Fr 7292 (Swedish National Archives MPO)",
+    "institution": "Swedish National Archives",
+    "attribution": "Riksarkivet",
+    "collection": "Medeltida pergamentomslag (MPO)",
+    "role": "metadata-matched different-codex staff-pitch control; excluded from core predictors, benchmark and frozen attribution queue",
+    "image_path": "data/images/mpo-7292-capture-1-1600px.jpg",
+    "image": {
+      "path": "data/images/mpo-7292-capture-1-1600px.jpg",
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/1600,/0/default.jpg",
+      "sha256": "a864bec13a29a315a7df8e910b23118ef76fc631be8e10f97b60ec3b732285f2",
+      "width": 1600,
+      "height": 1026,
+      "bytes": 195053,
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007292_00001/canvas",
+      "physical_object_id": "mpo-7292",
+      "capture_index": 0,
+      "resolution_variant": true,
+      "label": "MPO manifest image 1, 1600px derivative used for region coordinates; not a separate side",
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "captures": [
+      {
+        "path": "data/images/mpo-7292-capture-1-800px.jpg",
+        "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/800,/0/default.jpg",
+        "sha256": "f4dfb5af68a16a0c0d6886cd7697c7973dc43f2b60ee14a633bdafe3294f5546",
+        "width": 800,
+        "height": 513,
+        "bytes": 59389,
+        "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007292_00001/canvas",
+        "physical_object_id": "mpo-7292",
+        "capture_index": 0,
+        "resolution_variant": false,
+        "label": "MPO manifest image 1, 800px derivative; capture order is not medieval side order",
+        "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      {
+        "path": "data/images/mpo-7292-capture-1-1600px.jpg",
+        "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1007292_00001/full/1600,/0/default.jpg",
+        "sha256": "a864bec13a29a315a7df8e910b23118ef76fc631be8e10f97b60ec3b732285f2",
+        "width": 1600,
+        "height": 1026,
+        "bytes": 195053,
+        "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1007292_00001/canvas",
+        "physical_object_id": "mpo-7292",
+        "capture_index": 0,
+        "resolution_variant": true,
+        "label": "MPO manifest image 1, 1600px derivative used for region coordinates; not a separate side",
+        "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+      }
+    ],
+    "source_url": "https://sok.riksarkivet.se/bildvisning/R1007292",
+    "manifest_url": "https://lbiiif.riksarkivet.se/arkis!R1007292/manifest",
+    "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "rights_label": "Public Domain Mark 1.0, recorded in the official Riksarkivet IIIF manifest",
+    "normalized": {
+      "type": "Antiphonarium",
+      "date_text": "15. Jh.",
+      "material": "Pergament",
+      "contents": "1rv Proprium de tempore: Die VI p. nat. dni.",
+      "notation": "Quadr, 4 lines",
+      "main_text_rows": "#11",
+      "written_area": "35.0 x 22.5",
+      "catalogue_codex_label": "Codex 1306"
+    },
+    "warnings": [
+      "Auxiliary comparison source only; not added to the 129-record core collection, matching gallery, predictors or frozen hypothesis queue.",
+      "Codex 1306 is the MPO catalogue label, not independent expert adjudication.",
+      "Selection was made from metadata before image retrieval; staff systems and line centers were selected after viewing the image.",
+      "The single control matches broad layout metadata, not hand or workshop.",
+      "Two JPEG files are resolution derivatives of one IIIF canvas and one physical fragment, not two witnesses."
+    ],
+    "raw": {
+      "record_id": "R1007292",
+      "access_method": "Official IIIF v3 manifest and public Image API; both returned HTTP 200 after ordinary read-only retrieval.",
+      "codex_label_origin": "Pinned MPO v1.0.0 CSV",
+      "manifest_sha256": "1a7eebe4ac470c5ba65fcdb7f043a02cff59dc96af21d74b4fd8b2ab78536aef"
+    }
+  },
+  {
+    "id": "uub-c23-0139",
+    "physical_object_id": "uub-c23",
+    "shelfmark": "Uppsala C23 · 69r (explicit viewer label)",
+    "institution": "Uppsala University Library",
+    "attribution": "Uppsala universitetsbibliotek",
+    "collection": "External comparison witness",
+    "role": "external comparator, excluded from benchmark and frozen attribution queue",
+    "image_path": "research/continuation_38/c23-69r-0139-2200px.jpg",
+    "image": {
+      "path": "research/continuation_38/c23-69r-0139-2200px.jpg",
+      "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+      "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+      "width": 2200,
+      "height": 2920,
+      "bytes": 2514006,
+      "label": "C23 folio 69r, explicitly labelled public viewer",
+      "transformation": "Pillow RGB, thumbnail width 2200, JPEG quality 95; no generated pixels or restoration",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "captures": [
+      {
+        "path": "research/continuation_38/c23-69r-0139-2200px.jpg",
+        "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+        "sha256": "3761a22a109aa8491bddd3c2c117a896d940f6f887f453fad39b103948449747",
+        "width": 2200,
+        "height": 2920,
+        "bytes": 2514006,
+        "label": "C23 folio 69r, explicitly labelled public viewer",
+        "transformation": "Pillow RGB, thumbnail width 2200, JPEG quality 95; no generated pixels or restoration",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+      }
+    ],
+    "original_source": {
+      "path": "research/continuation_38/c23-69r-0139.tiff",
+      "sha256": "499bb35b4b6864b3caa87b547d2a6b757ac133f5586ab472e12152dea9daa9e7",
+      "width": 3046,
+      "height": 4043,
+      "bytes": 24826245,
+      "url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff"
+    },
+    "source_url": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+    "manifest_url": null,
+    "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "rights_label": "Public Domain Mark, institutional record",
+    "normalized": {
+      "type": "Rhymed office manuscript",
+      "date_text": "15th century (institutional record)",
+      "material": "paper",
+      "contents": "Compassio Mariae, comparison with Fr20274; no proposed physical identity",
+      "notation": "Square notation",
+      "origin": "Vadstena/Linköping (catalogue attribution)"
+    },
+    "warnings": [
+      "External comparator, excluded from core predictors, benchmark and frozen attribution queue.",
+      "Folio 69r selected by explicit thumbnail and viewer label; no medieval-side inference from image ordinal.",
+      "This is a new comparison page of the existing C23 witness, not a new book or independent expert reading."
+    ],
+    "raw": {
+      "record_id": "alvin-record:160517",
+      "attachment": "0139",
+      "access_method": "Normal public named-thumbnail selection, then the exact displayed TIFF download link",
+      "label_receipt": "research/continuation_38/c23-69r-viewer.ax.txt",
+      "rights_receipt": "research/continuation_38/c23-record.ax.txt"
+    }
+  }
+]

@@ -1,0 +1,522 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "observer": "Codex AI; unblinded catalogue/prior-image exposure; no independent adjudication",
+  "regions": [
+    {
+      "id": "I54-10407-ix",
+      "path": "research/continuation_54/images/Fr10407-capture-1-native.jpg",
+      "xywh": [
+        650,
+        60,
+        450,
+        170
+      ],
+      "literal": "ix-like, flanked by points",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "Red upper-margin sign, compatible with catalogue IX. The disclosed prior reading informs this qualified candidate; its historical numbering function and original side are not established."
+    },
+    {
+      "id": "I54-10407-i",
+      "path": "research/continuation_54/images/Fr10407-capture-3-native.jpg",
+      "xywh": [
+        800,
+        40,
+        400,
+        190
+      ],
+      "literal": "i-like, flanked by points",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "Red upper-margin single-letter/stroke-like sign, compatible with catalogue i. Photograph ordinal is not medieval recto/verso; no unique compound address is established."
+    },
+    {
+      "id": "I54-10437-vj",
+      "path": "research/continuation_54/images/Fr10437-capture-1-native.jpg",
+      "xywh": [
+        650,
+        70,
+        450,
+        190
+      ],
+      "literal": "vj-like, flanked by points",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "Red upper-margin sign, compatible with catalogue VI. Literal shape, normalized numeral and historical function remain separate; no original folio or quire number is assigned."
+    },
+    {
+      "id": "I54-10437-o",
+      "path": "research/continuation_54/images/Fr10437-capture-3-native.jpg",
+      "xywh": [
+        600,
+        40,
+        500,
+        200
+      ],
+      "literal": "O-like, flanked by points",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "Angular rounded red upper-margin sign, compatible with catalogue O. It is not normalized to a number or assigned a medieval side."
+    },
+    {
+      "id": "I54-1385-first-edge",
+      "path": "data/images/mpo-1385.jpg",
+      "xywh": [
+        180,
+        0,
+        250,
+        70
+      ],
+      "literal": null,
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "Red upper-edge strokes are clipped at the source boundary/fold. Catalogue IX is known, but this retained photograph does not independently yield a secure complete literal reading. Missing strokes are not reconstructed."
+    },
+    {
+      "id": "I54-1385-third-edge",
+      "path": "data/images/mpo-1385-capture-3.jpg",
+      "xywh": [
+        250,
+        0,
+        350,
+        100
+      ],
+      "literal": null,
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The red upper-edge mark is partly outside the visible surface. Catalogue D remains an attributed reading; this source does not securely establish the full sign or its function."
+    },
+    {
+      "id": "I54-10407-irregabat",
+      "path": "research/continuation_54/images/Fr10407-capture-4-native.jpg",
+      "xywh": [
+        390,
+        390,
+        1220,
+        260
+      ],
+      "literal": "Irregabat [...] lacrimis [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "Large I-initial notated opening and nearby lacrimis wording are visible. The provisional reading is compatible with the source-described Magdalene context; no exact complete chant ID, corresponding variant or new liturgical tradition is asserted."
+    },
+    {
+      "id": "I54-10437-reuse",
+      "path": "research/continuation_54/images/Fr10437-capture-4-native.jpg",
+      "xywh": [
+        80,
+        0,
+        1460,
+        380
+      ],
+      "literal": null,
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "Two reinforced straps and sewing cross over medieval music/text in the reused binding. These later reuse features do not establish original medieval quire stitching, a physical join to another fragment or an original leaf-side map."
+    },
+    {
+      "id": "I54-10437-domum",
+      "path": "research/continuation_54/images/Fr10437-capture-1-native.jpg",
+      "xywh": [
+        230,
+        330,
+        1280,
+        300
+      ],
+      "literal": "Domum tuam domine [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A broad-field notated D-initial opening is compatible with dedication material already reported by the catalogue. Different feast context from another fragment is not a book exclusion."
+    },
+    {
+      "id": "I54-10406-service",
+      "path": "data/images/mpo-10406.jpg",
+      "xywh": [
+        100,
+        140,
+        560,
+        245
+      ],
+      "literal": null,
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A short red service rubric and notated text occupy one broad writing field. The catalogue describes Magdalene, James and Olav material; the service cue is not independently read as an All-Saints feast or a complete calendar reconstruction."
+    },
+    {
+      "id": "I54-8311-adam",
+      "path": "data/images/mpo-8311.jpg",
+      "xywh": [
+        85,
+        205,
+        560,
+        225
+      ],
+      "literal": "Dum deambularet dominus in paradiso [...] / [...] Adam [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The surviving music/text includes a paradise/Adam passage in one broad writing field. Different visible subject from10406 is compatible with separate sections in one book and also with different related books."
+    },
+    {
+      "id": "I54-365-hisunt",
+      "path": "data/images/mpo-365.jpg",
+      "xywh": [
+        115,
+        235,
+        565,
+        110
+      ],
+      "literal": "Hi sunt [...] sanguine [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The one selected thumbnail has a broad-field notated H-initial passage with blood/martyr-related wording. The other three manifest photographs were not selected or inspected in E54; no complete text inventory or absence test is claimed."
+    }
+  ],
+  "object_summaries": {
+    "mpo-10406": {
+      "context": "One broad notated field with red service cues; catalogue Magdalene, James and Olav material is attributed rather than silently expanded from the rubric. Four source photographs inspected.",
+      "regions": [
+        "I54-10406-service"
+      ],
+      "marks": [],
+      "full_manifest_photo_coverage": true,
+      "columns_visible": 1,
+      "original_address_function_established": false,
+      "medieval_side": null
+    },
+    "mpo-10407": {
+      "context": "One broad notated field; ix-like and i-like upper marks, plus provisional Irregabat/lacrimis context compatible with the already described Magdalene material.",
+      "regions": [
+        "I54-10407-ix",
+        "I54-10407-i",
+        "I54-10407-irregabat"
+      ],
+      "marks": [
+        "ix-like",
+        "i-like"
+      ],
+      "full_manifest_photo_coverage": true,
+      "columns_visible": 1,
+      "original_address_function_established": false,
+      "medieval_side": null
+    },
+    "mpo-10437": {
+      "context": "One broad notated field; vj-like and O-like upper signs and Domum-tuam dedication context. Later binding straps over text are reuse evidence.",
+      "regions": [
+        "I54-10437-vj",
+        "I54-10437-o",
+        "I54-10437-domum",
+        "I54-10437-reuse"
+      ],
+      "marks": [
+        "vj-like",
+        "O-like"
+      ],
+      "full_manifest_photo_coverage": true,
+      "columns_visible": 1,
+      "original_address_function_established": false,
+      "medieval_side": null
+    },
+    "mpo-1385": {
+      "context": "One broad notated field with service rubrics; catalogue Holy-Thursday context is credited. The two catalogue IX/D marks are clipped in retained first/third views; no secure fresh complete reading.",
+      "regions": [
+        "I54-1385-first-edge",
+        "I54-1385-third-edge"
+      ],
+      "marks": [
+        "unread: first clipped",
+        "unread: third clipped"
+      ],
+      "full_manifest_photo_coverage": true,
+      "columns_visible": 1,
+      "original_address_function_established": false,
+      "medieval_side": null
+    },
+    "mpo-20274": {
+      "context": "One broad notated field with Marian material already investigated. Its two retained photographs overlap one page area; they are not independent leaves. Upper red sign remains f/4-like and unnormalized; pencil KB/A103k/CXVIII is later library identification.",
+      "regions": [
+        "I51-20274-upper-sign",
+        "I51-20274-library-label"
+      ],
+      "marks": [
+        "f/4-like, uncertain"
+      ],
+      "full_manifest_photo_coverage": true,
+      "columns_visible": 1,
+      "original_address_function_established": false,
+      "medieval_side": null
+    },
+    "mpo-365": {
+      "context": "One selected broad-field thumbnail has a Hi-sunt/sanguine passage. Three other manifest photographs remain outside this phase; no secure original address from the selected view.",
+      "regions": [
+        "I54-365-hisunt"
+      ],
+      "marks": [],
+      "full_manifest_photo_coverage": false,
+      "columns_visible": 1,
+      "original_address_function_established": false,
+      "medieval_side": null
+    },
+    "mpo-8311": {
+      "context": "One broad notated field with Dum-deambularet/paradiso/Adam wording. Four source photographs inspected; rotated later account writing does not supply an original address.",
+      "regions": [
+        "I54-8311-adam"
+      ],
+      "marks": [],
+      "full_manifest_photo_coverage": true,
+      "columns_visible": 1,
+      "original_address_function_established": false,
+      "medieval_side": null
+    },
+    "mpo-8994": {
+      "context": "One broad notated field with already studied Stephen material. Previously recorded IIII-like and k-like red signs recur; no new side map or physical join.",
+      "regions": [
+        "I33-8994-roman",
+        "I33-8994-k",
+        "I33-8994-third-nocturn",
+        "I40-8994-contemplatur"
+      ],
+      "marks": [
+        "IIII-like",
+        "k-like"
+      ],
+      "full_manifest_photo_coverage": true,
+      "columns_visible": 1,
+      "original_address_function_established": false,
+      "medieval_side": null
+    }
+  },
+  "limits": [
+    "27 selected source photographs of eight existing objects were inspected; photographs are not independent leaves or witnesses. One Fr365 photograph of four is included.",
+    "Catalogue mark readings were known in advance. Native photographs improve visibility of existing marks, not independent corroboration of their historical function.",
+    "The Fr1385 IX/D catalogue readings are not securely readable in the retained clipped views. Equal Roman numerals alone can recur across sections or books and are not unique addresses.",
+    "No complete corresponding diagnostic text/music work, original side/quire map, physical join or historical book adjudication is established. Different feasts and a common broad-field layout do not settle identity.",
+    "All eight initial comparisons are recorded; a false first-comparison-pending flag means only that limited comparison took place, not that the historical question is exhausted."
+  ],
+  "prior_regions_reused": [
+    "I51-20274-upper-sign",
+    "I51-20274-library-label",
+    "I33-8994-roman",
+    "I33-8994-k",
+    "I33-8994-third-nocturn",
+    "I40-8994-contemplatur"
+  ],
+  "coverage": [
+    {
+      "object_id": "mpo-10406",
+      "path": "data/images/mpo-10406.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10406",
+      "path": "data/images/mpo-10406-capture-2.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10406",
+      "path": "data/images/mpo-10406-capture-3.jpg",
+      "source_capture_index": 2,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10406",
+      "path": "data/images/mpo-10406-capture-4.jpg",
+      "source_capture_index": 3,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-1385",
+      "path": "data/images/mpo-1385.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-1385",
+      "path": "data/images/mpo-1385-capture-2.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-1385",
+      "path": "data/images/mpo-1385-capture-3.jpg",
+      "source_capture_index": 2,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-1385",
+      "path": "data/images/mpo-1385-capture-4.jpg",
+      "source_capture_index": 3,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-20274",
+      "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-20274",
+      "path": "data/images/mpo-20274-capture-2-1835px.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-365",
+      "path": "data/images/mpo-365.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-8311",
+      "path": "data/images/mpo-8311.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-8311",
+      "path": "data/images/mpo-8311-capture-2.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-8311",
+      "path": "data/images/mpo-8311-capture-3.jpg",
+      "source_capture_index": 2,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-8311",
+      "path": "data/images/mpo-8311-capture-4.jpg",
+      "source_capture_index": 3,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-8994",
+      "path": "data/images/mpo-8994-capture-1-1802px.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-8994",
+      "path": "data/images/mpo-8994-capture-2-1835px.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-8994",
+      "path": "data/images/mpo-8994-capture-3-1793px.jpg",
+      "source_capture_index": 2,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-8994",
+      "path": "data/images/mpo-8994-capture-4-1808px.jpg",
+      "source_capture_index": 3,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10407",
+      "path": "research/continuation_54/images/Fr10407-capture-1-native.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10407",
+      "path": "research/continuation_54/images/Fr10407-capture-2-native.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10407",
+      "path": "research/continuation_54/images/Fr10407-capture-3-native.jpg",
+      "source_capture_index": 2,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10407",
+      "path": "research/continuation_54/images/Fr10407-capture-4-native.jpg",
+      "source_capture_index": 3,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10437",
+      "path": "research/continuation_54/images/Fr10437-capture-1-native.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10437",
+      "path": "research/continuation_54/images/Fr10437-capture-2-native.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10437",
+      "path": "research/continuation_54/images/Fr10437-capture-3-native.jpg",
+      "source_capture_index": 2,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    },
+    {
+      "object_id": "mpo-10437",
+      "path": "research/continuation_54/images/Fr10437-capture-4-native.jpg",
+      "source_capture_index": 3,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Whole selected source photograph inspected for context; not a complete text/music edition or original-side assignment."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version":"1.0.0",
+  "annotations":[
+    {
+      "id":"I75-8073-responsory", "type":"Annotation", "motivation":"describing", "fragment_id":"mpo-8073",
+      "body":{"type":"TextualBody", "value":"The large red F begins a provisional Funde vinum desolatis; below, Liberalis liberali and its verse end with plus quam postulas and an Ut de cue. The fold and low resolution obscure details.", "language":"en"},
+      "target":{"source":"data/images/mpo-8073.jpg", "selector":{"type":"FragmentSelector", "conformsTo":"http://www.w3.org/TR/media-frags/", "value":"xywh=175,105,470,445"}},
+      "source_url":"https://lbiiif.riksarkivet.se/v3/arkis!R1008073_00001/full/800,/0/default.jpg", "sha256":"c92298490c972561af51954fbabea1f78a860d15eda873570b62362ec7c3f1d2", "image_dimensions":[800,571],
+      "rights_url":"http://creativecommons.org/publicdomain/mark/1.0/", "attribution":"Riksarkivet; National Archives of Sweden",
+      "literal_candidate":"Funde vinum [...] Liberalis liberali [...] plus quam postulas. Ut de [...]", "normalized_candidate":null,
+      "observer":"Codex AI, reference-exposed reading, 2026-11-02; exact model checkpoint unavailable", "independent_confirmation":false,
+      "interpretation_limits":["Only an 800-pixel thumbnail; words and fold require independent checking.", "Ut de is a possible refrain cue and does not prove the same ink appears on another photograph."]
+    },
+    {
+      "id":"I75-8073-doxology", "type":"Annotation", "motivation":"describing", "fragment_id":"mpo-8073",
+      "body":{"type":"TextualBody", "value":"The top passage provisionally reads Gloria patri et filio et spiritui sancto, followed by Ut de, immediately before the large L of Lucis huius festa. Some material is covered by the fold.", "language":"en"},
+      "target":{"source":"research/continuation_52/images/Fr8073-capture-2-native.jpg", "selector":{"type":"FragmentSelector", "conformsTo":"http://www.w3.org/TR/media-frags/", "value":"xywh=270,0,1120,265"}},
+      "source_url":"https://lbiiif.riksarkivet.se/arkis!R1008073_00002/full/max/0/default.jpg", "sha256":"68b42751798348caccc0a8d3c2833504d9f2ccf40eb76068b9128b18695a284c", "image_dimensions":[1788,1146],
+      "rights_url":"http://creativecommons.org/publicdomain/mark/1.0/", "attribution":"Riksarkivet; National Archives of Sweden",
+      "literal_candidate":"Gloria patri et filio et spiritui sancto. Ut de [...]", "normalized_candidate":null,
+      "observer":"Codex AI, reference-exposed reading, 2026-11-02; exact model checkpoint unavailable", "independent_confirmation":false,
+      "interpretation_limits":["Provisional text; the full doxology and hidden preceding text have not been independently transcribed.", "Similar refrain cues are not direct proof of overlapping ink or medieval side mapping."]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "stage": "Source candidates before new hymn-reference lookup",
+  "observer": "Codex AI; unblinded source exposure, no independent adjudication",
+  "regions": [
+    {
+      "id": "I53-10349-jesu",
+      "path": "research/continuation_50/images/Fr10349-capture-3-native.jpg",
+      "xywh": [
+        30,
+        205,
+        445,
+        310
+      ],
+      "literal": "Iesu saluator seculi / redemptis ope subueni [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A notated I-initial hymn opening is followed by redemptis ope subueni and further continuous verse text. The local literal reading is provisional; no exact complete hymn edition or distinctive shared variant is established."
+    },
+    {
+      "id": "I53-25592-jesu",
+      "path": "data/images/mpo-25592-capture-4.jpg",
+      "xywh": [
+        530,
+        185,
+        305,
+        260
+      ],
+      "literal": "Iesu redemptor seculi [...] / [...] patris altissimi [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A notated I-initial opening reads Iesu redemptor seculi, followed by an uncertain continuation and continuous verse text. It resembles10349 in subject/opening words but is not securely the same complete work or a diagnostic variant."
+    },
+    {
+      "id": "I53-25592-a-patre",
+      "path": "data/images/mpo-25592-capture-4.jpg",
+      "xywh": [
+        235,
+        265,
+        300,
+        215
+      ],
+      "literal": "A patre unigenitus [...] / [...] baptisma [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A blue A-initial notated opening is followed by continuous verse lines. This is compatible with the catalogue A patre unigenitus cue; complete text/work/service identification and book identity remain separate."
+    },
+    {
+      "id": "I53-25592-hymn-blocks",
+      "path": "data/images/mpo-25592-capture-3.jpg",
+      "xywh": [
+        430,
+        175,
+        400,
+        370
+      ],
+      "literal": null,
+      "normalized": null,
+      "display_rotation_degrees": 180,
+      "body": "Viewed upright by an exact180-degree rotation, the source has a notated hymn opening followed by continuous verse-like text in a narrow writing field. The rotation adds no source detail or original-side assignment."
+    },
+    {
+      "id": "I53-5uba-mass-rubrics",
+      "path": "data/images/fragmentarium-F-5uba.jpg",
+      "xywh": [
+        110,
+        560,
+        850,
+        740
+      ],
+      "literal": "Off. [...] Iubilate deo [...] / Secreta [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The visible Off. and Secreta rubrics occur with notated chant and a prose prayer. This supports local Mass context already described by the published Beauvais record, not a newly identified book."
+    },
+    {
+      "id": "I53-5der-viri",
+      "path": "data/images/fragmentarium-F-5der.jpg",
+      "xywh": [
+        420,
+        75,
+        245,
+        430
+      ],
+      "literal": "[...] galilei quid admiramini / aspicientes in celum [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The right-hand music field includes the Galilei/aspicientes-in-celum passage. Its published Beauvais reconstruction membership remains credited separately; a liturgical phrase is not a unique codex fingerprint."
+    },
+    {
+      "id": "I53-25173-offertory",
+      "path": "data/images/mpo-25173.jpg",
+      "xywh": [
+        435,
+        450,
+        310,
+        115
+      ],
+      "literal": "off. Exultabunt sancti [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A red off.-like rubric precedes an Exultabunt sancti candidate opening in a broad notated field. This is a selected local genre/work cue, not a complete gradual classification or a book exclusion."
+    },
+    {
+      "id": "I53-2872-field",
+      "path": "data/images/mpo-2872.jpg",
+      "xywh": [
+        0,
+        130,
+        600,
+        810
+      ],
+      "literal": "Ecce ueniet dominus [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The preserved Advent-like passage occupies one broad music/text field. No central narrow-column gutter is visible within it. This differs from10349 copying-field design, without excluding section changes or composite volumes."
+    },
+    {
+      "id": "I53-2873-field",
+      "path": "data/images/mpo-2873.jpg",
+      "xywh": [
+        245,
+        80,
+        545,
+        830
+      ],
+      "literal": null,
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The surviving music/text uses one broad writing field, with its right extent cropped. Cropping is not treated as a narrow-column gutter or a complete original leaf/fold map."
+    }
+  ],
+  "prior_layout_regions_reused": [
+    "I50-10349-page",
+    "I50-10349-gutter",
+    "I50-2863-control",
+    "I50-2864-control"
+  ],
+  "limits": [
+    "15 retained photo views cover nine existing objects. Six objects have only one of their source views retained in this protocol; no complete canvas or medieval-side coverage is claimed.",
+    "General two-column appearance, square notation, different feasts and different book-section genres cannot by themselves establish or exclude a historical codex.",
+    "Exact complete hymn/music correspondence, a unique address or physical join is not established. No exhaustive chant census or independent source reading is claimed.",
+    "Literal source candidates precede reference lookup; a modern catalogue/reference must not fill difficult source letters silently."
+  ]
+}

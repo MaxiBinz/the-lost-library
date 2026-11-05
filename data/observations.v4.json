@@ -1,0 +1,1337 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "version": "4.0.0",
+  "assessment_date": "2026-10-22",
+  "scope": "Source observations including supporting context outside the unchanged ten-pair queue; no new attribution labels.",
+  "inputs": [
+    "data/observations.v3.json",
+    "research/independent_pass/visual/observations.json",
+    "research/independent_pass/text/observations.json"
+  ],
+  "annotations": [
+    {
+      "id": "O-mpo-20274",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The inspected capture shows a broad single column of black square-shaped music signs and text on red ruling.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=70,90,500,200"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/800,/0/default.jpg",
+      "sha256": "59fd853b430a67e4d1bc6978ce1de41c301dc45ab1c6b10b432d5a764f405272",
+      "observer": "AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Not independently checked by a manuscript specialist",
+      "interpretation_limits": [
+        "Pixel regions identify inspected areas, not original dimensions.",
+        "No folio-side, date, scribe or manuscript identity established.",
+        "No note-level transcription attempted."
+      ],
+      "image_dimensions": [
+        600,
+        513
+      ]
+    },
+    {
+      "id": "O-mpo-1385",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The inspected capture shows music and text in a broad single column with red ruling; a folded/damaged lower area restricts the photographed surface.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=65,75,440,300"
+        }
+      },
+      "fragment_id": "mpo-1385",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00001/full/800,/0/default.jpg",
+      "sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+      "observer": "AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Not independently checked by a manuscript specialist",
+      "interpretation_limits": [
+        "Pixel regions identify inspected areas, not original dimensions.",
+        "No folio-side, date, scribe or manuscript identity established.",
+        "No note-level transcription attempted."
+      ],
+      "image_dimensions": [
+        600,
+        413
+      ]
+    },
+    {
+      "id": "O-mpo-25592",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The inspected capture shows two columns containing text interspersed with notation, with red and blue decorated initials.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-25592.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=85,100,360,235"
+        }
+      },
+      "fragment_id": "mpo-25592",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1025592_00001/full/800,/0/default.jpg",
+      "sha256": "08312a14fdaba737712519df355ad4143d893ab7e18a18dac16bf14588e25184",
+      "observer": "AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Not independently checked by a manuscript specialist",
+      "interpretation_limits": [
+        "Pixel regions identify inspected areas, not original dimensions.",
+        "No folio-side, date, scribe or manuscript identity established.",
+        "No note-level transcription attempted."
+      ],
+      "image_dimensions": [
+        600,
+        400
+      ]
+    },
+    {
+      "id": "O-mpo-4223-1-4",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Broad single column with square-shaped notes on red ruling; a decorated dark initial and damaged lower writing area are visible. Similarity is not individual-hand evidence.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-4223.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=65,55,540,380"
+        }
+      },
+      "fragment_id": "mpo-4223",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1004223_00001/full/800,/0/default.jpg",
+      "sha256": "96ba47f174b1bc2a25d9ae088dc17ac336bd294da2e357ec0f6dca3acc85a73f",
+      "image_dimensions": [
+        800,
+        504
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ]
+    },
+    {
+      "id": "O-mpo-8311-1-5",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A responsory incipit and its continuation are readable in the inspected region. The proposed chant identity agrees with the catalogue Septuagesima description but occurs in other books.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=95,200,550,180"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00001/full/800,/0/default.jpg",
+      "sha256": "d7eebea8a22ecaa05a9ff9d27626acd6fd878b80282611f1ca37fd6b773801e8",
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ],
+      "reading": {
+        "literal_candidate": "Dum deambularet dominus in paradiso",
+        "normalized_search_text": "Dum deambularet dominus in paradiso",
+        "certainty": "provisional; abbreviations and letterforms require expert checking",
+        "cantus_candidate": {
+          "id": "006537",
+          "status": "candidate identification, not manuscript identity"
+        },
+        "external_references": [
+          "https://cantusdatabase.org/chant/150324/",
+          "https://cantusindex.org/id/006537a"
+        ]
+      }
+    },
+    {
+      "id": "O-mpo-8311-1-6",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The lower visible verse begins with the following provisional reading; the database gives the same beginning for verse006537a.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=100,440,540,70"
+        }
+      },
+      "fragment_id": "mpo-8311",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00001/full/800,/0/default.jpg",
+      "sha256": "d7eebea8a22ecaa05a9ff9d27626acd6fd878b80282611f1ca37fd6b773801e8",
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ],
+      "reading": {
+        "literal_candidate": "Vocem tuam audivi in paradiso",
+        "normalized_search_text": "Vocem tuam audivi in paradiso",
+        "certainty": "provisional; abbreviations and letterforms require expert checking",
+        "cantus_candidate": {
+          "id": "006537a",
+          "status": "candidate identification, not manuscript identity"
+        },
+        "external_references": [
+          "https://cantusdatabase.org/chant/150324/",
+          "https://cantusindex.org/id/006537a"
+        ]
+      }
+    },
+    {
+      "id": "O-mpo-8455-4-7",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Readable Epiphany text in the lower source photograph supports the catalogue occasion, without establishing a connection to Fr1385.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8455-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=210,90,650,190"
+        }
+      },
+      "fragment_id": "mpo-8455",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008455_00004/full/1000,/0/default.jpg",
+      "sha256": "642a0f868217ab37c3113448c052665dbf92d4ddf2e68315b94440bfc3ea6fd4",
+      "image_dimensions": [
+        1000,
+        676
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ],
+      "reading": {
+        "literal_candidate": "Hic est filius meus",
+        "normalized_search_text": "Hic est filius meus",
+        "certainty": "provisional; abbreviations and letterforms require expert checking",
+        "cantus_candidate": null,
+        "external_references": []
+      }
+    },
+    {
+      "id": "O-mpo-10406-1-8",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red feast/office rubric next to a large initial; repeated notation and text in a broad column. This supplies an inspectable region for checking liturgical placement, not a new attribution.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=105,170,535,140"
+        }
+      },
+      "fragment_id": "mpo-10406",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00001/full/800,/0/default.jpg",
+      "sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+      "image_dimensions": [
+        800,
+        521
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ]
+    },
+    {
+      "id": "O-mpo-8994-1-9",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red initials/rubrics, square-shaped notes and a broad single-column layout are visible. The bottom writing area is partially folded or obscured.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=75,80,440,290"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/800,/0/default.jpg",
+      "sha256": "750440678d2312c73fb6eb7eb522ca68034583affeb60208c8fa549dc0e82517",
+      "image_dimensions": [
+        600,
+        415
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ]
+    },
+    {
+      "id": "O-finn-iv173-1-10",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The inspected portion contains a recognizable passage of the Te Deum; its presence is not unique to this codex.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/fm-IV173-1.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=150,160,780,270"
+        }
+      },
+      "fragment_id": "finn-iv173",
+      "source_url": "https://fragmenta.kansalliskirjasto.fi/bitstream/handle/10024/1314/F_m_IV_173.pdf?sequence=3",
+      "sha256": "b5c5e39ec47dcd20b3c536cc91feef4bcccd5aad2df8997839609bff2f671c64",
+      "image_dimensions": [
+        1200,
+        1549
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ],
+      "reading": {
+        "literal_candidate": "Te per orbem terrarum",
+        "normalized_search_text": "Te per orbem terrarum",
+        "certainty": "provisional; abbreviations and letterforms require expert checking",
+        "cantus_candidate": null,
+        "external_references": []
+      }
+    },
+    {
+      "id": "O-mpo-8201-3-11",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The upper region includes the word psalmos and a large decorated initial. The complete rubric reading is uncertain in this photograph; the published duplicate-office argument is not independently reproduced from this region alone.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8201-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=230,145,400,130"
+        }
+      },
+      "fragment_id": "mpo-8201",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00003/full/1000,/0/default.jpg",
+      "sha256": "eb0562501eedbe869c4d62807f631590d9fd38bd9aa872cb3a3a4a432d41b7ae",
+      "image_dimensions": [
+        1000,
+        694
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ]
+    },
+    {
+      "id": "O-mpo-8304-4-12",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red rubric supplies an inspectable office-opening region. Expansion of abbreviated words is provisional.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8304-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=330,270,190,100"
+        }
+      },
+      "fragment_id": "mpo-8304",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00004/full/1000,/0/default.jpg",
+      "sha256": "819f3dd18443e352d4162249aae929ff4b34fcc6cc1913e79dff267d11550529",
+      "image_dimensions": [
+        1000,
+        697
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ],
+      "reading": {
+        "literal_candidate": "De sancta kath[erina] sup[er] ps[almos] feriales",
+        "normalized_search_text": "De sancta Katherina super psalmos feriales",
+        "certainty": "provisional; abbreviations and letterforms require expert checking",
+        "cantus_candidate": null,
+        "external_references": []
+      }
+    },
+    {
+      "id": "O-mpo-20274-1-13",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lower writing systems overlap in visible text and musical shapes with the upper portion of source capture2. These source photographs must not automatically be read as recto and verso.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=70,300,500,200"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/800,/0/default.jpg",
+      "sha256": "59fd853b430a67e4d1bc6978ce1de41c301dc45ab1c6b10b432d5a764f405272",
+      "image_dimensions": [
+        600,
+        513
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ]
+    },
+    {
+      "id": "O-mpo-20274-2-14",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Upper systems correspond to a passage also visible near the bottom of capture1. The source has two canvases, with overlapping photographed areas; whole-leaf side mapping remains unverified.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=55,0,830,230"
+        }
+      },
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00002/full/1000,/0/default.jpg",
+      "sha256": "3c34578256735768d0a0682b61758255397dc2073f226c9bc8ffd8048f62606d",
+      "image_dimensions": [
+        1000,
+        929
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-21",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "No original physical dimensions or scribal identity inferred.",
+        "Capture ordinal is not a folio-side assignment.",
+        "No musical pitches or durations transcribed."
+      ]
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00002/full/1000,/0/default.jpg",
+      "sha256": "3c34578256735768d0a0682b61758255397dc2073f226c9bc8ffd8048f62606d",
+      "image_dimensions": [
+        1000,
+        929
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-22; exact model/checkpoint not exposed",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading and local edition comparison; no independent expert adjudication",
+      "interpretation_limits": [
+        "Common office text and sequence do not establish manuscript identity.",
+        "No distinctive shared variant or musical pitches established.",
+        "Capture order is not a folio-side assignment."
+      ],
+      "id": "O-mpo-20274-2-15",
+      "body": {
+        "type": "TextualBody",
+        "value": "The large initial and following words identify the opening of the matins antiphon printed in Hallqvist2020, p6, lines221–227. Remaining words on lower lines are not silently completed as a diplomatic transcription.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=455,242,445,112"
+        }
+      },
+      "reading": {
+        "literal_candidate": "Immolandus ligna gerit",
+        "normalized_search_text": "Immolandus ligna gerit",
+        "certainty": "provisional image reading; normalized spelling and identification checked against the edition, not independently adjudicated",
+        "external_references": [
+          "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=53"
+        ]
+      }
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-20274",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00002/full/1000,/0/default.jpg",
+      "sha256": "3c34578256735768d0a0682b61758255397dc2073f226c9bc8ffd8048f62606d",
+      "image_dimensions": [
+        1000,
+        929
+      ],
+      "observer": "Codex AI visual inspection, 2026-10-22; exact model/checkpoint not exposed",
+      "evidence_kind": "image observation",
+      "verification": "Provisional AI reading and local edition comparison; no independent expert adjudication",
+      "interpretation_limits": [
+        "Common office text and sequence do not establish manuscript identity.",
+        "No distinctive shared variant or musical pitches established.",
+        "Capture order is not a folio-side assignment."
+      ],
+      "id": "O-mpo-20274-2-16",
+      "body": {
+        "type": "TextualBody",
+        "value": "The following large initial begins the next antiphon in the same capture. Its candidate incipit agrees with the next antiphon in Hallqvist2020, p6, line233. Line wrapping is retained; later words are not transcribed.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=64,568,843,238"
+        }
+      },
+      "reading": {
+        "literal_candidate": "Caluum rident helise / um",
+        "normalized_search_text": "Calvum rident Heliseum",
+        "certainty": "provisional image reading; normalized spelling and identification checked against the edition, not independently adjudicated",
+        "external_references": [
+          "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=53"
+        ]
+      }
+    },
+    {
+      "id": "V-10370-mark",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10370",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "The upper-margin red sign has two principal strokes, the second descending/curving. Candidate diplomatic reading ij; compatible with the source catalogue normalization II. It is not a secure side assignment.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-1-1700px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=754,77,100,85"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00001/full/1700,/0/default.jpg",
+      "sha256": "07efe2e1f8f87f31156630a7fe5340f78600c78ddc31d7fad930e5ae81f8a409",
+      "image_dimensions": [
+        1700,
+        1417
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Candidate ij / normalized II; provisional AI reading",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-10370-overlap-upper",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10370",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "The bottom of manifest image1 contains the upper portion of a large pale/grey ornamental initial with red shaft/lozenge at the left of the next music system. A complementary lower initial portion is visible at the top of image2. This is consistent with successive partial views of one writing surface, but no pixel-overlap registration or shared complete text row has been established in this check. Image ordinal alone cannot establish side.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-1-1700px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=234,1290,1179,127"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00001/full/1700,/0/default.jpg",
+      "sha256": "07efe2e1f8f87f31156630a7fe5340f78600c78ddc31d7fad930e5ae81f8a409",
+      "image_dimensions": [
+        1700,
+        1417
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "No new text reading; graphic/capture correspondence",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-10370-overlap-lower",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10370",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "The top of manifest image2 contains a lower portion of a pale/grey ornamental initial and following text; its upper paper margin is rolled/folded over. It is compatible with continuation of image1, not by itself proof of an opposite side. The kmark was subsequently observed on image3, not in this band. Exact pixel overlap remains unregistered.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-2-1739px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=232,25,1163,100"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00002/full/1739,/0/default.jpg",
+      "sha256": "fe8019fd85f078f5f552e9aa4befbae21bee8522506a1f77385d032a0499ee58",
+      "image_dimensions": [
+        1739,
+        1132
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Candidate following text begins Ecce; complete seam/side reconstruction remains provisional",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-1385-clipped-mark",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-1385",
+      "review_pair_ids": [
+        "H01",
+        "H02",
+        "H04",
+        "H08",
+        "H09",
+        "H10"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A small red upper-margin mark is clipped by the surviving/top image edge. The available pixels do not securely distinguish the catalogue readings IX and D or assign this photograph to recto/verso.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=270,30,90,48"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00001/full/800,/0/default.jpg",
+      "sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+      "image_dimensions": [
+        600,
+        413
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Unresolved; do not normalize from catalogue alone",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H02-1385-initial-a",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-1385",
+      "review_pair_ids": [
+        "H02"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Large ornamental initial with pale/grey areas, a red longitudinal shaft stripe, small red lozenges and black outer contour. Compare10406initial-a without assuming same decorator or book.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=239,154,72,101"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00002/full/1000,/0/default.jpg",
+      "sha256": "0a3f4c6bd4b94d8616b081feebbb8e41d2460b26d3a62ecedb76218912f35f1f",
+      "image_dimensions": [
+        1000,
+        676
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Shape observation; letter identity not required",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H02-10406-initial-a",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10406",
+      "review_pair_ids": [
+        "H02"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Large two-lobed ornamental initial uses pale/grey areas, a red longitudinal shaft stripe and small red lozenges. Its decorative vocabulary resembles the1385examples. The actual letters and local functions differ.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=248,415,80,112"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00003/full/1000,/0/default.jpg",
+      "sha256": "ad15525ab9eaeb67b603ade9120886e2c5c8caecb5ebfbebef9bd478a09bfbb9",
+      "image_dimensions": [
+        1000,
+        659
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Shape observation; no scribe/decorator attribution",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H02-1385-initial-b",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-1385",
+      "review_pair_ids": [
+        "H02"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A second1385initial repeats pale/grey areas, a red longitudinal shaft stripe, red/black lozenges and a scalloped black outer contour. This gives a within-record comparison rather than one chosen glyph alone.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=681,153,79,102"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00004/full/1000,/0/default.jpg",
+      "sha256": "b3091a8b6846d05e4e4606ff6fb71d809d8539f3681246d40247ec6914a89670",
+      "image_dimensions": [
+        1000,
+        673
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Shape observation",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H02-10406-initial-b",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10406",
+      "review_pair_ids": [
+        "H02"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A second10406initial repeats the grey/red/lozenge vocabulary. Two1385and two10406examples are compared in initial_comparison.png; recurrence is not assessed across a representative corpus.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=490,218,83,121"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00004/full/1000,/0/default.jpg",
+      "sha256": "eb77ec83d785842e929432be99d99b579fce102d062d0ecdebe280dbdf9f6677",
+      "image_dimensions": [
+        1000,
+        647
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Shape observation",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H08-4223-initial",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-4223",
+      "review_pair_ids": [
+        "H08"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The sampled initial has a long red interior stripe, looped black upper flourish and patterned dark border. Some broad decoration vocabulary overlaps the target; its different letter/shape is not an exclusion test for one book.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-4223-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=431,125,79,116"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1004223_00004/full/1000,/0/default.jpg",
+      "sha256": "a51eeb981e46a72634e72d1cd758de4818ea7a1198177555172680da5cd55b28",
+      "image_dimensions": [
+        1000,
+        662
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Shape observation",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H09-8311-initial",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8311",
+      "review_pair_ids": [
+        "H09"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The sampled initial has thin crossing strokes, internal compartments and a long lower flourish. It differs from the sampled1385ornamental letters, but differing letter identity and decoration roles prevent a same-book rejection.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=676,330,78,134"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00002/full/1000,/0/default.jpg",
+      "sha256": "e3b1eba2064492294fa6f75ec6087bbacedd6a636572cf6cfe2ce43e561b46c5",
+      "image_dimensions": [
+        1000,
+        639
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Shape observation",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H10-8455-initial",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8455",
+      "review_pair_ids": [
+        "H10"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A red longitudinal stripe and dark angular outer body are visible. This supplies a comparator showing that a red/black stripe by itself is not unique to the1385/10406comparison.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8455-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=250,248,77,112"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008455_00004/full/1000,/0/default.jpg",
+      "sha256": "642a0f868217ab37c3113448c052665dbf92d4ddf2e68315b94440bfc3ea6fd4",
+      "image_dimensions": [
+        1000,
+        676
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Shape observation",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H02-1385-ruling",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-1385",
+      "review_pair_ids": [
+        "H02"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Four staff samples yield AI-checked red-row peak positions; mean line spacing15.75pixels. Approximate ruler normalization0.549numbered intervals. These are descriptive image measurements, not certified physical metrology or identity evidence.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=470,65,260,339"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00002/full/1000,/0/default.jpg",
+      "sha256": "0a3f4c6bd4b94d8616b081feebbb8e41d2460b26d3a62ecedb76218912f35f1f",
+      "image_dimensions": [
+        1000,
+        676
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "No text or pitch transcription",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H02-10406-ruling",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10406",
+      "review_pair_ids": [
+        "H02"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Four staff samples yield AI-checked red-row peak positions; mean line spacing15.50pixels. Approximate ruler normalization0.558numbered intervals. Sensitivity ranges overlap; no gross ruling-scale contradiction was detected.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=470,45,260,340"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00002/full/1000,/0/default.jpg",
+      "sha256": "817ae2d3e4d65c91bae80c6d56ff009bd669252a039c63e7e9488afc9b3440eb",
+      "image_dimensions": [
+        1000,
+        630
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "No text or pitch transcription",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H02-1385-ruler",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-1385",
+      "review_pair_ids": [
+        "H02"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Source ruler used for approximate image-scale normalization: numeral0near row632and10near345. Anchor uncertainty was tested at +/-4pixels each. The numbered interval is not independently certified as a centimetre.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=952,30,48,612"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00002/full/1000,/0/default.jpg",
+      "sha256": "0a3f4c6bd4b94d8616b081feebbb8e41d2460b26d3a62ecedb76218912f35f1f",
+      "image_dimensions": [
+        1000,
+        676
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Approximate ruler positions; not a physical leaf-size claim",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-H02-10406-ruler",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10406",
+      "review_pair_ids": [
+        "H02"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Source ruler used for approximate image-scale normalization: numeral0near row594and10near316. Anchor uncertainty was tested at +/-4pixels each; perspective and surface nonplanarity are additional unmodelled error.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=965,23,35,594"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00002/full/1000,/0/default.jpg",
+      "sha256": "817ae2d3e4d65c91bae80c6d56ff009bd669252a039c63e7e9488afc9b3440eb",
+      "image_dimensions": [
+        1000,
+        630
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "Approximate ruler positions; not a physical leaf-size claim",
+      "interpretation_limits": [
+        "No new same-book, same-hand, decorator or provenance attribution.",
+        "Source photograph index is not a medieval folio-side assignment.",
+        "AI-agent agreement is not independent corroboration."
+      ]
+    },
+    {
+      "id": "V-10370-kmark",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10370",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "A red lower-case k-like upper-margin mark is directly visible on manifest image3. It lies above different uppermost music/text from the image1numeral-bearing view. Candidate reading k agrees with the catalogue sign, but does not independently determine medieval recto/verso.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-3-1728px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=780,114,155,105"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg",
+      "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+      "image_dimensions": [
+        1728,
+        1233
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "k; provisional AI reading",
+      "interpretation_limits": [
+        "No new same-book or different-book conclusion.",
+        "Source photograph ordinal is not a medieval folio-side assignment.",
+        "CandidateII/kmark readings do not themselves determine which surface is medieval recto."
+      ]
+    },
+    {
+      "id": "V-10370-no-seam-34",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10370",
+      "review_pair_ids": [],
+      "body": {
+        "type": "TextualBody",
+        "value": "The uppermost visible medieval text/ruling and broad B-like central ornamental initial were compared with the lower portion of image3. I could not establish a literal shared text row or exact graphic seam. No3/4overlap or complete same-surface stitch is inferred merely from ordinal order.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10370-capture-4-1742px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=300,0,1180,190"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00004/full/1742,/0/default.jpg",
+      "sha256": "2f2d35bf4253989714fda7877403a48bc4cd58bffa2e893469968546a9c1594f",
+      "image_dimensions": [
+        1742,
+        1219
+      ],
+      "observer": "Codex AI visual-source agent, 2026-10-22; exact model/checkpoint not exposed",
+      "verification": "Provisional AI source inspection; no independent expert adjudication",
+      "reading_note": "No secure seam transcription",
+      "interpretation_limits": [
+        "No new same-book or different-book conclusion.",
+        "Source photograph ordinal is not a medieval folio-side assignment.",
+        "CandidateII/kmark readings do not themselves determine which surface is medieval recto."
+      ]
+    },
+    {
+      "id": "T-20274-invitatory",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-20274",
+      "body": {
+        "type": "TextualBody",
+        "value": "Christum is a proposed expansion of the visible barred christogram. No separate pium is visible between it and passum under that expansion. This is a provisional reading, not a gold transcription.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-1-1831px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=880,900,900,330"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "image_dimensions": [
+        1831,
+        1565
+      ],
+      "observer": "Codex AI source reading,2026-10-22; exact model/checkpoint not exposed",
+      "evidence_kind": "image reading compared with published apparatus",
+      "verification": "Provisional AI source reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "Edited text and reported manuscript states are separate sources.",
+        "No identity, melodic or performance inference from common text/omission.",
+        "No independent expert label, blind test or rare-variant claim."
+      ],
+      "reading": {
+        "literal_candidate": "Recolentes xpm passum et",
+        "normalized_search_text": "Recolentes Christum passum et",
+        "certainty": "provisional; expansion and music-underlay spacing are explicit",
+        "external_references": [
+          "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=53",
+          "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=67"
+        ]
+      }
+    },
+    {
+      "id": "T-20274-order",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-20274",
+      "body": {
+        "type": "TextualBody",
+        "value": "The line wraps within condolentes; Matri begins before the procida- word. Full syllabic underlay and abbreviation expansion remain provisional. Comparison concerns word order, not manuscript identity.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-2-1835px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=80,100,1590,310"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00002/full/1835,/0/default.jpg",
+      "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+      "image_dimensions": [
+        1835,
+        1705
+      ],
+      "observer": "Codex AI source reading,2026-10-22; exact model/checkpoint not exposed",
+      "evidence_kind": "image reading compared with published apparatus",
+      "verification": "Provisional AI source reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "Edited text and reported manuscript states are separate sources.",
+        "No identity, melodic or performance inference from common text/omission.",
+        "No independent expert label, blind test or rare-variant claim."
+      ],
+      "reading": {
+        "literal_candidate": "Matri sue con / do lentes procida[...]",
+        "normalized_search_text": "Matri sue condolentes [before] procidamus",
+        "certainty": "provisional; expansion and music-underlay spacing are explicit",
+        "external_references": [
+          "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=53",
+          "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=67"
+        ]
+      }
+    },
+    {
+      "id": "T-20274-transition",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-20274",
+      "body": {
+        "type": "TextualBody",
+        "value": "No intervening hymn entry is visible in this continuous region. This is an observation about this written book, not a claim that the hymn was omitted in performance or absent elsewhere.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-20274-capture-2-1835px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=80,400,1580,250"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00002/full/1835,/0/default.jpg",
+      "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+      "image_dimensions": [
+        1835,
+        1705
+      ],
+      "observer": "Codex AI source reading,2026-10-22; exact model/checkpoint not exposed",
+      "evidence_kind": "image reading compared with published apparatus",
+      "verification": "Provisional AI source reading; no independent expert adjudication",
+      "interpretation_limits": [
+        "Edited text and reported manuscript states are separate sources.",
+        "No identity, melodic or performance inference from common text/omission.",
+        "No independent expert label, blind test or rare-variant claim."
+      ],
+      "reading": {
+        "literal_candidate": "alleluya; ps; Venite; [red rubric]; Immolandus ligna gerit",
+        "normalized_search_text": "Psalm Venite then nocturn rubric and Immolandus",
+        "certainty": "provisional; expansion and music-underlay spacing are explicit",
+        "external_references": [
+          "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=53",
+          "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=67"
+        ]
+      }
+    }
+  ]
+}

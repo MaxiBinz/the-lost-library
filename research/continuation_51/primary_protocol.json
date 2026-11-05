@@ -1,0 +1,192 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "selected_lead": "pair-d964f842625525837cb2",
+  "pair": [
+    "mpo-10370",
+    "mpo-20274"
+  ],
+  "question": "Do the retained source margins supply secure original folio/quire addresses that can be compared across these fragments, or only later reuse marks, musical signs and incomplete/cropped margins?",
+  "selection": "One existing still source-only pair. Highest-resolution representation per exact canvas: four10370 and two20274 photographs, not nine independent source captures. No new target family, acquisition, score or frozen review.",
+  "prior_exposure": "Earlier10370 sequence/mark work,20274 chant readings and8994 Roman/letter regions have been seen. This is an explicitly unblinded address audit, not independent review or an untouched recognition evaluation.",
+  "fixed_sources": [
+    {
+      "object_id": "mpo-10370",
+      "path": "data/images/mpo-10370-capture-1-1700px.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1010370_00001/canvas",
+      "source_capture_index": 0,
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00001/full/1700,/0/default.jpg",
+      "sha256": "07efe2e1f8f87f31156630a7fe5340f78600c78ddc31d7fad930e5ae81f8a409",
+      "width": 1700,
+      "height": 1417,
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "medieval_side": null
+    },
+    {
+      "object_id": "mpo-10370",
+      "path": "data/images/mpo-10370-capture-2-1739px.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1010370_00002/canvas",
+      "source_capture_index": 1,
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00002/full/1739,/0/default.jpg",
+      "sha256": "fe8019fd85f078f5f552e9aa4befbae21bee8522506a1f77385d032a0499ee58",
+      "width": 1739,
+      "height": 1132,
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "medieval_side": null
+    },
+    {
+      "object_id": "mpo-10370",
+      "path": "data/images/mpo-10370-capture-3-1728px.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1010370_00003/canvas",
+      "source_capture_index": 2,
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00003/full/1728,/0/default.jpg",
+      "sha256": "b1258668d90ca011960ab4ff85f25fb79c0c3c636ad626ceb4fa90af8f6de28b",
+      "width": 1728,
+      "height": 1233,
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "medieval_side": null
+    },
+    {
+      "object_id": "mpo-10370",
+      "path": "data/images/mpo-10370-capture-4-1742px.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1010370_00004/canvas",
+      "source_capture_index": 3,
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010370_00004/full/1742,/0/default.jpg",
+      "sha256": "2f2d35bf4253989714fda7877403a48bc4cd58bffa2e893469968546a9c1594f",
+      "width": 1742,
+      "height": 1219,
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "medieval_side": null
+    },
+    {
+      "object_id": "mpo-20274",
+      "path": "data/images/mpo-20274-capture-1-1831px.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1020274_00001/canvas",
+      "source_capture_index": 0,
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00001/full/1831,/0/default.jpg",
+      "sha256": "4e7be82df9d226e74079c712fc0dad62ba9d018a669822095553dbd4d4229e6a",
+      "width": 1831,
+      "height": 1565,
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "medieval_side": null
+    },
+    {
+      "object_id": "mpo-20274",
+      "path": "data/images/mpo-20274-capture-2-1835px.jpg",
+      "canvas_id": "https://lbiiif.riksarkivet.se/arkis!R1020274_00002/canvas",
+      "source_capture_index": 1,
+      "url": "https://lbiiif.riksarkivet.se/v3/arkis!R1020274_00002/full/1835,/0/default.jpg",
+      "sha256": "34f88c2977098a87fbc5c2fb796f05092cc83e49574bef2d2e3ac19efe156457",
+      "width": 1835,
+      "height": 1705,
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "medieval_side": null
+    }
+  ],
+  "known_mark_controls": [
+    {
+      "id": "I33-8994-roman",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red four-stroke upper-margin sign, consistent with the catalogue's IIII transcription.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-1-1802px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=735,130,140,75"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/1802,/0/default.jpg",
+      "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+      "image_dimensions": [
+        1802,
+        1246
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "IIII",
+      "normalized_candidate": "IIII",
+      "observer": "Codex AI source-image inspection, 2026-10-25",
+      "evidence_kind": "image observation",
+      "verification": "Exploratory manual AI reading of the original JPEG and an unaltered pixel crop; no independent reader or expert adjudication",
+      "interpretation_limits": [
+        "Capture ordinal does not establish medieval side or complete leaf order.",
+        "A chant identification or opening-signature form is not a unique codex fingerprint.",
+        "The Finnish comparator is an indexed catalogue assertion; its manuscript images remain uninspected."
+      ]
+    },
+    {
+      "id": "I33-8994-k",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red alphabetic upper-margin sign with a tall stem and right-hand strokes, provisionally read as k. This is a different capture from the numeral-bearing photograph.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-3-1793px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=890,110,110,95"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00003/full/1793,/0/default.jpg",
+      "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+      "image_dimensions": [
+        1793,
+        1237
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "k",
+      "normalized_candidate": "k",
+      "observer": "Codex AI source-image inspection, 2026-10-25",
+      "evidence_kind": "image observation",
+      "verification": "Exploratory manual AI reading of the original JPEG and an unaltered pixel crop; no independent reader or expert adjudication",
+      "interpretation_limits": [
+        "Capture ordinal does not establish medieval side or complete leaf order.",
+        "A chant identification or opening-signature form is not a unique codex fingerprint.",
+        "The Finnish comparator is an indexed catalogue assertion; its manuscript images remain uninspected."
+      ]
+    }
+  ],
+  "predictions": [
+    "Review all6 full source photographs and available edges. Record each candidate mark with exact native coordinates, orientation, literal form and source context before assigning its function.",
+    "An original address needs more than numeral-like shape: check original margin position, hand/ink/orientation and relation to the medieval writing. Later account foliation, shelfmarks, photographic rulers, chapter/service numerals, musical dividers and custodes are alternatives.",
+    "Do not normalize a musical sign or two strokes into a folio/quire number without evidence. Uncertain or cropped marks remain qualified; a known8994 glyph example does not establish a shared numbering scheme.",
+    "Compare addresses only if both source readings and their address conventions are secure. Equal-looking numbers can reset across sections or separate books; different numbers can occupy different leaves in one book.",
+    "If no secure comparable address is recovered, record that narrow available-source result, not evidence of different books or an exhaustive absence of original marks. Preserve physical/capture/medieval-side distinctions."
+  ],
+  "register_before_overlay": {
+    "path": "research/continuation_51/lead_register.before.json",
+    "sha256": "7755d8cd4bf182b474424959609f786245d47a007bf491aa351cb9ea4e508c85",
+    "scope": "Exact pre-E51 register;30 first-primary-review-pending pairs. Preserve historical transitions as this next direct comparison is recorded."
+  },
+  "frozen_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  },
+  "limits": {
+    "new_source_images": 0,
+    "working_source_files": 194,
+    "outreach": false,
+    "upload": false,
+    "publication": false
+  },
+  "historical_same_codex_adjudication_complete": false
+}

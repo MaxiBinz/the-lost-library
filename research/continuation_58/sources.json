@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-01",
+  "aachen": {"url":"https://cantusdatabase.org/chant/179885/", "locator":"Aachen Domarchiv G 20, 060v, sequence 3–8", "access":"search-indexed source navigation only; earlier direct open failed, not retried", "scope":"six consecutive candidate identifiers; first verse incipit Vocem tuam audivi in paradiso; feast Septuagesima"},
+  "utrecht": {"url":"https://cantusdatabase.org/chant/493517/", "corroborating_indexed_navigation":"https://cantusdatabase.org/chant/493518/", "locator":"Utrecht Universiteitsbibliotheek Ms. 406 (3 J 7), 065v, sequence 2–7", "access":"search-indexed source navigation only; direct 493517 open returned Cache miss; 493518 was not directly opened", "scope":"same six IDs; first verse includes domine; index labels feast Sexagesima; Ecce Adam follows"},
+  "utrecht_image_viewer": {"url":"https://objects.library.uu.nl/reader/viewer.php?obj=1874-327915&pagenum=134", "outcome":"web tool reports URL inaccessible; no image inspected or acquired"},
+  "mont_renaud": {"url":"https://musmed.eu/chant/198989", "locator":"Mont-Renaud 073r", "access":"direct webpage opened and folio navigation read", "scope":"lists the same six IDs but includes Ecce Adam and its verse between Pro eo and Ubi; not the same consecutive six-ID run; following Vivo ego and Miserere"},
+  "nidaros": {"url":"https://www.bokselskap.no/wp-content/themes/bokselskap2/tekster/pdf/breviarium.pdf", "locator":"Sperber ed. 2019, printed pp.186 and 192 (PDF pages 186 and 192)", "access":"web-reader text only; original 1519 print and visual page not inspected", "scope":"pp.186: Ubi, Maledicta and Miserere; p.192: Dum/Vocem and In sudore/Pro eo on Thursday, followed by Ecce Adam. Different service structure; no claim of a single continuous six-item sequence."},
+  "other_attempts": ["https://cantusdatabase.org/chant/538146/ direct open: Cache miss", "https://cantusdatabase.org/chant/538151/ direct open: Cache miss", "https://cantus.sk/chant/4552 direct open: Cache miss"],
+  "network_accounting":"No files saved. Search and web-reader traffic unmeasured within historical planning reserve; no failed route was retried or bypassed."
+}

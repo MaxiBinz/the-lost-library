@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-03",
+  "status": "Post-exposure exploratory reading; Swedish images, grouping and several chants were known before this record was written. Not blind or independently checked.",
+  "question": "What does the retained Mary Magdalene text on Fr 10407, Fr 10370 and Fr 10406 actually establish about the order or contiguity of the already catalogued group?",
+  "inputs": ["research/continuation_54/images/Fr10407-capture-4-native.jpg", "data/images/mpo-10370-capture-1-1700px.jpg", "data/images/mpo-10406.jpg"],
+  "reused_regions": ["I54-10407-irregabat", "I60-10370-top", "I60-10370-sequence"],
+  "comparison": "Use an independently indexed manuscript as a nonunique-sequence control, not as a transcription of the targets; require direct text and complete edge/side mapping for any adjacency claim.",
+  "alternatives": ["Different leaves in one manuscript with intervening material", "Different books with a common liturgical office", "Repeated or differently ordered office material", "Cropping, hidden material or mistaken side map", "Variant or erroneous text reading", "Composite structure"]
+}

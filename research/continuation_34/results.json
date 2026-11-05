@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-25",
+  "protocol": "research/continuation_34/protocol.json",
+  "test_execution": "Manual AI inspection of four original JPEGs, followed by the already retained performance concordance; no registration, independent reader or physical examination.",
+  "observations": [
+    "I33-8994-third-nocturn",
+    "I34-8994-novo",
+    "I34-8994-predicacionis",
+    "I33-8994-devenerat",
+    "I33-8994-egregius"
+  ],
+  "supported_narrow_result": "The observed incipits are consistent with the chant succession Nec propria / Novo rerum / Predicacionis / Devenerat / Egregius. This supports relative reading order across the partial photographs.",
+  "decision": "supported",
+  "scope": "relative chant order only; not same surface or medieval recto/verso",
+  "not_established": [
+    "Exact overlapping photographed detail or a physical seam",
+    "Complete boundary transcription",
+    "Reliable intrinsic medieval-side assignment",
+    "Unique numbering unit or new attribution"
+  ],
+  "concordance": {
+    "url": "https://new.lawo.no/produkt/historia-sancti-olavi-2/",
+    "role": "Original performance publisher track order, identification aid only, not a primary manuscript witness.",
+    "access": "Search-indexed listing checked 25 October 2026"
+  },
+  "next_test": "Establish exact repeated photographed detail or full boundary text, and inspect Finnish comparator signs and text; keep the E33 exclusion conditional.",
+  "new_downloads": 0,
+  "new_physical_objects": 0,
+  "independent_confirmation": false,
+  "novelty_cleared": false
+}

@@ -1,0 +1,181 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-27",
+  "annotations": [
+    {
+      "id": "I40-8994-nocte",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The first complete lower text row continues the Egregius initial/first syllables visible above it. It reads nocte precedente diem; the supplied incipit prefix is not silently treated as ink in this crop.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-4-1808px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=365,225,1115,65"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1808,/0/default.jpg",
+      "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+      "image_dimensions": [
+        1808,
+        1147
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "gius mar tir ola uus nocte precedente diem",
+      "normalized_candidate": "[Egre]gius martyr Olavus nocte precedente diem",
+      "observer": "Codex AI exploratory source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Local manuscript pixels and catalogue/concordance text are separate evidence bases.",
+        "No Finnish original inspected; capture4 is not independently assigned to a complete medieval surface.",
+        "No physical join, immediate adjacency, complete numbering correspondence, new codex or scholarly novelty established."
+      ]
+    },
+    {
+      "id": "I40-8994-passion",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The next row includes sue before passionis. The literal target reading is retained separately from concordances which may omit or normalize a word.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-4-1808px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=365,385,1110,70"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1808,/0/default.jpg",
+      "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+      "image_dimensions": [
+        1808,
+        1147
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "su e pas sio nis splen dore a mictum",
+      "normalized_candidate": "sue passionis splendore amictum",
+      "observer": "Codex AI exploratory source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Local manuscript pixels and catalogue/concordance text are separate evidence bases.",
+        "No Finnish original inspected; capture4 is not independently assigned to a complete medieval surface.",
+        "No physical join, immediate adjacency, complete numbering correspondence, new codex or scholarly novelty established."
+      ]
+    },
+    {
+      "id": "I40-8994-contemplatur",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The row continues the Egregius responsory. The christogram is expanded provisionally as Ihesum; no melody or unique variant is claimed.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-4-1808px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=365,545,1125,75"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1808,/0/default.jpg",
+      "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+      "image_dimensions": [
+        1808,
+        1147
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Contempla tur ihesum a stantem si bi ac",
+      "normalized_candidate": "Contemplatur Ihesum astantem sibi ac",
+      "observer": "Codex AI exploratory source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Local manuscript pixels and catalogue/concordance text are separate evidence bases.",
+        "No Finnish original inspected; capture4 is not independently assigned to a complete medieval surface.",
+        "No physical join, immediate adjacency, complete numbering correspondence, new codex or scholarly novelty established."
+      ]
+    },
+    {
+      "id": "I40-8994-tempus-est",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The last visible text row in capture4 ends tempus est. A concordance continues ut laborum, exactly the opening reported for IV156 ff9–11. This supports a conditional textual-fit test, not a verified leaf boundary, physical adjacency or join.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-4-1808px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=365,700,1135,80"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1808,/0/default.jpg",
+      "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+      "image_dimensions": [
+        1808,
+        1147
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "di centem . Veni ca re me us tempus est",
+      "normalized_candidate": "dicentem. Veni care meus tempus est",
+      "observer": "Codex AI exploratory source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Local manuscript pixels and catalogue/concordance text are separate evidence bases.",
+        "No Finnish original inspected; capture4 is not independently assigned to a complete medieval surface.",
+        "No physical join, immediate adjacency, complete numbering correspondence, new codex or scholarly novelty established."
+      ]
+    },
+    {
+      "id": "I40-8994-exultabat",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The observed upper span includes the verse of the preceding Florebat fides responsory, before the already observed third-nocturn rubric. The captured span is broader than the third-nocturn incipits alone; complete capture/side mapping remains unresolved.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-1-1802px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=300,350,1150,230"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/1802,/0/default.jpg",
+      "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+      "image_dimensions": [
+        1802,
+        1246
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Exulta bat rex plus quam credi po test iam labo ris sui suauissimos fructus pregus[...]",
+      "normalized_candidate": "Exultabat rex plusquam credi potest iam laboris sui suavissimos fructus pregus[...]",
+      "observer": "Codex AI exploratory source reading, 2026-10-27",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "Local manuscript pixels and catalogue/concordance text are separate evidence bases.",
+        "No Finnish original inspected; capture4 is not independently assigned to a complete medieval surface.",
+        "No physical join, immediate adjacency, complete numbering correspondence, new codex or scholarly novelty established."
+      ]
+    }
+  ]
+}

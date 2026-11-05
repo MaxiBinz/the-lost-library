@@ -1,0 +1,101 @@
+{
+  "seed": 20261104,
+  "selection": "Six random local raw-one/combined-two cases and three agreements; previous visual examples excluded. No other-direction candidate was available locally.",
+  "pool_sizes": {
+    "agreement": 35,
+    "raw1_combined2": 60
+  },
+  "items": [
+    {
+      "fragment": 4983,
+      "original_columns": 1,
+      "combined_columns": 1,
+      "leaves": 1,
+      "image": "data/images/mpo-4983.jpg",
+      "sha256": "891dee75ff63cd5faaebe9db595d017f9461e8bd2d2e334a010b2d05898d9eb5",
+      "stratum": "agreement",
+      "label": "A"
+    },
+    {
+      "fragment": 4473,
+      "original_columns": 1,
+      "combined_columns": 2,
+      "leaves": 2,
+      "image": "data/images/mpo-4473.jpg",
+      "sha256": "ee81e620d177d9d69d41de81d798fc5a5f381baaac2566a3f98d9c5fbbadc7b0",
+      "stratum": "raw1_combined2",
+      "label": "B"
+    },
+    {
+      "fragment": 2863,
+      "original_columns": 1,
+      "combined_columns": 2,
+      "leaves": 2,
+      "image": "data/images/mpo-2863.jpg",
+      "sha256": "c31c3cb98b1534602a0d6ea4534d9be1e29f49bd638ab4cec9349a5399c05bea",
+      "stratum": "raw1_combined2",
+      "label": "C"
+    },
+    {
+      "fragment": 6360,
+      "original_columns": 1,
+      "combined_columns": 2,
+      "leaves": 2,
+      "image": "data/images/mpo-6360.jpg",
+      "sha256": "2cdd9ae83790553769bcc1d25912791bc145a5cc1fdb05eb4c868a3add11ab3a",
+      "stratum": "raw1_combined2",
+      "label": "D"
+    },
+    {
+      "fragment": 8694,
+      "original_columns": 1,
+      "combined_columns": 1,
+      "leaves": 1,
+      "image": "data/images/mpo-8694.jpg",
+      "sha256": "37c8f26a9117bee0502658be8abddea8f65703fbfa6db5e7d78f77a52449f751",
+      "stratum": "agreement",
+      "label": "E"
+    },
+    {
+      "fragment": 641,
+      "original_columns": 1,
+      "combined_columns": 1,
+      "leaves": 1,
+      "image": "data/images/mpo-641.jpg",
+      "sha256": "63f37528a0e19aefcc2706b52e89781eb0486e79304ad9cca7bca337ad0a735f",
+      "stratum": "agreement",
+      "label": "F"
+    },
+    {
+      "fragment": 3872,
+      "original_columns": 1,
+      "combined_columns": 2,
+      "leaves": 2,
+      "image": "data/images/mpo-3872.jpg",
+      "sha256": "4e50a50c23cbc43d9df5702685b172373cf4cf60eb7f6b80a3cbe0b16ddf8570",
+      "stratum": "raw1_combined2",
+      "label": "G"
+    },
+    {
+      "fragment": 6779,
+      "original_columns": 1,
+      "combined_columns": 2,
+      "leaves": 2,
+      "image": "data/images/mpo-6779.jpg",
+      "sha256": "9d89e15cecdd0da474b1bbc6edd97fbf5753ada50ddddc2b25873cd2c00c48d5",
+      "stratum": "raw1_combined2",
+      "label": "H"
+    },
+    {
+      "fragment": 8343,
+      "original_columns": 1,
+      "combined_columns": 2,
+      "leaves": 2,
+      "image": "data/images/mpo-8343.jpg",
+      "sha256": "6e3890120762d10676e5c1a6552930c6831c3ed2fc1d796565ff8698315c9d07",
+      "stratum": "raw1_combined2",
+      "label": "I"
+    }
+  ],
+  "limits": "Convenience sample of retained photos; capture and edge coverage vary. Does not estimate population error or substitute for expert review."
+}

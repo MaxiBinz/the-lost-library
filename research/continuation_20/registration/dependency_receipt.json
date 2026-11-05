@@ -1,0 +1,15 @@
+{
+  "source": "https://pypi.org/project/opencv-python-headless/4.13.0.92/",
+  "package": "opencv-python-headless",
+  "version": "4.13.0",
+  "wheel": "opencv_python_headless-4.13.0.92-cp37-abi3-macosx_13_0_arm64.whl",
+  "sha256": "1a7d040ac656c11b8c38677cc8cccdc149f98535089dbe5b081e80a4e5903209",
+  "bytes_received": 46247192,
+  "checked_at_utc": "2026-10-23T09:25:17.621976+00:00",
+  "purpose": "Isolated capture-registration experiment; no model training or core environment modification",
+  "local_package_path": "/private/tmp/lost-library-cv20/isolated",
+  "numpy_version": "2.3.5",
+  "SIFT_available": true,
+  "metadata_traffic": "Pip fetched19kBmetadata by displayed rounded size; exact auxiliary bytes not measured,covered by planning reserve",
+  "release_policy": "Runtimewheel/installedbinaries excluded from research release; reproduce with exactPyPIversion or recordedwheelhash."
+}

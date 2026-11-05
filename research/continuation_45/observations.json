@@ -1,0 +1,278 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-29",
+  "annotations": [
+    {
+      "id": "I45-8066-laudes",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The red two-line heading stands immediately before the large Domum initial and its notated text. This directly labels the following local block as Laudes. No hymn wording, complete office reconstruction, medieval side or codex identity is supplied by this label.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=775,380,310,195"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/full/max/0/default.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "image_dimensions": [
+        1709,
+        1138
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "lau | des",
+      "normalized_candidate": "Laudes",
+      "observer": "Codex AI source reinspection; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No hymn wording, complete office reconstruction, medieval side or codex identity is supplied by this label.",
+        "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading."
+      ]
+    },
+    {
+      "id": "I45-8066-next-service",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A red abbreviated heading precedes the Ante aram initial after the Mane surgens passage. The vesperis portion is clearer than the abbreviated prefix; second-vespers expansion remains provisional. This does not independently assign the preceding hymn/canticle or a whole source-side map.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=550,535,770,205"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00004/full/max/0/default.jpg",
+      "sha256": "50fd8b8c609086c20d22da54b904af482e382534e382fb51387be81d36c17b5f",
+      "image_dimensions": [
+        1715,
+        1150
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[In?] s[c?]dis | vespe | ris. Ante aram diuinita[...]",
+      "normalized_candidate": "[In secundis vesperis?] Ante aram divinitatis",
+      "observer": "Codex AI source reinspection; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "This does not independently assign the preceding hymn/canticle or a whole source-side map.",
+        "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading."
+      ]
+    },
+    {
+      "id": "I45-9620-invitatory",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The red two-line label introduces a new large-initial notated passage. It distinguishes an invitatory entry from a complete Laudes opening; the following text remains partly hidden/unclear. The heading alone does not assign every surrounding item, a complete exact service address or codex identity.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=300,1020,750,175"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00001/full/max/0/default.jpg",
+      "sha256": "73b4e4a8f4b363a41443031fed6a514d1f80428d59fde160b78ee13488d2428a",
+      "image_dimensions": [
+        1210,
+        1634
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Inuitato | rium [opening incompletely deciphered]",
+      "normalized_candidate": "Invitatorium",
+      "observer": "Codex AI source reinspection; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The heading alone does not assign every surrounding item, a complete exact service address or codex identity.",
+        "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading."
+      ]
+    },
+    {
+      "id": "I45-8066-Vere",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The verse text includes the local in-loco-isto/et-ego wording. Ve/re spans two rows. The local et enim is visible; no equivalent complete prefix survives in the selected9620 field. No confirmed difference or shared distinctive variant is inferred from missing comparator text.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=330,550,1080,500"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00001/full/max/0/default.jpg",
+      "sha256": "0561a81ddfd4e59cc164449b272dae183846549517ea37f3f40ffeb0de4a6979",
+      "image_dimensions": [
+        1727,
+        1129
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] Ve | re et enim dominus est in loco | isto et ego nes[c?]iebam [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI source reinspection; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "No confirmed difference or shared distinctive variant is inferred from missing comparator text.",
+        "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading."
+      ]
+    },
+    {
+      "id": "I45-8066-Vidi",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The large V and following lower-row text supply a candidate Vidi-Iacob passage, continued in capture2. Its exact chant/verse ID is not assigned. A decorated initial alone does not classify a new responsory; no complete local office position is imported from another witness. Possible terminal t was reconsidered after reference exposure; no independent reading.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-1-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=320,895,1080,230"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00001/full/max/0/default.jpg",
+      "sha256": "0561a81ddfd4e59cc164449b272dae183846549517ea37f3f40ffeb0de4a6979",
+      "image_dimensions": [
+        1727,
+        1129
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] Vi | di[t?] Ia[cob] in sompnis scalam stantem",
+      "normalized_candidate": null,
+      "observer": "Codex AI source reinspection; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "A decorated initial alone does not classify a new responsory; no complete local office position is imported from another witness. Possible terminal t was reconsidered after reference exposure; no independent reading.",
+        "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading."
+      ]
+    },
+    {
+      "id": "I45-8066-Vidi-cont",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Selected local continuation explicitly includes angelos before descendentes. It is compared to the partial9620 field without supplying that missing text. A complete same chant, identical melody or unique transmission relationship is not established.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr8066-capture-2-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=280,55,1065,240"
+        }
+      },
+      "fragment_id": "mpo-8066",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1008066_00002/full/max/0/default.jpg",
+      "sha256": "f4249ba03cdde6677078e50258857f76884258df264327a5a352163cd3d66355",
+      "image_dimensions": [
+        1709,
+        1138
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...]tas eius celos tangebat et angelos de | scendentes et ascendentes per eam [a]it",
+      "normalized_candidate": null,
+      "observer": "Codex AI source reinspection; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "A complete same chant, identical melody or unique transmission relationship is not established.",
+        "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading."
+      ]
+    },
+    {
+      "id": "I45-9620-Vidi",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The cropped field shares Vidi-Ia and celos-tangebat-et wording with8066. The uncertain next letters and lost right-hand text prevent a secure full-word-order comparison. The apparent d/e reading is provisional; do not claim an angelos omission, confirmed variant or full same-position duplicate. Possible terminal t was reconsidered after reference exposure; no independent reading.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-4-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=355,1260,510,430"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00004/full/max/0/default.jpg",
+      "sha256": "053e4da7c3dd9c3cb29a867804bfc8f8f854b085b45960937944bb6744a606b3",
+      "image_dimensions": [
+        949,
+        1718
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] Vidi[t?] Ia[...] | celos tangebat et d[e?][...] | [...]pxit uere locus iste sa[...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI source reinspection; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The apparent d/e reading is provisional; do not claim an angelos omission, confirmed variant or full same-position duplicate. Possible terminal t was reconsidered after reference exposure; no independent reading.",
+        "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading."
+      ]
+    },
+    {
+      "id": "I45-9620-Vere",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The source retains in-loco-isto/et-ego wording matching8066 at phrase level; the leading words are outside this partial-width field. The missing prefix cannot confirm or contradict8066 et enim; no rarity, unique variant or codex identity follows.",
+        "language": "en"
+      },
+      "target": {
+        "source": "research/continuation_44/images/Fr9620-capture-5-native.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=75,1100,560,245"
+        }
+      },
+      "fragment_id": "mpo-9620",
+      "source_url": "https://lbiiif.riksarkivet.se/arkis!R1009620_00005/full/max/0/default.jpg",
+      "sha256": "51f99866f355f68b0bc328c870cfa44947c9c4186996c6d68a84443e0a28fa67",
+      "image_dimensions": [
+        838,
+        1730
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "[...] [V] | [...] est in loco isto et ego [...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI source reinspection; not independent or blind",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "The missing prefix cannot confirm or contradict8066 et enim; no rarity, unique variant or codex identity follows.",
+        "E44 readings, catalogue notes and concordance already known. All nine photographs and the added parallel-text crops were inspected before the new E45 Vidi/verse query. New reference exposure is recorded separately; no independent or blind reading."
+      ]
+    }
+  ]
+}

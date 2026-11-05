@@ -1,0 +1,13 @@
+# Research continuation E21: ruling scale and layout distinctiveness
+
+24 October 2026. The existing evidence-led research goal remains active. The frozen ten-pair queue, core predictors and thresholds are unchanged. This pass tests whether a measurable codicological feature supports or distinguishes the existing Swedish Codex 1505 association.
+
+The photographed vertical rulers give selected Fr 10370 and Fr 10406 red staff-rule intervals of approximately **5.6 mm**. Their measurements are close across two and three manually selected music systems. The local MPO record also gives both 11 main-text rows, four-line Quadr notation and written areas of 36×23 cm and 35.5×23 cm. This is direct-image consistency for the grouping already in the catalogue; it is not a new attribution.
+
+The catalogue-wide check limits how much that resemblance can prove. In the pinned MPO export, 9,196 records are described as Quadr notation with four music lines. Of those, 197 also record 11 main-text rows, and 149 of that subset have parseable written-area dimensions. Three *other* records fall inside the exact 34–36×22.5–23 cm target range; ten fit a sensitivity range expanded by 1 cm. Fr 1385, already an established comparator, is one exact-range match. The dataset is incomplete and non-random, so these counts are descriptive rather than rarity estimates.
+
+**Conclusion:** the physical line scale is consistent between the two sampled Codex 1505 fragments, but it has not been shown to distinguish a book from other books. The Codex 1505 association was already proposed in the source catalogue; the full-MPO screen comes from that same source and is not independent confirmation. No hand, workshop, parchment source, or new historical finding follows.
+
+The fixed image coordinates, ruler calibration, hashes, full metadata query, exact matches, sensitivity check and limits are in [the report](research/continuation_21/ruling_pitch_results.md), [machine-readable output](research/continuation_21/ruling_pitch_results.json) and [reproduction script](research/continuation_21/ruling_pitch_check.py). The source-linked regions are retained in [observations.v7.json](data/observations.v7.json), auxiliary context check CTX05 in [context_checks.v4.json](data/context_checks.v4.json), and the refreshed [viewer evidence bundle](data/review_bundle.json).
+
+The next high-value work remains complete text/side sequencing and comparisons against a genuinely matched control, while pursuing legitimate access to the still-unread Keskiaho/Taitto passages. More general AI tuning would not resolve the present historical uncertainty. No external contact, image upload, source acquisition, or publication occurred in this pass.

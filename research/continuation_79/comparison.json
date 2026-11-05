@@ -1,0 +1,118 @@
+{
+  "coordinate_scope": "est to do- only; relative to selected local red rule",
+  "items": [
+    {
+      "id": "10437",
+      "nominal_y_down_px": 11.31,
+      "sensitivity": [
+        {
+          "centre_tolerance_px": 3,
+          "range_y_down_px": [
+            5.0,
+            17.62
+          ],
+          "range_staff_spacings": [
+            0.1667,
+            0.6777
+          ],
+          "direction": "lower_on_page"
+        },
+        {
+          "centre_tolerance_px": 4,
+          "range_y_down_px": [
+            3.0,
+            19.62
+          ],
+          "range_staff_spacings": [
+            0.1,
+            0.7546
+          ],
+          "direction": "lower_on_page"
+        },
+        {
+          "centre_tolerance_px": 5,
+          "range_y_down_px": [
+            1.0,
+            21.62
+          ],
+          "range_staff_spacings": [
+            0.0333,
+            0.8315
+          ],
+          "direction": "lower_on_page"
+        }
+      ]
+    },
+    {
+      "id": "8066",
+      "nominal_y_down_px": -0.504,
+      "sensitivity": [
+        {
+          "centre_tolerance_px": 3,
+          "range_y_down_px": [
+            -6.819,
+            5.811
+          ],
+          "range_staff_spacings": [
+            -0.5245,
+            0.447
+          ],
+          "direction": "unresolved"
+        },
+        {
+          "centre_tolerance_px": 4,
+          "range_y_down_px": [
+            -8.819,
+            7.811
+          ],
+          "range_staff_spacings": [
+            -0.6784,
+            0.6008
+          ],
+          "direction": "unresolved"
+        },
+        {
+          "centre_tolerance_px": 5,
+          "range_y_down_px": [
+            -10.819,
+            9.811
+          ],
+          "range_staff_spacings": [
+            -0.8322,
+            0.7547
+          ],
+          "direction": "unresolved"
+        }
+      ]
+    }
+  ],
+  "between_source_difference_ranges": [
+    {
+      "centre_tolerance_px": 3,
+      "range_staff_spacings": [
+        -0.2803,
+        1.2022
+      ],
+      "excludes_zero": false
+    },
+    {
+      "centre_tolerance_px": 4,
+      "range_staff_spacings": [
+        -0.5008,
+        1.433
+      ],
+      "excludes_zero": false
+    },
+    {
+      "centre_tolerance_px": 5,
+      "range_staff_spacings": [
+        -0.7214,
+        1.6637
+      ],
+      "excludes_zero": false
+    }
+  ],
+  "between_source_difference_robustly_established": false,
+  "pitch_transcribed": false,
+  "selected_centres_independently_verified": false
+}

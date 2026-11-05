@@ -1,0 +1,22 @@
+{
+  "date":"2026-11-02",
+  "question":"Do the existing 10437 and 8066 images supply a comparable notated Hec est domus opening, and is any local contour distinction already known?",
+  "local_observation":"In the four selected candidate noteheads for Hec / est / do- / mus, 10437 visually suggests equal, lower, higher positions while 8066 appears approximately level. Note grouping, underlay and source points are reference-exposed and unreviewed.",
+  "sensitivity":"For est to do-, manually selected points and illustrative 3/4/5-pixel per-centre uncertainty plus slope perturbation leave the 10437 downward direction in image coordinates positive; 8066 direction is unresolved. The possible ranges overlap, so a robust between-source interval difference is not established.",
+  "published_controls":"Cantus transcriptions of the same Lauds antiphon 002998 supply d d c d in Klosterneuburg CCl1012 f.77r, and d d d d in Einsiedeln 611 f.271r. These illustrate analogous already published relative contours; no target absolute pitches or complete melodies are established.",
+  "limits":"Points chosen post-inspection, not a blinded protocol; uncertainty ranges are illustrative assumptions, not empirically measured. Different notation forms, staff and clef interpretation, underlay, repetition, different service contexts, multiple hands and composite books remain alternatives. External melody records are search-indexed transcriptions, not manuscript images. Catalogue codex labels are not verified different-book controls.",
+  "next_test":"Have the local four-note underlay and staff positions independently adjudicated, then compare full corresponding melodies in established same-book and different-book controls; resolve original service/side maps before a book conclusion.",
+  "source_regions":["I79-10437-hec", "I79-8066-hec"],
+  "same_complete_melody_verified":false,
+  "exact_pitch_transcribed":false,
+  "robust_between_source_contrast_established":false,
+  "target_distinctive_variant_confirmed":false,
+  "book_identity_established":false,
+  "different_book_control_verified":false,
+  "comparator_manuscript_images_inspected":false,
+  "novelty_cleared":false,
+  "independent_confirmation":false,
+  "new_discovery":false,
+  "new_source_images":0,
+  "new_download_bytes":0
+}

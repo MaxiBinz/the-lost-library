@@ -1,0 +1,11 @@
+{
+  "url": "https://lbiiif.riksarkivet.se/arkis!R1007292/manifest",
+  "requested_on": "2026-10-24",
+  "status": 200,
+  "content_type": "application/ld+json",
+  "bytes_received": 14763,
+  "sha256": "1a7eebe4ac470c5ba65fcdb7f043a02cff59dc96af21d74b4fd8b2ab78536aef",
+  "saved": true,
+  "destination": "research/continuation_22/mpo-7292-manifest.json",
+  "purpose": "Resolve official canvas, IIIF image service and per-item reproduction rights before acquiring the matched control image."
+}

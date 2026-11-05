@@ -1,0 +1,378 @@
+{
+  "version": "1.6.0",
+  "assessment_date": "2026-10-25",
+  "scope": "Supporting source, layout-control and prior-art checks; no additional frozen attribution hypotheses.",
+  "checks": [
+    {
+      "id": "CTX01",
+      "title": "Fr10370 text order, marks and previously documented placement",
+      "record_ids": [
+        "mpo-10370"
+      ],
+      "observation_ids": [
+        "V-10370-mark",
+        "V-10370-overlap-upper",
+        "V-10370-overlap-lower",
+        "V-10370-kmark",
+        "V-10370-no-seam-34",
+        "I20-10370-verse-prefix",
+        "I20-10370-verse-suffix"
+      ],
+      "summary": "Image2 ends with candidate Ardore caritatis succensa quem; image3 begins sepultum noverat sublatum cred[ens?] de sepulchro. The concatenation matches candidate Cantus601029a, supporting2→3 relative text order. Visible margin marks and the earlier catalogue placement remain separately recorded. A fixed translation-only screen and a fixed SIFT/mutual-ratio/RANSAC screen then tested the declared 1/2 and 3/4 boundary ROIs against the 2/3 different-surface control.",
+      "outcome": "Intrinsic relative text order is supported. With the proposed1/2 same-surface association and one-leaf catalogue assertion, numeral-surface before k-surface is consistent with the Finnish medieval-side convention. No general MPO rule, physical stitch, new placement or catalogue error is established. Neither proposed boundary passed the predeclared feature-registration screen (1/2: 4 RANSAC inliers from 9 mutual matches; 3/4: 5 from 28; 2/3 control: 5 from 18).",
+      "limits": [
+        "Photograph indices are not medieval page sides.",
+        "Complementary portions in images1/2 suggest continuation, but no pixel registration or shared complete row proves an overlap.",
+        "The MPO meaning of1r/1v has not been established; the side-pattern mismatch remains conditional.",
+        "The older placement and later suggested group assertion have different scope.",
+        "Quem is expanded from an abbreviation and credens is partly uncertain; the normalized reference must not silently replace the literal reading. Cantus text came from public search indexing of primary database records, not inspection of those comparator images.",
+        "Feature matching is a test for repeated photographed detail, not a test of adjacent-but-nonoverlapping page regions. Failed registration cannot prove different faces; low-inlier homographies are not joins."
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/audit.md",
+        "research/independent_pass/crosswalk/side_convention_note.json",
+        "research/independent_pass/visual/findings.md",
+        "research/continuation_20/intrinsic_10370/results.json",
+        "https://cantusdatabase.org/chant/402240/",
+        "research/continuation_20/registration/results.json",
+        "research/continuation_20/registration/feature_results.json"
+      ]
+    },
+    {
+      "id": "CTX02",
+      "title": "Repeated opening address: conditional consistency check",
+      "record_ids": [],
+      "observation_ids": [],
+      "summary": "Indexed institutional descriptions assign hVIII–hIX to IV156f2 and IV157f5 with different feast labels. All16combinations of four explicit consistency premises were evaluated.",
+      "outcome": "Unresolved. Different feast labels alone do not demonstrate mutually incompatible text or different books.",
+      "limits": [
+        "The source readings came from public indexed institutional text with OCR noise; corresponding manuscript images were not verified.",
+        "Unique unrepeated numbering, correct transcription, the same physical position and incompatible text must all be established.",
+        "Reset numbering, composite volumes, side labels and incomplete summaries remain alternatives.",
+        "New indexed IV157 boundary assertions and its proposed interleaving of temporal/sanctoral units caution against an assumed simple global numbering sequence. This is a catalogue interpretation, not verified quire structure."
+      ],
+      "sources": [
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "research/independent_pass/crosswalk/source_constraints.json",
+        "research/continuation_20/helsinki_access/source_assertions.json"
+      ]
+    },
+    {
+      "id": "CTX03",
+      "title": "Published image-scaling formula: possible erratum",
+      "record_ids": [],
+      "observation_ids": [],
+      "summary": "Duba2023 printedp64/PDF66 prose scales width by Smin/Sn; the displayed equation reverses this ratio. Dimensional derivation and three analytic controls preserve physical size with the prose ratio.",
+      "outcome": "Use width × Smin/Sn when rescaling to Smin pixels/mm. This is an implementation correction and possible typographical erratum.",
+      "limits": [
+        "No claim of first notice, originality or new historical finding.",
+        "The checks use synthetic analytic examples, not measured manuscript data.",
+        "No specialist or author confirmation has been received."
+      ],
+      "sources": [
+        "https://www.fragmentology.ms/article/view/4499",
+        "research/independent_pass/methods/methods.md",
+        "research/independent_pass/methods/protocol-results.json"
+      ]
+    },
+    {
+      "id": "CTX04",
+      "title": "Fr20274 against actual C23 pages and the editorial apparatus",
+      "record_ids": [
+        "mpo-20274",
+        "uub-c23-0144",
+        "uub-c23-0145"
+      ],
+      "observation_ids": [
+        "C23-0144-invitatory",
+        "C23-0144-condolentes",
+        "C23-0144-super",
+        "C23-0144-hymn",
+        "C23-0144-patri-parens",
+        "C23-0145-antiphon-opening",
+        "C23-0145-condemnation",
+        "C23-0145-eructavit",
+        "C23-0145-later-corrections",
+        "T-20274-patri-parens",
+        "T-20274-dampnatur",
+        "T-20274-eructavit-rident",
+        "T-20274-invitatory",
+        "T-20274-order",
+        "T-20274-transition"
+      ],
+      "summary": "A declared ten-site comparison uses actual C23 attachments0144/0145, Fr20274 and Hallqvist PDF67. Eight target sites are evaluable at word/cue/structure level; two remain unavailable. Current readings, visible corrections and editorial reports of old states are recorded separately.",
+      "outcome": "Seven current/standard word or cue agreements and one written-scope difference; no distinctive shared uncorrected C23 error established. This does not establish copying direction, a unique transmission branch or physical identity.",
+      "limits": [
+        "Sites were selected after prior target/page review; this is not blind validation or a corpus-frequency test.",
+        "Cancelled C23 wording is only partly legible; full old states are editorial assertions where specified.",
+        "The target lacks the end of the second antiphon; two informative sites are explicitly unevaluable.",
+        "A written hymn cue differs; no performance omission is inferred.",
+        "C435 original images were not inspected. No melodic or correcting-hand/date inference is made."
+      ],
+      "sources": [
+        "research/continuation_20/c23/collation.md",
+        "research/continuation_20/c23/collation.json",
+        "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+        "https://lup.lub.lu.se/student-papers/record/9032430/file/9032431.pdf#page=67"
+      ]
+    },
+    {
+      "id": "CTX05",
+      "title": "Codex 1505 ruling pitch and full-MPO layout screen",
+      "record_ids": [
+        "mpo-10370",
+        "mpo-10406",
+        "mpo-8994",
+        "mpo-10407",
+        "mpo-10437",
+        "mpo-1385",
+        "mpo-8201",
+        "mpo-8304"
+      ],
+      "observation_ids": [
+        "I21-10370-staff-pitch",
+        "I21-10406-staff-pitch"
+      ],
+      "summary": "Manual ruler-calibrated image measurements put selected Fr10370 and Fr10406 red staff-rule intervals at approximately5.6mm. The full pinned MPO export has9196Quadr/four-line entries,197 with11 text rows and149 of those with parseable written-space sizes; three other entries fall inside the five Codex1505 target records' exact dimension box, and ten within the ±1cm sensitivity box.",
+      "outcome": "The images and catalogue fields are consistent with a shared page layout in the pre-existing Codex1505 grouping. This does not independently validate that grouping or provide a unique fingerprint; 4-line Quadr notation is widespread and the matching database is the source of the existing grouping.",
+      "limits": [
+        "Image regions and coordinates were selected after viewing the sources; this was not blind, preregistered or independently repeated.",
+        "Ruler endpoints and staff-line centers are manually selected; perspective, page waviness, local deformation and ruling curvature are not corrected.",
+        "The full MPO metadata is incomplete and non-random; only149 of197 records in the specified notation/row subset have parseable written-area sizes. The 3 and10 comparison counts are descriptive, not rarity estimates.",
+        "Fr1385, already a documented comparator, is one exact-range match. The known wrong-book control Fr8201/8304 is not like-for-like Quadr notation; its records describe Gothic notation with three black and one red staff line.",
+        "The catalogue itself supplies the Codex1505 association, so this screen cannot independently confirm it. No hand, workshop or parchment-origin claim follows."
+      ],
+      "sources": [
+        "research/continuation_21/ruling_pitch_results.md",
+        "research/continuation_21/ruling_pitch_results.json",
+        "research/continuation_21/ruling_pitch_check.py",
+        "https://zenodo.org/records/17287665"
+      ]
+    },
+    {
+      "id": "CTX06",
+      "title": "Exact-layout different-codex staff-pitch control",
+      "record_ids": [
+        "mpo-7292",
+        "mpo-10370",
+        "mpo-10406"
+      ],
+      "observation_ids": [
+        "I22-7292-staff-pitch",
+        "I22-7292-ruler"
+      ],
+      "summary": "The metadata-selected Fr 7292 (MPO Codex 1306) antiphonary matches the Codex 1505 sample on notation, line count, text rows and written-area range. Two ruler-calibrated systems measure a mean staff pitch of approximately 5.543 mm, versus 5.602 mm averaged across the two E21 target images.",
+      "outcome": "The difference is about 0.059 mm, far below conservative manual measurement uncertainty. This shows the measured pitch is not unique to the catalogue-labelled Codex 1505 group. It does not establish any same-book or same-hand relation.",
+      "limits": [
+        "Only one different-codex leaf is measured; no sample distribution or classifier test is inferred.",
+        "The different-codex label and match-selection metadata come from MPO, not independent adjudication.",
+        "The control is matched on genre and layout metadata, not scribe/hand or workshop.",
+        "Ruler and staff centers were selected manually after image inspection; page warp, ruler-plane offset and perspective remain uncorrected.",
+        "No second reader, specialist review, historical attribution or physical join is claimed."
+      ],
+      "sources": [
+        "research/continuation_22/matched_staff_results.json",
+        "research/continuation_22/matched_staff_control.py",
+        "research/continuation_22/image_receipt.json",
+        "https://lbiiif.riksarkivet.se/arkis!R1007292/manifest",
+        "https://zenodo.org/records/17287665",
+        "research/continuation_21/ruling_pitch_results.json"
+      ]
+    },
+    {
+      "id": "CTX07",
+      "title": "Current BOMPAC/CODICUM prior-art check",
+      "record_ids": [
+        "mpo-10370",
+        "mpo-10406",
+        "mpo-8994",
+        "mpo-10407",
+        "mpo-10437"
+      ],
+      "observation_ids": [],
+      "summary": "The 2025 BOMPAC combined workbook assigns Fr 8994 and four other Codex 1505 fragments plus F.m.IV.156 folios 1–22 and 23–24 to BOMPAC-5324 (28 included rows). It assigns Fr 1385 and Fr 20274–20278 plus F.m.IV.157 folios 1–14 to BOMPAC-912 (20 rows). Its raw MPO workbook groups the five Codex 1505 fragments as M-1217, Fr 20274–20278 as C-35/Ant-99, and Fr 1385 as singleton F-1385. The raw Fr 8994 note calls it very similar to Ant 99 and the Helsinki Ant 156/157, citing Taitto 2001, pp. 161–168; the Fr 1385 note calls it the same manuscript as Ant 157.",
+      "outcome": "The target-level published reconstructions are now known: BOMPAC separates Fr 8994/Codex 1505/F.m.IV.156 from Fr 20274/Ant 99/F.m.IV.157, while its combined unit 912 includes Fr 1385. Broad cross-collection integration and these row assignments are prior work, not a new discovery here. H03 remains category C; the workbook assignments are not fresh image proof and do not exclude a more complex historical relationship.",
+      "limits": [
+        "BOMPAC describes its combined spreadsheet as research data prepared for the project, not institutional catalogue data; it defines units as reconstructions but cautions that inherited codex signa can overlap and need not cover every fragment thought to come from a codex.",
+        "The raw-metadata readme says the underlying research metadata is incomplete and work-in-progress. Blank target-row ambiguity/correction cells are not proof of certainty.",
+        "The inherited Fr 8994 note says 'very similar' to the listed groups, while the Fr 1385 note says 'same manuscript' as Ant 157; those are not equivalent claims. Taitto pp. 161–168, cited by Fr 8994, remain unread.",
+        "The combined row assignments and raw MPO groups are related data products, not independent image examinations or expert judgments.",
+        "A distinct reconstruction ID alone does not prove there can be no shared hand, workshop, textual relation, composite history, or later revision."
+      ],
+      "sources": [
+        "RESEARCH_CONTINUATION_26.md",
+        "research/continuation_26/bompac/target_crosswalk_results.json",
+        "research/continuation_26/bompac/target_crosswalk.py",
+        "research/continuation_26/bompac/Readme-Sto-Hel-Frs-Combined-BOMPAC.pdf",
+        "research/continuation_26/bompac/raw_metadata/Readme-Raw-Metadata-BOMPAC.pdf",
+        "research/continuation_26/bompac/raw_metadata/MPO_commentary_Holger_Kaasik.pdf",
+        "https://doi.org/10.5281/zenodo.17511106",
+        "https://doi.org/10.5281/zenodo.17701360",
+        "https://doi.org/10.24446/no5r"
+      ]
+    },
+    {
+      "id": "CTX08",
+      "title": "H03 matched catalogue layout screen",
+      "record_ids": [
+        "mpo-20274",
+        "mpo-8994",
+        "mpo-7292",
+        "mpo-10370",
+        "mpo-10406",
+        "mpo-10407"
+      ],
+      "observation_ids": [],
+      "summary": "The pinned MPO metadata records Fr8994 at 35.5 x 22.5 cm and Fr20274 at 36.0 x 22.5 cm written area. A post-inspection screen of 22,909 catalogue rows selected Quadr, four-staff records with a leading 11 main-text-row count; the parser intentionally includes Fr20274's literal '11 (33)' as well as '#11'. This yields 244 records, 154 with parseable area, including 97 Antiphonaria (52 dimensioned). The full machine-readable query is in the linked result.",
+      "outcome": "The candidate pair has closely similar catalogue written-area dimensions, consistent with the already suggested relationship. At a 0.5 cm-expanded pair bounding box, seven matched Antiphonaria include the pair, two Codex 1306 records (Fr7292 and Fr9165), and three other Codex 1505 leaves. This supports layout compatibility but does not distinguish one codex from shared format or production. H03 remains category C; no identity or novelty claim follows.",
+      "limits": [
+        "The compared dimensions are inherited catalogue values from the same MPO source, not direct image measurements or independent physical observations.",
+        "The exact box is post hoc and defined by the candidate pair; the two-record exact result is not a rarity statistic.",
+        "Only 52 of 97 Quadr/four-line/11-row Antiphonaria have parseable dimensions; missingness is unquantified and likely not random.",
+        "Fr20274's catalogue record omits leaf format and script; source photographs do not document complete physical sides.",
+        "No corresponding Olavi text or melody in Fr20274, shared distinctive error, physical join, same hand, or same-book identity is established by this check."
+      ],
+      "sources": [
+        "research/continuation_24/h03_layout_screen.py",
+        "research/continuation_24/h03_layout_results.json",
+        "research/mpo.csv",
+        "https://zenodo.org/records/17287665"
+      ]
+    },
+    {
+      "id": "CTX09",
+      "title": "IV.173 related-group reconstruction crosswalk",
+      "record_ids": [
+        "finn-iv173",
+        "mpo-29666",
+        "mpo-25592",
+        "mpo-20274",
+        "mpo-8994",
+        "mpo-1385"
+      ],
+      "observation_ids": [],
+      "summary": "The updated National Library record for F.m.IV.173 identifies Ant 242/Fr 29666 as same codex, lists Hy 49/Fr 25592 and Ant 99 as suggestions, and describes a broader style/liturgical group. The deposited BOMPAC workbook assigns IV.173, Fr 29666 and Fr 25592 to BOMPAC-9531 (3 included rows); Ant 99/IV.157/Fr 1385 belong to BOMPAC-912, and Codex 1505/IV.156 to BOMPAC-5324. The raw Fr 29666 note also cites Taitto 2001 p.185 for the Ant 242–Ant 173 same-codex claim.",
+      "outcome": "The published sources distinguish a broad stylistic group, suggested links and explicit same-codex assertions. BOMPAC's IV.173 unit agrees with the Ant 242 link and includes Hy 49, but separates it from Ant 99/IV.157. This is a source-level difference in group membership, not an independent image adjudication or a new attribution. H03, H04 and H05 remain unresolved.",
+      "limits": [
+        "The official Fragmenta record says Ant 99 is suggested in connection with Keskiaho 2010; it does not label Ant 99 as a proven same-codex member of IV.173.",
+        "The BOMPAC workbook records project reconstruction units, not a fresh image examination; its grouping does not prove that a more complex shared hand, workshop, production group or composite history is impossible.",
+        "Fr 25592's two-column hymn layout and IV.173's one-column music layout are visible in existing images, but layout differences alone do not disprove a book with sections made for different functions.",
+        "Fr 29666 has no verified local image. The ordinary Riksarkivet catalogue page displayed a human-verification challenge; no challenge was interacted with or bypassed, and no image was acquired.",
+        "No independent specialist judgment, new manuscript-side mapping, physical join or unique text/music variant is established by this crosswalk."
+      ],
+      "sources": [
+        "RESEARCH_CONTINUATION_27.md",
+        "research/continuation_27/related_unit_crosswalk.py",
+        "research/continuation_27/related_unit_crosswalk_results.json",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "https://doi.org/10.5281/zenodo.17511106",
+        "https://doi.org/10.5281/zenodo.17701360"
+      ]
+    },
+    {
+      "id": "CTX10",
+      "title": "Walta 2013 prior-art on the broader Naantali fragment group",
+      "record_ids": [
+        "finn-iv173",
+        "mpo-29666",
+        "mpo-25592"
+      ],
+      "observation_ids": [],
+      "summary": "The University of Helsinki research portal identifies Ville Walta's 'Birgittine Fragments in Finland: Reconstructing Naantali Abbey's Library' as a peer-reviewed 2013 chapter (pp. 11–29). The indexed chapter excerpt for p. 20/footnote 35 describes a broader group of up to 19 manuscripts that includes F.m.IV.156, IV.157 and IV.173. It notes several hands and says only one or possibly two items are directly connected to Naantali, leaving the production site uncertain; it cites Keskiaho 2010 for additional members. Opening the full PDF timed out, so this is an indexed excerpt, not a full-chapter review.",
+      "outcome": "The E27 catalogue/workbook difference should not be described as a proven scholarly contradiction. The sources may discuss narrower reconstructed same-codex units, suggested joins and a broad stylistic/production group at different levels. H03–H05 remain unresolved; no new historical finding or attribution is established.",
+      "limits": [
+        "The chapter excerpt is search-indexed; the complete PDF did not open and is not retained locally.",
+        "Walta's broad group does not imply that all its members came from one codex, one scribe or one production site.",
+        "The exact Taitto 2001 pp. 161–168 and Keskiaho 2010 pp. 418–419 passages remain unread.",
+        "No new manuscript images, direct physical inspection, side mapping or unique text/music variant were tested.",
+        "This contextual prior-art check does not modify the frozen queue, baseline predictors or thresholds."
+      ],
+      "sources": [
+        "RESEARCH_CONTINUATION_28.md",
+        "https://researchportal.helsinki.fi/en/publications/birgittine-fragments-in-finland-reconstructing-naantali-abbeys-li/",
+        "https://www.diva-portal.org/smash/get/diva2%3A668618/FULLTEXT01.pdf"
+      ]
+    },
+    {
+      "id": "CTX11",
+      "title": "Fragmenta catalogue relationship qualifiers for IV.156 and IV.157",
+      "record_ids": [
+        "finn-iv173",
+        "mpo-1385",
+        "mpo-25592"
+      ],
+      "observation_ids": [],
+      "summary": "The National Library of Finland's indexed Fragmenta catalogue entries describe F.m.IV.156 and F.m.IV.157 as Dominican antiphonaries for the Diocese of Åbo, with one-column, 11-line layouts, similar square notation and overlapping dimensions. IV.156 is explicitly said to bear a strong stylistic resemblance to IV.157. The entries separately label specific links: IV.156 lists Turku Ms. c as from the same codex and Codex 1505 as suggested; IV.157 lists Ant 99 and Fr 1385 as from the same codex and lists Turku Ms. c and Codex 1505 as suggested. The IV.157 page returned 403 when directly opened, so the detailed text is recorded as search-indexed catalogue text.",
+      "outcome": "A shared broad style group or Codex 1505 suggestion does not assert that IV.156 and IV.157 are one codex. This clarifies the relationship levels in E27/E28; it neither resolves the IV.173 joins nor establishes a new attribution. H03–H05 remain unresolved.",
+      "limits": [
+        "Detailed catalogue wording was available through the search index; direct page access to IV.157 returned HTTP 403.",
+        "No manuscript image, physical object, page-side mapping, or diagnostic textual/music variant was tested in E29.",
+        "The cited Taitto 2001 pp. 161–168 and Keskiaho 2010 pp. 418–419 passages remain unread.",
+        "Stylistic resemblance, shared liturgical use, or a suggested Codex 1505 association does not prove same-codex identity.",
+        "The check does not modify the frozen queue, baseline predictors, or thresholds."
+      ],
+      "sources": [
+        "RESEARCH_CONTINUATION_29.md",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300"
+      ]
+    },
+    {
+      "id": "CTX12",
+      "title": "Official Fragmenta relationship labels and a foliation test lead",
+      "record_ids": [
+        "mpo-8994",
+        "mpo-20278",
+        "finn-iv173"
+      ],
+      "observation_ids": [],
+      "summary": "E31 records the National Library of Finland's detailed official catalogue wording. F.m.IV.157 labels Ant 99 and Fr 1385 as from the same codex, while Codex 1505 is suggested; F.m.IV.156 describes strong stylistic resemblance to IV.157 and also lists Codex 1505 as suggested. F.m.IV.173 describes a broader group of at least 18 stylistically uniform Åbo-use sources, identifies Ant 242/Fr 29666 as same codex, and lists Hy 49 and Ant 99 as suggestions. The IV.157 catalogue's St Olaf folio-8 signature notation '[k] iiijr - k [v]' may align with Fr 8994's catalogue foliation '1r IIII; 1v k'; that possible alignment has not been checked against both source images.",
+      "outcome": "The catalogue distinguishes specific same-codex claims from suggested links and broad stylistic/production groups. These distinctions clarify prior art but establish no new attribution. The possible k/IV signature alignment is a narrow source-image test lead; H03 remains unresolved.",
+      "limits": [
+        "The direct IV.156 and IV.157 pages returned HTTP 403 in this route; their detailed wording was available from official-page search indexing. The IV.173 page opened directly.",
+        "Taitto 2001 pp. 161-168 and the relevant Keskiaho 2019 chapter have not been read in full.",
+        "No local Fr 20278 or F.m.IV.157 image was available for an exact Olavi text, notation, or foliation comparison.",
+        "The k/IV correspondence is a hypothesis to check; it establishes no physical join, shared hand, or same-codex identity.",
+        "The frozen queue, predictors, thresholds, and manuscript image inventory are unchanged."
+      ],
+      "sources": [
+        "RESEARCH_CONTINUATION_31.md",
+        "research/continuation_31/fragmenta_relationship_results.json",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1314"
+      ]
+    },
+    {
+      "id": "CTX13",
+      "title": "Fr 8994 opening-signature image check and convention specificity",
+      "record_ids": [
+        "mpo-8994"
+      ],
+      "observation_ids": [
+        "I32-8994-red-four-stroke-mark"
+      ],
+      "summary": "E32 directly inspected a region of the local first Fr 8994 capture and observed four red vertical strokes, consistent with the MPO catalogue's IIII foliation transcription. The official indexed F.m.IV.156 catalogue description explains the red-letter/Roman-numeral opening-signature system and says it was not infrequent in late-medieval codices and early printed books, citing Antiphoners 34, 157, 170 and 173. Thus the format alone is not a unique identity signal.",
+      "outcome": "The visible mark improves traceability of the local IIII observation, while the catalogue context reduces the specificity of the signature format. Fr 8994's Olavi contents and the IV.157 folio-8 description still merit a text-and-sequence comparison, but H03 remains C and no new join is established.",
+      "limits": [
+        "The retained image is a 600 x 415 JPEG; the manual reading has not been checked by a second reader or specialist.",
+        "The capture is not independently assigned to medieval recto or verso; the paired k mark was not securely read from pixels in this observation.",
+        "The IV.156 wording was available through official-page search indexing; its direct page was not opened in this pass.",
+        "No local F.m.IV.157 or Fr 20278 scan is available for paired foliation, chant-boundary, or text comparison.",
+        "Taitto 2001 pp. 161-168 and both relevant Keskiaho works remain unread in full; originality is uncleared.",
+        "The frozen queue, predictor inputs, thresholds, source-image inventory, and case classifications are unchanged."
+      ],
+      "sources": [
+        "RESEARCH_CONTINUATION_32.md",
+        "research/continuation_32/results.json",
+        "research/continuation_32/fr8994_signature_observation.json",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+        "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+        "https://www.finna.fi/Record/fikka.3965551?lng=en-gb"
+      ]
+    }
+  ]
+}

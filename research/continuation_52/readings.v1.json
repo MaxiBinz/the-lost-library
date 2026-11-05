@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "stage": "Before new chant-reference lookup; literal candidates and observed layout only",
+  "observer": "Codex AI; unblinded catalogue/reference exposure, no independent adjudication",
+  "new_reading_candidates": [
+    {
+      "id": "I52-8072-invitatory",
+      "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+      "xywh": [
+        520,
+        220,
+        850,
+        170
+      ],
+      "literal": "[Invi]tatorium / Regem virginum [...]",
+      "normalized": null,
+      "body": "A red invitatory rubric and Regem virginum opening are visible near the top of the source. The incomplete remainder is not restored; this is a selected local service/work cue, not a whole-office collation or identity fingerprint."
+    },
+    {
+      "id": "I52-8072-veni",
+      "path": "research/continuation_52/images/Fr8072-capture-1-native.jpg",
+      "xywh": [
+        290,
+        370,
+        1080,
+        300
+      ],
+      "literal": "Veni sponsa [...] accipe coronam quam tibi / dominus preparauit in eternum",
+      "normalized": null,
+      "body": "The visible Veni sponsa phrase leads into accipe coronam quam tibi and dominus preparauit in eternum. The abbreviated Christ-name is not silently expanded in the literal candidate. A common liturgical item cannot identify one book."
+    },
+    {
+      "id": "I52-8073-magnificat-rubric",
+      "path": "research/continuation_52/images/Fr8073-capture-3-native.jpg",
+      "xywh": [
+        830,
+        450,
+        680,
+        110
+      ],
+      "literal": "Super magnificat antiphona",
+      "normalized": null,
+      "body": "A red rubric is provisionally read Super magnificat antiphona above a large red F and notated text. The rubric supplies local antiphon context alongside continuous verse blocks; the whole book is not classified from a single block."
+    },
+    {
+      "id": "I52-8073-unnotated-verses",
+      "path": "research/continuation_52/images/Fr8073-capture-4-native.jpg",
+      "xywh": [
+        365,
+        240,
+        1110,
+        430
+      ],
+      "literal": null,
+      "normalized": null,
+      "body": "Below the notated line, successive verse-like text blocks with coloured initials occupy continuous red text ruling without music staves over each line. The exact complete hymn readings are untranscribed. Mixed notated/unnotated layout does not imply a separate codex or whole-book genre."
+    }
+  ],
+  "prior_rule_observations_reused": [
+    "I44-8066-rules",
+    "I44-9620-rules",
+    "I44-8201-control-rules",
+    "I44-8304-control-rules",
+    "I44-8072-control-rules",
+    "I44-8073-control-rules"
+  ],
+  "new_rule_scope": "New native8072/8073 views are consistent with the earlier five-rule control observations. This repeats a known feature and is not six new discoveries or a source of independent votes.",
+  "failed_routes": [
+    "https://lbiiif.riksarkivet.se/arkis!R1008072_00003/full/max/0/default.jpg",
+    "https://lbiiif.riksarkivet.se/arkis!R1008073_00001/full/max/0/default.jpg"
+  ],
+  "coverage_limit": "8072 capture3 unseen after timeout;8073 capture1 inspected only from retained800px first photograph. No retry or alternate request for either failed photograph."
+}

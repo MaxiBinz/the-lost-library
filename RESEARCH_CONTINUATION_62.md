@@ -1,0 +1,9 @@
+# E62: restore visibility of already-held manuscript images
+
+The research lead register listed only representative images for many objects even when additional source photographs and resolution derivatives were already recorded locally. A comparison against the existing pre-E62 register and source records finds 57 affected leads, involving 15 physical-object identifiers and 50 distinct previously unlisted image paths. These counts refer to paths and lead references, not 50 new leaves or independent photographs.
+
+For example, H04 compares Helsinki F.m.IV.173 and Swedish Fr 1385. Its register entry previously listed both IV.173 derivatives but only the first Fr 1385 image, although all four Fr 1385 manifest captures were already recorded. The corrected entry includes the other three; the capture order does not establish medieval page order. The Finnish and Swedish manuscripts remain unproved as the same book. Published reconstruction and broader stylistic groupings are separate assertions, as documented in the existing H04 review.
+
+The generator now adds recorded image paths only to the explicitly associated physical-object ID, retaining existing overlays. It does not infer a physical join, page side, new fragment, or same-book relationship. No source image was downloaded and no historical decision changed. The audit is reproducible with `research/continuation_62/check_sources.py`; the pre-change register snapshot preserves the comparison. Images have been previously examined, so any further comparison is exploratory and cannot be called a blind test.
+
+Next, prioritize a discriminating comparison in the newly visible views with a documented same-book control and a same-style/different-book control where the available image detail permits. Similar initials, layout or liturgical content alone are not enough to establish a book identity.

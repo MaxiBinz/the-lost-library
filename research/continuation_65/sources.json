@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-01",
+  "alvin_search": {
+    "access": "Normal catalogue search UI in the in-app browser, without opening previously failed Alvin records.",
+    "queries": [
+      {
+        "value": "20106",
+        "result": "7 hits inspected in list; none visibly identifies the target fragment"
+      },
+      {
+        "value": "\"A 103 k 95\"",
+        "result": "0 hits"
+      },
+      {
+        "value": "\"Ant 49\"",
+        "result": "0 hits"
+      }
+    ],
+    "limits": "Metadata search only. Queries are neither exhaustive nor proof of absence or unavailability."
+  },
+  "cantus_vienna": {
+    "url": "https://cantusdatabase.org/chant/547310",
+    "access": "Search-indexed result contained source identifier and complete standardized and source-spelling fields; direct page open returned Cache miss and was stopped without retry.",
+    "source_assertion": "Vienna Österreichische Nationalbibliothek Cod.1799, f.223v, lists Cantus ID 204720 and a complete Specie corporis antiphon including the pulchrior ending, with standardized and source-spelling fields.",
+    "limits": "Indexed text, not a direct manuscript-image reading; no whole-office, melody or unique-codex inference. The linked ONB viewer returned inaccessible; no alternate or repeated request."
+  },
+  "cantus_feast": {
+    "url": "https://cantusdatabase.org/feast/2667",
+    "access": "Direct page text opened 2026-11-01.",
+    "source_assertion": "Its Catherine feast table shows 46 chant entries for ID 204720.",
+    "limits": "Database entries are not necessarily unique books or statistically representative witnesses; the count does not establish prevalence of this exact spelling, melody or leaf split."
+  },
+  "grajewski": {
+    "source_url": "https://doi.org/10.25167/ls.4818",
+    "local_pdf": "research/scholarship/grajewski2022.pdf",
+    "sha256": "bce68afeaef0e1bd0c259009f003ee07c683cd6213f3a32cc4d785f9298d2798",
+    "locator": "printed p.293, PDF page 7",
+    "access": "Existing PDF page render visually checked; also compared with web-reader extracted text for the same publisher PDF.",
+    "source_assertion": "Printed page assigns the beginning of the antiphon to Fr20106 and the ending to Fr8201, and prints sponso. The web reader's extracted text instead displays sponsae.",
+    "limits": "This is an extraction discrepancy within a PDF representation, not evidence of a separate printed edition or authorial inconsistency. Fr20106 was not inspected."
+  },
+  "rights_scope": "The saved native source photo is PDM as specified in its pinned institutional manifest; no source image was uploaded or altered. Search and web-reader traffic is unmeasured within the existing reserve.",
+  "cantus_vienna_navigation": {
+    "url": "https://cantusdatabase.org/chant/547315",
+    "access": "Search-indexed folio navigation; direct page and underlying original not opened.",
+    "source_assertion": "Vienna Cod.1799 f223v lists 204720 then 204938 consecutively in Matins.",
+    "limits": "Indexed identifiers and order only; not proof of exact melody, physical page equivalence or source-image reading."
+  }
+}

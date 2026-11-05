@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-10-31",
+    "url": "https://www.codicesfennici.fi/tei-display/download?id=249",
+    "saved": true,
+    "path": "research/continuation_56/TMMA_fragC.xml",
+    "bytes_received": 6702,
+    "sha256": "5eb6f4be514296d034ae3342a56bf35c59c50af9833fb24614657e67fda50cdd",
+    "method": "Normal advertised TEI download link, browser downloadMedia; completed local file copied to project.",
+    "retry": false,
+    "scope": "Metadata text, not manuscript image; no measured browser transfer overhead."
+  }
+]

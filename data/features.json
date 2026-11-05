@@ -1,0 +1,3792 @@
+{
+  "vision_version": "1.0.0",
+  "image_fingerprint": "8418861fd9836634177f50d6dbd8e0eeb30022f5361f8036d4cfefe68fb0016e",
+  "images_requested": 121,
+  "images_processed": 121,
+  "failed": [],
+  "encoder": {
+    "architecture": "torchvision.resnet18",
+    "weights": "IMAGENET1K_V1",
+    "weights_url": "https://download.pytorch.org/models/resnet18-f37072fd.pth",
+    "weights_path": "data/models/checkpoints/resnet18-f37072fd.pth",
+    "weights_sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec",
+    "weights_bytes": 46830571,
+    "torch_version": "2.9.0",
+    "torchvision_version": "0.24.0",
+    "device": "cpu",
+    "training": false,
+    "embedding_dimension": 512,
+    "preprocessing": "Official weights.transforms(): resize256, center224, ImageNet normalization; once raw and once fixed paper crop.",
+    "model_scope": "Frozen ImageNet generic-image encoder; no handwriting/notation identity validation and no training here.",
+    "source": "https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.resnet18.html"
+  },
+  "arrays_path": "data/features.npz",
+  "items": {
+    "finn-iv173": {
+      "image_sha256": "b5c5e39ec47dcd20b3c536cc91feef4bcccd5aad2df8997839609bff2f671c64",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          1200,
+          1549
+        ],
+        "processing_crop_size": [
+          1021,
+          1344
+        ],
+        "paper_quantile_box": [
+          26,
+          17,
+          1047,
+          1361
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.21368408203125,
+        "red_density": 0.257476806640625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 22,
+        "horizontal_red_periodicity": 0.5511674880981445,
+        "gradient_energy": 0.05199231207370758,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "finn-iv173-verso": {
+      "image_sha256": "e7f71a637b9993c1cf3bdd0a8e6ca067c30b6123d50f01488bb2c173f6d82cd5",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          1200,
+          1553
+        ],
+        "processing_crop_size": [
+          1041,
+          1348
+        ],
+        "paper_quantile_box": [
+          13,
+          17,
+          1054,
+          1365
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.16131591796875,
+        "red_density": 0.206146240234375,
+        "blue_density": 1.52587890625e-05,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.45176637172698975,
+        "gradient_energy": 0.060867421329021454,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-1b56": {
+      "image_sha256": "9c0158852280e41fd41e6ac4e6df8fa6cf4ecb4535436f238300bef642fc35fb",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1129
+        ],
+        "processing_crop_size": [
+          695,
+          980
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          992
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2178192138671875,
+        "red_density": 0.0,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": null,
+        "horizontal_red_periodicity": 0.0,
+        "gradient_energy": 0.07883621752262115,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-458m": {
+      "image_sha256": "31c05ab4d0d82434f4b23c6ba8ba16f94f8c7511035fe18019e579f2e364aa6d",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1140
+        ],
+        "processing_crop_size": [
+          695,
+          989
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          1001
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1729888916015625,
+        "red_density": 0.1009521484375,
+        "blue_density": 0.0065765380859375,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5086919069290161,
+        "gradient_energy": 0.08820214867591858,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-5der": {
+      "image_sha256": "ea2f1cdf6c73235cbc65664f3d0b74c9c3a7b9de484cc67d4d21c7c92a98aec2",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1101
+        ],
+        "processing_crop_size": [
+          695,
+          954
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          966
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2021026611328125,
+        "red_density": 0.135589599609375,
+        "blue_density": 0.052337646484375,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.6020264625549316,
+        "gradient_energy": 0.06204387545585632,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-5uba": {
+      "image_sha256": "e3b43d298d2add60fd22d9adc0a78f79e1902e0ba69af282ad6592df3745a95e",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          1200,
+          1730
+        ],
+        "processing_crop_size": [
+          1041,
+          1501
+        ],
+        "paper_quantile_box": [
+          13,
+          19,
+          1054,
+          1520
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1504669189453125,
+        "red_density": 0.074981689453125,
+        "blue_density": 0.009033203125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5132731795310974,
+        "gradient_energy": 0.05740385502576828,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-6zvk": {
+      "image_sha256": "1b197bb574fab09b623c21ffb6e4ac51be69337f32685bcdc5d6f2a4537b8c71",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          400,
+          553
+        ],
+        "processing_crop_size": [
+          347,
+          480
+        ],
+        "paper_quantile_box": [
+          4,
+          6,
+          351,
+          486
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1893463134765625,
+        "red_density": 0.04449462890625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5057634711265564,
+        "gradient_energy": 0.06460009515285492,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-ag0v": {
+      "image_sha256": "5d37072827f92d508331f5f6f4a96a51e94e36bd5a2fd527cfac9de1839d18b5",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          899
+        ],
+        "processing_crop_size": [
+          686,
+          780
+        ],
+        "paper_quantile_box": [
+          8,
+          10,
+          694,
+          790
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.18817138671875,
+        "red_density": 0.0915679931640625,
+        "blue_density": 0.056121826171875,
+        "horizontal_red_period_px_at_256": 22,
+        "horizontal_red_periodicity": 0.27815666794776917,
+        "gradient_energy": 0.03759540244936943,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-d5zj": {
+      "image_sha256": "c13cb8fb5c6c13d217cc0061553c2cc0c9d0027778364d4b4b71cb3507bca71c",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1066
+        ],
+        "processing_crop_size": [
+          690,
+          919
+        ],
+        "paper_quantile_box": [
+          8,
+          11,
+          698,
+          930
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.205718994140625,
+        "red_density": 0.011962890625,
+        "blue_density": 0.014617919921875,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.3818086087703705,
+        "gradient_energy": 0.04898956045508385,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-fa1y": {
+      "image_sha256": "f21ac8c0a9b348f8e757db6c83bd359d772218b248afd02db22089266a6da566",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1123
+        ],
+        "processing_crop_size": [
+          695,
+          974
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          986
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2002410888671875,
+        "red_density": 0.0279998779296875,
+        "blue_density": 0.0167236328125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5162498950958252,
+        "gradient_energy": 0.06449258327484131,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-n4t6": {
+      "image_sha256": "4beb00728e31aff85caace44101ae2d0fa953d66f8e4595f4599680f748b4702",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1111
+        ],
+        "processing_crop_size": [
+          695,
+          964
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          976
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.29229736328125,
+        "red_density": 0.03790283203125,
+        "blue_density": 0.0142364501953125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5572634339332581,
+        "gradient_energy": 0.07894201576709747,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-qbrf": {
+      "image_sha256": "f51f2cc658cfe23762cb66feb95bd274ac0d1cb458b5834708099fd137aae58e",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          400,
+          565
+        ],
+        "processing_crop_size": [
+          347,
+          490
+        ],
+        "paper_quantile_box": [
+          4,
+          6,
+          351,
+          496
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.121063232421875,
+        "red_density": 0.789459228515625,
+        "blue_density": 9.1552734375e-05,
+        "horizontal_red_period_px_at_256": 18,
+        "horizontal_red_periodicity": 0.6028063893318176,
+        "gradient_energy": 0.04517750442028046,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-tqd2": {
+      "image_sha256": "5ea9db3592fe1edddd9f55e4ef580bf93c2f3256950541bd17c560df8f0b4656",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1157
+        ],
+        "processing_crop_size": [
+          695,
+          1004
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          1016
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1892242431640625,
+        "red_density": 0.096466064453125,
+        "blue_density": 0.0143585205078125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.4628174901008606,
+        "gradient_energy": 0.06402642279863358,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "fragmentarium-F-wmom": {
+      "image_sha256": "460e0f443a6a49910737fbd219bda1c474108eaf9ae7090a9aecb19156befc1d",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1158
+        ],
+        "processing_crop_size": [
+          695,
+          1005
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          1017
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1915130615234375,
+        "red_density": 0.0347900390625,
+        "blue_density": 0.003814697265625,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.52779221534729,
+        "gradient_energy": 0.07580108940601349,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-10084": {
+      "image_sha256": "2323d4f2638c08c8d5ed5884c7c100ee998420bc6db9190d8653064c99c878a7",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          719,
+          1814
+        ],
+        "processing_crop_size": [
+          620,
+          1573
+        ],
+        "paper_quantile_box": [
+          7,
+          20,
+          627,
+          1593
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2170562744140625,
+        "red_density": 0.04205322265625,
+        "blue_density": 0.001190185546875,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.44814398884773254,
+        "gradient_energy": 0.04258079454302788,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-10236": {
+      "image_sha256": "6a2f74a7f76299df255662c3f443bb3eb92f9f3a82d85c94d24f4cc2678be4f0",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          576
+        ],
+        "processing_crop_size": [
+          695,
+          499
+        ],
+        "paper_quantile_box": [
+          8,
+          6,
+          703,
+          505
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2387237548828125,
+        "red_density": 0.12469482421875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 12,
+        "horizontal_red_periodicity": 0.5175234079360962,
+        "gradient_energy": 0.07810848951339722,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-10349": {
+      "image_sha256": "b3ee2aaf21da8323a0a65e210a711b7d813cb2d04465ac63d9eb1a46494e8790",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1005
+        ],
+        "processing_crop_size": [
+          695,
+          872
+        ],
+        "paper_quantile_box": [
+          8,
+          11,
+          703,
+          883
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.16845703125,
+        "red_density": 0.148895263671875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.48882949352264404,
+        "gradient_energy": 0.05262047424912453,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-10370": {
+      "image_sha256": "bc47b23112119204a6e94b12385b5ead73eb4066117826d57b78c636a68f0a6a",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          667
+        ],
+        "processing_crop_size": [
+          695,
+          578
+        ],
+        "paper_quantile_box": [
+          8,
+          7,
+          703,
+          585
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.19464111328125,
+        "red_density": 0.04736328125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 6,
+        "horizontal_red_periodicity": 0.5897870063781738,
+        "gradient_energy": 0.055174320936203,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-10406": {
+      "image_sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          521
+        ],
+        "processing_crop_size": [
+          695,
+          449
+        ],
+        "paper_quantile_box": [
+          8,
+          8,
+          703,
+          457
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2028350830078125,
+        "red_density": 0.0700225830078125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 7,
+        "horizontal_red_periodicity": 0.47378435730934143,
+        "gradient_energy": 0.05601431429386139,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-10407": {
+      "image_sha256": "ba28ef4558e7c4d073480f5314c24326e2bd0e86136fa1232c6dd0280139d4d0",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          537
+        ],
+        "processing_crop_size": [
+          695,
+          463
+        ],
+        "paper_quantile_box": [
+          8,
+          8,
+          703,
+          471
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.14251708984375,
+        "red_density": 0.0160980224609375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 7,
+        "horizontal_red_periodicity": 0.39309418201446533,
+        "gradient_energy": 0.0355389378964901,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-10437": {
+      "image_sha256": "ef7548711091d030ff1fd8aac4d890b39d5d5602d4d638d07acdbbde1a335859",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          477
+        ],
+        "processing_crop_size": [
+          695,
+          414
+        ],
+        "paper_quantile_box": [
+          8,
+          5,
+          703,
+          419
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1858673095703125,
+        "red_density": 0.0921478271484375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 7,
+        "horizontal_red_periodicity": 0.5745782256126404,
+        "gradient_energy": 0.04678402096033096,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1114": {
+      "image_sha256": "1f5376e5d85aa1df61ab35f76eaf650b6bf0c55990614fd7215a80ee9fcb4818",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1153
+        ],
+        "processing_crop_size": [
+          655,
+          976
+        ],
+        "paper_quantile_box": [
+          8,
+          25,
+          663,
+          1001
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2394256591796875,
+        "red_density": 0.04534912109375,
+        "blue_density": 0.002593994140625,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.6229183077812195,
+        "gradient_energy": 0.06377092748880386,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-11167": {
+      "image_sha256": "d4a0c2303e1144caec3d3187dfeddc997be906044602308a220e8b7f61e23e33",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1063
+        ],
+        "processing_crop_size": [
+          681,
+          912
+        ],
+        "paper_quantile_box": [
+          8,
+          23,
+          689,
+          935
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1787261962890625,
+        "red_density": 0.297576904296875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 29,
+        "horizontal_red_periodicity": 0.6210994720458984,
+        "gradient_energy": 0.04624815285205841,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-11220": {
+      "image_sha256": "cbb8608c5288ab27d2fce1757abb0bf2c9dfed730265a7ec0ed2a1ea8a09a41e",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          558
+        ],
+        "processing_crop_size": [
+          663,
+          462
+        ],
+        "paper_quantile_box": [
+          40,
+          12,
+          703,
+          474
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1313018798828125,
+        "red_density": 0.069366455078125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 10,
+        "horizontal_red_periodicity": 0.4648786187171936,
+        "gradient_energy": 0.034246623516082764,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1385": {
+      "image_sha256": "99b62db72f5b1b359c7422cf48532c564cce51c83f1485606c7d200502a441b1",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          600,
+          413
+        ],
+        "processing_crop_size": [
+          514,
+          344
+        ],
+        "paper_quantile_box": [
+          13,
+          18,
+          527,
+          362
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1751708984375,
+        "red_density": 0.171295166015625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 39,
+        "horizontal_red_periodicity": 0.4759219288825989,
+        "gradient_energy": 0.04819599166512489,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1664": {
+      "image_sha256": "9a02c1465692ac4f42cc2e74dc2d947fb032efb35aed4fa9b35b04617d8f6e28",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          532
+        ],
+        "processing_crop_size": [
+          695,
+          460
+        ],
+        "paper_quantile_box": [
+          8,
+          8,
+          703,
+          468
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.12548828125,
+        "red_density": 0.02252197265625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 43,
+        "horizontal_red_periodicity": 0.4730488359928131,
+        "gradient_energy": 0.028349410742521286,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1756": {
+      "image_sha256": "46d160fffaaeb86a6dc7f1323598269078b048c9edc5dc15692810486b778a5a",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          513
+        ],
+        "processing_crop_size": [
+          695,
+          446
+        ],
+        "paper_quantile_box": [
+          8,
+          5,
+          703,
+          451
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.20184326171875,
+        "red_density": 0.07330322265625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 9,
+        "horizontal_red_periodicity": 0.31707268953323364,
+        "gradient_energy": 0.05311593413352966,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1761": {
+      "image_sha256": "83776865cd1e0fa497eb67563359d98f98814c1e1b6a2be014973d46c637c506",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          970
+        ],
+        "processing_crop_size": [
+          690,
+          837
+        ],
+        "paper_quantile_box": [
+          8,
+          16,
+          698,
+          853
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2006988525390625,
+        "red_density": 0.0691375732421875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 27,
+        "horizontal_red_periodicity": 0.36290985345840454,
+        "gradient_energy": 0.039891429245471954,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1762": {
+      "image_sha256": "61aab7f1e26750dedc72db6414fdbd2531dfec16eaa87a10bd4bd9e445c510a4",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          508
+        ],
+        "processing_crop_size": [
+          695,
+          424
+        ],
+        "paper_quantile_box": [
+          8,
+          22,
+          703,
+          446
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.130767822265625,
+        "red_density": 0.017578125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 45,
+        "horizontal_red_periodicity": 0.4511553645133972,
+        "gradient_energy": 0.03699055314064026,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1763": {
+      "image_sha256": "c52b443ae5122472c10e445369bd5bdaa64eec21e04216cf042dd48310900619",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          515
+        ],
+        "processing_crop_size": [
+          686,
+          428
+        ],
+        "paper_quantile_box": [
+          8,
+          5,
+          694,
+          433
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1251678466796875,
+        "red_density": 0.065032958984375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 9,
+        "horizontal_red_periodicity": 0.45766615867614746,
+        "gradient_energy": 0.03138197213411331,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1770": {
+      "image_sha256": "9277a66c5882859afc56b618a65697e596601c1f475e4fd96b032a8f62dd9222",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1130
+        ],
+        "processing_crop_size": [
+          695,
+          981
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          993
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.201263427734375,
+        "red_density": 0.2386627197265625,
+        "blue_density": 0.000396728515625,
+        "horizontal_red_period_px_at_256": 6,
+        "horizontal_red_periodicity": 0.6032474637031555,
+        "gradient_energy": 0.053906865417957306,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1774": {
+      "image_sha256": "abe8764ecce5f6e25497f8bbd0ecd6ce61bbe4da952aaf726d168c763e47fe6e",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          511
+        ],
+        "processing_crop_size": [
+          690,
+          432
+        ],
+        "paper_quantile_box": [
+          13,
+          17,
+          703,
+          449
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1494293212890625,
+        "red_density": 0.024200439453125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.4387671947479248,
+        "gradient_energy": 0.03694683313369751,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1777": {
+      "image_sha256": "68dfad7a52ab763501da7b52c279b5bb9754d28e95a813be81e633ae2cbb198e",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1198
+        ],
+        "processing_crop_size": [
+          672,
+          1026
+        ],
+        "paper_quantile_box": [
+          8,
+          26,
+          680,
+          1052
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.177154541015625,
+        "red_density": 0.1127471923828125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.4665147066116333,
+        "gradient_energy": 0.059117551892995834,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1801": {
+      "image_sha256": "d768dbee13ace5392b86d17be032b5038efaa984060e1305fda45d0dbdef5317",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1144
+        ],
+        "processing_crop_size": [
+          695,
+          993
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          1005
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2164154052734375,
+        "red_density": 0.1892852783203125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.507240891456604,
+        "gradient_energy": 0.05045749992132187,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1832": {
+      "image_sha256": "4228e82eabc302ff416f7f14246522955cde8c6296d2f04b6067e85b9aecbe1e",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          498
+        ],
+        "processing_crop_size": [
+          695,
+          421
+        ],
+        "paper_quantile_box": [
+          8,
+          11,
+          703,
+          432
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.158050537109375,
+        "red_density": 0.1290435791015625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 9,
+        "horizontal_red_periodicity": 0.5313198566436768,
+        "gradient_energy": 0.03769316524267197,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1854": {
+      "image_sha256": "84e73702d4af55d3e1e34ae9a94e2a52494b64f2db2a4a1ec9910617fe7b322b",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1219
+        ],
+        "processing_crop_size": [
+          668,
+          1058
+        ],
+        "paper_quantile_box": [
+          17,
+          13,
+          685,
+          1071
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.20501708984375,
+        "red_density": 0.01776123046875,
+        "blue_density": 0.0001220703125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.7697241306304932,
+        "gradient_energy": 0.06926137208938599,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1862": {
+      "image_sha256": "62bc776aac845b3a65385e899b93f2dc32358288b30f2c769828c8f9812c6380",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1120
+        ],
+        "processing_crop_size": [
+          695,
+          959
+        ],
+        "paper_quantile_box": [
+          8,
+          24,
+          703,
+          983
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.215057373046875,
+        "red_density": 0.0123138427734375,
+        "blue_density": 0.0023651123046875,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.6244232654571533,
+        "gradient_energy": 0.07471445202827454,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1863": {
+      "image_sha256": "e50919fff4ef751d147575459dc8be4548c427cbb7be5f2ae14a8872244e2470",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1018
+        ],
+        "processing_crop_size": [
+          695,
+          872
+        ],
+        "paper_quantile_box": [
+          8,
+          22,
+          703,
+          894
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.213348388671875,
+        "red_density": 0.012359619140625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5118083953857422,
+        "gradient_energy": 0.07425733655691147,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1864": {
+      "image_sha256": "17f386b9fc3a784399991d8f4782c7bbc03e71e3460cb4c8d905f7ce6797c4a8",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1254
+        ],
+        "processing_crop_size": [
+          695,
+          1075
+        ],
+        "paper_quantile_box": [
+          8,
+          27,
+          703,
+          1102
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2508087158203125,
+        "red_density": 0.012542724609375,
+        "blue_density": 0.0036773681640625,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.7973938584327698,
+        "gradient_energy": 0.08678644150495529,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-1915": {
+      "image_sha256": "ca41d7209c55216550d44175f3e9fa4c06372080fd4e2541312d71d2a0b64925",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1251
+        ],
+        "processing_crop_size": [
+          695,
+          1086
+        ],
+        "paper_quantile_box": [
+          8,
+          13,
+          703,
+          1099
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.229888916015625,
+        "red_density": 0.00927734375,
+        "blue_density": 0.001953125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.6509270071983337,
+        "gradient_energy": 0.07443317770957947,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-20274": {
+      "image_sha256": "59fd853b430a67e4d1bc6978ce1de41c301dc45ab1c6b10b432d5a764f405272",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          600,
+          513
+        ],
+        "processing_crop_size": [
+          511,
+          429
+        ],
+        "paper_quantile_box": [
+          16,
+          22,
+          527,
+          451
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.195098876953125,
+        "red_density": 0.0909881591796875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5603802800178528,
+        "gradient_energy": 0.05715923011302948,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-20295": {
+      "image_sha256": "7afd65cbd91e1f2cca449d211bb3957af8272d5296e21d03a9f106d9732932c1",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1148
+        ],
+        "processing_crop_size": [
+          654,
+          978
+        ],
+        "paper_quantile_box": [
+          26,
+          31,
+          680,
+          1009
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1380462646484375,
+        "red_density": 0.1541748046875,
+        "blue_density": 0.0023193359375,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.6398130655288696,
+        "gradient_energy": 0.03516564518213272,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-2040": {
+      "image_sha256": "887d3c0f1b16b7c8689cc68206ecb6ea263f2d29f3ab99f317140e34ce2ec06d",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1088
+        ],
+        "processing_crop_size": [
+          695,
+          931
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          943
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2691650390625,
+        "red_density": 0.0447540283203125,
+        "blue_density": 0.000335693359375,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.46149930357933044,
+        "gradient_energy": 0.07423152774572372,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-20437": {
+      "image_sha256": "2f5ab26f645e85a34d14b891a41fed31cbe0aef3c54445d7f98151aba457f4cd",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          610,
+          437
+        ],
+        "paper_quantile_box": [
+          57,
+          32,
+          667,
+          469
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2188720703125,
+        "red_density": 0.003753662109375,
+        "blue_density": 0.00091552734375,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.25818681716918945,
+        "gradient_energy": 0.042770080268383026,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-2134": {
+      "image_sha256": "e1d59d4cc9d0d013f3770c5abae88b0e7cd222d061fe413b8de2a9694a012d78",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1298
+        ],
+        "processing_crop_size": [
+          695,
+          1105
+        ],
+        "paper_quantile_box": [
+          8,
+          36,
+          703,
+          1141
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.16009521484375,
+        "red_density": 0.12249755859375,
+        "blue_density": 0.0110321044921875,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.4656491279602051,
+        "gradient_energy": 0.04812043160200119,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-25060": {
+      "image_sha256": "a5a2d08c62d6d7b738d3769c053d2555d59a81db4da6670c187a48869c0e0d1a",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          641,
+          434
+        ],
+        "paper_quantile_box": [
+          48,
+          38,
+          689,
+          472
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1892852783203125,
+        "red_density": 0.004119873046875,
+        "blue_density": 0.00213623046875,
+        "horizontal_red_period_px_at_256": 11,
+        "horizontal_red_periodicity": 0.3092133700847626,
+        "gradient_energy": 0.033412735909223557,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-25173": {
+      "image_sha256": "7f7014bdfbaf8ae676100f011ffbee52b0276f5ce161fd19569b0808880c3742",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          737
+        ],
+        "processing_crop_size": [
+          659,
+          622
+        ],
+        "paper_quantile_box": [
+          44,
+          24,
+          703,
+          646
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.0908966064453125,
+        "red_density": 0.4129791259765625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 8,
+        "horizontal_red_periodicity": 0.5844259858131409,
+        "gradient_energy": 0.024932220578193665,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-25276": {
+      "image_sha256": "8a4652ce9f124419b3bc8b715abd497a6fdc30d59dbcb2fc6f0534ce84cae73a",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1172
+        ],
+        "processing_crop_size": [
+          686,
+          998
+        ],
+        "paper_quantile_box": [
+          8,
+          32,
+          694,
+          1030
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.17236328125,
+        "red_density": 0.0498504638671875,
+        "blue_density": 0.0002899169921875,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.47713130712509155,
+        "gradient_energy": 0.06309246271848679,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-25478": {
+      "image_sha256": "f99738ef96043ea774a49929c96c1ba7b1f08d24d1ad3cc9ad6adcaeb88ccbec",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          681,
+          401
+        ],
+        "paper_quantile_box": [
+          13,
+          35,
+          694,
+          436
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.232025146484375,
+        "red_density": 0.0266571044921875,
+        "blue_density": 0.0200958251953125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.6237833499908447,
+        "gradient_energy": 0.0459127277135849,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-25592": {
+      "image_sha256": "08312a14fdaba737712519df355ad4143d893ab7e18a18dac16bf14588e25184",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          600,
+          400
+        ],
+        "processing_crop_size": [
+          444,
+          316
+        ],
+        "paper_quantile_box": [
+          26,
+          35,
+          470,
+          351
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1415252685546875,
+        "red_density": 0.005859375,
+        "blue_density": 0.00103759765625,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.4404148757457733,
+        "gradient_energy": 0.02722974121570587,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-2862": {
+      "image_sha256": "b7da9abdbace1fc301a65d6e190a815a52c2f935945521709b5b65cb0cc03bb3",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1189
+        ],
+        "processing_crop_size": [
+          686,
+          1032
+        ],
+        "paper_quantile_box": [
+          8,
+          13,
+          694,
+          1045
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1719512939453125,
+        "red_density": 0.7602691650390625,
+        "blue_density": 0.00262451171875,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.6430136561393738,
+        "gradient_energy": 0.056634895503520966,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-2863": {
+      "image_sha256": "c31c3cb98b1534602a0d6ea4534d9be1e29f49bd638ab4cec9349a5399c05bea",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1172
+        ],
+        "processing_crop_size": [
+          681,
+          998
+        ],
+        "paper_quantile_box": [
+          8,
+          32,
+          689,
+          1030
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1697998046875,
+        "red_density": 0.851409912109375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.6662974953651428,
+        "gradient_energy": 0.04982204735279083,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-2864": {
+      "image_sha256": "73548fb7ee199a321e9483ff4d869097222e829e517f766cef8c69c0f2a6ff09",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1199
+        ],
+        "processing_crop_size": [
+          681,
+          1013
+        ],
+        "paper_quantile_box": [
+          8,
+          40,
+          689,
+          1053
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.18768310546875,
+        "red_density": 0.7218475341796875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.6890366077423096,
+        "gradient_energy": 0.05300432816147804,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-2871": {
+      "image_sha256": "b7f9d8485096964be616e62248fe247b3c8f9632826d2f8c224e4ea8fab009ce",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1174
+        ],
+        "processing_crop_size": [
+          690,
+          1017
+        ],
+        "paper_quantile_box": [
+          13,
+          13,
+          703,
+          1030
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.18328857421875,
+        "red_density": 0.94720458984375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.641518235206604,
+        "gradient_energy": 0.05753828585147858,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-2872": {
+      "image_sha256": "7e142762fd761e1f1bb63dc774676924d5355e27324c3bd5c11b16ff67fe2cdd",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1160
+        ],
+        "processing_crop_size": [
+          681,
+          1000
+        ],
+        "paper_quantile_box": [
+          8,
+          19,
+          689,
+          1019
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1758880615234375,
+        "red_density": 0.6937408447265625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.5676460862159729,
+        "gradient_energy": 0.057161178439855576,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-2873": {
+      "image_sha256": "3ae6a5bbb7e0daf7dc553ca9b70d6ac73535b904143971034f52d5989842e993",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1183
+        ],
+        "processing_crop_size": [
+          681,
+          1020
+        ],
+        "paper_quantile_box": [
+          22,
+          13,
+          703,
+          1033
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.156341552734375,
+        "red_density": 0.9372100830078125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.5731934905052185,
+        "gradient_energy": 0.049348846077919006,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-29733": {
+      "image_sha256": "9af75ff41e0092f8025a678b5b6f9337439a7b478b30057b1e93074648e43c92",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          659,
+          395
+        ],
+        "paper_quantile_box": [
+          17,
+          23,
+          676,
+          418
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2194671630859375,
+        "red_density": 0.0050506591796875,
+        "blue_density": 0.0284881591796875,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.899998664855957,
+        "gradient_energy": 0.040049921721220016,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-29763": {
+      "image_sha256": "e4631a93d6f1f9c3b00be0a33f0cff77e86102bc302d50ad9b4cd41b5b714d84",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          672,
+          407
+        ],
+        "paper_quantile_box": [
+          22,
+          26,
+          694,
+          433
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2152862548828125,
+        "red_density": 0.0351104736328125,
+        "blue_density": 0.0133056640625,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5983666181564331,
+        "gradient_energy": 0.049463264644145966,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-29765": {
+      "image_sha256": "ad36c4fa46b1a2e14ff0c288ddb7343549886ede77434f64eeb3f11c4e67eb3f",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          628,
+          371
+        ],
+        "paper_quantile_box": [
+          35,
+          41,
+          663,
+          412
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2212371826171875,
+        "red_density": 0.004058837890625,
+        "blue_density": 0.125701904296875,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5472947955131531,
+        "gradient_energy": 0.045441146939992905,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-29791": {
+      "image_sha256": "cc214acc3b039a7457b66894d2b6069c21a426611f243c19e74baec7da11f8c3",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          601,
+          437
+        ],
+        "paper_quantile_box": [
+          66,
+          35,
+          667,
+          472
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2038421630859375,
+        "red_density": 0.020416259765625,
+        "blue_density": 0.0440826416015625,
+        "horizontal_red_period_px_at_256": 45,
+        "horizontal_red_periodicity": 0.46179887652397156,
+        "gradient_energy": 0.03565340116620064,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-29815": {
+      "image_sha256": "c58f35015e5714ba251b8e2cd364c00e977550a4c93084a7ffc2f57775495200",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          632,
+          455
+        ],
+        "paper_quantile_box": [
+          31,
+          17,
+          663,
+          472
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2234344482421875,
+        "red_density": 0.00286865234375,
+        "blue_density": 0.0017547607421875,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.4635593891143799,
+        "gradient_energy": 0.0472530797123909,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-30003": {
+      "image_sha256": "147e589a6982dd63294199ffeda5392aeba1ed9c3c8992d99f66e4e08e187408",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          649,
+          383
+        ],
+        "paper_quantile_box": [
+          40,
+          29,
+          689,
+          412
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2251129150390625,
+        "red_density": 0.00433349609375,
+        "blue_density": 0.00726318359375,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.3519842326641083,
+        "gradient_energy": 0.06085963547229767,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-3549": {
+      "image_sha256": "8861c37567492479300eb4b36ed634076323df1da41756697826dc99f1900c8d",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          573
+        ],
+        "processing_crop_size": [
+          695,
+          480
+        ],
+        "paper_quantile_box": [
+          8,
+          19,
+          703,
+          499
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1760101318359375,
+        "red_density": 0.05865478515625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 8,
+        "horizontal_red_periodicity": 0.5490030646324158,
+        "gradient_energy": 0.04259973764419556,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-3557": {
+      "image_sha256": "45c0b2a85e2dfee8d1cf040cb0ff59e45bb6417030f95bd55d975e3f02ac7056",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          476,
+          1540
+        ],
+        "processing_crop_size": [
+          342,
+          1318
+        ],
+        "paper_quantile_box": [
+          79,
+          17,
+          421,
+          1335
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1752777099609375,
+        "red_density": 0.255157470703125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 33,
+        "horizontal_red_periodicity": 0.22128896415233612,
+        "gradient_energy": 0.02944430708885193,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-365": {
+      "image_sha256": "8d3e819b63e4d59c94d4eb2ae46c64c92bfdc92099c2115590297b6bd8745853",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          526
+        ],
+        "processing_crop_size": [
+          690,
+          454
+        ],
+        "paper_quantile_box": [
+          8,
+          8,
+          698,
+          462
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.208251953125,
+        "red_density": 0.307647705078125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.6968310475349426,
+        "gradient_energy": 0.0644705519080162,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-3736": {
+      "image_sha256": "e10224f17602db05ad3dd40f4212f115e86887481e60889d7cbdd9e2e76f4def",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1345
+        ],
+        "processing_crop_size": [
+          672,
+          1160
+        ],
+        "paper_quantile_box": [
+          31,
+          14,
+          703,
+          1174
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.09942626953125,
+        "red_density": 0.0478363037109375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.6855853199958801,
+        "gradient_energy": 0.03044489212334156,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-3759": {
+      "image_sha256": "ec944aea85bb2ce91a3c4ea288f1b38d685d6f8fc7be4e8222c06abf875cf642",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1190
+        ],
+        "processing_crop_size": [
+          663,
+          1027
+        ],
+        "paper_quantile_box": [
+          40,
+          13,
+          703,
+          1040
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1386260986328125,
+        "red_density": 0.337127685546875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.7156325578689575,
+        "gradient_energy": 0.03435221686959267,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-3872": {
+      "image_sha256": "4e50a50c23cbc43d9df5702685b172373cf4cf60eb7f6b80a3cbe0b16ddf8570",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1237
+        ],
+        "processing_crop_size": [
+          712,
+          1101
+        ],
+        "paper_quantile_box": [
+          0,
+          0,
+          712,
+          1101
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.134429931640625,
+        "red_density": 0.0829925537109375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.8263484835624695,
+        "gradient_energy": 0.03348756209015846,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4223": {
+      "image_sha256": "96ba47f174b1bc2a25d9ae088dc17ac336bd294da2e357ec0f6dca3acc85a73f",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          504
+        ],
+        "processing_crop_size": [
+          695,
+          419
+        ],
+        "paper_quantile_box": [
+          8,
+          3,
+          703,
+          422
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1817626953125,
+        "red_density": 0.1606292724609375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.6358863115310669,
+        "gradient_energy": 0.043587878346443176,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4315": {
+      "image_sha256": "20cc4f0798a0751dbe47aaf54e0c8844d6850d53689bf24487fd7b42ca620aed",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1187
+        ],
+        "processing_crop_size": [
+          655,
+          1017
+        ],
+        "paper_quantile_box": [
+          8,
+          26,
+          663,
+          1043
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1398468017578125,
+        "red_density": 0.1153106689453125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.525351345539093,
+        "gradient_energy": 0.0502038449048996,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4471": {
+      "image_sha256": "4f90d44453a25005a60e2bbc8cc0c527ad96f00a75bf1fd4028c172f8c077740",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1171
+        ],
+        "processing_crop_size": [
+          641,
+          951
+        ],
+        "paper_quantile_box": [
+          62,
+          39,
+          703,
+          990
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.154266357421875,
+        "red_density": 0.2808990478515625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.7405510544776917,
+        "gradient_energy": 0.036174844950437546,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4472": {
+      "image_sha256": "05791d21189d2047ba209e5fa66742fc2cabf9fe4ac7865caf5d0cb4e4c1c94b",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1083
+        ],
+        "processing_crop_size": [
+          630,
+          926
+        ],
+        "paper_quantile_box": [
+          73,
+          18,
+          703,
+          944
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1077880859375,
+        "red_density": 0.1118621826171875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.8833378553390503,
+        "gradient_energy": 0.0249065849930048,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4473": {
+      "image_sha256": "ee81e620d177d9d69d41de81d798fc5a5f381baaac2566a3f98d9c5fbbadc7b0",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1089
+        ],
+        "processing_crop_size": [
+          628,
+          938
+        ],
+        "paper_quantile_box": [
+          75,
+          12,
+          703,
+          950
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1646270751953125,
+        "red_density": 0.4229888916015625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.6553159952163696,
+        "gradient_energy": 0.03845038264989853,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4474": {
+      "image_sha256": "6a28db0522e7bc2aab564cc40e85644cdbbcca9d6554554abc0926116efedac4",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1175
+        ],
+        "processing_crop_size": [
+          663,
+          960
+        ],
+        "paper_quantile_box": [
+          4,
+          71,
+          667,
+          1031
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.163238525390625,
+        "red_density": 0.14453125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.4913313686847687,
+        "gradient_energy": 0.030972061678767204,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4476": {
+      "image_sha256": "cf6f97182e7f952296b2a3f481a95955c646a1bf334ca41bc486ecde625c41ae",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1093
+        ],
+        "processing_crop_size": [
+          628,
+          936
+        ],
+        "paper_quantile_box": [
+          75,
+          12,
+          703,
+          948
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.11712646484375,
+        "red_density": 0.0630645751953125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.5978339314460754,
+        "gradient_energy": 0.025250688195228577,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4484": {
+      "image_sha256": "3d673944393be834219647b71cf9842c6e7af00d90e6fc9ce64537314af5165a",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1080
+        ],
+        "processing_crop_size": [
+          659,
+          931
+        ],
+        "paper_quantile_box": [
+          44,
+          12,
+          703,
+          943
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1664276123046875,
+        "red_density": 0.6580810546875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.5680645704269409,
+        "gradient_energy": 0.04181848466396332,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4945": {
+      "image_sha256": "6d15b996e65291723c41fa9325ca700650a712acdf13735ffe28f98bfafda8d6",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          685,
+          419
+        ],
+        "paper_quantile_box": [
+          13,
+          29,
+          698,
+          448
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2332000732421875,
+        "red_density": 0.0027923583984375,
+        "blue_density": 0.048095703125,
+        "horizontal_red_period_px_at_256": 43,
+        "horizontal_red_periodicity": 0.545058012008667,
+        "gradient_energy": 0.04181373491883278,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4972": {
+      "image_sha256": "ed8da1fe63538fe09800d0f844367e735413214f37955133182db8cc4067a0b9",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          685,
+          407
+        ],
+        "paper_quantile_box": [
+          13,
+          26,
+          698,
+          433
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.278594970703125,
+        "red_density": 0.0134124755859375,
+        "blue_density": 0.0160675048828125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.802301287651062,
+        "gradient_energy": 0.05121013894677162,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4973": {
+      "image_sha256": "02ed375455cd87eb6b86c42a9bf9a65d6984811f171d901441f11fc0b0c0611c",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          690,
+          410
+        ],
+        "paper_quantile_box": [
+          8,
+          23,
+          698,
+          433
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2554473876953125,
+        "red_density": 0.02197265625,
+        "blue_density": 0.037139892578125,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.8937636017799377,
+        "gradient_energy": 0.046845726668834686,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-4983": {
+      "image_sha256": "891dee75ff63cd5faaebe9db595d017f9461e8bd2d2e334a010b2d05898d9eb5",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          672,
+          446
+        ],
+        "paper_quantile_box": [
+          26,
+          26,
+          698,
+          472
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2267913818359375,
+        "red_density": 0.0193939208984375,
+        "blue_density": 0.00244140625,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.8549532294273376,
+        "gradient_energy": 0.041668348014354706,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-5029": {
+      "image_sha256": "d879744349c84679bd34f669509cf30f3436237c569a22bc4f39e90ca31cb570",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          663,
+          452
+        ],
+        "paper_quantile_box": [
+          35,
+          20,
+          698,
+          472
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2457733154296875,
+        "red_density": 0.0900421142578125,
+        "blue_density": 0.002685546875,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.9524542093276978,
+        "gradient_energy": 0.04255539923906326,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-5039": {
+      "image_sha256": "031b1fb84cbd75440b1d45dd96f79dfcf69cbe47915dfc6895dc48bf62655b01",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          681,
+          446
+        ],
+        "paper_quantile_box": [
+          22,
+          26,
+          703,
+          472
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2140655517578125,
+        "red_density": 0.0023651123046875,
+        "blue_density": 0.0461273193359375,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.48012447357177734,
+        "gradient_energy": 0.03136646747589111,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-5070": {
+      "image_sha256": "d60bf6d825c7756b54de3767488ec32778b746ae4b06d4f951037f24c047685b",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          685,
+          407
+        ],
+        "paper_quantile_box": [
+          13,
+          26,
+          698,
+          433
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.207000732421875,
+        "red_density": 0.0274810791015625,
+        "blue_density": 0.0027923583984375,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.9050132632255554,
+        "gradient_energy": 0.03824447840452194,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-607": {
+      "image_sha256": "c2a2477c20480b3ea26b3cb8888641636a218c74ea02022204e96340cbaa33b9",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1204
+        ],
+        "processing_crop_size": [
+          695,
+          1018
+        ],
+        "paper_quantile_box": [
+          8,
+          13,
+          703,
+          1031
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.162506103515625,
+        "red_density": 0.27886962890625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.7131826877593994,
+        "gradient_energy": 0.04753022640943527,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6359": {
+      "image_sha256": "0b4693036484f2ddf1b19301c4b309080b692da347ea8068477ea36a4cdd8569",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1200
+        ],
+        "processing_crop_size": [
+          654,
+          947
+        ],
+        "paper_quantile_box": [
+          4,
+          40,
+          658,
+          987
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1497650146484375,
+        "red_density": 0.006195068359375,
+        "blue_density": 0.001068115234375,
+        "horizontal_red_period_px_at_256": 44,
+        "horizontal_red_periodicity": 0.3595793843269348,
+        "gradient_energy": 0.03819490596652031,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6360": {
+      "image_sha256": "2cdd9ae83790553769bcc1d25912791bc145a5cc1fdb05eb4c868a3add11ab3a",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1200
+        ],
+        "processing_crop_size": [
+          672,
+          961
+        ],
+        "paper_quantile_box": [
+          4,
+          40,
+          676,
+          1001
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1715850830078125,
+        "red_density": 0.006011962890625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.37385234236717224,
+        "gradient_energy": 0.047001298516988754,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6362": {
+      "image_sha256": "31ed118ca894981a98937f08bed2351d18c0e35c22c2d57ad5e8326dcff9f7f0",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1200
+        ],
+        "processing_crop_size": [
+          650,
+          934
+        ],
+        "paper_quantile_box": [
+          4,
+          40,
+          654,
+          974
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1805572509765625,
+        "red_density": 0.012054443359375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.5302744507789612,
+        "gradient_energy": 0.04508653283119202,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-641": {
+      "image_sha256": "63f37528a0e19aefcc2706b52e89781eb0486e79304ad9cca7bca337ad0a735f",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1071
+        ],
+        "processing_crop_size": [
+          695,
+          924
+        ],
+        "paper_quantile_box": [
+          8,
+          11,
+          703,
+          935
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2236480712890625,
+        "red_density": 0.8246002197265625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.7582994699478149,
+        "gradient_energy": 0.05907917767763138,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6425": {
+      "image_sha256": "c0775b7ec03171f333457d13d1b4f7d38c2cecc9a0102964a7d6efc2f8e687a1",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1200
+        ],
+        "processing_crop_size": [
+          659,
+          974
+        ],
+        "paper_quantile_box": [
+          4,
+          40,
+          663,
+          1014
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1731414794921875,
+        "red_density": 0.0133209228515625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.6170827746391296,
+        "gradient_energy": 0.042514387518167496,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6426": {
+      "image_sha256": "4c67a470a0ac5889a471e229ce17b36aaf2fb8e8475c3bc121824a7fb4732ad2",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1200
+        ],
+        "processing_crop_size": [
+          570,
+          1027
+        ],
+        "paper_quantile_box": [
+          53,
+          20,
+          623,
+          1047
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1881866455078125,
+        "red_density": 0.024139404296875,
+        "blue_density": 9.1552734375e-05,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.5545966029167175,
+        "gradient_energy": 0.044057391583919525,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6427": {
+      "image_sha256": "9340c296ab66a5fc272faa347b53d27cd4e4ff8aa16f6ba91a2512613eac2ab7",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1200
+        ],
+        "processing_crop_size": [
+          592,
+          1015
+        ],
+        "paper_quantile_box": [
+          44,
+          26,
+          636,
+          1041
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.19281005859375,
+        "red_density": 0.01556396484375,
+        "blue_density": 0.000244140625,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.6399860382080078,
+        "gradient_energy": 0.04392845183610916,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6588": {
+      "image_sha256": "9e9e8f03b285a3439ab922c671c52d2c2b788006d2d7485ab5c3ff58f19d923b",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          533
+        ],
+        "processing_crop_size": [
+          677,
+          440
+        ],
+        "paper_quantile_box": [
+          17,
+          32,
+          694,
+          472
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2358551025390625,
+        "red_density": 0.054595947265625,
+        "blue_density": 0.0137176513671875,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.789657711982727,
+        "gradient_energy": 0.05148037523031235,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6664": {
+      "image_sha256": "573625e12d94164a85be163c849f21c2e5e57f00f8c4117685f625c9ad1ca495",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1330
+        ],
+        "processing_crop_size": [
+          663,
+          1117
+        ],
+        "paper_quantile_box": [
+          8,
+          44,
+          671,
+          1161
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.173492431640625,
+        "red_density": 0.10980224609375,
+        "blue_density": 0.0002593994140625,
+        "horizontal_red_period_px_at_256": 28,
+        "horizontal_red_periodicity": 0.6006762385368347,
+        "gradient_energy": 0.046439703553915024,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6690": {
+      "image_sha256": "ccea3011b4bc05d38a8edfc0a6f085e6aed218213174343b0bf4a6a4c03fb568",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1206
+        ],
+        "processing_crop_size": [
+          677,
+          1047
+        ],
+        "paper_quantile_box": [
+          8,
+          13,
+          685,
+          1060
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1499786376953125,
+        "red_density": 0.0872039794921875,
+        "blue_density": 0.0045928955078125,
+        "horizontal_red_period_px_at_256": 27,
+        "horizontal_red_periodicity": 0.5330488085746765,
+        "gradient_energy": 0.05216175317764282,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6696": {
+      "image_sha256": "63f5d35b9ecc648ef7d966e4678503309ff132153da03d0978076001b16aa664",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          368,
+          1777
+        ],
+        "processing_crop_size": [
+          278,
+          1522
+        ],
+        "paper_quantile_box": [
+          47,
+          19,
+          325,
+          1541
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1364593505859375,
+        "red_density": 0.0239105224609375,
+        "blue_density": 0.020477294921875,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.5106794834136963,
+        "gradient_energy": 0.024863259866833687,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6712": {
+      "image_sha256": "b06d2ffa8c26b91445eeefe6c49d70dab2a193c5704e66ddbd1b5a7f14306884",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1111
+        ],
+        "processing_crop_size": [
+          685,
+          964
+        ],
+        "paper_quantile_box": [
+          13,
+          12,
+          698,
+          976
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.219970703125,
+        "red_density": 0.081756591796875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 26,
+        "horizontal_red_periodicity": 0.5140367150306702,
+        "gradient_energy": 0.06411566585302353,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6779": {
+      "image_sha256": "9d89e15cecdd0da474b1bbc6edd97fbf5753ada50ddddc2b25873cd2c00c48d5",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1166
+        ],
+        "processing_crop_size": [
+          614,
+          960
+        ],
+        "paper_quantile_box": [
+          89,
+          45,
+          703,
+          1005
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.170257568359375,
+        "red_density": 0.171966552734375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.5956962704658508,
+        "gradient_energy": 0.038813844323158264,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-6883": {
+      "image_sha256": "5499ba151448d1e22e81a077ea9156c56806b94f2aae5c9539d5aab7237403a7",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1232
+        ],
+        "processing_crop_size": [
+          655,
+          1034
+        ],
+        "paper_quantile_box": [
+          48,
+          41,
+          703,
+          1075
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1926422119140625,
+        "red_density": 0.1685791015625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 5,
+        "horizontal_red_periodicity": 0.6156850457191467,
+        "gradient_energy": 0.05201614648103714,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-7957": {
+      "image_sha256": "0c9f041974c91aaa13dd2439fdcd2611ab1e52566a464d9c04f8098d911456c8",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1143
+        ],
+        "processing_crop_size": [
+          681,
+          992
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          689,
+          1004
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1287994384765625,
+        "red_density": 0.08123779296875,
+        "blue_density": 6.103515625e-05,
+        "horizontal_red_period_px_at_256": 19,
+        "horizontal_red_periodicity": 0.5133309960365295,
+        "gradient_energy": 0.032988935708999634,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-7959": {
+      "image_sha256": "f6441dfd89b29fe6cfc8f6334f6df0a531df266ee646e636e753043766a7eabc",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1248
+        ],
+        "processing_crop_size": [
+          672,
+          1076
+        ],
+        "paper_quantile_box": [
+          8,
+          20,
+          680,
+          1096
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1568145751953125,
+        "red_density": 0.012359619140625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.8798620104789734,
+        "gradient_energy": 0.04849952831864357,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-7960": {
+      "image_sha256": "17a6ee87a3aa967b85ccce30e1512eebe1de779f2d46e05df3bada0b31eb2538",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1278
+        ],
+        "processing_crop_size": [
+          686,
+          1109
+        ],
+        "paper_quantile_box": [
+          8,
+          14,
+          694,
+          1123
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1116485595703125,
+        "red_density": 0.1328887939453125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.5130699276924133,
+        "gradient_energy": 0.033236097544431686,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-7961": {
+      "image_sha256": "0ce3650d26aabb22cab41c6e7c53ed351ab8bd1f7255c31646626adbaa43d8f2",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1184
+        ],
+        "processing_crop_size": [
+          690,
+          1027
+        ],
+        "paper_quantile_box": [
+          8,
+          13,
+          698,
+          1040
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1447601318359375,
+        "red_density": 0.0893402099609375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 19,
+        "horizontal_red_periodicity": 0.535366952419281,
+        "gradient_energy": 0.042590539902448654,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8066": {
+      "image_sha256": "1959b95afb7c65e1d96daccfa8cb11c37c5b17b5c4cbabf1b098e7ab20e0d7b0",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          523
+        ],
+        "processing_crop_size": [
+          690,
+          451
+        ],
+        "paper_quantile_box": [
+          13,
+          8,
+          703,
+          459
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2167510986328125,
+        "red_density": 0.0453033447265625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 16,
+        "horizontal_red_periodicity": 0.4168964922428131,
+        "gradient_energy": 0.05756042152643204,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8072": {
+      "image_sha256": "3817cb62fd4b07477c7ee76f6722139dcb92ea0da0f5d3202340d82199f5b493",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          576
+        ],
+        "processing_crop_size": [
+          695,
+          486
+        ],
+        "paper_quantile_box": [
+          8,
+          19,
+          703,
+          505
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1750640869140625,
+        "red_density": 0.04913330078125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.3961082100868225,
+        "gradient_energy": 0.0485994815826416,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8073": {
+      "image_sha256": "c92298490c972561af51954fbabea1f78a860d15eda873570b62362ec7c3f1d2",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          571
+        ],
+        "processing_crop_size": [
+          695,
+          496
+        ],
+        "paper_quantile_box": [
+          8,
+          6,
+          703,
+          502
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.2027130126953125,
+        "red_density": 0.075927734375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.2816164493560791,
+        "gradient_energy": 0.054253414273262024,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8201": {
+      "image_sha256": "56563522480cdb0e6b62d52b159a40d92013ed368a5ec2c0cbfad8ec39614530",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          538
+        ],
+        "processing_crop_size": [
+          686,
+          458
+        ],
+        "paper_quantile_box": [
+          17,
+          14,
+          703,
+          472
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.17840576171875,
+        "red_density": 0.0510711669921875,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 34,
+        "horizontal_red_periodicity": 0.4007984697818756,
+        "gradient_energy": 0.04112376272678375,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8255": {
+      "image_sha256": "2415298de929e171a100068368949646b11c9259d3ed1d7d3b1612e9a27aa1de",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1165
+        ],
+        "processing_crop_size": [
+          695,
+          1012
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          1024
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.160400390625,
+        "red_density": 0.2992095947265625,
+        "blue_density": 0.0009918212890625,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.6633023619651794,
+        "gradient_energy": 0.043018266558647156,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8304": {
+      "image_sha256": "b0e5a3a3066f0da51a4f6c94fa04ac833b4a0dc8d1488998f4ca6a02432797bb",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          525
+        ],
+        "processing_crop_size": [
+          695,
+          450
+        ],
+        "paper_quantile_box": [
+          8,
+          11,
+          703,
+          461
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1748199462890625,
+        "red_density": 0.025390625,
+        "blue_density": 0.0020599365234375,
+        "horizontal_red_period_px_at_256": 34,
+        "horizontal_red_periodicity": 0.3694595992565155,
+        "gradient_energy": 0.045487578958272934,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8311": {
+      "image_sha256": "d7eebea8a22ecaa05a9ff9d27626acd6fd878b80282611f1ca37fd6b773801e8",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          521
+        ],
+        "processing_crop_size": [
+          695,
+          443
+        ],
+        "paper_quantile_box": [
+          8,
+          14,
+          703,
+          457
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1637725830078125,
+        "red_density": 0.0144805908203125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 45,
+        "horizontal_red_periodicity": 0.534352719783783,
+        "gradient_energy": 0.043512120842933655,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8343": {
+      "image_sha256": "6e3890120762d10676e5c1a6552930c6831c3ed2fc1d796565ff8698315c9d07",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1112
+        ],
+        "processing_crop_size": [
+          668,
+          953
+        ],
+        "paper_quantile_box": [
+          8,
+          24,
+          676,
+          977
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.11663818359375,
+        "red_density": 0.0802001953125,
+        "blue_density": 1.52587890625e-05,
+        "horizontal_red_period_px_at_256": 19,
+        "horizontal_red_periodicity": 0.4802083373069763,
+        "gradient_energy": 0.03461626544594765,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8344": {
+      "image_sha256": "89e01071ff60162235653789ddcfaf41a7bfbd2f41b5c5254079431bfb879b22",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1194
+        ],
+        "processing_crop_size": [
+          672,
+          1029
+        ],
+        "paper_quantile_box": [
+          8,
+          19,
+          680,
+          1048
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1493377685546875,
+        "red_density": 0.0820465087890625,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.5015164613723755,
+        "gradient_energy": 0.04239065200090408,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8370": {
+      "image_sha256": "47cc8bbbe0d8c6b245210f381bd90a2a3affc47f318841fd74b3bcf93c39e5f6",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1043
+        ],
+        "processing_crop_size": [
+          677,
+          900
+        ],
+        "paper_quantile_box": [
+          8,
+          17,
+          685,
+          917
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.15216064453125,
+        "red_density": 0.12457275390625,
+        "blue_density": 0.000335693359375,
+        "horizontal_red_period_px_at_256": 31,
+        "horizontal_red_periodicity": 0.5892221927642822,
+        "gradient_energy": 0.04263971000909805,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8455": {
+      "image_sha256": "7a54fb8d4945bf53979b01aba5dd63a7e03fe55f433f792806c61fbb3975ff70",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          553
+        ],
+        "processing_crop_size": [
+          690,
+          468
+        ],
+        "paper_quantile_box": [
+          13,
+          18,
+          703,
+          486
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.14898681640625,
+        "red_density": 0.0056915283203125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 41,
+        "horizontal_red_periodicity": 0.4412216246128082,
+        "gradient_energy": 0.0385415144264698,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8461": {
+      "image_sha256": "82c666f40e214adec78d8c1b7a876f3b799af07cdc2335b03e08528974b560d1",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          626
+        ],
+        "processing_crop_size": [
+          690,
+          538
+        ],
+        "paper_quantile_box": [
+          8,
+          13,
+          698,
+          551
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1162567138671875,
+        "red_density": 0.0049896240234375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 3,
+        "horizontal_red_periodicity": 0.530519962310791,
+        "gradient_energy": 0.031381960958242416,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8466": {
+      "image_sha256": "f278c1201d5e7c5ecea5f3f5acc4ce55179c6e07a47b0be547e130a5a60f92e2",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          556
+        ],
+        "processing_crop_size": [
+          690,
+          478
+        ],
+        "paper_quantile_box": [
+          13,
+          9,
+          703,
+          487
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.159423828125,
+        "red_density": 0.0511474609375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 41,
+        "horizontal_red_periodicity": 0.481893390417099,
+        "gradient_energy": 0.041096024215221405,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8694": {
+      "image_sha256": "37c8f26a9117bee0502658be8abddea8f65703fbfa6db5e7d78f77a52449f751",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          560
+        ],
+        "processing_crop_size": [
+          686,
+          482
+        ],
+        "paper_quantile_box": [
+          17,
+          9,
+          703,
+          491
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1260833740234375,
+        "red_density": 0.063812255859375,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 47,
+        "horizontal_red_periodicity": 0.5099071860313416,
+        "gradient_energy": 0.03089977242052555,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8724": {
+      "image_sha256": "431ec6e33fceac4e2699a4047252709b687be40308313703f199b54eebddd793",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1271
+        ],
+        "processing_crop_size": [
+          695,
+          1095
+        ],
+        "paper_quantile_box": [
+          8,
+          21,
+          703,
+          1116
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.22247314453125,
+        "red_density": 0.1754913330078125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 28,
+        "horizontal_red_periodicity": 0.44406402111053467,
+        "gradient_energy": 0.06178438663482666,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-8994": {
+      "image_sha256": "750440678d2312c73fb6eb7eb522ca68034583affeb60208c8fa549dc0e82517",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          600,
+          415
+        ],
+        "processing_crop_size": [
+          521,
+          353
+        ],
+        "paper_quantile_box": [
+          6,
+          11,
+          527,
+          364
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1367340087890625,
+        "red_density": 0.0810089111328125,
+        "blue_density": 0.0,
+        "horizontal_red_period_px_at_256": 7,
+        "horizontal_red_periodicity": 0.46752139925956726,
+        "gradient_energy": 0.03638814389705658,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-9202": {
+      "image_sha256": "f554d278498a5b2f2c5097b8314853e171b3fba6d5ec950ac2610799b9cca019",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1149
+        ],
+        "processing_crop_size": [
+          695,
+          991
+        ],
+        "paper_quantile_box": [
+          8,
+          19,
+          703,
+          1010
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.208343505859375,
+        "red_density": 0.179351806640625,
+        "blue_density": 0.004608154296875,
+        "horizontal_red_period_px_at_256": 23,
+        "horizontal_red_periodicity": 0.6067237257957458,
+        "gradient_energy": 0.07989083230495453,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-9242": {
+      "image_sha256": "c18a9f951265360160e6b67f06ef137975b735f576523c1fa41eab71284d7ddc",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1230
+        ],
+        "processing_crop_size": [
+          695,
+          1067
+        ],
+        "paper_quantile_box": [
+          8,
+          13,
+          703,
+          1080
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.1588592529296875,
+        "red_density": 0.134002685546875,
+        "blue_density": 0.001739501953125,
+        "horizontal_red_period_px_at_256": 4,
+        "horizontal_red_periodicity": 0.4985261559486389,
+        "gradient_energy": 0.045877158641815186,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    },
+    "mpo-9620": {
+      "image_sha256": "a9eeac52b46809281e9992286041a6d8efb897926af9947f78c082950210533c",
+      "crop": {
+        "fixed_border_fraction": 0.055,
+        "source_size": [
+          800,
+          1080
+        ],
+        "processing_crop_size": [
+          695,
+          937
+        ],
+        "paper_quantile_box": [
+          8,
+          12,
+          703,
+          949
+        ],
+        "is_original_leaf_measurement": false
+      },
+      "layout": {
+        "ink_density": 0.223663330078125,
+        "red_density": 0.1466522216796875,
+        "blue_density": 0.0009613037109375,
+        "horizontal_red_period_px_at_256": 23,
+        "horizontal_red_periodicity": 0.33063051104545593,
+        "gradient_energy": 0.060963891446590424,
+        "descriptor_dimension": 320,
+        "interpretation": "Image-pattern proxies only; not measured physical staff spacing, script identity or music transcription."
+      }
+    }
+  },
+  "forbidden_inputs": [
+    "codex",
+    "CCM",
+    "shelfmark",
+    "filename semantics",
+    "institution",
+    "relationship notes",
+    "account provenance"
+  ],
+  "limitations": [
+    "Processing crop is not an original-leaf boundary.",
+    "Layout/gradient features do not identify letterforms, abbreviations or a scribe.",
+    "Red periodicity is a pixel-pattern proxy, not physical staff-line spacing.",
+    "The encoder can retain imaging/provider shortcuts; raw/cropped ablations are evaluated."
+  ]
+}

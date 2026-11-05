@@ -1,0 +1,15 @@
+# E102 — a second bibliographic route to the unread Szilágyi article
+
+**3 November 2026.** A source-finding follow-up to E67–E68 and E100–E101. No medieval book or new manuscript relationship was established.
+
+## A specific alternative to investigate
+
+The search-indexed extract of Ferencz Flóris Rómer's [*Régi falképek Magyarországon*](https://real-eod.mtak.hu/2679/1/R%C3%A9gi%20falk%C3%A9pek.pdf), chapter XII on the Máramarossziget wall paintings, gives an additional reference for Szilágyi's wall-paintings article: *Új magyar múzeum* 1850–51, volume II, **CCXLII** (Roman page 242). The [Academy publisher index](https://real-eod.mtak.hu/view/publisher/Eggenberger.html) identifies Rómer's book as 1874. Only the search-indexed passage was available here; its OCR and the printed citation require image checking. The citation is an independently found bibliographic lead, not another witness to the medieval text.
+
+An [Academy repository search result](https://real-j.mtak.hu/6945/) lists a digital volume titled *Új Magyar Muzeum* 1/2 (1850–1851), with a reported 188 MB PDF and preview. It is a plausible distinct bound-volume route to Rómer's citation, but the actual pages have not been inspected and the listing does not establish that page CCXLII is present, that this is an independent impression, or that it contains the relevant breviary passage. Opening the repository record once with the web reader returned `Internal Error: Cache miss`; no linked preview or PDF was reached. **Do not repeat that failed landing-page route.** Find a separately identified legal holding or an already accessible indexed extract instead, while respecting the download limit. The original Academy article scan and Toldy PDF also have earlier failed-route guards; see E67–E68 and E100 before attempting access.
+
+The Roman page is a separate pagination to check, not an established equivalence to Toldy's Arabic p. 240 or proof of the article's year. A [published bibliographic study](https://real.mtak.hu/20486/7/Mester.pdf), consulted through an indexed extract, explains that the 1850–1851 journal year spanned two calendar years and that its official supplement used running Roman pagination. That provides a plausible context for the format of Rómer's reference, but does not resolve the 1850 versus 1851 discrepancy in E67 or verify a match between the two editions.
+
+## Discriminating comparison
+
+If a distinct legitimate source can actually be read, first verify title, pagination, author and text against Toldy's citation; then extract the breviary's precise date, reported ownership, colophon, dimensions and Catherine passage only where present. Compare these features with Gábriel's historical no. 167 while explicitly accounting for possible dependence between descriptions. A single shared date, a matching article title, or a bibliographic reference is not an object identification. Current custody, Fr 20106's image and the Nordic fragment relationship remain unresolved. No manuscript images or source files were downloaded, no external messages were sent, and search/reader traffic remains unmeasured within the existing reserve.

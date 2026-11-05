@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Lost Library — Lead register & knowledge</title>
+  <link rel="stylesheet" href="style.css"><link rel="stylesheet" href="knowledge.css">
+  <script src="knowledge.js" defer></script>
+</head>
+<body class="knowledge-page">
+  <main>
+    <a href="./">← Fragment atlas</a>
+    <p class="eyebrow">THE LOST LIBRARY / RESEARCH OVERLAY V1</p>
+    <h1>Claims, sources<br>and <em>open questions.</em></h1>
+    <p>This register includes every saved candidate. A catalogue screen is recorded separately from a direct manuscript test. No new attribution or cleared novelty is established.</p>
+    <p id="knowledge-status" role="status" aria-live="polite">Loading the local register…</p>
+    <nav aria-label="Knowledge sections"><a href="#leads">Lead register</a> · <a href="#evidence">Image evidence</a> · <a href="#entities">Objects & claims</a></nav>
+    <section id="leads" aria-labelledby="leads-title">
+      <h2 id="leads-title">Every lead, with its limits</h2>
+      <label>Search leads <input type="search" id="lead-search" placeholder="Fr 8994, IV.173, chant…"></label>
+      <label>Decision state <select id="lead-state"><option value="">All states</option><option>unresolved</option><option>previously_documented</option><option>supported</option><option>contradicted</option><option>not_testable</option></select></label>
+      <p id="lead-count" role="status" aria-live="polite"></p>
+      <div class="knowledge-table"><table><thead><tr><th>Lead</th><th>Relation</th><th>State</th><th>Work performed</th></tr></thead><tbody id="lead-rows"></tbody></table></div>
+      <article id="lead-detail" class="knowledge-detail" aria-live="polite"><p>Select a lead to inspect its exact claim, evidence and next test.</p></article>
+    </section>
+    <section id="evidence" aria-labelledby="evidence-title">
+      <h2 id="evidence-title">Look at the original pixels</h2>
+      <p>Regions include the preserved review and dated follow-ups. Literal readings remain provisional; the boxes locate evidence and do not validate its interpretation.</p>
+      <label>Evidence region <select id="region-select"></select></label>
+      <div id="region-detail" class="knowledge-detail"></div>
+    </section>
+    <section id="entities" aria-labelledby="entities-title">
+      <h2 id="entities-title">Objects, records and competing claims</h2>
+      <label>Find an entity <input type="search" id="entity-search" placeholder="mpo-8201, IV.157, Ant 99…"></label>
+      <label>Entity <select id="entity-select"></select></label>
+      <div id="entity-detail" class="knowledge-detail"></div>
+    </section>
+    <p><a href="../MANUSCRIPT_KNOWLEDGE.md">Model and reproduction instructions</a> · <a href="../data/knowledge.v1.json">Knowledge JSON</a> · <a href="../data/lead_register.v1.json">Register JSON</a> · <a href="../data/knowledge.v1.jsonld">JSON-LD</a></p>
+  </main>
+</body>
+</html>

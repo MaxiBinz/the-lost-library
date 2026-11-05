@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-03",
+  "status": "Post-exposure and reference-exposed exploratory measurement; image, catalogue dimensions and candidate comparison had already been inspected.",
+  "question": "Can Fr 10370's own image support a visible writing span wider than the published II.64 catalogue width of 18.5 cm?",
+  "source": "data/images/mpo-10370-capture-3-1728px.jpg",
+  "fixed_points": {
+    "ruler_marks_cm_1_and_21_x": [118, 1100],
+    "glyph_interior_x": [400, 1400],
+    "glyph_y": [375, 385],
+    "text_span_region_xywh": [380, 330, 1050, 75],
+    "ruler_region_xywh": [108, 0, 1005, 90]
+  },
+  "measurement": "Difference between interior points on the same visible line divided by horizontal ruler pixels per centimetre. It is an image-based lower bound on the apparent line span, not a full written-area measurement.",
+  "sensitivity": "Independently allow each glyph x coordinate to move up to 20 pixels inward and each ruler mark up to 4 pixels outward. These are illustrative selections, not measured error bounds; they do not account for perspective or curvature.",
+  "limitations": ["Unknown ruler and parchment plane relationship", "Nonflat parchment and optical distortion", "II.64 measurement and exact heading leaf not independently checked", "Different leaves in a composite book may have different dimensions", "No independent reader or metrology"]
+}

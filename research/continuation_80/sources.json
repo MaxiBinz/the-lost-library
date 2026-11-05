@@ -1,0 +1,10 @@
+{
+  "date":"2026-11-02",
+  "sources":[
+    {"id":"fr10437", "path":"research/continuation_54/captures.json", "locator":"capture 1, Hec est domus domini", "scope":"Retained source photograph, manually selected noteheads; no independent transcription."},
+    {"id":"fr8066", "path":"research/continuation_44/captures.json", "locator":"capture 3, Hec est domus domini", "scope":"Retained source photograph, manually selected noteheads; no independent transcription."},
+    {"id":"klosterneuburg-1012", "url":"https://cantusdatabase.org/chant/285848/", "locator":"f.77r, antiphon 002998", "scope":"Previously search-indexed complete note transcription; no manuscript image viewed. The index gives a downward do-mi contour."},
+    {"id":"paris-latin12044", "url":"https://cantusdatabase.org/chant/403182", "locator":"f.209r, Sext abbreviated antiphon 002998", "scope":"Search-indexed transcription f-d over do-mi of domini; source original not viewed. Service and exact pitch are not imported into Swedish readings."}
+  ],
+  "network_scope":"No image or PDF downloaded. Search traffic unmeasured within existing reserve; no upload or external contact."
+}

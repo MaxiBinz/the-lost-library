@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-23",
+  "dependencies": {
+    "cv2": false,
+    "skimage": false,
+    "scipy": false,
+    "numpy": true,
+    "PIL": true
+  },
+  "fixed_before_execution": true,
+  "pairs": [
+    {
+      "id": "capture1_2",
+      "role": "candidate partial views of one surface",
+      "left": [
+        1,
+        [
+          234,
+          1290,
+          1179,
+          127
+        ]
+      ],
+      "right": [
+        2,
+        [
+          232,
+          25,
+          1163,
+          100
+        ]
+      ],
+      "roi_origin": "Both ROIs copied from existing V-10370-overlap-upper/lower annotations."
+    },
+    {
+      "id": "capture3_4",
+      "role": "candidate partial views of one surface",
+      "left": [
+        3,
+        [
+          300,
+          1040,
+          1180,
+          193
+        ]
+      ],
+      "right": [
+        4,
+        [
+          300,
+          0,
+          1180,
+          190
+        ]
+      ],
+      "roi_origin": "Right ROI is existing V-10370-no-seam-34 annotation; left is the native bottom193px band at the same writing-area x range, fixed before correlation."
+    },
+    {
+      "id": "capture2_3_control",
+      "role": "different-surface text-boundary control",
+      "left": [
+        2,
+        [
+          650,
+          490,
+          740,
+          115
+        ]
+      ],
+      "right": [
+        3,
+        [
+          345,
+          330,
+          1155,
+          85
+        ]
+      ],
+      "roi_origin": "Exact existing I20-10370 verse-prefix/suffix text ROIs, not shared pixels by the source presentation."
+    }
+  ],
+  "signal": "Binary dark ink where max(R,G,B)<125. Red ruling and pale parchment do not count as ink.",
+  "transforms": "Translation only; dx=-50..50px; no fitted scale, rotation, affine or perspective search.",
+  "overlap_gate": "At least80% of shorter band height and90% of shorter band width.",
+  "candidate_screen": "Pearson correlation>=0.8 would trigger visual review, not automatically prove same surface.",
+  "positive_evidence_requirement": "A positive overlap claim additionally needs distributed distinctive non-ruler/non-staff photographic correspondences, residuals and visual point overlay. This limited correlation does not supply those.",
+  "no_tuning_or_retry": "ROIs, threshold and transforms are not adjusted after seeing outcomes."
+}

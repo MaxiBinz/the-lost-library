@@ -1,0 +1,146 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-30",
+  "annotations": [
+    {
+      "id": "I49-8304-rubric",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "An actual Catherine/service heading precedes the opening chant. This supports the8304 side of the published office-opening premise; it supplies no second local opening on8201. Reference-exposed reading; saint and feriales are visible; bracketed abbreviation expansions remain editorial.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8304-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=330,270,260,125"
+        }
+      },
+      "fragment_id": "mpo-8304",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00004/full/1000,/0/default.jpg",
+      "sha256": "819f3dd18443e352d4162249aae929ff4b34fcc6cc1913e79dff267d11550529",
+      "image_dimensions": [
+        1000,
+        697
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "De s[an]c[t]a kathe / rina sup[er] ps / feriales",
+      "normalized_candidate": "De sancta Katherina super psalmos feriales",
+      "observer": "Codex AI-assisted source recheck; reference exposed, no independent expert endorsement",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "All eight retained photographs were inspected, but they are multiple views of two fragments, not eight leaves or independent witnesses.",
+        "No original-object review, complete diplomatic/chant transcription, full medieval-side map, repeated-office/composite adjudication, new exclusion or novelty clearance.",
+        "The local visibility limit is not a refutation of the published rejection or evidence that a second beginning does not exist on the missing20106 source."
+      ]
+    },
+    {
+      "id": "I49-8304-opening",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The large blue I starts the surviving Catherine opening text. The rubric and this incipit are one local context, not independent witnesses. Reference-exposed candidate transcription; spelling normalization is editorial and no exact external chant ID is assigned.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8304-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=205,310,660,155"
+        }
+      },
+      "fragment_id": "mpo-8304",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00004/full/1000,/0/default.jpg",
+      "sha256": "819f3dd18443e352d4162249aae929ff4b34fcc6cc1913e79dff267d11550529",
+      "image_dimensions": [
+        1000,
+        697
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Inclita sancte uirginis / katherine sollempnitas [...]",
+      "normalized_candidate": "Inclita sanctae virginis Katherinae solemnitas",
+      "observer": "Codex AI-assisted source recheck; reference exposed, no independent expert endorsement",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "All eight retained photographs were inspected, but they are multiple views of two fragments, not eight leaves or independent witnesses.",
+        "No original-object review, complete diplomatic/chant transcription, full medieval-side map, repeated-office/composite adjudication, new exclusion or novelty clearance.",
+        "The local visibility limit is not a refutation of the published rejection or evidence that a second beginning does not exist on the missing20106 source."
+      ]
+    },
+    {
+      "id": "I49-8201-nocturn",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "This is a later local nocturn/service cue, not a complete Catherine office-opening rubric. It does not directly duplicate the8304 opening. A nocturn heading is visible; numeral and abbreviation are qualified rather than supplied from the publication.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8201-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=775,310,135,105"
+        }
+      },
+      "fragment_id": "mpo-8201",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00003/full/1000,/0/default.jpg",
+      "sha256": "eb0562501eedbe869c4d62807f631590d9fd38bd9aa872cb3a3a4a432d41b7ae",
+      "image_dimensions": [
+        1000,
+        694
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "In / [ii?] / noct[...]",
+      "normalized_candidate": null,
+      "observer": "Codex AI-assisted source recheck; reference exposed, no independent expert endorsement",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "All eight retained photographs were inspected, but they are multiple views of two fragments, not eight leaves or independent witnesses.",
+        "No original-object review, complete diplomatic/chant transcription, full medieval-side map, repeated-office/composite adjudication, new exclusion or novelty clearance.",
+        "The local visibility limit is not a refutation of the published rejection or evidence that a second beginning does not exist on the missing20106 source."
+      ]
+    },
+    {
+      "id": "I49-8201-continuation",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The visible8201 text supports the second half of the published20106/8201 phrase continuation. It neither supplies the20106 opening nor independently verifies physical adjacency. Reference-exposed candidate reading of the surviving continuation; the Fr20106 half is not locally imaged.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8201.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=145,145,505,65"
+        }
+      },
+      "fragment_id": "mpo-8201",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00001/full/800,/0/default.jpg",
+      "sha256": "56563522480cdb0e6b62d52b159a40d92013ed368a5ec2c0cbfad8ec39614530",
+      "image_dimensions": [
+        800,
+        538
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "pulchrior sponso sup[er]no placuit",
+      "normalized_candidate": "pulchrior sponso superno placuit",
+      "observer": "Codex AI-assisted source recheck; reference exposed, no independent expert endorsement",
+      "independent_confirmation": false,
+      "interpretation_limits": [
+        "All eight retained photographs were inspected, but they are multiple views of two fragments, not eight leaves or independent witnesses.",
+        "No original-object review, complete diplomatic/chant transcription, full medieval-side map, repeated-office/composite adjudication, new exclusion or novelty clearance.",
+        "The local visibility limit is not a refutation of the published rejection or evidence that a second beginning does not exist on the missing20106 source."
+      ]
+    }
+  ]
+}

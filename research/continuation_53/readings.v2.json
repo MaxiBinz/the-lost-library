@@ -1,0 +1,368 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-30",
+  "stage": "After hymn-reference lookup; original literal candidates retained separately in v1",
+  "observer": "Codex AI; unblinded source exposure, no independent adjudication",
+  "regions": [
+    {
+      "id": "I53-10349-jesu",
+      "path": "research/continuation_50/images/Fr10349-capture-3-native.jpg",
+      "xywh": [
+        30,
+        205,
+        445,
+        310
+      ],
+      "literal": "Iesu saluator seculi / redemptis ope subueni [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A notated I-initial hymn opening is followed by redemptis ope subueni and further continuous verse text. The local literal reading is provisional; no exact complete hymn edition or distinctive shared variant is established."
+    },
+    {
+      "id": "I53-25592-jesu",
+      "path": "data/images/mpo-25592-capture-4.jpg",
+      "xywh": [
+        530,
+        185,
+        305,
+        260
+      ],
+      "literal": "Iesu redemptor seculi [...] / [...] patris altissimi [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A notated I-initial opening reads Iesu redemptor seculi, followed by an uncertain continuation and continuous verse text. It resembles10349 in subject/opening words but is not securely the same complete work or a diagnostic variant."
+    },
+    {
+      "id": "I53-25592-a-patre",
+      "path": "data/images/mpo-25592-capture-4.jpg",
+      "xywh": [
+        235,
+        265,
+        300,
+        215
+      ],
+      "literal": "A patre unigenitus [...] / [...] baptisma [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A blue A-initial notated opening is followed by continuous verse lines. This is compatible with the catalogue A patre unigenitus cue; complete text/work/service identification and book identity remain separate."
+    },
+    {
+      "id": "I53-25592-hymn-blocks",
+      "path": "data/images/mpo-25592-capture-3.jpg",
+      "xywh": [
+        430,
+        175,
+        400,
+        370
+      ],
+      "literal": null,
+      "normalized": null,
+      "display_rotation_degrees": 180,
+      "body": "Viewed upright by an exact180-degree rotation, the source has a notated hymn opening followed by continuous verse-like text in a narrow writing field. The rotation adds no source detail or original-side assignment."
+    },
+    {
+      "id": "I53-5uba-mass-rubrics",
+      "path": "data/images/fragmentarium-F-5uba.jpg",
+      "xywh": [
+        110,
+        560,
+        850,
+        740
+      ],
+      "literal": "Off. [...] Iubilate deo [...] / Secreta [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The visible Off. and Secreta rubrics occur with notated chant and a prose prayer. This supports local Mass context already described by the published Beauvais record, not a newly identified book."
+    },
+    {
+      "id": "I53-5der-viri",
+      "path": "data/images/fragmentarium-F-5der.jpg",
+      "xywh": [
+        420,
+        75,
+        245,
+        430
+      ],
+      "literal": "[...] galilei quid admiramini / aspicientes in celum [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The right-hand music field includes the Galilei/aspicientes-in-celum passage. Its published Beauvais reconstruction membership remains credited separately; a liturgical phrase is not a unique codex fingerprint."
+    },
+    {
+      "id": "I53-25173-offertory",
+      "path": "data/images/mpo-25173.jpg",
+      "xywh": [
+        435,
+        450,
+        310,
+        115
+      ],
+      "literal": "off. Exultabunt sancti [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "A red off.-like rubric precedes an Exultabunt sancti candidate opening in a broad notated field. This is a selected local genre/work cue, not a complete gradual classification or a book exclusion."
+    },
+    {
+      "id": "I53-2872-field",
+      "path": "data/images/mpo-2872.jpg",
+      "xywh": [
+        0,
+        130,
+        600,
+        810
+      ],
+      "literal": "Ecce ueniet dominus [...]",
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The preserved Advent-like passage occupies one broad music/text field. No central narrow-column gutter is visible within it. This differs from10349 copying-field design, without excluding section changes or composite volumes."
+    },
+    {
+      "id": "I53-2873-field",
+      "path": "data/images/mpo-2873.jpg",
+      "xywh": [
+        245,
+        80,
+        545,
+        830
+      ],
+      "literal": null,
+      "normalized": null,
+      "display_rotation_degrees": 0,
+      "body": "The surviving music/text uses one broad writing field, with its right extent cropped. Cropping is not treated as a narrow-column gutter or a complete original leaf/fold map."
+    }
+  ],
+  "prior_layout_regions_reused": [
+    "I50-10349-page",
+    "I50-10349-gutter",
+    "I50-2863-control",
+    "I50-2864-control"
+  ],
+  "limits": [
+    "15 retained photo views cover nine existing objects. Seven objects have only one of their source views retained in this protocol; no complete canvas or medieval-side coverage is claimed.",
+    "General two-column appearance, square notation, different feasts and different book-section genres cannot by themselves establish or exclude a historical codex.",
+    "Exact complete hymn/music correspondence, a unique address or physical join is not established. No exhaustive chant census or independent source reading is claimed.",
+    "Literal source candidates precede reference lookup; a modern catalogue/reference must not fill difficult source letters silently."
+  ],
+  "revision_note": "The v1 prose coverage count said six objects with one selected view; the fixed-source inventory actually has seven. This count is corrected here; no v1 literal candidate or coordinates are changed.",
+  "reference_assisted_recheck": [
+    {
+      "object_id": "mpo-10349",
+      "region": "I53-10349-jesu",
+      "candidate_cantus_id": "008333",
+      "reference": "https://cantusindex.org/id/008333",
+      "state": "Candidate supported by the short opening and following redemptis-ope text; compatible with the catalogue AH51/130 reference. Exact whole-hymn/melody collation and local service position remain incomplete."
+    },
+    {
+      "object_id": "mpo-25592",
+      "region": "I53-25592-jesu",
+      "candidate_cantus_id": "830177",
+      "reference": "https://cantusdatabase.org/chant/181934/",
+      "state": "Candidate supported by the redemptor/verbum-patris/lux-lucis context and a following Tu-fabricator cue. Some source words are difficult; related830179 wording exists. Exact complete local work ID, stanza order and melody remain unadjudicated."
+    }
+  ],
+  "post_lookup_literal_candidates": {
+    "I53-25592-jesu": "Iesu redemptor seculi [...] patris altissimi / Lux [...] / Tu fabricator omnium [...]"
+  },
+  "hymn_comparison": "The selected openings and continuations provisionally fit different known hymn texts rather than a diagnostic same-hymn variant. The first begins salvator/redemptis-ope, whereas the second has redemptor/verbum-patris context and the Tu-fabricator cue. This probable work mismatch defeats the proposed local textual correspondence; it does not exclude different sections in one historical volume.",
+  "prior_art_countercheck": "Cantus already indexes Tu fabricator as830177a in AachenG20 and also lists it after related830179 in Utrecht406. A selected full-text index omitting that stanza is not evidence of a novel local insertion or rarity.",
+  "object_summaries": {
+    "fragmentarium-F-5der": {
+      "columns_visible": 2,
+      "context": "Galilei/aspicientes-in-celum passage in a decorated two-field liturgical leaf; published Beauvais membership credited.",
+      "regions": [
+        "I53-5der-viri"
+      ],
+      "full_manifest_photo_coverage": false
+    },
+    "fragmentarium-F-5uba": {
+      "columns_visible": 2,
+      "context": "Off./Iubilate-deo and Secreta cues with music and prose prayer; published Beauvais Mass context credited.",
+      "regions": [
+        "I53-5uba-mass-rubrics"
+      ],
+      "full_manifest_photo_coverage": false
+    },
+    "mpo-25592": {
+      "columns_visible": 2,
+      "context": "Notated hymn openings followed by continuous stanzas; A-patre-unigenitus cue and a Jesu-redemptor/verbum-patris candidate distinct from the selected10349 hymn.",
+      "regions": [
+        "I53-25592-jesu",
+        "I53-25592-a-patre",
+        "I53-25592-hymn-blocks"
+      ],
+      "full_manifest_photo_coverage": true
+    },
+    "mpo-10349": {
+      "columns_visible": 2,
+      "context": "Two narrow fields, with notated office material, prose rubrics and an All-Saints Jesu-salvator/redemptis-ope hymn candidate.",
+      "regions": [
+        "I50-10349-page",
+        "I50-10349-gutter",
+        "I53-10349-jesu"
+      ],
+      "full_manifest_photo_coverage": true
+    },
+    "mpo-25173": {
+      "columns_visible": 1,
+      "context": "One broad notated field, with an off.-like rubric and Exultabunt-sancti candidate opening; no complete gradual inventory.",
+      "regions": [
+        "I53-25173-offertory"
+      ],
+      "full_manifest_photo_coverage": true
+    },
+    "mpo-2863": {
+      "columns_visible": 1,
+      "context": "One broad field with John-related words; previously source-described Codex434 context remains credited.",
+      "regions": [
+        "I50-2863-control"
+      ],
+      "full_manifest_photo_coverage": false
+    },
+    "mpo-2864": {
+      "columns_visible": 1,
+      "context": "One broad field with John-related words, distinct from the2863 visible text; no new continuity or physical join.",
+      "regions": [
+        "I50-2864-control"
+      ],
+      "full_manifest_photo_coverage": false
+    },
+    "mpo-2872": {
+      "columns_visible": 1,
+      "context": "One broad field with Ecce-veniet-dominus/Advent-like text; source-frame coverage is partial.",
+      "regions": [
+        "I53-2872-field"
+      ],
+      "full_manifest_photo_coverage": false
+    },
+    "mpo-2873": {
+      "columns_visible": 1,
+      "context": "One broad field with right-edge clipping and Advent-like words; no secure corresponding passage to10349.",
+      "regions": [
+        "I53-2873-field"
+      ],
+      "full_manifest_photo_coverage": false
+    }
+  },
+  "coverage": [
+    {
+      "object_id": "fragmentarium-F-5der",
+      "path": "data/images/fragmentarium-F-5der.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "fragmentarium-F-5uba",
+      "path": "data/images/fragmentarium-F-5uba.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-10349",
+      "path": "data/images/mpo-10349.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-10349",
+      "path": "research/continuation_50/images/Fr10349-capture-2-native.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-10349",
+      "path": "research/continuation_50/images/Fr10349-capture-3-native.jpg",
+      "source_capture_index": 2,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-10349",
+      "path": "research/continuation_50/images/Fr10349-capture-4-native.jpg",
+      "source_capture_index": 3,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-25173",
+      "path": "data/images/mpo-25173.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-25592",
+      "path": "data/images/mpo-25592.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-25592",
+      "path": "data/images/mpo-25592-capture-2.jpg",
+      "source_capture_index": 1,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-25592",
+      "path": "data/images/mpo-25592-capture-3.jpg",
+      "source_capture_index": 2,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-25592",
+      "path": "data/images/mpo-25592-capture-4.jpg",
+      "source_capture_index": 3,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-2863",
+      "path": "data/images/mpo-2863.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-2864",
+      "path": "data/images/mpo-2864.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-2872",
+      "path": "data/images/mpo-2872.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    },
+    {
+      "object_id": "mpo-2873",
+      "path": "data/images/mpo-2873.jpg",
+      "source_capture_index": 0,
+      "full_retained_photo_viewed": true,
+      "medieval_side": null,
+      "reading_scope": "Selected full photograph inspected; not a complete diplomatic/music transcription or original-side map."
+    }
+  ]
+}

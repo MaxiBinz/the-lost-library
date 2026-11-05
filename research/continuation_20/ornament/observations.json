@@ -1,0 +1,278 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "version": "1.0.0",
+  "annotations": [
+    {
+      "id": "C20-A-1385",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-1385",
+      "body": {
+        "type": "TextualBody",
+        "value": "Candidate A, followed by uertantur retrorsum. Pale body fields, a longitudinal red left-stem stripe, red upper/dark lower lozenges and a toothed dark left edge are visible. Small left-foot flourish. Compare the candidate A in10406, not only letters of other shapes.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385-capture-4.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=175,56,85,112"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00004/full/1000,/0/default.jpg",
+      "sha256": "b3091a8b6846d05e4e4606ff6fb71d809d8539f3681246d40247ec6914a89670",
+      "observer": "Codex AI source inspection,2026-10-23; exact model/checkpoint not exposed",
+      "verification": "Provisional AI observation; no independent expert review",
+      "interpretation_limits": [
+        "Post-review manual selection, not blind or preregistered.",
+        "Letter identity and liturgical function are candidate readings, not independent labels.",
+        "No same-book, same-hand or same-decorator inference from these features."
+      ],
+      "reading": {
+        "literal_candidate": "Auertantur retrorsum…",
+        "normalized_search_text": "",
+        "certainty": "Candidate A supported by following uertantur; provisional AI reading.",
+        "external_references": []
+      }
+    },
+    {
+      "id": "C20-A-10406",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-10406",
+      "body": {
+        "type": "TextualBody",
+        "value": "Candidate A, followed by des. Pale body fields, a longitudinal red stripe, two red lozenges and a dark toothed left contour are visible. Relative to the1385A, the right body is a more continuous curved field and the lower lozenge appears red rather than dark. Letter construction and decoration can vary within a book; no exclusion follows.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-10406-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=248,415,80,112"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1010406_00003/full/1000,/0/default.jpg",
+      "sha256": "ad15525ab9eaeb67b603ade9120886e2c5c8caecb5ebfbebef9bd478a09bfbb9",
+      "observer": "Codex AI source inspection,2026-10-23; exact model/checkpoint not exposed",
+      "verification": "Provisional AI observation; no independent expert review",
+      "interpretation_limits": [
+        "Post-review manual selection, not blind or preregistered.",
+        "Letter identity and liturgical function are candidate readings, not independent labels.",
+        "No same-book, same-hand or same-decorator inference from these features."
+      ],
+      "reading": {
+        "literal_candidate": "Ades…",
+        "normalized_search_text": "",
+        "certainty": "Candidate A supported by following des; provisional AI reading.",
+        "external_references": []
+      }
+    },
+    {
+      "id": "C20-A-4223",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-4223",
+      "body": {
+        "type": "TextualBody",
+        "value": "Candidate A with a large upper-left loop, angular dark left contours and a narrow patterned upright. No comparable long red-filled shaft or pair of interior lozenges is securely visible. The precise liturgical role is not independently established, so this is not a fully role-matched exclusion control.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-4223-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=178,96,128,180"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1004223_00003/full/1000,/0/default.jpg",
+      "sha256": "6a23f7f6a8b8a02bc935ae87d7b120be1ca4605a5bc07664ab2718af8ac8f942",
+      "observer": "Codex AI source inspection,2026-10-23; exact model/checkpoint not exposed",
+      "verification": "Provisional AI observation; no independent expert review",
+      "interpretation_limits": [
+        "Post-review manual selection, not blind or preregistered.",
+        "Letter identity and liturgical function are candidate readings, not independent labels.",
+        "No same-book, same-hand or same-decorator inference from these features."
+      ],
+      "reading": {
+        "literal_candidate": "A p[…]hetis…",
+        "normalized_search_text": "",
+        "certainty": "Candidate A from shape and following text; abbreviation expansion not secured.",
+        "external_references": []
+      }
+    },
+    {
+      "id": "C20-A-8311",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8311",
+      "body": {
+        "type": "TextualBody",
+        "value": "Candidate A has a narrow diagonal right leg, compartmented/lattice-like crossbar and long lower-left flourish. No long red-filled shaft or paired simple lozenges is securely visible. Its local rubric/chant function is unresolved; apparent difference is not a book or hand exclusion.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8311-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=676,330,78,134"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008311_00002/full/1000,/0/default.jpg",
+      "sha256": "e3b1eba2064492294fa6f75ec6087bbacedd6a636572cf6cfe2ce43e561b46c5",
+      "observer": "Codex AI source inspection,2026-10-23; exact model/checkpoint not exposed",
+      "verification": "Provisional AI observation; no independent expert review",
+      "interpretation_limits": [
+        "Post-review manual selection, not blind or preregistered.",
+        "Letter identity and liturgical function are candidate readings, not independent labels.",
+        "No same-book, same-hand or same-decorator inference from these features."
+      ],
+      "reading": {
+        "literal_candidate": "A […]",
+        "normalized_search_text": "",
+        "certainty": "Candidate A by form; complete following word not securely transcribed.",
+        "external_references": []
+      }
+    },
+    {
+      "id": "C20-R-1385",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-1385",
+      "body": {
+        "type": "TextualBody",
+        "value": "Candidate R followed by ex. Long red stem, pale body, small red/dark lozenges and toothed outer left contour. This is a same-letter comparison with the8455Reges initial, but their exact decorative/liturgical functions are not shown equivalent.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-1385-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=239,154,72,101"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1001385_00002/full/1000,/0/default.jpg",
+      "sha256": "0a3f4c6bd4b94d8616b081feebbb8e41d2460b26d3a62ecedb76218912f35f1f",
+      "observer": "Codex AI source inspection,2026-10-23; exact model/checkpoint not exposed",
+      "verification": "Provisional AI observation; no independent expert review",
+      "interpretation_limits": [
+        "Post-review manual selection, not blind or preregistered.",
+        "Letter identity and liturgical function are candidate readings, not independent labels.",
+        "No same-book, same-hand or same-decorator inference from these features."
+      ],
+      "reading": {
+        "literal_candidate": "Rex…",
+        "normalized_search_text": "",
+        "certainty": "Candidate R supported by following ex.",
+        "external_references": []
+      }
+    },
+    {
+      "id": "C20-R-8455",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8455",
+      "body": {
+        "type": "TextualBody",
+        "value": "Candidate R followed by eges has a pale narrow stem/bowl and large angular teeth on the left. A red stem filling and small lozenges are not securely visible. A red verse-like marker precedes it, so function equivalence to the1385R is unverified.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8455-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=659,305,105,120"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008455_00003/full/1000,/0/default.jpg",
+      "sha256": "d8b22f504fd2688d8b547fc01e7798d3d5294babf2b5c63c73f1afe6bcb1d4c3",
+      "observer": "Codex AI source inspection,2026-10-23; exact model/checkpoint not exposed",
+      "verification": "Provisional AI observation; no independent expert review",
+      "interpretation_limits": [
+        "Post-review manual selection, not blind or preregistered.",
+        "Letter identity and liturgical function are candidate readings, not independent labels.",
+        "No same-book, same-hand or same-decorator inference from these features."
+      ],
+      "reading": {
+        "literal_candidate": "Reges…",
+        "normalized_search_text": "",
+        "certainty": "Candidate R supported by following eges.",
+        "external_references": []
+      }
+    },
+    {
+      "id": "C20-D-8201",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8201",
+      "body": {
+        "type": "TextualBody",
+        "value": "Candidate D followed by e: broad red stem, pale right body, two dark lozenges, parallel crossbars and scalloped dark left border. This belongs to the previously published same-hand/different-book pair; the existing reference decision is not our new discovery.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8201-capture-2.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=644,98,94,105"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008201_00002/full/1000,/0/default.jpg",
+      "sha256": "b598826b6164ae737a68aba17abcdc3a51573075955aa055f52fb30921196b1a",
+      "observer": "Codex AI source inspection,2026-10-23; exact model/checkpoint not exposed",
+      "verification": "Provisional AI observation; no independent expert review",
+      "interpretation_limits": [
+        "Post-review manual selection, not blind or preregistered.",
+        "Letter identity and liturgical function are candidate readings, not independent labels.",
+        "No same-book, same-hand or same-decorator inference from these features."
+      ],
+      "reading": {
+        "literal_candidate": "De…",
+        "normalized_search_text": "",
+        "certainty": "Candidate D supported by following e; initial A misidentification during inspection was corrected.",
+        "external_references": []
+      }
+    },
+    {
+      "id": "C20-D-8304",
+      "type": "Annotation",
+      "motivation": "describing",
+      "fragment_id": "mpo-8304",
+      "body": {
+        "type": "TextualBody",
+        "value": "Candidate D followed by e repeats a red stem, pale right body, small lozenge-like internal marks, parallel crossbars and dark scalloped left border. The two D samples are an auxiliary same-letter hard-negative comparison, not a test of A-specific exclusivity or an independently established common hand.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8304-capture-3.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=365,210,81,90"
+        }
+      },
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008304_00003/full/1000,/0/default.jpg",
+      "sha256": "8e09cb844765045a79e91d4f7cc1244745f3f2f437cd16353e2784b63e0d285f",
+      "observer": "Codex AI source inspection,2026-10-23; exact model/checkpoint not exposed",
+      "verification": "Provisional AI observation; no independent expert review",
+      "interpretation_limits": [
+        "Post-review manual selection, not blind or preregistered.",
+        "Letter identity and liturgical function are candidate readings, not independent labels.",
+        "No same-book, same-hand or same-decorator inference from these features."
+      ],
+      "reading": {
+        "literal_candidate": "De…",
+        "normalized_search_text": "",
+        "certainty": "Candidate D supported by following e; not an A-specific control.",
+        "external_references": []
+      }
+    }
+  ]
+}

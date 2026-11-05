@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "continuation": "E32",
+  "date": "2026-10-25",
+  "queue_sha256": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+  "question": "Does source inspection make the Fr 8994 opening-signature lead more specific, and how diagnostic is this signature convention?",
+  "source_observation": {
+    "observation_id": "I32-8994-red-four-stroke-mark",
+    "fragment_id": "mpo-8994",
+    "source_path": "data/images/mpo-8994.jpg",
+    "source_sha256": "750440678d2312c73fb6eb7eb522ca68034583affeb60208c8fa549dc0e82517",
+    "dimensions": [600, 415],
+    "region_xywh": [250, 45, 38, 20],
+    "direct_visual_observation": "A small red upper-margin sign has four adjacent vertical strokes, consistent with the MPO catalogue's IIII transcription.",
+    "not_observed": "The image does not independently identify the historical side as recto or verso, and it does not expose a secure reading of the paired k mark."
+  },
+  "catalogue_context": {
+    "source": "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+    "record": "National Library of Finland, F.m.IV.156, official catalogue description retrieved through search indexing",
+    "finding": "The description explains opening signatures as a red small letter on the verso and a Roman numeral on the recto. It says this practice was not infrequent in late-medieval codices and early printed books and points to Antiphoners 34, 157, 170 and 173.",
+    "consequence": "The general two-part signature format is not a unique Codex 1505 fingerprint. The exact conjunction of sign, feast, text boundary and sequence remains testable."
+  },
+  "source_access": [
+    {
+      "source": "Taitto 2001, Fragmenta membranea IV:1, Antiphonaria: text, pp. 161-168",
+      "result": "The National Library digital-object route was previously tried and returned Cache miss for the requested pages (E25). The current official Finna metadata identifies a digitized publication associated with Turku, but the normal browser record displayed a Cloudflare verification page. No challenge was interacted with or bypassed; no text pages were obtained.",
+      "status": "unread"
+    },
+    {
+      "source": "Jesse Keskiaho 2019, 'En grupp handskrifter från Nådendal: nya rön,' pp. 51-67",
+      "result": "The University of Helsinki portal confirms the chapter's bibliographic details. The publisher lists the 2018 volume with 167 pages and a 150 SEK price; no open full-text copy was found in this search. No purchase was made.",
+      "status": "metadata only; chapter unread"
+    },
+    {
+      "source": "Jesse Keskiaho 2008, 'En grupp handskrifter från slutet av 1400-talet – från Nådendals scriptorium?,' pp. 318-350",
+      "result": "The University of Helsinki portal and JYKDOK confirm the peer-reviewed article's bibliographic record. The article text was not obtained in this pass.",
+      "status": "metadata only; article unread"
+    }
+  ],
+  "interpretation": {
+    "classification": "H03 remains C / unresolved",
+    "result": "The local image now supports the catalogue's four-stroke IIII observation at one region. The official IV.156 catalogue explains that the opening-signature practice is not uncommon, so the form alone is weak evidence of a specific codex. Fr 8994's Olavi content and the IV.157 folio-8 description make a narrow comparison worthwhile, but there is still no paired scan or complete text comparison.",
+    "new_attribution": false,
+    "new_physical_join": false,
+    "originality_cleared": false
+  },
+  "invariants": {
+    "hypothesis_queue_changed": false,
+    "predictors_or_thresholds_changed": false,
+    "source_images_added": 0,
+    "downloads_added": 0,
+    "expert_contact": false,
+    "public_release": false
+  },
+  "sources": [
+    "RESEARCH_CONTINUATION_31.md",
+    "RESEARCH_CONTINUATION_25.md",
+    "research/continuation_32/fr8994_signature_observation.json",
+    "https://fragmenta.kansalliskirjasto.fi/handle/10024/1299",
+    "https://fragmenta.kansalliskirjasto.fi/handle/10024/1300",
+    "https://researchportal.helsinki.fi/en/publications/en-grupp-handskrifter-fr%C3%A5n-n%C3%A5dendal-nya-r%C3%B6n/",
+    "https://researchportal.helsinki.fi/en/publications/en-grupp-handskrifter-fr%C3%A5n-slutet-av-1400-talet-fr%C3%A5n-n%C3%A5dendals-sc/",
+    "https://www.finna.fi/Record/fikka.3965551?lng=en-gb",
+    "https://www.medievalia.nu/skriftserien/scripta-maiora/"
+  ]
+}

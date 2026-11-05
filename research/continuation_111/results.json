@@ -1,0 +1,315 @@
+{
+  "date": "2026-11-04",
+  "source_sha256": {
+    "research/continuation_26/bompac/Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3",
+    "research/continuation_26/bompac/raw_metadata/MPO_BOMPAC.xlsx": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b"
+  },
+  "population": {
+    "included_mpo": 22553,
+    "matched_included": 22553,
+    "original_blank_or_NULL_combined_1_or_2": 6543,
+    "source_csv_also_blank_or_NULL": 6543,
+    "source_csv_blank": 6543
+  },
+  "matrix": [
+    {
+      "raw": "blank",
+      "combined": "blank",
+      "count": 90
+    },
+    {
+      "raw": "blank",
+      "combined": "numeric_1",
+      "count": 2323
+    },
+    {
+      "raw": "blank",
+      "combined": "numeric_2",
+      "count": 4220
+    },
+    {
+      "raw": "blank",
+      "combined": "numeric_3",
+      "count": 39
+    },
+    {
+      "raw": "blank",
+      "combined": "numeric_4",
+      "count": 82
+    },
+    {
+      "raw": "blank",
+      "combined": "numeric_5",
+      "count": 2
+    },
+    {
+      "raw": "blank",
+      "combined": "numeric_8",
+      "count": 1
+    },
+    {
+      "raw": "blank",
+      "combined": "other_nonempty",
+      "count": 115
+    },
+    {
+      "raw": "numeric_-2",
+      "combined": "numeric_1",
+      "count": 1
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "numeric_1",
+      "count": 923
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "numeric_2",
+      "count": 1815
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "numeric_3",
+      "count": 25
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "numeric_4",
+      "count": 135
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "numeric_5",
+      "count": 5
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "numeric_6",
+      "count": 2
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "numeric_7",
+      "count": 1
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "numeric_8",
+      "count": 2
+    },
+    {
+      "raw": "numeric_1",
+      "combined": "other_nonempty",
+      "count": 12
+    },
+    {
+      "raw": "numeric_10",
+      "combined": "numeric_1",
+      "count": 1
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "blank",
+      "count": 19
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_1",
+      "count": 3783
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_11",
+      "count": 1
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_2",
+      "count": 7894
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_3",
+      "count": 124
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_4",
+      "count": 134
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_5",
+      "count": 4
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_6",
+      "count": 5
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_7",
+      "count": 1
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "numeric_8",
+      "count": 4
+    },
+    {
+      "raw": "numeric_2",
+      "combined": "other_nonempty",
+      "count": 35
+    },
+    {
+      "raw": "numeric_3",
+      "combined": "numeric_1",
+      "count": 8
+    },
+    {
+      "raw": "numeric_3",
+      "combined": "numeric_2",
+      "count": 44
+    },
+    {
+      "raw": "numeric_3",
+      "combined": "numeric_4",
+      "count": 2
+    },
+    {
+      "raw": "numeric_4",
+      "combined": "numeric_1",
+      "count": 54
+    },
+    {
+      "raw": "numeric_4",
+      "combined": "numeric_2",
+      "count": 208
+    },
+    {
+      "raw": "numeric_4",
+      "combined": "numeric_3",
+      "count": 5
+    },
+    {
+      "raw": "numeric_4",
+      "combined": "numeric_4",
+      "count": 6
+    },
+    {
+      "raw": "numeric_4",
+      "combined": "other_nonempty",
+      "count": 3
+    },
+    {
+      "raw": "numeric_5",
+      "combined": "numeric_1",
+      "count": 1
+    },
+    {
+      "raw": "numeric_5",
+      "combined": "numeric_2",
+      "count": 4
+    },
+    {
+      "raw": "numeric_6",
+      "combined": "numeric_1",
+      "count": 2
+    },
+    {
+      "raw": "numeric_6",
+      "combined": "numeric_2",
+      "count": 6
+    },
+    {
+      "raw": "other_nonempty",
+      "combined": "blank",
+      "count": 2
+    },
+    {
+      "raw": "other_nonempty",
+      "combined": "numeric_1",
+      "count": 243
+    },
+    {
+      "raw": "other_nonempty",
+      "combined": "numeric_2",
+      "count": 134
+    },
+    {
+      "raw": "other_nonempty",
+      "combined": "numeric_3",
+      "count": 2
+    },
+    {
+      "raw": "other_nonempty",
+      "combined": "numeric_4",
+      "count": 2
+    },
+    {
+      "raw": "other_nonempty",
+      "combined": "other_nonempty",
+      "count": 29
+    }
+  ],
+  "examples": [
+    {
+      "fragment": "Fr 52",
+      "raw_row": 54,
+      "raw_cell": "EI54",
+      "raw_value": null,
+      "combined_row": 54,
+      "combined_cell": "AS54",
+      "combined_value": 2,
+      "leaves": 2,
+      "leaves_cell": "H54"
+    },
+    {
+      "fragment": "Fr 101",
+      "raw_row": 103,
+      "raw_cell": "EI103",
+      "raw_value": null,
+      "combined_row": 103,
+      "combined_cell": "AS103",
+      "combined_value": 2,
+      "leaves": 2,
+      "leaves_cell": "H103"
+    },
+    {
+      "fragment": "Fr 187",
+      "raw_row": 189,
+      "raw_cell": "EI189",
+      "raw_value": null,
+      "combined_row": 189,
+      "combined_cell": "AS189",
+      "combined_value": 1,
+      "leaves": 1,
+      "leaves_cell": "H189"
+    },
+    {
+      "fragment": "Fr 237",
+      "raw_row": 239,
+      "raw_cell": "EI239",
+      "raw_value": null,
+      "combined_row": 239,
+      "combined_cell": "AS239",
+      "combined_value": 2,
+      "leaves": 2,
+      "leaves_cell": "H239"
+    },
+    {
+      "fragment": "Fr 239",
+      "raw_row": 241,
+      "raw_cell": "EI241",
+      "raw_value": null,
+      "combined_row": 241,
+      "combined_cell": "AS241",
+      "combined_value": 1,
+      "leaves": 1,
+      "leaves_cell": "H241"
+    }
+  ],
+  "limits": "Related source datasets; blank/NULL is a field state, not an independent judgment of the fragment. Numeric combined fields may have another source; provenance and intent remain unverified. No historical layout or root cause established."
+}

@@ -1,0 +1,94 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-28",
+  "comparisons": [
+    {
+      "pair": [
+        1,
+        2
+      ],
+      "role": "proposed",
+      "visible_row_sum": 11,
+      "text_outcome": "provisional_split_word_fit",
+      "reason": "Terminal N[o?] plus upper uo rerum is consistent with Novo rerum. The small o and damaged surrounding text remain uncertain.",
+      "physical_adjacency_established": false,
+      "complete_surface_map_established": false
+    },
+    {
+      "pair": [
+        3,
+        4
+      ],
+      "role": "proposed",
+      "visible_row_sum": 11,
+      "text_outcome": "locally_supported_phrase_fit",
+      "reason": "Terminal et adversus continues into xpistum eius, provisionally expanded Christum eius. This is a common verse phrase, not a unique manuscript fingerprint.",
+      "physical_adjacency_established": false,
+      "complete_surface_map_established": false
+    },
+    {
+      "pair": [
+        1,
+        4
+      ],
+      "role": "deliberately_mismatched",
+      "visible_row_sum": 11,
+      "text_outcome": "no_direct_boundary_fit_identified",
+      "reason": "N[o?] followed by Christum eius does not give the proposed Novo split-word continuation. This does not exclude a hidden gap or a different nonadjacent relation.",
+      "physical_adjacency_established": false,
+      "complete_surface_map_established": false
+    },
+    {
+      "pair": [
+        3,
+        2
+      ],
+      "role": "deliberately_mismatched",
+      "visible_row_sum": 11,
+      "text_outcome": "no_direct_boundary_fit_identified",
+      "reason": "Adversus followed by uo rerum does not supply the verse continuation Christum eius. This does not establish different books or surfaces.",
+      "physical_adjacency_established": false,
+      "complete_surface_map_established": false
+    }
+  ],
+  "question": "Can exact text boundaries and visible row coverage distinguish the proposed Fr8994 capture groupings 1/2 and 3/4 from deliberately mismatched 1/4 and 3/2?",
+  "row_count_result": "Visible text-row counts are 6,5,6,5. All four predeclared pairings sum to11. Agreement with the inherited #11 field cannot select the proposed pairing.",
+  "text_result": "Two more exact local boundary checks sharpen E34 reading order: N[o?]+uo rerum is a provisional Novo split-word fit; et adversus+xpistum eius gives a clearer verse continuation. Neither deliberately mismatched pairing supplies these direct joins in the selected visible text.",
+  "within_photo_controls": [
+    "Capture2 upper uer- plus next-row bi is consistent with verbi.",
+    "Capture4 Egre- plus next-row gius is consistent with Egregius. These are word-division controls within a photograph, not independent codex evidence."
+  ],
+  "new_regions": [
+    "I42-8994-c1-last-two",
+    "I42-8994-c2-second-row",
+    "I42-8994-c3-last-two",
+    "I42-8994-c4-first-row"
+  ],
+  "reused_regions": [
+    "I34-8994-novo",
+    "I40-8994-nocte"
+  ],
+  "e35_screens_unchanged": true,
+  "accepted_photographic_overlap": false,
+  "physical_adjacency_established": false,
+  "complete_surface_map_established": false,
+  "physical_join_established": false,
+  "new_codex_attribution": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false,
+  "new_download_bytes_retained": 0,
+  "scope": "Local exploratory textual fit and a failed discriminating row-count test; no complete diplomatic transcription, melody, physical surface or medieval recto/verso assignment.",
+  "next_action": "Audit the complete bounded ten-case queue and limited pivot for remaining executable discriminating tests; distinguish these from repetitions and claim-specific inaccessible originals. Do not repeat this row-count screen or refit the failed features for promotion.",
+  "unchanged_inputs": {
+    "research/continuation_35/protocol.json": "6228d18d435184112ea5985c76cfe6ad3f647100a5f9406b966a883d776e0460",
+    "research/continuation_35/feature_results.json": "ab4ae398c29305a95f4b661df7d864c1a3814c2520e335043184d2a8d54de69f",
+    "research/continuation_35/results.json": "b0f10fbed9631fd99b1402c0d0f48763d6afa03b0779a8ca8c9a035e003cde22",
+    "data/fragments.json": "eb85c5e64fcd296f931cceb95050f0c36ff1f2e1cf0a9ba874827477c4c867ed",
+    "research/mpo.csv": "f5d2825703be19fd1994bc0b91724c32c67c36535622d5554c37b4029592d00b",
+    "data/hypotheses.v1.json": "b3e299a7c600584ce44518db1f5c30c3301edae0a07a8b009075498f64ccec47",
+    "data/hypothesis_reviews.v1.json": "a407596de4998f9d4f5c11f353c1e77b561fb5fb64bee9d597d87220fcd30de7",
+    "data/matches.json": "43d4d428532b9bbc62590eaa44442dca7ad024cd107f56fbd6135616802f3041",
+    "data/validation.json": "b48a25561f389b04386096f51f5c8786701810ccd7067a1b082c1e5b33056618",
+    "data/features.json": "e6248782e7b83c7c8afe0b60ed1ee2c7f74560d3579823ca3e1aacb43c7e6e09"
+  }
+}

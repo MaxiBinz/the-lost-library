@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "previous_goal_turn": "Progress: E39 retained a bounded musical reading with unresolved events, read additional six-witness prior art, verified source provenance and preserved all frozen/core data.",
+  "question": "Can the actual beginning/end words of Fr8994 sharpen its relationship to IV156 ff9–11 and IV157 f8/ff9–10 without assuming the missing scans or a complete side map?",
+  "access_revalidation": "Fr20278 has no image/manifest pointer in the pinned MPO record. Exact-number searches are noisy and bounded primary-domain search yielded no usable image. Previously challenged Finnish routes are not retried; source availability remains a particular dependency.",
+  "prior_exposure": "All four Fr8994 photographs and several incipits have been seen in E33–E35. The indexed IV156/157 range descriptions have also been seen; this is exploratory, literature-assisted, not blind or preregistered.",
+  "predictions": [
+    "An exact text boundary immediately before the IV156 ut laborum opening could support a conditional adjacency/placement test, distinct from an already published generic Codex1505 association.",
+    "If Fr8994 already includes the catalogue-defined Finnish starting text, the relationship is textual overlap rather than demonstrated adjacency. Same chant in two books remains possible.",
+    "Correspondence to IV157 Egregius conflicts with a unique same-address placement only if address, section, text description and side/capture mapping are independently correct.",
+    "Missing source edges, ambiguous words or unresolved side mapping prevent a physical seam or unconditional inclusion/exclusion."
+  ],
+  "tests": [
+    "Read the original Fr8994 capture4 lower extent and the capture1 upper extent, preserving literal words and visible edges before a full-text concordance lookup.",
+    "Retain all attempted terminal/boundary readings, including uncertainty; compare exact words and line coverage with both indexed Finnish descriptions.",
+    "Keep catalogue text/OCR, local source readings, modern concordance and new interpretation separate. Do not promote common office text, number format or inherited BOMPAC labels to independent same-book proof.",
+    "Inspect any usable new exact Fr20278 public record only via ordinary access; stop at restrictions and do not invent an image endpoint."
+  ],
+  "resources": "Existing manuscript captures; no unapproved external action, new target family, bulk acquisition, retuning or frozen-data mutation."
+}

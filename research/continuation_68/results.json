@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "prior_exposure": "All matched names, year and location were seen before the results were recorded; this is exploratory and not a blind test.",
+  "observation": "The Academy catalogue identifies the cited Szilágyi article in volume 10 (1850), pp. 234–258, and a biographical source places him at the Máramarossziget Reformed gymnasium at that time.",
+  "interpretation": "The institutional biographical context is consistent with, but does not prove, a connection to the Lyceum that historically deposited the 1399 no. 167 breviary. Academy catalogue and index favor 1850 as the cited volume date, leaving the reason for the 1861 almanac's 1851 listing unresolved.",
+  "limits": "The original Szilágyi article and medieval manuscript remain unread. Neither the book crosswalk, direct author access, current holding, common legal identity of school names, nor historical source independence is established. No link to Fr 8201 or Fr 20106 follows.",
+  "next_test": "Find a different legitimate accessible copy of Szilágyi 1850 pp. 240 onward and compare any colophon and ownership details with the historical no. 167 description; seek an institutional cross-reference and the original Catherine passage. Separately locate Fr 20106 and independently verify Fr 8201.",
+  "szilagyi_article_read": false,
+  "same_hungarian_book_proved": false,
+  "original_inspected": false,
+  "current_holding_verified": false,
+  "historical_same_codex_proved": false,
+  "new_historical_discovery": false,
+  "independent_confirmation": false,
+  "new_source_images": 0,
+  "new_download_bytes": 0
+}

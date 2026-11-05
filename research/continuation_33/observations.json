@@ -1,0 +1,187 @@
+{
+  "version": "1.0.0",
+  "assessment_date": "2026-10-25",
+  "scope": "E33 overlay; preserves observations.v9 and the frozen ten-case reviews",
+  "annotations": [
+    {
+      "id": "I33-8994-roman",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red four-stroke upper-margin sign, consistent with the catalogue's IIII transcription.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-1-1802px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=735,130,140,75"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/1802,/0/default.jpg",
+      "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+      "image_dimensions": [
+        1802,
+        1246
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "IIII",
+      "normalized_candidate": "IIII",
+      "observer": "Codex AI source-image inspection, 2026-10-25",
+      "evidence_kind": "image observation",
+      "verification": "Exploratory manual AI reading of the original JPEG and an unaltered pixel crop; no independent reader or expert adjudication",
+      "interpretation_limits": [
+        "Capture ordinal does not establish medieval side or complete leaf order.",
+        "A chant identification or opening-signature form is not a unique codex fingerprint.",
+        "The Finnish comparator is an indexed catalogue assertion; its manuscript images remain uninspected."
+      ]
+    },
+    {
+      "id": "I33-8994-k",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red alphabetic upper-margin sign with a tall stem and right-hand strokes, provisionally read as k. This is a different capture from the numeral-bearing photograph.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-3-1793px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=890,110,110,95"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00003/full/1793,/0/default.jpg",
+      "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+      "image_dimensions": [
+        1793,
+        1237
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "k",
+      "normalized_candidate": "k",
+      "observer": "Codex AI source-image inspection, 2026-10-25",
+      "evidence_kind": "image observation",
+      "verification": "Exploratory manual AI reading of the original JPEG and an unaltered pixel crop; no independent reader or expert adjudication",
+      "interpretation_limits": [
+        "Capture ordinal does not establish medieval side or complete leaf order.",
+        "A chant identification or opening-signature form is not a unique codex fingerprint.",
+        "The Finnish comparator is an indexed catalogue assertion; its manuscript images remain uninspected."
+      ]
+    },
+    {
+      "id": "I33-8994-third-nocturn",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A red In .iij°. rubric is followed by an abbreviated N-like word and antiphon cue. The black-text incipit reads Nec propria salute contentus. The rubric is provisionally expanded as In tertio nocturno; the expansion is interpretive, while the numeral and incipit are visible.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-1-1802px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=610,710,880,400"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00001/full/1802,/0/default.jpg",
+      "sha256": "4c199d378c64a26fbcf6ec34c37124fb6e6cc198e3301b0497ce5ab3a8fe51ba",
+      "image_dimensions": [
+        1802,
+        1246
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "In .iij°. / N[abbreviation] / ant[abbreviation]; Nec propria salute contentus",
+      "normalized_candidate": "In tertio nocturno; Nec propria salute contentus",
+      "observer": "Codex AI source-image inspection, 2026-10-25",
+      "evidence_kind": "image observation",
+      "verification": "Exploratory manual AI reading of the original JPEG and an unaltered pixel crop; no independent reader or expert adjudication",
+      "interpretation_limits": [
+        "Capture ordinal does not establish medieval side or complete leaf order.",
+        "A chant identification or opening-signature form is not a unique codex fingerprint.",
+        "The Finnish comparator is an indexed catalogue assertion; its manuscript images remain uninspected."
+      ]
+    },
+    {
+      "id": "I33-8994-devenerat",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A decorated initial and following text provisionally read Deuenerat martir. The reading identifies a chant incipit, not an exclusive textual variant.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-3-1793px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1000,210,590,220"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00003/full/1793,/0/default.jpg",
+      "sha256": "088e065d265c2ed51543ea21e18c68064ff5eeab51b9483d22f3daca2c6e50ef",
+      "image_dimensions": [
+        1793,
+        1237
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Deuene rat martir",
+      "normalized_candidate": "Devenerat martyr",
+      "observer": "Codex AI source-image inspection, 2026-10-25",
+      "evidence_kind": "image observation",
+      "verification": "Exploratory manual AI reading of the original JPEG and an unaltered pixel crop; no independent reader or expert adjudication",
+      "interpretation_limits": [
+        "Capture ordinal does not establish medieval side or complete leaf order.",
+        "A chant identification or opening-signature form is not a unique codex fingerprint.",
+        "The Finnish comparator is an indexed catalogue assertion; its manuscript images remain uninspected."
+      ]
+    },
+    {
+      "id": "I33-8994-egregius",
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The upper region has a responsory marker, Egre at the end of a line, and gius mar / tir olauus on the following lines. The candidate incipit is Egregius martyr Olavus; abbreviations and letter variants have not been exhaustively transcribed.",
+        "language": "en"
+      },
+      "target": {
+        "source": "data/images/mpo-8994-capture-4-1808px.jpg",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=360,0,1170,320"
+        }
+      },
+      "fragment_id": "mpo-8994",
+      "source_url": "https://lbiiif.riksarkivet.se/v3/arkis!R1008994_00004/full/1808,/0/default.jpg",
+      "sha256": "529b848293b865e10a450ec4000b46f9a365d00bc7b5da6e3474ea535c88c26a",
+      "image_dimensions": [
+        1808,
+        1147
+      ],
+      "rights_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "literal_candidate": "Egre / gius mar / tir olauus",
+      "normalized_candidate": "Egregius martyr Olavus",
+      "observer": "Codex AI source-image inspection, 2026-10-25",
+      "evidence_kind": "image observation",
+      "verification": "Exploratory manual AI reading of the original JPEG and an unaltered pixel crop; no independent reader or expert adjudication",
+      "interpretation_limits": [
+        "Capture ordinal does not establish medieval side or complete leaf order.",
+        "A chant identification or opening-signature form is not a unique codex fingerprint.",
+        "The Finnish comparator is an indexed catalogue assertion; its manuscript images remain uninspected."
+      ]
+    }
+  ]
+}

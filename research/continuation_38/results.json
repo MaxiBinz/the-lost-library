@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "question": "Does actual C23 replacement 69r support the selected Fr 20274 ending?",
+  "decision": "supported",
+  "scope": "Direct selected-text agreement between two different witnesses, not a book attribution",
+  "new_result": "The explicitly labelled C23 69r original contains O Maria stans sub cruce and the shorter nobis vite spem porrexit / presidens in gloria / Fac nos Virgo ending. Its cum and feruere readings agree with the provisional target readings. This resolves the specific missing-page dependency recorded in E37.",
+  "observations": [
+    "I38-C23-69r-incipit",
+    "I38-C23-69r-ending-a",
+    "I38-C23-69r-ending-b"
+  ],
+  "target_regions": [
+    "I37-20274-ending-1",
+    "I37-20274-ending-2",
+    "I37-20274-ending-3"
+  ],
+  "access": {
+    "record_url": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:160517",
+    "original_url": "https://www.alvin-portal.org/alvin/attachment/download/alvin-record:160517/ATTACHMENT-0139.tiff",
+    "folio_label": "Folio 69r",
+    "selection": "Explicit named thumbnail and resulting viewer label, not attachment arithmetic",
+    "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "bytes_received": 24826245,
+    "receipt": "research/continuation_38/download_receipt.json"
+  },
+  "falsification_result": "The directly observed replacement ending agrees with the target at the selected lexical level and differs from the older C23 71v ending retained in E37. No distinctive shared error or unique branch marker is established.",
+  "music_test": {
+    "state": "unperformed",
+    "observation": "Both sources retain notation over the passage; layout and line breaks differ.",
+    "remaining_work": "Read the clefs and each underlaid note independently, retaining ambiguity, before comparing pitches or contours. No similarity score or visual likeness is substituted for transcription.",
+    "melodic_identity_established": false
+  },
+  "prior_art": "Urberg 2016 and Hallqvist 2020 already describe/print the two versions; this check does not establish first notice of the fragment passage.",
+  "limits": [
+    "Exploratory literature-assisted AI source reading, not independent expert confirmation.",
+    "The target incipit is missing; the comparator incipit does not become a literal target reading.",
+    "Agreement with an already published standard version does not identify the parent codex, date, place, common exemplar or copying direction.",
+    "The entire target office is not captured; mixed textual states remain possible.",
+    "C435 originals and Finnish attribution tests remain unresolved.",
+    "The seven frozen ambiguous attribution cases remain unresolved."
+  ],
+  "next_test": "Complete a bounded source-based clef/pitch transcription of the shared ending and record disagreements. Continue the Finnish signature/full-text attribution test independently; do not revisit the challenged C435 search.",
+  "working_source_files": 179,
+  "conservative_download_plan_bytes": 1665678026,
+  "whole_office_recension_established": false,
+  "new_codex_attribution": false,
+  "novelty_cleared": false,
+  "independent_confirmation": false
+}

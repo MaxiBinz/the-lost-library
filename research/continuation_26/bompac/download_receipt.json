@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-24",
+  "source": "Official Zenodo records 17511106 and 17701360; five deposited files fetched and checked against their published MD5 values.",
+  "license": "CC BY 4.0 as recorded in Zenodo metadata",
+  "files": {
+    "combined_workbook": {
+      "published_md5": "ae9572cd4df5e5bccc241e8423ddf0c1",
+      "doi": "10.5281/zenodo.17511106",
+      "filename": "Stockholm-Helsinki-Frs-Combined-BOMPAC.xlsx",
+      "bytes": 8219923,
+      "md5": "ae9572cd4df5e5bccc241e8423ddf0c1",
+      "sha256": "b6c13ca276372492927020ccdb1edf607b76028066f815c5cf426121238398c3"
+    },
+    "combined_readme": {
+      "published_md5": "277c9e39fa987139607f76ed2f3168e6",
+      "doi": "10.5281/zenodo.17511106",
+      "filename": "Readme-Sto-Hel-Frs-Combined-BOMPAC.pdf",
+      "bytes": 354385,
+      "md5": "277c9e39fa987139607f76ed2f3168e6",
+      "sha256": "d393b46426122666acdb5b2d9fe59a1ddcedbcc062f4b9294d461b8540c98d12"
+    },
+    "raw_mpo_workbook": {
+      "published_md5": "6aaea1e3ba1a60355dfb6c649fc7baff",
+      "doi": "10.5281/zenodo.17701360",
+      "filename": "MPO_BOMPAC.xlsx",
+      "bytes": 12303416,
+      "md5": "6aaea1e3ba1a60355dfb6c649fc7baff",
+      "sha256": "7f2e75d15b5b0f162108c1118dbfd8af4b9919602cda41852e67baafeb510bd9"
+    },
+    "raw_readme": {
+      "published_md5": "cbde32835ab0acc379117354cdf06c4b",
+      "doi": "10.5281/zenodo.17701360",
+      "filename": "Readme-Raw-Metadata-BOMPAC.pdf",
+      "bytes": 376495,
+      "md5": "cbde32835ab0acc379117354cdf06c4b",
+      "sha256": "787f89736e6ac58f0a860b2c02bc4b62b06b313a3d33041c79082b03d6732092"
+    },
+    "kaasik_commentary": {
+      "published_md5": "38cd079e03c0030cbccfefe5dd2436a5",
+      "doi": "10.5281/zenodo.17701360",
+      "filename": "MPO_commentary_Holger_Kaasik.pdf",
+      "bytes": 671637,
+      "md5": "38cd079e03c0030cbccfefe5dd2436a5",
+      "sha256": "455f9b0444f758d81480c4e1868e31c21e0274a57665f4ab96c54cef0019e5de"
+    }
+  },
+  "downloaded_bytes": 21925856,
+  "working_source_image_files_added": 0
+}

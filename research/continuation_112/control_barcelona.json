@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-05",
+  "question": "Does the apparent Magdalene-to-James sequence on Fr 10406 uniquely identify that manuscript?",
+  "selection": "Exploratory; selected after seeing the Swedish source, E93/E112 and indexed comparators. Not a blind or representative survey.",
+  "target": {
+    "source": "data/images/mpo-10406.jpg",
+    "sha256": "2971a65c6edb7ab12665de7a3408dc8ae005b204c968cc6fbcdf5f5dcc0a6cec",
+    "tail_selector": "research/continuation_93/observations.json#I93-10406-tail",
+    "james_selector": "research/continuation_112/observations.json#I112-10406-iacobi",
+    "reported": "The photograph begins within a Magdalene text, followed by provisional O beate Iacobe and O lux et decus. The first chant's incipit is absent, so its exact identity remains unproved. All readings are reference-exposed and not independently reviewed."
+  },
+  "comparator": {
+    "source": "Barcelona, Biblioteca de Catalunya, Ms. 2322",
+    "url": "https://musicahispanica.eu/source/20244?antibot_key=&page=9&sort_by=title&sort_order=ASC",
+    "access": "Previously failed direct web-reader open not repeated. The search index returned the source-specific folio inventory excerpt for 095v; original images and full transcription not inspected.",
+    "folio": "095v",
+    "indexed_sequence": [
+      {"sequence": 7, "incipit": "In diebus illis mulier quae erat", "feast": "Mariae Magdalenae", "id": "003224"},
+      {"sequence": 8, "incipit": "O beate Jacobe omnium corde ore", "feast": "Jacobi", "id": "a00243"},
+      {"sequence": 9, "incipit": "O lux et decus Hispaniae", "feast": "Jacobi", "id": "a00193"}
+    ],
+    "scope": "Consecutive entries in an indexed inventory; this does not guarantee that all rubrics, cues or intervening details were fully indexed, and the original source was not checked."
+  },
+  "conclusion": "If the Swedish first chant is 003224, a separate indexed manuscript has the same three-work order. This weakens uniqueness as an identity argument. It does not establish the Swedish first chant, an immediate physical join, shared manuscript, exact wording or melody, or any new historical attribution.",
+  "independent_review": false,
+  "new_attribution": false,
+  "finnish_leaf_inspected": false
+}
