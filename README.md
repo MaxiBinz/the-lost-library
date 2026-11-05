@@ -12,9 +12,9 @@ The Lost Library is an independent, AI-assisted research project exploring medie
 
 ## The mission
 
-This was a deliberately ambitious AI research project: use computation to uncover a connection in historical material that a human could then inspect, challenge and verify. It was inspired by work applying AI and remote sensing to the search for lost archaeological sites, including the [OpenAI to Z Challenge](https://openai.com/openai-to-z-challenge/). That challenge sought possible sites for investigation; it did not make every proposed location a confirmed discovery.
+This was a deliberately ambitious AI research project: use computation to uncover a connection in historical material that a human could then inspect, challenge and verify.
 
-We applied that spirit to a different kind of lost place: a library dispersed into fragments. The stretch goal was a defensible new connection between pages of a medieval manuscript. We did not reach that goal. We retain the evidence, controls and negative results so that the work can be inspected and extended without turning a plausible match into a false discovery.
+The focus was a library dispersed into fragments. The stretch goal was a defensible new connection between pages of a medieval manuscript. We did not reach that goal. We retain the evidence, controls and negative results so that the work can be inspected and extended without turning a plausible match into a false discovery.
 
 ## Explore the project
 
